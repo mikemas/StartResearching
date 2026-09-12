@@ -5,293 +5,46 @@ description: "8 January 2023, by Sherri Mastrangelo In a recent episode of Findi
 canonicalUrl: "https://www.startresearching.com/blog/are-you-a-descendant-of-pocahontas-here-are-the-sources-you-need-to-find-out"
 
 ---
-
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1672963213865" id="item-63b763deae4f1e4618bbfd8b"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-c75cc1f0103cd94eb28d"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>8 January 2023, by Sherri Mastrangelo</strong></span></p><p class="" style="white-space:pre-wrap;">In a recent episode of <em>Finding Your Roots</em> on PBS, actor Edward Norton (<em>Glass Onion, Fight Club) </em>discovered his family lore was true: his 12th great-grandmother was in fact Pocahontas.  </p><p class="" style="white-space:pre-wrap;">Inspired by this episode, I’m sharing what you need to know, <strong>along with the sources you’ll need</strong>, to discover your possible connection to the Native American icon. Though she only had one confirmed child, it’s estimated that more than 100,000 people are descended from her - are you one of them?</p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1672962979041_59613"><div class="sqs-block-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-    
-  
-    <div
-        class="
-          image-block-outer-wrapper
-          layout-caption-below
-          design-layout-inline
-          combination-animation-none
-          individual-animation-none
-          individual-text-animation-none
-        "
-        data-test="image-block-inline-outer-wrapper"
-        data-sqsp-image-classic-block-layout="inline"
-    >
-
-      
-
-      
-        <figure
-            class="
-              sqs-block-image-figure
-              intrinsic
-            "
-            style="max-width:1200px;"
-        >
-          
-        
-        
-
-        
-          
-            
-          <div
-              
-              
-              class="image-block-wrapper"
-              data-animation-role="image"
-              
-  
-
-          >
-            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
-              
-          
-        
-              has-aspect-ratio
-            " style="
-                position: relative;
-                
-                  padding-bottom:52.499996185302734%;
-                
-                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
-              "
-              >
-                
-                
-                
-                
-                
-                
-                
-                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ee71842d-c21a-4894-b902-58a29f2c67ab/Pocahontas+%281%29.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ee71842d-c21a-4894-b902-58a29f2c67ab/Pocahontas+%281%29.png" data-image-dimensions="1200x630" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ee71842d-c21a-4894-b902-58a29f2c67ab/Pocahontas+%281%29.png" width="1200" height="630" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ee71842d-c21a-4894-b902-58a29f2c67ab/Pocahontas+%281%29.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ee71842d-c21a-4894-b902-58a29f2c67ab/Pocahontas+%281%29.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ee71842d-c21a-4894-b902-58a29f2c67ab/Pocahontas+%281%29.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ee71842d-c21a-4894-b902-58a29f2c67ab/Pocahontas+%281%29.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ee71842d-c21a-4894-b902-58a29f2c67ab/Pocahontas+%281%29.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ee71842d-c21a-4894-b902-58a29f2c67ab/Pocahontas+%281%29.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ee71842d-c21a-4894-b902-58a29f2c67ab/Pocahontas+%281%29.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
-
+    <div class=" image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none " data-test="image-block-inline-outer-wrapper" data-sqsp-image-classic-block-layout="inline" >
+        <figure class=" sqs-block-image-figure intrinsic " style="max-width:1200px;" >
+          <div class="image-block-wrapper" data-animation-role="image" >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element has-aspect-ratio " style=" position: relative; padding-bottom:52.499996185302734%; overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black); " >
+                <img data-stretch="false" data-src="/images/images.squarespace-cdn.com/6af62755-Pocahontas-1-.png" data-image="/images/images.squarespace-cdn.com/6af62755-Pocahontas-1-.png" data-image-dimensions="1200x630" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="/images/images.squarespace-cdn.com/6af62755-Pocahontas-1-.png" width="1200" height="630" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" loading="lazy" decoding="async" data-loader="sqs">
             </div>
           </div>
-        
-          
-        
-
-        
-      
         </figure>
-      
-
     </div>
-  
-
-
-  
-
-
 </div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1672964524610_3407"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;">Born about 1596, Pocahontas, whose given name was “Matoaka”, is known today through the lens of novels, movies, and Americana folklore, as the Native American girl that saved the life of English Captain John Smith. Her father, the Chief Powhatan, spared him after she reportedly came between him and the executioners when she was just a young girl, at about 10 or 11 years old in 1607. Stories say she placed her head on his as he lay on the stones, ready for death (though some wonder if this whole event was more of a ceremony or planned event by her father to be able to welcome his friend into the tribal community). </p><p class="" style="white-space:pre-wrap;">Matoaka, also nicknamed “Amonute”, was called “Pocahontas” as a term of endearment meaning “playful one”, but also as a way to protect her true name from the English to keep her from harm.</p><p class="" style="white-space:pre-wrap;">About a year or two later stories say she saved John Smith’s life again, risking her own safety to warn him of an impending attack following failed trade negotiations.</p><p class="" style="white-space:pre-wrap;">Pocahontas married a Native American warrior named Kocoum about 1610. Some believe they had a child, a daughter Ka-Okee, though this lineage is not widely known or published.</p><p class="" style="white-space:pre-wrap;">When she was older, Pocahontas was lured by the English (Sir Samuel Argall and his wife) and taken captive, held ransom for the return of English prisoners and weapons. After her release she was renamed “Rebecca” after a Christian baptism. Around age 17 she married John Rolfe (not Captain John Smith) in Virginia, on the 5th of April 1614 (though an unofficial divorce with her first husband was implied, the English may have had him killed). With her help, Rolfe and other planters were able to successfully grow tobacco crops. They had only one child, a son named Thomas Rolfe, born in 1615.&nbsp;</p><p class="" style="white-space:pre-wrap;">At the request and expense of the Virginia Company, the Rolfe family of Rebecca (Pocohontas), John, and their toddler son Thomas set sail for England in 1616, along with Sir Thomas Dale, then governor of the Virginia Colony and several Native Americans. They were paraded around England to gain public support and investors.&nbsp;</p><p class="" style="white-space:pre-wrap;">They stayed for about 10 months, though she became ill, perhaps with pneumonia or smallpox (though Native American oral histories suggest a poisoning death!). As they attempted to leave London to return to Virginia, Rebecca died along the voyage in March of 1617, around 20 years old. Rebecca, or Pocahontas, is said to be buried at St. George’s Church in Gravesend, England.&nbsp;</p><p class="" style="white-space:pre-wrap;">Their son Thomas was left behind in England, perhaps with a brother of John’s, and did not return to Virginia until about 1640. Thomas married Jane Poythress and they had a daughter named Jane (the last who would carry their Rolfe surname in this line until she married), who would wed Col. Robert Thomas Bolling.  Jane and Robert had a son, Col. John Fairfax Bolling, who married Mary Elizabeth Kennon. </p><p class="" style="white-space:pre-wrap;">In 1887, more than 270 years after her death, a definitive biography was published by Wyndham Robertson titled <strong>“<em>Pocahontas, alias Matoaka, and Her Descendents Through Her Marriage at Jamestown, Virginia, in April, 1614 with John Rolfe, Gentleman….With Biographical Sketches by Wyndham Robertson, and Illustrative Historical Notes by R.A. Brock”.</em></strong><em>&nbsp; </em>The full title includes a list of surnames. </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/cu31924029771130/mode/2up" target="_blank">View this book, 1887 version, on the Internet Archive</a></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://catalog.hathitrust.org/Record/009832897" target="_blank">View this book on HathiDigital Trust</a></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://amzn.to/3VSQgaP" target="_blank">Purchase on Amazon (affiliate link) </a></p></li></ul><p class="" style="white-space:pre-wrap;">Before we get into the history of the other lines, a quick note about Col. Robert Bolling, the husband of Pocahontas granddaughter, Jane Rolfe. After Jane’s death, Col. Robert Bolling married second Ann Stith. The descendants of Col. Robert Bolling and Ann Stith are known as the <strong>“White Bollings”</strong>, simply because their ancestors were white. They do not share direct DNA from Pocahontas. Former presidents George H.W. Bush and George Bush are said to be of this White Bollings line. </p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1673119635353_4384" id="block-yui_3_17_2_1_1673119635353_4384"><div class="sqs-block-content">
-  
-
-<div
-  class="sqs-code-container"
-  
-  
-    data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}"
-  
-  
-  
-  
->
-  
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8442952758105071"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8442952758105071"
-     data-ad-slot="6938429976"></ins>
+<div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}" >
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8442952758105071" crossorigin="anonymous"></script>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-8442952758105071" data-ad-slot="6938429976"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-  
-
-
-
 </div>
-
 <style class="transform-overrides-vars">
-  
 </style>
-
 </div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1673119635353_4465"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;">The descendants of Col. John Fairfax Bolling, great-grandson of Pocahontas, and his wife Mary Elizabeth Kennon, are known as the <strong>“Red Bollings”</strong>, as they are the blood descendants of Pocahontas. Note the color red may also refer to the derogatory connotation of “red man” for Indian. </p><p class="" style="white-space:pre-wrap;">Back to the above mentioned book. It wasn’t until 1985, a century later, that <strong>“<em>Pocahontas’ Descendants. A Revision, Enlargement and Extension of the List as Set Out by Wyndham Robertson in His Book Pocahontas and Her Descendants”</em></strong><em> </em>was published, written by Stuart E. Brown Jr. and others. A newer version, published in 1997, contains both the 1992 and 1994 corrections and additions. Stuart would also write a short biography titled <em>Pocahontas</em> in 1989. </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/pocahontasdescen00brow" target="_blank">See the 1985 version (112 pages) on The Internet Archive</a></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/correctionsaddit00brow" target="_blank">See the 1992 supplement (200 pages) on The Internet Archive</a></p></li></ul><p class="" style="white-space:pre-wrap;">There is also the supplemental volumes <a href="https://genealogical.com/store/pocahontas-descendants-third-corrections-and-additions/" target="_blank"><em>Third Corrections and Additions to Pocahontas’ Descendants</em> <em>(1997)</em> </a>and the small booklet <a href="https://genealogical.com/store/pocahontas-descendants-fourth-and-fifth-corrections-and-additions/" target="_blank"><em>Fourth (2001) and Fifth Corrections (2004)</em></a><em> </em>both available for purchase from Genealogical Press. </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Note there is also a searchable collection on Ancestry ($), “Pocahontas’ Descendants, with Corrections and Additions”: <a href="https://www.ancestry.com/search/collections/49299/"><span style="text-decoration:underline">https://www.ancestry.com/search/collections/49299/</span></a></p></li><li><p class="" style="white-space:pre-wrap;">And this one on Ancestry ($), “Pocahontas, alias Matoaka, and her descendants”: <a href="https://www.ancestry.com/search/collections/14884/">https://www.ancestry.com/search/collections/14884/</a> </p></li></ul><p class="" style="white-space:pre-wrap;">There is also a group of people known as the <strong>“Blue Bollings”</strong>, though their legitimacy as bloodline descendants of Pocahontas is rejected by the Pocahontas Foundation. They are a group of individuals that claim Maj. John Bolling (son of Col. John Bolling and Mary Kennon) and his wife Elizabeth Blair had an additional 12 children. This couple of John Bolling Jr and Elizabeth Blair had 18 confirmed children, of which seven survived to adulthood so it is highly unlikely they had another dozen.  David Morenus, whom himself is a Pocahontas descendant, explains “the "blue" Bollings are so called because they appeared "out of the blue" in 1963, in the book <em>Of Whom I Came, From Whence I Came</em>, by Judge Zelma Wells Price” (Morenus). </p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>Sources &amp; Further Research</strong></span> </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Brown, Stuart E; Myers, Lorraine F; Chappel, Eileen M. <em>Pocahontas’ Descendants.</em>&nbsp; The Pocahontas Foundation, 1987.</p></li><li><p class="" style="white-space:pre-wrap;">Kupperman, Karen Ordahl. “The Full Story of Pocahontas is Rarely Told. Here’s What We’re Missing” Time. 12 March 2019. (https://time.com/5548379/pocahontas-real-meaning/)</p></li><li><p class="" style="white-space:pre-wrap;">Morenus, David. “Pocahontas Descendants” As retrieved 6 January 2023. (https://pocahontas.morenus.org)</p></li><li><p class="" style="white-space:pre-wrap;">NPS. “Pocahontas: Her Life and Legend” National Park Service. (https://www.nps.gov/jame/learn'/historyculture/pocahontas-her-life-and-legend.htm)</p></li><li><p class="" style="white-space:pre-wrap;">“Pocahontas Lives!” - <a href="https://www.pocahontaslives.com/"><span style="text-decoration:underline">https://www.pocahontaslives.com/</span></a></p></li><li><p class="" style="white-space:pre-wrap;">Robertson, Wyndham. ““<em>Pocahontas, alias Matoaka, and Her Descendents Through Her Marriage at Jamestown, Virginia, in April, 1614 with John Rolfe, Gentleman….With Biographical Sketches by Wyndham Robertson, and Illustrative Historical Notes by R.A. Brock”. </em>1887.</p></li><li><p class="" style="white-space:pre-wrap;">“St. George’s Gravesend” - <a href="https://stgeorgesgravesend.org/history/pocahontas/"><span style="text-decoration:underline">https://stgeorgesgravesend.org/history/pocahontas/</span></a></p></li><li><p class="" style="white-space:pre-wrap;">“The Pocahontas Archive” - <a href="https://history-on-trial.lib.lehigh.edu/trial/pocahontas/index.php"><span style="text-decoration:underline">https://history-on-trial.lib.lehigh.edu/trial/pocahontas/index.php</span></a></p></li><li><p class="" style="white-space:pre-wrap;">“The Pocahontas Project” - <a href="https://www.pocahontasproject.org/about"><span style="text-decoration:underline">https://www.pocahontasproject.org/about</span></a><br><br><br></p></li></ul>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1673118521586_4157" id="block-yui_3_17_2_1_1673118521586_4157"><div class="sqs-block-content">
-  
-
-<div
-  class="sqs-code-container"
-  
-  
-    data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}"
-  
-  
-  
-  
->
-  
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8442952758105071"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8442952758105071"
-     data-ad-slot="6938429976"></ins>
+<div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}" >
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8442952758105071" crossorigin="anonymous"></script>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-8442952758105071" data-ad-slot="6938429976"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-  
-
-
-
 </div>
-
 <style class="transform-overrides-vars">
-  
 </style>
-
 </div></div></div></div></div>

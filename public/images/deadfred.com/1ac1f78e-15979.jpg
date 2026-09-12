@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-55344485-1');
+    </script>
+    <meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+    <title>Dead Fred - Free genealogy family history photo search by surname</title>
+	<link rel="canonical" href="https://deadfred.com" />
+    <meta name="keywords" content="genealogy, family history, surname, free, LDS">
+    <meta name="description" content="Free genealogy search for your family history in photos. Search by surname, state, country and more. If you find a photo of a family member owned by the archive, we'll send it to you free!">
+    <meta name="robots" content="index, follow">
+    <link href="df_main_05.css" rel="stylesheet" media="all">
+    <script src="jscript/rollovers.js"></script>
+    <script src="https://www.google.com/recaptcha/api.js"></script>
+  </head>  <body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+    <table width="770" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td valign="top" width="390"><a href="index_php.html"><img src="images_05/deadfred_logo.jpg" alt="Dead Fred Genealogy Photo Archive" height="115" width="390"></a></td>
+        <td valign="top"><img src="random/random_php.jpg" alt="Thousands of Genealogy Photos" height="115" width="380"></td>
+      </tr>
+      <tr>
+        <td valign="top" width="390"><img src="images_05/deadfred_sub.jpg" alt="Search. Preserve. Record. Remember." height="20" width="390"></td>
+        <td align="center" valign="middle">
+<span style="color: #b22222; font-size: small;"><strong>23614 Surnames</strong></span><span style="color:black; font-size: small;"> | </span><span style="color:#b22222; font-size: small;"><strong>162463 Records</strong></span><span style="color:black; font-size: small;"> | </span><span style="color:#b22222; font-size: small;"><strong>3390 Reunions</strong></span>
+        </td>
+      </tr>
+    </table>
+    <table width="770" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="left" valign="top" width="168">
+<img name="marketplace" src="images_05/header_books.jpg" alt="Buy at FredMart to Help Support DeadFred" width="168" height="29" border="0" style="display: block"/>
+<table width="168" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" background="images_05/df_main_05_21.gif">
+      <table width="168" border="0" cellspacing="0" cellpadding="10">
+        <tr>
+          <td>
+            <div align="center">
+              <table width="145" cellpadding="2">
+                <tr valign="top">
+                  <td>
+                    <div align="center">
+                      <p>
+                        <strong>Desperate Genealogist's<br>Idea Book</strong>
+                        <br><br>
+                        <a href="ideabook.html" target="_blank"><img src="https://deadfred.com/dgib/dbib.jpg" alt="The Desperate Genealogist's Idea Book: Creative Ways to Outsmart Your Elusive Ancestors" width="50" border="0" < a>
+                        <br><br>
+                        <!-- <a href="https://www.cafepress.com/deadfredstuff.121991627" target="_blank">Paperback (24.95)</a><br> -->
+                        <a href="https://deadfred06.pay.clickbank.net/?cbitems=1">E-Book (14.95)</a>
+                      </p>
+                    </div>
+                  </td>
+                </tr>
+              </table>
+            </div>
+            <div align="center">
+              <center>
+    <script type="text/javascript">
+    <!--
+    google_ad_channel = "";
+    //-->
+    </script>
+</center>            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="bottom" height="26"><img src="images_05/df_main_05_25.jpg" width="168"></td>
+  </tr>
+</table>
+<table width="168" border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td>
+      <p><strong>Dead Fred's Genealogy Photo Archive</strong>, a free, fun photo genealogy research web site devoted to helping you visualize your heritage!</p>
+    </td>
+  </tr>
+</table>        </td>
+        <td align="left" valign="top" width="445">
+          <table width="445" border="0" cellspacing="0" cellpadding="0" bgcolor="white">
+            <tr>
+              <td align="left" valign="top" width="20" background="images_05/df_main_05_13.gif"><img src="images_05/df_main_05_06.jpg" alt="" height="49" width="20"></td>
+              <td rowspan="2" align="left" valign="top" bgcolor="white" width="403"><img src="images_05/df_main_05_07.jpg" alt="" height="23" width="403">
+                                <div align="center">
+                  <p><script type="text/javascript" src="GeneratedItems/CSScriptLib.js"></script>
+<script type="text/javascript"><!--
+var preloadFlag = false;
+function preloadImages() {
+    if (document.images) {
+        pre_dead_fred_banner_over = newImage('images_06/dead-fred-banner_over.jpg');
+        preloadFlag = true;
+    }
+}
+// --></script>
+<table width="390" border="0" cellspacing="0" cellpadding="0" bgcolor="white">
+    <tr>
+        <td valign="top" width="390">
+            <h6>5 Ways To Search</h6>
+            <div style="display:block; float:right; width:145px;">
+                <a href="submit_05.html" onmouseover="post_photos.src='images_05/main_postphoto_roll.jpg';" onmouseout="post_photos.src='images_05/main_postphoto.jpg';"><img name="post_photos" src="images_05/main_postphoto.jpg" alt="Post Your Photos, Patty Says!" height="82" width="145" border="0"></a>
+            </div>
+            <h5>Quick Search</h5>
+            <form name="DeadFredSearch" action="surnameIndR_05.html" method="post">
+                <input type="text" name="sLastName" onfocus="this.value=''" value="Enter Surname to Search" size="18px"> <br>
+                <input type="submit" name="submit" value="Go Dig">
+            </form>
+            <h5>Surname Search</h5>
+            <p>
+                <a href="surnameR2_05_Letter-A.html">A</a>
+                <a href="surnameR2_05_Letter-B.html">B</a>
+                <a href="surnameR2_05_Letter-C.html">C</a>
+                <a href="surnameR2_05_Letter-D.html">D</a>
+                <a href="surnameR2_05_Letter-E.html">E</a>
+                <a href="surnameR2_05_Letter-F.html">F</a>
+                <a href="surnameR2_05_Letter-G.html">G</a>
+                <a href="surnameR2_05_Letter-H.html">H</a>
+                <a href="surnameR2_05_Letter-I.html">I</a>
+                <a href="surnameR2_05_Letter-J.html">J</a>
+                <a href="surnameR2_05_Letter-K.html">K</a>
+                <a href="surnameR2_05_Letter-L.html">L</a>
+                <a href="surnameR2_05_Letter-M.html">M</a>
+                <a href="surnameR2_05_Letter-N.html">N</a>
+                <a href="surnameR2_05_Letter-O.html">O</a>
+                <a href="surnameR2_05_Letter-P.html">P</a>
+                <a href="surnameR2_05_Letter-Q.html">Q</a>
+                <a href="surnameR2_05_Letter-R.html">R</a>
+                <a href="surnameR2_05_Letter-S.html">S</a>
+                <a href="surnameR2_05_Letter-T.html">T</a>
+                <a href="surnameR2_05_Letter-U.html">U</a>
+                <a href="surnameR2_05_Letter-V.html">V</a>
+                <a href="surnameR2_05_Letter-W.html">W</a>
+                <a href="surnameR2_05_Letter-X.html">X</a>
+                <a href="surnameR2_05_Letter-Y.html">Y</a>
+                <a href="surnameR2_05_Letter-Z.html">Z</a>
+            </p>
+            <h5>Detailed Search</h5>
+            <p><a href="searchform_05.html">Use Our Detailed Search By Clicking HERE</a></p>
+            <h5>
+            Mysteries
+            </h5>
+            <p><a href="mysteries_05.html">Explore And Identify By Clicking HERE</a></p>
+            <h5>Keyword Search</h5>
+            <p>Enter Any Word To Search Through The Database.<br>
+                <form method="post" action="comments_05.html">
+                    <input type="text" name="searchstr" onfocus="this.value=''" value="Enter Search Term" size="18px"> <br>
+                    <input type="submit" name="Submit77" value="Go!">
+                </form>
+            </p>
+                <h5>What Can You Do Here?</h5>
+                <p style="padding: 2px;">Trace your roots for <strong><a href="faq_05.html#five">FREE</a></strong> with our searchable database containing thousands of identified and mystery photos for genealogy enthusiasts looking for long-lost family. Anyone who finds a photo of a direct ancestor that is owned by the archive will receive the photo for <a href="faq_05.html#five">free</a>.
+                <br><br>If the historic photos you find pique your interest in genealogy, you can continue your research by doing a <a href="https://www.familysearch.org/discovery/explore/" target="_blank">family search</a> here.<br>
+                </p>
+                <h5>Archive Tips</h5>
+<p><b>Posting Your Photos:</b><br>Adding keywords to the comments field when posting photos to the archive makes them more easily found by other researchers. Who knows, you may make a connection based on your brilliant keyword choices!</p>            <!-- <div style="background-color: #ebebeb; padding: 8px;">
+                <h6><img src="images/FOF_icon.jpg" alt="" height="68" width="80" align="right" border="0">Be a <em>Friend of Fred</em></h6>
+                <p>For an annual membership of $19.95 <em><strong>(not required to use the site)</strong></em>, you'll get access to the following EXTRA features:</p>
+                <ul>
+                    <li><strong>Special photo posting area: </strong>Upload up to 10 photos at once</li>
+                    <li><strong>Change or delete records and photos</strong> without having to contact the DeadFred.com staff</li>
+                    <li><strong>Update general items for an entire photo (several records) at once</strong> - your changes are automatically approved</li>
+                    <li><strong>Update your email address</strong></li>
+                    <li><strong>Access and search all past newsletters</strong></li>
+                    <li><strong>View all &quot;Possible Reunion&quot; correspondence sent to you</strong> through DeadFred.com</li>
+                    <li><strong>Customize your area</strong> by picking your own color scheme and display photo</li>
+                </ul>
+                <p><a href="friendoffred_registration.php">Become a &quot;Friend of Fred&quot; today!</a></p>
+            </div> -->
+        </td>
+    </tr>
+</table>
+</p>
+                  <div align="center">
+                    <a onmouseover="changeImages('dead_fred_banner_base','images_06/dead-fred-banner_over.jpg');return true" onmouseout="changeImages('dead_fred_banner_base','images_06/dead-fred-banner_base.jpg');return true" href="ideabook.html" target="_blank"><img id="dead_fred_banner_base" src="images_06/dead-fred-banner_base.jpg" alt="Roots Television - Where History Meets Heritage" name="dead_fred_banner_base" height="75" width="400" border="0"></a><br>
+                  </div>
+                </div>
+                <div align="center">
+<p>
+    <a class="bottommenu" href="index_php.html">Home</a> |
+    <a class="bottommenu" href="searchform_05.html">Search Photos</a> | <a class="bottommenu" href="submit_05.html">Post Photos</a> | <a class="bottommenu" href="surnames_05.html">Surnames</a> | <a class="bottommenu" href="mysteries_05.html">Mysteries</a> | <a class="bottommenu" href="annuals_05.html">Annuals</a><br>
+    <a class="bottommenu" href="fred_05.html">Meet Fred</a> | <a class="bottommenu" href="archivists_05.html">Archivists</a> | <a class="bottommenu" href="faq_05.html">FAQs</a> |
+    <a class="bottommenu" href="contact_05.html">Contact Us</a> | <a class="bottommenu" href="searchbox_05.html">Your Own Search Box</a> | <a class="bottommenu" href="marketplace_05.html">Marketplace</a><br>
+    <a class="bottommenu" href="privacy_05.html">Privacy Policy</a> | <a class="bottommenu" href="termsofservice_05.html">Terms of Service</a> | <a class="bottommenu" href="https://deadfred.com/steroids/">Steroids</a> | <a class="bottommenu" href="https://deadfred.com/testosterone/">Testosterone</a> | <a class="bottommenu" href="https://deadfred.com/clenbuterol/">Clenbuterol</a> | <a class="bottommenu" href="https://deadfred.com/anavar/">Anavar</a> | <a class="bottommenu" href="https://deadfred.com/dianabol/">Dianabol</a> | <a class="bottommenu" href="https://deadfred.com/trenbolone/">Trenbolone</a> | <a class="bottommenu" href="https://deadfred.com/winstrol/">Winstrol</a>
+</p>                </div>
+              </td>
+              <td align="left" valign="top" width="22" background="images_05/df_main_05_14.gif"><img src="images_05/df_main_05_09.jpg" alt="" height="49" width="22"></td>
+            </tr>
+            <tr height="24">
+              <td align="left" valign="bottom" width="20" height="24" background="images_05/df_main_05_13.gif"><img src="images_05/df_main_05_22.jpg" alt="" height="24" width="20" style="display: block"></td>
+              <td valign="bottom" width="22" height="24" background="images_05/df_main_05_14.gif"><img src="images_05/df_main_05_24.jpg" alt="" height="24" width="22" style="display: block"></td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" width="20"><img src="images_05/df_main_05_26.jpg" alt="" height="26" width="20" style="display: block"></td>
+              <td align="left" valign="top" width="403"><img src="images_05/df_main_05_27.jpg" alt="" height="26" width="403" style="display: block"></td>
+              <td width="22"><img src="images_05/df_main_05_28.jpg" alt="" height="26" width="22" style="display: block"></td>
+            </tr>
+          </table>
+          <table width="445" border="0" cellspacing="0" cellpadding="15">
+            <tr>
+              <td>
+                <div align="center">
+<p>Free genealogy searches for those looking into their family history.</p>
+<p><a href="sitemap.html">Sitemap</a></p>
+<p>&copy; 2001-<script>document.currentScript.replaceWith(new Date().getFullYear())</script> DeadFred.com Genealogy Photo Archive<br>
+    P.O. Box 6937 | Springdale, AR | 72766-6937</p>
+<script src="https://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>                </div>
+              </td>
+            </tr>
+          </table>
+        </td>
+        <td align="left" valign="top" width="157">
+<div align="center">
+        <p><br>
+    			<a href="login_05.html">LOGIN</a>  <a href="faq_05.html#twelve" onmouseover="edit_question.src='images_05/question_mark_roll.jpg';" onmouseout="edit_question.src='images_05/question_mark.jpg';"><img name="edit_question" src="images_05/question_mark.jpg" alt="Why Login?" height="16" width="16" border="0"></a><br> </p>  <table width="157" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td background="images_05/df_main_17.gif">
+        <div align="right">
+          <table width="157" border="0" cellspacing="0" cellpadding="0">
+            <tr height="35">
+              <td colspan="3" height="35"><img src="images_05/df_main_16.jpg" alt="Main Menu" height="35" width="157" border="0"></td>
+            </tr>
+            <tr>
+              <td width="5"></td>
+              <td>
+                <p class="menu_main"><a href="index_php.html" onmouseover="home.src='images_05/menu_home_roll.gif';" onmouseout="home.src='images_05/menu_home.gif';"><img name="home" src="images_05/menu_home.gif" alt="Home" height="20" width="148" border="0"></a></p>
+                <p class="menu_head"><img src="images_05/menu_tools.gif" alt="Tools" height="20" width="148" border="0"></p>
+                <p class="menu_main"><a class="menu_main" href="searchform_05.html">Search Photos</a></p>
+                <p><a class="menu_main" href="submit_05.html">Post Photos</a></p>
+                <p><a class="menu_main" href="surnames_05.html">Surnames</a></p>
+                <p><a class="menu_main" href="mysteries_05.html">Mysteries</a></p>
+                <p><a class="menu_main" href="photoglistpage_05.html">Photographers</a></p>
+                <p><a class="menu_main" href="annuals_05.html">Annuals</a></p>
+                <p class="menu_head"><img src="images_05/menu_information.gif" alt="Information" height="20" width="148" border="0"></p>
+                <p><a class="menu_main" href="fred_05.html">Meet Fred</a></p>
+                <!-- <p><a class="menu_main" href="testimonials_05.php">Testimonials</a></p> -->
+                <!-- <p><a class="menu_main" href="mediacenter_05.php">Media Center</a></p> -->
+                <p><a class="menu_main" href="archivists_05.html">Archivists</a></p>
+                <p><a class="menu_main" href="faq_05.html">FAQs</a></p>
+                <p><a class="menu_main" href="contact_05.html">Contact Us</a></p>
+                <p class="menu_head"><img src="images_05/menu_community.gif" alt="Community" height="20" width="148" border="0"></p>
+                <p><a class="menu_main" href="https://www.facebook.com/deadfredphotos" target="_blank">Facebook Group</a></p>
+                <p><a class="menu_main" href="https://www.instagram.com/deadfredcom/" target="_blank">Instagram</a></p>
+                <p><a class="menu_main" href="https://twitter.com/DeadFred" target="_blank">Twitter</a></p>
+                <!-- <p><a class="menu_main" href="links_05.php">Links</a></p> -->
+                <p><a class="menu_main" href="searchbox_05.html">Your Own Search Box</a></p>
+                <p><a class="menu_main" href="marketplace_05.html">FredMart</a></p>
+                <p style="margin:0; padding:0;">
+                  <a href="mailto:/?Subject=You%20need%20to%20visit%20Dead%20Fred.com&amp;body=This%20web%20site%20has%20thousands%20of%20old%20photos%20and%20surnames%20to%20search.%20Go%20to%20https://www.deadfred.com%20and%20try%20it%20for%20yourself!" onmouseover="tellfriend.src='images_05/menu_tell_friend_roll.jpg';" onmouseout="tellfriend.src='images_05/menu_tell_friend.jpg';">
+                    <img name="tellfriend" src="images_05/menu_tell_friend.jpg" alt="Tell Your Friend About DeadFred Today" height="85" width="148" border="0">
+                  </a>
+                </p>
+              </td>
+              <td width="5"></td>
+            </tr>
+          </table>
+        </div>
+      </td>
+    </tr>
+  </table>
+  <p>
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="POST" name="paypal_form">
+      <input type="hidden" name="cmd" value="_donations">
+      <input type="hidden" name="business" value="JOE@DEADFRED.COM">
+      <input type="hidden" name="undefined_quantity" value="1">
+      <input type="hidden" name="item_name" value="Donations to Support DeadFred.com">
+      <input type="hidden" name="item_number" value="Donations via Paypal">
+      <input type="hidden" name="currency_code" value="USD">
+      <input type="hidden" name="no_shipping" value="1">
+      <input type="hidden" name="image_url" value="images/deadfred_logo.gif">
+      <!-- Display the payment button. -->
+      <input type="image" name="submit" src="en_US/i/btn/btn_donate_LG.gif" alt="Donate">
+      <img alt="" width="1" height="1" src="en_US/i/scr/pixel.gif">
+    </form>
+  </p>
+</div>
+        </td>
+      </tr>
+    </table>
+    <img src="images_05/df_main_05_30.jpg" alt="Page Bottom. Theres nothing below here." height="100" width="770">
+  <script type="text/javascript">new Image().src = "//counter.yadro.ru/hit?r"+escape(document.referrer)+((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+";"+Math.random();</script>
+</body>
+</html>

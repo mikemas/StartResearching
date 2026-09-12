@@ -4,5 +4,4 @@ description: "Autosomal, cheek swab. Offers \u201cancestry kit\u201d or \u201can
 canonicalUrl: "https://www.startresearching.com/dna-test-companies/lywf5cjfwpnil9q4i2qqcgcrf3rj6i"
 
 ---
-
 <p class="" style="white-space:pre-wrap;">Autosomal, cheek swab. Offers “ancestry kit” or “ancestry &amp; wellbeing kit” with fitness and nutrition.  <a href="https://livingdna.com/" target="">livingdna.com</a></p>

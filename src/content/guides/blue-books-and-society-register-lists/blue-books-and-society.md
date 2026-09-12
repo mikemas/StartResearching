@@ -4,32 +4,8 @@ description: "These \u201cBlue Books\u201d and \u201cSociety Lists\u201d were co
 canonicalUrl: "https://www.startresearching.com/blue-books-and-society-register-lists/blue-books-and-society"
 
 ---
-
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1631326840937" id="item-613c123d5651390e3c396162"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-db111063d261cebf3e24"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;">These “Blue Books” and “Society Lists” were collections of elite society members in the area, each chosen at the editor’s discretion for that season. </p><p class="" style="white-space:pre-wrap;">Read more about their history on a recent blog post: <a href="/blog/blue-books" target="">Blue Books &amp; Society Register Lists</a></p><p class="" style="white-space:pre-wrap;">The links on these pages are all full view, and free (registration required for FamilySearch) courtesy of various online repositories like the Internet Archive, Google Books, the HathiTrust Digital Library, and others. Note that for some of the states there were only a few records available online. </p><p class="" style="white-space:pre-wrap;"><strong>Explore the historical society lists for these areas: </strong></p><p class="" style="white-space:pre-wrap;"><a href="/blue-books-and-society-register-lists/california">California</a> - <a href="/blue-books-and-society-register-lists/illinois">Illinois</a> - <a href="/blue-books-and-society-register-lists/maryland">Maryland </a>- <a href="/blue-books-and-society-register-lists/massachusetts">Massachusetts</a> - <a href="/blue-books-and-society-register-lists/missouri">Missouri</a> -  <a href="/blue-books-and-society-register-lists/new-york">New York</a> - <a href="/blue-books-and-society-register-lists/ohio">Ohio </a>-  <a href="/blue-books-and-society-register-lists/pennsylvania">Pennsylvania</a></p><p class="" style="white-space:pre-wrap;"><a href="/blue-books-and-society-register-lists/all-other-states">All Other States (including Alabama, Colorado, Connecticut, Florida, Indiana, Iowa, Louisiana, Michigan, New Jersey, North Carolina, Oklahoma, Oregon, Rhode Island, Texas, Washington State, Washington D.C., Wisconsin)</a></p><p class="" style="white-space:pre-wrap;"><a href="/blue-books-and-society-register-lists/national-or-multiple-states">National or Multiple States (including the Summer Social Register and others)</a></p><p class="" style="white-space:pre-wrap;">I excluded from these lists any government Blue Books that were written by the states and acted more as official directories of government employees or state histories. </p><p class="" style="white-space:pre-wrap;">No Blue Books, Social Registers, or other forms of society lists could be found for free online from the following states: Alaska, Arizona, Arkansas, Delaware, Georgia, Hawaii, Idaho, Kansas, Kentucky, Maine, Mississippi, Montana, Nebraska, Nevada, New Hampshire, New Mexico, North Dakota, South Carolina, South Dakota, Tennessee, Utah, Vermont, Virginia, West Virginia, Wyoming), with the exception of some of these places within multiple state directories</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;"> </p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </div></div></div></div></div>

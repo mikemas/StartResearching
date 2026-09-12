@@ -5,545 +5,59 @@ description: "11 March, 2023 by Sherri Mastrangelo After a short time on a waitl
 canonicalUrl: "https://www.startresearching.com/blog/does-bing-ai-work-any-better-than-chatgpt-for-genealogy-research"
 
 ---
-
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1678568732748" id="item-640ce5bf182e9e709aeb2e86"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-283c640d9f3390b57f47"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>11 March, 2023 by Sherri Mastrangelo</strong></span></p><p class="" style="white-space:pre-wrap;">After a short time on a waitlist, I gained access to <a href="https://www.bing.com/new?form=BGKCDC" target="_blank">Microsoft’s Bing AI </a>last night, which refers to itself simply as “Bing”.  This Bing AI uses a newer version of GPT-3. It has access to web results from the Bing search engine, whereas ChatGPT is limited. Bing can also get up-to-date information, whereas ChatGPT has access up to 2021. </p><p class="" style="white-space:pre-wrap;"> (See my previous blog post:<a href="https://www.startresearching.com/blog/can-you-use-chatgpt-for-genealogy-research" target="_blank"> “Can you use ChatGPT for genealogy research”</a>, 20 January, 2023) </p><p class="" style="white-space:pre-wrap;">Furthermore, ChatGPT only supports English while Bing can support other languages including Japanese, Spanish, French, German (to switch, sandwich hashtags like #japanase#).  Bing has three optional conversational models you can choose from: “more creative”, “more balanced”, and “more precise” - though I didn’t notice much of a difference by playing around with these. </p><p class="" style="white-space:pre-wrap;"> Instead of almost instantaneous text results like with ChatGPT, I felt the Bing AI to be slower as it took a minute to search results and formulate answers. I was also limited to a series of ten questions at a time, after which it forced me to push a “New Topic” button and start over. </p><p class="" style="white-space:pre-wrap;">More importantly, ChatGPT can handle follow-up questions and “remember” what you were talking about in the conversation, using previous information to inform its response. It becomes a much more conversational flow, and I prefer the ChatGPT style better as it seems more “human-like” and friendlier. </p><p class="" style="white-space:pre-wrap;">Let’s get into some examples. I started by asking some of the same questions I had posed to ChatGPT, as discussed in my previous blog post.  The first question to compare: “What can you find out about the Libby family, early settlers of Maine?”</p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1678568734246_21821"><div class="sqs-block-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-    
-  
-    <div
-        class="
-          image-block-outer-wrapper
-          layout-caption-below
-          design-layout-inline
-          combination-animation-none
-          individual-animation-none
-          individual-text-animation-none
-        "
-        data-test="image-block-inline-outer-wrapper"
-        data-sqsp-image-classic-block-layout="inline"
-    >
-
-      
-
-      
-        <figure
-            class="
-              sqs-block-image-figure
-              intrinsic
-            "
-            style="max-width:1200px;"
-        >
-          
-        
-        
-
-        
-          
-            <button
-                data-sqsp-image-classic-block-lightbox-button
-                class="
-                  sqs-block-image-button
-                  lightbox
-                  
-          
-        
-                "
-                data-description=""
-                data-lightbox-theme="dark"
-            >
+    <div class=" image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none " data-test="image-block-inline-outer-wrapper" data-sqsp-image-classic-block-layout="inline" >
+        <figure class=" sqs-block-image-figure intrinsic " style="max-width:1200px;" >
+            <button data-sqsp-image-classic-block-lightbox-button class=" sqs-block-image-button lightbox " data-description="" data-lightbox-theme="dark" >
               <span class="v6-visually-hidden">View fullsize</span>
-              
-          <div
-              
-              
-              class="image-block-wrapper"
-              data-animation-role="image"
-              
-  
-
-          >
-            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
-              
-          
-        
-              has-aspect-ratio
-            " style="
-                position: relative;
-                
-                  padding-bottom:52.499996185302734%;
-                
-                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
-              "
-              >
-                
-                
-                
-                
-                
-                
-                
-                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/5b68b886-4b1a-4c05-9c36-95b7df16d11e/Untitled+design+%2825%29.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/5b68b886-4b1a-4c05-9c36-95b7df16d11e/Untitled+design+%2825%29.png" data-image-dimensions="1200x630" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/5b68b886-4b1a-4c05-9c36-95b7df16d11e/Untitled+design+%2825%29.png" width="1200" height="630" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/5b68b886-4b1a-4c05-9c36-95b7df16d11e/Untitled+design+%2825%29.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/5b68b886-4b1a-4c05-9c36-95b7df16d11e/Untitled+design+%2825%29.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/5b68b886-4b1a-4c05-9c36-95b7df16d11e/Untitled+design+%2825%29.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/5b68b886-4b1a-4c05-9c36-95b7df16d11e/Untitled+design+%2825%29.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/5b68b886-4b1a-4c05-9c36-95b7df16d11e/Untitled+design+%2825%29.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/5b68b886-4b1a-4c05-9c36-95b7df16d11e/Untitled+design+%2825%29.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/5b68b886-4b1a-4c05-9c36-95b7df16d11e/Untitled+design+%2825%29.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
-
+          <div class="image-block-wrapper" data-animation-role="image" >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element has-aspect-ratio " style=" position: relative; padding-bottom:52.499996185302734%; overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black); " >
+                <img data-stretch="false" data-src="/images/images.squarespace-cdn.com/8275df82-Untitled-design-25-.png" data-image="/images/images.squarespace-cdn.com/8275df82-Untitled-design-25-.png" data-image-dimensions="1200x630" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="/images/images.squarespace-cdn.com/8275df82-Untitled-design-25-.png" width="1200" height="630" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" loading="lazy" decoding="async" data-loader="sqs">
             </div>
           </div>
-        
             </button>
-          
-        
-
-        
-      
         </figure>
-      
-
     </div>
-  
-
-
-  
-
-
 </div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1678568734246_22189"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;">Hey wait, that’s my website!</p><p class="" style="white-space:pre-wrap;">I was surprised to see Bing used my other blog post as a reference, effectively copying part of ChatGPT’s answer to the same question - at least in the first two sentences! Bing is more straightforward with documenting the sources it used to form its response, and offers direct links to these sources. It also has text prompts after each response. With ChatGPT there is no revelation of sources, and it is not readily apparent where it learned the information. </p><p class="" style="white-space:pre-wrap;">However, I found the ChatGPT information to be more reliable and trustworthy. The way Bing presents the information seems very “matter of fact” and even though it has sources, it does not take into account the accuracy of the source or how relevant it is to your ancestor. I’m worried people may take this information as fact as some blindly take the tiny green leaf hints on a certain website as fact, without proper research. </p><p class="" style="white-space:pre-wrap;">Take into account this next example:  </p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1678568734246_49400"><div class="sqs-block-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-    
-  
-    <div
-        class="
-          image-block-outer-wrapper
-          layout-caption-below
-          design-layout-inline
-          combination-animation-none
-          individual-animation-none
-          individual-text-animation-none
-        "
-        data-test="image-block-inline-outer-wrapper"
-        data-sqsp-image-classic-block-layout="inline"
-    >
-
-      
-
-      
-        <figure
-            class="
-              sqs-block-image-figure
-              intrinsic
-            "
-            style="max-width:1111px;"
-        >
-          
-        
-        
-
-        
-          
-            <button
-                data-sqsp-image-classic-block-lightbox-button
-                class="
-                  sqs-block-image-button
-                  lightbox
-                  
-          
-        
-                "
-                data-description=""
-                data-lightbox-theme="dark"
-            >
+    <div class=" image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none " data-test="image-block-inline-outer-wrapper" data-sqsp-image-classic-block-layout="inline" >
+        <figure class=" sqs-block-image-figure intrinsic " style="max-width:1111px;" >
+            <button data-sqsp-image-classic-block-lightbox-button class=" sqs-block-image-button lightbox " data-description="" data-lightbox-theme="dark" >
               <span class="v6-visually-hidden">View fullsize</span>
-              
-          <div
-              
-              
-              class="image-block-wrapper"
-              data-animation-role="image"
-              
-  
-
-          >
-            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
-              
-          
-        
-              has-aspect-ratio
-            " style="
-                position: relative;
-                
-                  padding-bottom:39.33393478393555%;
-                
-                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
-              "
-              >
-                
-                
-                
-                
-                
-                
-                
-                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8ff65c5c-1103-4593-8b87-2706dc68c07e/David+p.+libby+2.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8ff65c5c-1103-4593-8b87-2706dc68c07e/David+p.+libby+2.png" data-image-dimensions="1111x437" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8ff65c5c-1103-4593-8b87-2706dc68c07e/David+p.+libby+2.png" width="1111" height="437" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8ff65c5c-1103-4593-8b87-2706dc68c07e/David+p.+libby+2.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8ff65c5c-1103-4593-8b87-2706dc68c07e/David+p.+libby+2.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8ff65c5c-1103-4593-8b87-2706dc68c07e/David+p.+libby+2.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8ff65c5c-1103-4593-8b87-2706dc68c07e/David+p.+libby+2.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8ff65c5c-1103-4593-8b87-2706dc68c07e/David+p.+libby+2.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8ff65c5c-1103-4593-8b87-2706dc68c07e/David+p.+libby+2.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8ff65c5c-1103-4593-8b87-2706dc68c07e/David+p.+libby+2.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
-
+          <div class="image-block-wrapper" data-animation-role="image" >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element has-aspect-ratio " style=" position: relative; padding-bottom:39.33393478393555%; overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black); " >
+                <img data-stretch="false" data-src="/images/images.squarespace-cdn.com/1e2e4f96-David-p.-libby-2.png" data-image="/images/images.squarespace-cdn.com/1e2e4f96-David-p.-libby-2.png" data-image-dimensions="1111x437" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="/images/images.squarespace-cdn.com/1e2e4f96-David-p.-libby-2.png" width="1111" height="437" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" loading="lazy" decoding="async" data-loader="sqs">
             </div>
           </div>
-        
             </button>
-          
-        
-
-        
-      
         </figure>
-      
-
     </div>
-  
-
-
-  
-
-
 </div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1678568734246_49763"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;">Those seem like a lot of “facts” to me, though none of this information is relevant to my ancestor, who was born in January to other parents, married Ann Hodges, had seven children (all different names), and died in 1864 in Gorham. </p><p class="" style="white-space:pre-wrap;">While Bing offers results from sites like FamilySearch.org, Ancestry.com, MyHeritage.com, and Geni.com, <strong>it cannot perform database queries to pull records</strong> - though it gives that illusion.  In the above example, the “ancestry.com” source cited is the same person search result for Ancestry that comes up in Bing, when you’re not signed in to Ancestry.com nor a paying user.  </p><p class="" style="white-space:pre-wrap;">I much prefer the generic answers that ChatGPT offers, as it stays away from the pretense of offering facts about individuals. Perhaps if Bing worded its response differently it might help. I also noticed Bing seems more likely to change it’s response when asked the same question later. </p><p class="" style="white-space:pre-wrap;">All that said, I’m still very excited about the future of AI with regards to genealogy research. I think I’ll continue to use ChatGPT to help formulate some research strategies and research historical context, among other things. I love that Bing is connected to the web, but the quality of results is just not there yet. </p><p class="" style="white-space:pre-wrap;">I’ll leave you with a quick poem, courtesy of Bing: </p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1678568734246_81948"><div class="sqs-block-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-    
-  
-    <div
-        class="
-          image-block-outer-wrapper
-          layout-caption-below
-          design-layout-inline
-          combination-animation-none
-          individual-animation-none
-          individual-text-animation-none
-        "
-        data-test="image-block-inline-outer-wrapper"
-        data-sqsp-image-classic-block-layout="inline"
-    >
-
-      
-
-      
-        <figure
-            class="
-              sqs-block-image-figure
-              intrinsic
-            "
-            style="max-width:1151px;"
-        >
-          
-        
-        
-
-        
-          
-            <button
-                data-sqsp-image-classic-block-lightbox-button
-                class="
-                  sqs-block-image-button
-                  lightbox
-                  
-          
-        
-                "
-                data-description=""
-                data-lightbox-theme="dark"
-            >
+    <div class=" image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none " data-test="image-block-inline-outer-wrapper" data-sqsp-image-classic-block-layout="inline" >
+        <figure class=" sqs-block-image-figure intrinsic " style="max-width:1151px;" >
+            <button data-sqsp-image-classic-block-lightbox-button class=" sqs-block-image-button lightbox " data-description="" data-lightbox-theme="dark" >
               <span class="v6-visually-hidden">View fullsize</span>
-              
-          <div
-              
-              
-              class="image-block-wrapper"
-              data-animation-role="image"
-              
-  
-
-          >
-            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
-              
-          
-        
-              has-aspect-ratio
-            " style="
-                position: relative;
-                
-                  padding-bottom:28.236316680908203%;
-                
-                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
-              "
-              >
-                
-                
-                
-                
-                
-                
-                
-                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/5bf64d9b-6391-425a-bc9f-5377d71a55c0/haiku.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/5bf64d9b-6391-425a-bc9f-5377d71a55c0/haiku.png" data-image-dimensions="1151x325" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/5bf64d9b-6391-425a-bc9f-5377d71a55c0/haiku.png" width="1151" height="325" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/5bf64d9b-6391-425a-bc9f-5377d71a55c0/haiku.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/5bf64d9b-6391-425a-bc9f-5377d71a55c0/haiku.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/5bf64d9b-6391-425a-bc9f-5377d71a55c0/haiku.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/5bf64d9b-6391-425a-bc9f-5377d71a55c0/haiku.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/5bf64d9b-6391-425a-bc9f-5377d71a55c0/haiku.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/5bf64d9b-6391-425a-bc9f-5377d71a55c0/haiku.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/5bf64d9b-6391-425a-bc9f-5377d71a55c0/haiku.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
-
+          <div class="image-block-wrapper" data-animation-role="image" >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element has-aspect-ratio " style=" position: relative; padding-bottom:28.236316680908203%; overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black); " >
+                <img data-stretch="false" data-src="/images/images.squarespace-cdn.com/4dd4f99e-haiku.png" data-image="/images/images.squarespace-cdn.com/4dd4f99e-haiku.png" data-image-dimensions="1151x325" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="/images/images.squarespace-cdn.com/4dd4f99e-haiku.png" width="1151" height="325" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" loading="lazy" decoding="async" data-loader="sqs">
             </div>
           </div>
-        
             </button>
-          
-        
-
-        
-      
         </figure>
-      
-
     </div>
-  
-
-
-  
-
-
 </div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1678568734246_82317"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;">What are your thoughts? </p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div></div></div></div>

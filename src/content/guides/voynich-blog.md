@@ -3,7 +3,6 @@ title: "Voynich"
 canonicalUrl: "https://www.startresearching.com/voynich-blog"
 
 ---
-
 - [Extra "C" as a possible null character in 102r2 (versus 32v)](/voynich-blog/extra-c-character-or-different-words)
 - [The Voynich Zodiac &amp; the Labors of the Months](/voynich-blog/insights-on-the-zodiac)
 - [More on first character start vertical patterns within the Voynich](/voynich-blog/more-on-first-character-start-vertical-patterns-within-the-voynich)

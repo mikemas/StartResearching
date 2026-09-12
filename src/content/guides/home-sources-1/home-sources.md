@@ -4,48 +4,12 @@ description: "Below is a list of different types of \u201chome sources\u201d tha
 canonicalUrl: "https://www.startresearching.com/home-sources-1/home-sources"
 
 ---
-
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1587272484889" id="item-5e9bdb18c8159d1018391880"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-a36494804ded6e64d4f1"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;">Below is a list of different types of “home sources” that you may come across in your research, that you should think of as clues in the greater narrative of your research subjects.  This is one of the first places you should look when starting genealogy research. Search your home, your parents, and your grandparents, or any relatives and close family friends or neighbors (or ask them to do it for you). </p><p class="" style="white-space:pre-wrap;">Think about why these things were saved and what these objects may have meant to your relatives - the very fact that they were saved means they were valued at some point.  Do not take anything without permission, and always try to copy or scan the originals.  If you don’t have access to a scanner see if you can borrow the items to take to a library or office store that will allow you to use their scanners. You may also take photographs. </p><p class="" style="white-space:pre-wrap;">Catalog and index all your findings, and list as much information as possible. Identify those in pictures with names, relationships, and times. Write down where you found this, and if the person sharing it with you mentioned anything. </p><p class="" style="white-space:pre-wrap;">Take all your information and add it to your research notes - did you uncover anything new? While we all hope to find treasures like marriage certificates or family bibles, even the smallest clue like a prayer card can tell you what church your ancestor belonged to, and lead you to your next steps of contacting that church for records. </p><p class="" style="white-space:pre-wrap;">When you’re ready, expand your search of home sources to local thrift stores, antique stores, and used book stores. Even local museums or historical societies may have artifacts related to your ancestors. </p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1587271273199_287118" id="block-yui_3_17_2_1_1587271273199_287118"><div class="sqs-block-content">
-  
-
-<div
-  class="sqs-code-container"
-  
-  
-    data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}"
-  
-  
-  
-  
->
-  
+<div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}" >
     <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:1;border-color:#ccc;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:#ccc;color:#333;background-color:#fff;}
@@ -56,9 +20,7 @@ canonicalUrl: "https://www.startresearching.com/home-sources-1/home-sources"
 .tg .tg-2bev{text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-
-<table class="tg" 
-<colgroup>
+<table class="tg" <colgroup>
 <col style="width: 278px">
 <col style="width: 509px">
 </colgroup>
@@ -235,42 +197,11 @@ canonicalUrl: "https://www.startresearching.com/home-sources-1/home-sources"
     <td class="tg-0lax">And scrapbooks, wedding rings</td>
   </tr>
 </table>
-  
-  
-
-
-
 </div>
-
 <style class="transform-overrides-vars">
-  
 </style>
-
 </div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1587271273199_335837"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;">See also: <a href="/transcribing-records" target="_blank">Transcribing Records</a><strong> </strong>and <a href="/preserving-records">Preserving Records</a></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Return to <a href="/records">Records</a></p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </div></div></div></div></div>

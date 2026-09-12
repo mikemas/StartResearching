@@ -104,7 +104,7 @@ Approve the staging preview, then at cutover time provide registrar/DNS access (
 Keep it until the new site is verified on the real domain, then downgrade/cancel hosting. Domain renewal itself stays as-is (Tucows, expires 2027-01-10).
 
 **What about images?**
-Short term they stay hotlinked from `images.squarespace-cdn.com` (works fine). Later we self-host them so nothing depends on Squarespace.
+All 346 images are self-hosted in `public/images/` — zero dependence on Squarespace. Includes gallery lazy-load fix (`data-src` → `src`) and srcset cleanup.
 
 **Will Google rankings break?**
 Mitigated by preserving `/blog/<slug>` URLs plus redirects for changed paths. Staging review includes checking top posts.
@@ -128,6 +128,7 @@ Moved here from the old "What exists now" section; will be removed when done.
 - [x] GitHub repo created: https://github.com/mikemas/StartResearching
 - [x] Parse RSS → Markdown posts, preserve slugs (50 published posts imported)
 - [x] Add Pages deploy workflow + staging URL (Pages enabled, https://mikemas.github.io/StartResearching/ deploying)
+- [x] Images self-hosted (346 files in `public/images/`, render sweep: 0 escaped tags on all pages)
 - [ ] Redirects for old Squarespace paths
 - [ ] Staging review + Sherri approval
 - [ ] DNS cutover, verify, downgrade Squarespace

@@ -5,993 +5,145 @@ description: "3 October 2022, by Sherri Mastrangelo Fraternal orders like the Fr
 canonicalUrl: "https://www.startresearching.com/blog/african-american-secret-societies-amp-fraternal-orders"
 
 ---
-
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1664474127152" id="item-6331ca6e452121046724bc27"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-60ed2656f6a97317333c"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>3 October 2022, by Sherri Mastrangelo</strong></span></p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div><div class="sqs-block markdown-block sqs-block-markdown" data-block-type="44" data-sqsp-block="markdown" id="block-yui_3_17_2_1_1664838519725_5529"><div class="sqs-block-content"><p>Fraternal orders like the Freemasons, the Elks, and the Odd Fellows reached the height of their popularity in the 19th century, and many of our ancestors were members. These social clubs are well-known by outsiders for their secretive nature, as well as their use of symbols and mysterious rituals. They are also known for the benefits they bring through community service or charity work. Yet, like many groups of the time, these social clubs were originally for white people only - excluding African Americans <sup data-preserve-html-node="true">(1)</sup>.</p>
-
 </div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1664838519725_5592"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;">These excluded people understood the value of these social groups for them, especially during and immediately post legal slavery in America, and found ingenious ways to create their own fraternal orders (which I’ll share below). </p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div><div class="sqs-block markdown-block sqs-block-markdown" data-block-type="44" data-sqsp-block="markdown" id="block-yui_3_17_2_1_1664838519725_9488"><div class="sqs-block-content"><p>Modern researchers should understand these groups were often left out of city and social directories of the time <sup data-preserve-html-node="true">(2)</sup>, making it more difficult to find membership histories, but knowing which groups were popular and where will help you find specific lodges, which may keep their own records. Newspaper records, as well as African American created newspapers and directories, may also be helpful in your search. </p>
-
 </div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1664207265715_86170"><div class="sqs-block-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-    
-  
-    <div
-        class="
-          image-block-outer-wrapper
-          layout-caption-below
-          design-layout-inline
-          combination-animation-none
-          individual-animation-none
-          individual-text-animation-none
-        "
-        data-test="image-block-inline-outer-wrapper"
-        data-sqsp-image-classic-block-layout="inline"
-    >
-
-      
-
-      
-        <figure
-            class="
-              sqs-block-image-figure
-              intrinsic
-            "
-            style="max-width:1200px;"
-        >
-          
-        
-        
-
-        
-          
-            
-          <div
-              
-              
-              class="image-block-wrapper"
-              data-animation-role="image"
-              
-  
-
-          >
-            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
-              
-          
-        
-              has-aspect-ratio
-            " style="
-                position: relative;
-                
-                  padding-bottom:52.499996185302734%;
-                
-                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
-              "
-              >
-                
-                
-                
-                
-                
-                
-                
-                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/c7d16be7-5eca-4b45-b071-8f1e914d772c/knights.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/c7d16be7-5eca-4b45-b071-8f1e914d772c/knights.png" data-image-dimensions="1200x630" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/c7d16be7-5eca-4b45-b071-8f1e914d772c/knights.png" width="1200" height="630" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/c7d16be7-5eca-4b45-b071-8f1e914d772c/knights.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/c7d16be7-5eca-4b45-b071-8f1e914d772c/knights.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/c7d16be7-5eca-4b45-b071-8f1e914d772c/knights.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/c7d16be7-5eca-4b45-b071-8f1e914d772c/knights.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/c7d16be7-5eca-4b45-b071-8f1e914d772c/knights.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/c7d16be7-5eca-4b45-b071-8f1e914d772c/knights.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/c7d16be7-5eca-4b45-b071-8f1e914d772c/knights.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
-
+    <div class=" image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none " data-test="image-block-inline-outer-wrapper" data-sqsp-image-classic-block-layout="inline" >
+        <figure class=" sqs-block-image-figure intrinsic " style="max-width:1200px;" >
+          <div class="image-block-wrapper" data-animation-role="image" >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element has-aspect-ratio " style=" position: relative; padding-bottom:52.499996185302734%; overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black); " >
+                <img data-stretch="false" data-src="/images/images.squarespace-cdn.com/0071ec78-knights.png" data-image="/images/images.squarespace-cdn.com/0071ec78-knights.png" data-image-dimensions="1200x630" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="/images/images.squarespace-cdn.com/0071ec78-knights.png" width="1200" height="630" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" loading="lazy" decoding="async" data-loader="sqs">
             </div>
           </div>
-        
-          
-        
-
-        
-      
         </figure>
-      
-
     </div>
-  
-
-
-  
-
-
 </div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1664590262076_8472"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>Prince Hall Masons</strong></span><br>The origin story of first African American fraternal order in the states, the Prince Hall Masons, should be taught more in history classes. Though many articles refer to him as a “West Indian immigrant”, Prince Hall himself was a former slave living in Boston, Massachusetts. In 1775, he and 14 other freed Black men were “made masons in Lodge #441 of the Irish Registry attached to the 38th British Foot Infantry…it marked the first time that Black men were made masons in America” (princehall.org). Shortly after the American Revolutionary War started, and when his infantry lodge went off to fight, Hall created African Lodge #1 under a special permit with limited privileges. </p><p class="" style="white-space:pre-wrap;">In 1784, having been rejected by other masonic leaders in America, Prince Hall petitioned the Grand Lodge of England for a charter to create a full masonic lodge. Surprisingly, so shortly after the American and British conflict, “the Grand Lodge of England issued a charter on September 29, 1784 to African Lodge #459, the first lodge of Blacks in America” (princehall.org).</p><p class="" style="white-space:pre-wrap;">Hall became Provincial Grand Master by 1791, soon after created another lodge in Philadelphia then Rhode Island, and African Lodge #459 became independent from the Grand Lodge of England by 1827. The success of the Prince Hall Masons grew, and “by 1865, there were more than 2,700 Prince Hall Masons meeting under the jurisdiction of 23 grand lodges in 22 states plus Canada and the District of Columbia…By the early 1900s, there were more than 66,000 Master Prince Hall Masons and another 51,000 apprentices…” then “from 1900 to 1930 the fraternity’s membership exploded” (Skocpol and Oser). Now there “are some 5,000 lodges and 47 grand lodges who trace their lineage to the Prince Hall Grand Lodge, Jurisdiction of Massachusetts” (princehall.org).</p><p class="" style="white-space:pre-wrap;">Further Research of the PHM: </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">The Most Worshipful Prince Hall Grand Lodge F. &amp; A.M. of Massachusetts,  (<a href="https://www.princehall.org/prince-hall-freemasonry/)">https://www.princehall.org/prince-hall-freemasonry/)</a> </p></li><li><p class="" style="white-space:pre-wrap;">“Prince Hall Freemasonry: A Resource Guide” from the Library of Congress (<a href="https://guides.loc.gov/prince-hall-freemasonry">https://guides.loc.gov/prince-hall-freemasonry</a>) </p></li><li><p class="" style="white-space:pre-wrap;">“Constitution and By-Laws of the Most Worshipful Prince Hall Grand Lodge of Free and Accepted Masons” (<a href="https://babel.hathitrust.org/cgi/pt?id=emu.010000666967&amp;view=1up&amp;seq=3&amp;skin=2021">https://babel.hathitrust.org/cgi/pt?id=emu.010000666967&amp;view=1up&amp;seq=3&amp;skin=2021</a>) </p></li></ul>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1664838519725_27926"><div class="sqs-block-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-    
-  
-    <div
-        class="
-          image-block-outer-wrapper
-          layout-caption-below
-          design-layout-inline
-          combination-animation-none
-          individual-animation-none
-          individual-text-animation-none
-        "
-        data-test="image-block-inline-outer-wrapper"
-        data-sqsp-image-classic-block-layout="inline"
-    >
-
-      
-
-      
-        <figure
-            class="
-              sqs-block-image-figure
-              intrinsic
-            "
-            style="max-width:640px;"
-        >
-          
-        
-        
-
-        
-          
-            
-          <div
-              
-              
-              class="image-block-wrapper"
-              data-animation-role="image"
-              
-  
-
-          >
-            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
-              
-          
-        
-              has-aspect-ratio
-            " style="
-                position: relative;
-                
-                  padding-bottom:80.9375%;
-                
-                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
-              "
-              >
-                
-                
-                
-                
-                
-                
-                
-                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ee3e8c7a-c02d-4605-bd65-2cdb944efc3e/service-pnp-cph-3b20000-3b27000-3b27500-3b27547r.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ee3e8c7a-c02d-4605-bd65-2cdb944efc3e/service-pnp-cph-3b20000-3b27000-3b27500-3b27547r.jpg" data-image-dimensions="640x518" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ee3e8c7a-c02d-4605-bd65-2cdb944efc3e/service-pnp-cph-3b20000-3b27000-3b27500-3b27547r.jpg" width="640" height="518" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ee3e8c7a-c02d-4605-bd65-2cdb944efc3e/service-pnp-cph-3b20000-3b27000-3b27500-3b27547r.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ee3e8c7a-c02d-4605-bd65-2cdb944efc3e/service-pnp-cph-3b20000-3b27000-3b27500-3b27547r.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ee3e8c7a-c02d-4605-bd65-2cdb944efc3e/service-pnp-cph-3b20000-3b27000-3b27500-3b27547r.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ee3e8c7a-c02d-4605-bd65-2cdb944efc3e/service-pnp-cph-3b20000-3b27000-3b27500-3b27547r.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ee3e8c7a-c02d-4605-bd65-2cdb944efc3e/service-pnp-cph-3b20000-3b27000-3b27500-3b27547r.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ee3e8c7a-c02d-4605-bd65-2cdb944efc3e/service-pnp-cph-3b20000-3b27000-3b27500-3b27547r.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ee3e8c7a-c02d-4605-bd65-2cdb944efc3e/service-pnp-cph-3b20000-3b27000-3b27500-3b27547r.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
-
+    <div class=" image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none " data-test="image-block-inline-outer-wrapper" data-sqsp-image-classic-block-layout="inline" >
+        <figure class=" sqs-block-image-figure intrinsic " style="max-width:640px;" >
+          <div class="image-block-wrapper" data-animation-role="image" >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element has-aspect-ratio " style=" position: relative; padding-bottom:80.9375%; overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black); " >
+                <img data-stretch="false" data-src="/images/images.squarespace-cdn.com/5d0986ce-service-pnp-cph-3b20000-3b27000-3b27500-3b27547r.jpg" data-image="/images/images.squarespace-cdn.com/5d0986ce-service-pnp-cph-3b20000-3b27000-3b27500-3b27547r.jpg" data-image-dimensions="640x518" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="/images/images.squarespace-cdn.com/5d0986ce-service-pnp-cph-3b20000-3b27000-3b27500-3b27547r.jpg" width="640" height="518" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" loading="lazy" decoding="async" data-loader="sqs">
             </div>
           </div>
-        
-          
-        
-
-        
-          
           <figcaption data-sqsp-image-classic-block-caption-container class="image-caption-wrapper">
             <div class="image-caption"><p class="" style="white-space:pre-wrap;">“Group of Grand Lodge Masons No. 2” c1897, <a href="https://www.loc.gov/pictures/item/2002709727/" target="_blank">Library of Congress</a>. No known copyright restrictions.</p></div>
           </figcaption>
-        
-      
         </figure>
-      
-
     </div>
-  
-
-
-  
-
-
 </div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1664838519725_28318"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>Grand United Order of Odd Fellows</strong></span></p><p class="" style="white-space:pre-wrap;">Like the Prince Hall Masons, a group of African Americans faced rejection from existing Odd Fellow groups in America. And “again, African Americans used a tie to England to do an end run around their racially exclusionary white countrymen. In the early 1840s, members of an African American literary club in New York City applied to affiliate with the white Independent Order of Odd Fellows (an offshoot of the English Manchester Unity Odd Fellows)” and with the help of Peter Ogden, member of a lodge called the Grand United Order, they were able to apply for a British charter from his order. (Skocpol and Oser).  Hence this group, the Grand United Order of Odd Fellows (G.U.O.O.F.), is not a part of the Independent Order of Odd Fellows in America (I.O.O.F.) at the time, but a separate parallel group with a charter from England. </p><p class="" style="white-space:pre-wrap;">By 1886, “they had already become the largest African American order, with 52,814 members meeting in more than 1,000 lodges spread across 29 states” (Skocpol and Oser). In addition, “the black Odd Fellows provided social insurance benefits; built social-welfare institutions as well as halls that served as meeting places for many black groups; engaged in impressive parades and ritual displays; and attracted the leading men as well as more humble members in countless African American communities”  (Skocpol and Oser). </p><p class="" style="white-space:pre-wrap;">Note that the “Household of Ruth” is the female auxiliary branch. </p><p class="" style="white-space:pre-wrap;">Further Research of the GUOOF: </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">“The Grand United Order of Odd Fellows in America” (<a href="https://guoof.org/)">https://guoof.org/)</a> </p></li><li><p class="" style="white-space:pre-wrap;">Brooks, Chas. H. “The Official History and Manual of the Grand United Order of Odd Fellows in America, A Chronological Treatise” Philadelphia, PA. 1902. (<a href="https://babel.hathitrust.org/cgi/pt?id=emu.010000427966&amp;view=1up&amp;seq=7&amp;skin=2021">https://babel.hathitrust.org/cgi/pt?id=emu.010000427966&amp;view=1up&amp;seq=7&amp;skin=2021</a>) </p></li></ul>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1664838519725_39920"><div class="sqs-block-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-    
-  
-    <div
-        class="
-          image-block-outer-wrapper
-          layout-caption-below
-          design-layout-inline
-          combination-animation-none
-          individual-animation-none
-          individual-text-animation-none
-        "
-        data-test="image-block-inline-outer-wrapper"
-        data-sqsp-image-classic-block-layout="inline"
-    >
-
-      
-
-      
-        <figure
-            class="
-              sqs-block-image-figure
-              intrinsic
-            "
-            style="max-width:425px;"
-        >
-          
-        
-        
-
-        
-          
-            
-          <div
-              
-              
-              class="image-block-wrapper"
-              data-animation-role="image"
-              
-  
-
-          >
-            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
-              
-          
-        
-              has-aspect-ratio
-            " style="
-                position: relative;
-                
-                  padding-bottom:150.58824157714844%;
-                
-                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
-              "
-              >
-                
-                
-                
-                
-                
-                
-                
-                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/15d3e3e7-6fd0-4797-bf8f-c2c8c9eb49a1/oddfellows.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/15d3e3e7-6fd0-4797-bf8f-c2c8c9eb49a1/oddfellows.jpg" data-image-dimensions="425x640" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/15d3e3e7-6fd0-4797-bf8f-c2c8c9eb49a1/oddfellows.jpg" width="425" height="640" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/15d3e3e7-6fd0-4797-bf8f-c2c8c9eb49a1/oddfellows.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/15d3e3e7-6fd0-4797-bf8f-c2c8c9eb49a1/oddfellows.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/15d3e3e7-6fd0-4797-bf8f-c2c8c9eb49a1/oddfellows.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/15d3e3e7-6fd0-4797-bf8f-c2c8c9eb49a1/oddfellows.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/15d3e3e7-6fd0-4797-bf8f-c2c8c9eb49a1/oddfellows.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/15d3e3e7-6fd0-4797-bf8f-c2c8c9eb49a1/oddfellows.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/15d3e3e7-6fd0-4797-bf8f-c2c8c9eb49a1/oddfellows.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
-
+    <div class=" image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none " data-test="image-block-inline-outer-wrapper" data-sqsp-image-classic-block-layout="inline" >
+        <figure class=" sqs-block-image-figure intrinsic " style="max-width:425px;" >
+          <div class="image-block-wrapper" data-animation-role="image" >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element has-aspect-ratio " style=" position: relative; padding-bottom:150.58824157714844%; overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black); " >
+                <img data-stretch="false" data-src="/images/images.squarespace-cdn.com/a851a9ed-oddfellows.jpg" data-image="/images/images.squarespace-cdn.com/a851a9ed-oddfellows.jpg" data-image-dimensions="425x640" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="/images/images.squarespace-cdn.com/a851a9ed-oddfellows.jpg" width="425" height="640" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" loading="lazy" decoding="async" data-loader="sqs">
             </div>
           </div>
-        
-          
-        
-
-        
-          
           <figcaption data-sqsp-image-classic-block-caption-container class="image-caption-wrapper">
             <div class="image-caption"><p class="" style="white-space:pre-wrap;">“African American man, member of the Grand United Order of Odd Fellows, wearing fraternal order collar and apron”.<a href="https://www.loc.gov/pictures/resource/ppmsca.11498/" target="_blank"> Library of Congress</a>. No known copyright restrictions. </p></div>
           </figcaption>
-        
-      
         </figure>
-      
-
     </div>
-  
-
-
-  
-
-
 </div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1664838519725_40305"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>Knights of Pythias of North America, South America, Europe, Asia, and Africa*</strong></span></p><p class="" style="white-space:pre-wrap;">Not to be confused with the Knights of Pythias, this African American fraternal order with a longer name (sometimes referred to as “the Colored Knights of Pythias” in earlier texts) was another parallel group created out of necessity. The group was created in 1880, by Dr. Thomas W. Stringer, “a black Mason, African Methodist Episcopal minister, and Reconstruction-era Mississippi state senator” (Skocpol and Oser) and his associates in Vicksburg, Mississippi. </p><p class="" style="white-space:pre-wrap;">This time they did not resort to England’s help, but instead&nbsp;“a handful of black men who could “pass” racially gained admittance to a white lodge and appropriated its secrets “on the grounds that since the exclusion of colored men violated the purpose of the order, which was to extend friendship, charity, and benevolence among men, Divine Providence had made it possible for [them] to acquire the ritual” (Skocpol and Oser). In 1880, Lightfoot Lodge #1 was created in Mississippi. </p><p class="" style="white-space:pre-wrap;"><em>*Note the group name would later include Australia. Sometimes referenced as “The Supreme Lodge of Knights of Pythias of North America, South America, Europe, Asia, Africa, and Australia.”</em></p><p class="" style="white-space:pre-wrap;">Further Research of the KPNSAEAA:</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">“Knights of Pythias Files, 1903 - 1974” The New York Public Library Archives &amp; Manuscripts. (In Person Research) (<a href="https://archives.nypl.org/scm/21064)">https://archives.nypl.org/scm/21064)</a> </p></li><li><p class="" style="white-space:pre-wrap;">Peebles, Marilyn T. “The Alabama Knights of Pythias of North America, South America, Europe, Asia, Africa, and Australia: A Brief History” 2012. </p></li></ul>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1664838519725_78473" id="block-yui_3_17_2_1_1664838519725_78473"><div class="sqs-block-content">
-  
-
-<div
-  class="sqs-code-container"
-  
-  
-    data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}"
-  
-  
-  
-  
->
-  
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8442952758105071"
-     crossorigin="anonymous"></script>
+<div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}" >
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8442952758105071" crossorigin="anonymous"></script>
 <!-- FrAmFr4 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8442952758105071"
-     data-ad-slot="3200059272"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8442952758105071" data-ad-slot="3200059272" data-ad-format="auto" data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-  
-
-
-
 </div>
-
 <style class="transform-overrides-vars">
-  
 </style>
-
 </div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1664838519725_78540"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>Improved Benevolent and Protective Order of Elks of the World</strong></span> </p><p class="" style="white-space:pre-wrap;">The IBPOE of W was established in 1898 by a former slave, Arthur James Riggs, with attorney Benjamin Franklin Howard, who had faced rejection from their local Elks when they tried to join. They “managed to procure a copy of the white Elks ritual” in Cincinnati, Ohio and form their own group based on the same principals and rituals (Skocpol and Oser).  The new group added the “Improved” part of the name. &nbsp;</p><p class="" style="white-space:pre-wrap;">What’s more, they discovered the original Elks (the BPOE) had never bothered to copyright their name or rituals or anything, and so they were able to obtain a copyright themselves from the Library of Congress. </p><p class="" style="white-space:pre-wrap;">Members of the BPOE were not happy about this, and Riggs was threatened with lynching and forced to go into hiding. BF Howard was able to continue the group, and today the Improved Benevolent and Protective Order of Elks is one of the largest Black fraternal orders. </p><p class="" style="white-space:pre-wrap;">The women’s group is called the Daughters of the IBPOEW.</p><p class="" style="white-space:pre-wrap;">Further Research of the IBPOEW: </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">History of the Improved Benevolent Protective Order of Elks of the World (<a href="https://www.ibpoew.org/history">https://www.ibpoew.org/history</a>)</p></li><li><p class="" style="white-space:pre-wrap;">Laxton, Ymelda Rivera. “The Improved Benevolent and Protective Order of the Elks of the World” December 3, 2020. Scottish Rite Masonic Museum &amp; Library Blog. (https://nationalheritagemuseum.typepad.com/library_and_archives/improved-benevolent-and-protective-order-of-elks-of-the-world/)</p></li><li><p class="" style="white-space:pre-wrap;">Wesley, Charles H. “History of the Improved Benevolent and Protective Order of Elks of the World, 1898 - 1954” Association for the Study of African American Life, 2010. </p></li></ul><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>United Brothers of Friendship and Sisters of the Mysterious Ten</strong></span></p><p class="" style="white-space:pre-wrap;">“The United Brothers of Friendship (UBF) grew from an originally male-only local beneficial society launched by a youthful group of free men and slaves in Louisville, Kentucky, in 1861” (Skocpol and Oser), and adapted through the Civil War as some members became freed. The Sisters of the Mysterious Ten (SMT) was formalized in 1878, though women had been participating earlier as well. As for size, “in the 1890’s, there were reportedly some 100,000 members in 19 states and 2 territories” (Skocpol and Oser). </p><p class="" style="white-space:pre-wrap;">Further Research of the UBF:</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Gibson, W.H. “History of the United Brothers of Friendship and Sisters of the Mysterious Ten”, 1897. Louisville, KY. Bradley &amp; Gilbert Company. (<a href="https://archive.org/details/brofriendsismyst00gibsrich/page/n3/mode/2up">https://archive.org/details/brofriendsismyst00gibsrich/page/n3/mode/2up</a>)</p></li><li><p class="" style="white-space:pre-wrap;">Ritual and Degree Book of the United Brothers of Friendship (<a href="https://archive.org/details/649717102.4767.emory.edu/page/n5/mode/2up">https://archive.org/details/649717102.4767.emory.edu/page/n5/mode/2up</a>)</p></li></ul>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1664838519725_60936"><div class="sqs-block-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-    
-  
-    <div
-        class="
-          image-block-outer-wrapper
-          layout-caption-below
-          design-layout-inline
-          combination-animation-none
-          individual-animation-none
-          individual-text-animation-none
-        "
-        data-test="image-block-inline-outer-wrapper"
-        data-sqsp-image-classic-block-layout="inline"
-    >
-
-      
-
-      
-        <figure
-            class="
-              sqs-block-image-figure
-              intrinsic
-            "
-            style="max-width:960px;"
-        >
-          
-        
-        
-
-        
-          
-            
-          <div
-              
-              
-              class="image-block-wrapper"
-              data-animation-role="image"
-              
-  
-
-          >
-            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
-              
-          
-        
-              has-aspect-ratio
-            " style="
-                position: relative;
-                
-                  padding-bottom:66.66667175292969%;
-                
-                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
-              "
-              >
-                
-                
-                
-                
-                
-                
-                
-                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/d6a32871-1c8c-4bbc-a2b1-58d9c34687a8/iosl.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/d6a32871-1c8c-4bbc-a2b1-58d9c34687a8/iosl.jpg" data-image-dimensions="960x640" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/d6a32871-1c8c-4bbc-a2b1-58d9c34687a8/iosl.jpg" width="960" height="640" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/d6a32871-1c8c-4bbc-a2b1-58d9c34687a8/iosl.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/d6a32871-1c8c-4bbc-a2b1-58d9c34687a8/iosl.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/d6a32871-1c8c-4bbc-a2b1-58d9c34687a8/iosl.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/d6a32871-1c8c-4bbc-a2b1-58d9c34687a8/iosl.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/d6a32871-1c8c-4bbc-a2b1-58d9c34687a8/iosl.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/d6a32871-1c8c-4bbc-a2b1-58d9c34687a8/iosl.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/d6a32871-1c8c-4bbc-a2b1-58d9c34687a8/iosl.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
-
+    <div class=" image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none " data-test="image-block-inline-outer-wrapper" data-sqsp-image-classic-block-layout="inline" >
+        <figure class=" sqs-block-image-figure intrinsic " style="max-width:960px;" >
+          <div class="image-block-wrapper" data-animation-role="image" >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element has-aspect-ratio " style=" position: relative; padding-bottom:66.66667175292969%; overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black); " >
+                <img data-stretch="false" data-src="/images/images.squarespace-cdn.com/cff953e6-iosl.jpg" data-image="/images/images.squarespace-cdn.com/cff953e6-iosl.jpg" data-image-dimensions="960x640" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="/images/images.squarespace-cdn.com/cff953e6-iosl.jpg" width="960" height="640" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" loading="lazy" decoding="async" data-loader="sqs">
             </div>
           </div>
-        
-          
-        
-
-        
-          
           <figcaption data-sqsp-image-classic-block-caption-container class="image-caption-wrapper">
             <div class="image-caption"><p class="" style="white-space:pre-wrap;">The St Luke Penny Savings Bank, opened by the Independent Order of St. Luke. <a href="https://www.nps.gov/museum/exhibits/maggie_walker/exb/economic%20empowerment/b%20st%20luke%20bank/mawa00007231.html" target="_blank">NPS.gov. </a></p></div>
           </figcaption>
-        
-      
         </figure>
-      
-
     </div>
-  
-
-
-  
-
-
 </div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1664838519725_61309"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>Independent Order of St. Luke</strong></span></p><p class="" style="white-space:pre-wrap;">The Independent Order of St. Luke (IOSL) “first appeared in Baltimore in 1867 as a women’s beneficial society connected to the Bethel African Methodist Episcopal Church” (Skocpol and Oser), founded by a formerly enslaved woman named Mary Prout under the name the United Order of St. Luke. It later admitted men as well. </p><p class="" style="white-space:pre-wrap;">The IOSL was organized under Maggie Lena Walker, who took over in 1899, and “under her thirty-five year tenure, the IOSL expanded nationwide to twenty-six states and at its peak boasted 100,000 members. She was, at the time, the only woman known to be leading a major Black fraternal order” (NPS). The IOSL, with her leadership, established several local businesses tied to the order, including the St. Luke Penny Savings Bank. </p><p class="" style="white-space:pre-wrap;">Further Research of the IOSL: </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"> “Independent Order of St. Luke” by the National Park Service (<a href="https://www.nps.gov/articles/000/independent-order-of-st-luke.htm#:~:text=and%20Early%20Years-,The%20Independent%20Order%20of%20St.,could%20not%20otherwise%20access%20it">https://www.nps.gov/articles/000/independent-order-of-st-luke.htm#:~:text=and%20Early%20Years-,The%20Independent%20Order%20of%20St.,could%20not%20otherwise%20access%20it</a>.) </p></li><li><p class="" style="white-space:pre-wrap;">“Independent Order of St. Luke” National Museum of African American History &amp; Culture. (<a href="https://www.searchablemuseum.com/independent-order-of-st-luke)">https://www.searchablemuseum.com/independent-order-of-st-luke)</a> </p></li><li><p class="" style="white-space:pre-wrap;">Degree Ritual of the Independent Order of St Luke of Virginia, 1894, on Internet Archive: <a href="https://archive.org/details/DegreeRitualOfTheIndependentOrderOfStLukeOfVirginia1894/mode/2up">https://archive.org/details/DegreeRitualOfTheIndependentOrderOfStLukeOfVirginia1894/mode/2up</a></p></li></ul>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1664838519725_77028" id="block-yui_3_17_2_1_1664838519725_77028"><div class="sqs-block-content">
-  
-
-<div
-  class="sqs-code-container"
-  
-  
-    data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}"
-  
-  
-  
-  
->
-  
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8442952758105071"
-     crossorigin="anonymous"></script>
+<div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}" >
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8442952758105071" crossorigin="anonymous"></script>
 <!-- FrAmFrat3 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8442952758105071"
-     data-ad-slot="3163318680"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8442952758105071" data-ad-slot="3163318680" data-ad-format="auto" data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-  
-
-
-
 </div>
-
 <style class="transform-overrides-vars">
-  
 </style>
-
 </div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1664838519725_77094"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>The Grand United Order of True Reformers</strong></span></p><p class="" style="white-space:pre-wrap;">The Grand United Order of True Reformers (GUOTR or U.O. of T.R.) was an “insurance-oriented fraternal group open to both men and women” (Skocpol and Oser) that was “founded in Richmond in 1881 by the Reverend William Washington Browne, a former slave and Union soldier who became a teacher, temperance organizer, Colored Methodist minister, and then African Methodist Episcopal minister” (Skocpol and Oser). The GUOTR also established local businesses, including the True Reformers Bank, the first Black-owned bank in the nation.</p><p class="" style="white-space:pre-wrap;">They called each of their lodges “Fountains”, with the main branch the Grand Fountain. </p><p class="" style="white-space:pre-wrap;">Further Research of  the GUOTR: </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Burrell, W.P. “Twenty-five years history of the Grand Fountain of the United Order of True Reformers: 1881 - 1905” 1909 (<a href="https://archive.org/details/twentyfiveyearsh00burr">https://archive.org/details/twentyfiveyearsh00burr</a>)</p></li><li><p class="" style="white-space:pre-wrap;">Hollie, Donna Tyler. “Grand Fountain of the United Order of True Reformers”. Encyclopedia Virginia. (<a href="https://encyclopediavirginia.org/entries/grand-fountain-of-the-united-order-of-true-reformers/)">https://encyclopediavirginia.org/entries/grand-fountain-of-the-united-order-of-true-reformers/)</a> </p></li><li><p class="" style="white-space:pre-wrap;">Watkinson, James D. “William Washington Browne and the True Reformers of Richmond, Virginia” The Virginia Magazine of History and Biography. Vol. 97, No. 3, “A Sense of Their Own Power”: Black Virginians, 1619-1989 (Jul, 1989), pp. 375 – 398. Published By: Virginia Historical Society. (<a href="https://www.jstor.org/stable/4249094">https://www.jstor.org/stable/4249094</a>) NOTE: Requires login with Jstor</p></li></ul><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>International Order of the Knights and Daughters of Tabor</strong></span></p><p class="" style="white-space:pre-wrap;">The International Order of Twelve Knights, was founded by Reverend Moses Dickson in 1872, in Independence, Missouri. Dickson “was born a free man in Cincinnati in 1824, was a Union soldier during the Civil War, and afterwards became a prominent clergyman in the African Methodist Episcopal Church.” (Croteau). He was also “the second Grand Master of the Prince Hall Grand Lodge of Missouri” (Croteau). </p><p class="" style="white-space:pre-wrap;">Dickson claims his International Order of Twelve Knights was founded by members of the Order of Twelve, a secret anti-slavery group in the South prior to the Civil War. Modern researchers question if his stories were attempts to rile up membership. </p><p class="" style="white-space:pre-wrap;">The International Order of the Knights and Daughters of Tabor may be best known for opening the Taborian Hospital in 1942, in Mississippi, with an all-Black staff of doctors and nurses, and serving Black patients. </p><p class="" style="white-space:pre-wrap;">This fraternal order no longer exists. </p><p class="" style="white-space:pre-wrap;">Further Research of the IOKDT:</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Dickson, Rev. Moses. “Manual of the International Order of Twelve of the Knights and Daughters of Tabor, containing General Laws, Regulations, Ceremonies, Drill, and a Taborian Lexicon” St Louis, MO. 1891. A.R. Fleming &amp; Co., Printers. (<a href="https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t9474ff52&amp;view=1up&amp;seq=5&amp;skin=2021">https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t9474ff52&amp;view=1up&amp;seq=5&amp;skin=2021</a>) </p></li><li><p class="" style="white-space:pre-wrap;">Croteau, Jeff. “Moses Dickson and the Order of Twelve”. 26 May 2008. (https://nationalheritagemuseum.typepad.com/library_and_archives/international-order-of-twelve-of-knights-and-daughters-of-tabor/)</p></li><li><p class="" style="white-space:pre-wrap;">Laxton, Rivera Ymelda. “International Order of Twelve”. Scottish Rite Masonic Museum &amp; Library Blog. 1 August 2017. (<a href="https://nationalheritagemuseum.typepad.com/library_and_archives/international-order-of-twelve-of-knights-and-daughters-of-tabor/">https://nationalheritagemuseum.typepad.com/library_and_archives/international-order-of-twelve-of-knights-and-daughters-of-tabor/</a>)</p></li></ul><p class="" style="white-space:pre-wrap;"><br><br></p><p class="" style="white-space:pre-wrap;">Additional African American fraternal orders and social groups included the Mosiac Templars of America (MTA); the Ancient Egyptian Arabic Order Nobles Mystic Shrine of North and South America; the Ancient United Order Knights and Daughters of Africa; the American Woodmen; Knights of the Invisible Colored Kingdom, and more. For a comprehensive list of groups, see the Skocpol and Oser article referenced. </p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-horizontalrule horizontalrule-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.horizontalrule/1c8ea4ed-0373-4f0a-9bb4-2cc767e044eb_271/website.components.horizontalrule.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.horizontalrule/1c8ea4ed-0373-4f0a-9bb4-2cc767e044eb_271/website.components.horizontalrule.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.horizontalrule" data-sqsp-block="line" data-website-component-id="yui_3_17_2_1_1664590262076_41866" id="block-yui_3_17_2_1_1664590262076_41866"><div class="sqs-block-content">
-  
-
-
 <div>
   <hr />
-  
     <style class="transform-overrides-vars">
-  
 </style>
-
-    
-
-
-
-  
 </div>
 </div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1664838519725_74643" id="block-yui_3_17_2_1_1664838519725_74643"><div class="sqs-block-content">
-  
-
-<div
-  class="sqs-code-container"
-  
-  
-    data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}"
-  
-  
-  
-  
->
-  
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8442952758105071"
-     crossorigin="anonymous"></script>
+<div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}" >
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8442952758105071" crossorigin="anonymous"></script>
 <!-- AfriAmFratOrd1 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8442952758105071"
-     data-ad-slot="5789482023"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8442952758105071" data-ad-slot="5789482023" data-ad-format="auto" data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-  
-
-
-
 </div>
-
 <style class="transform-overrides-vars">
-  
 </style>
-
 </div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1664590262076_41928"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;">Notes:</p><p class="" style="white-space:pre-wrap;">(1) An article titled <em>“Organization despite Adversity: The Origins and Development of African American Fraternal Organizations”</em> by Theda Skocpol and Jennifer Lynn Oser, shares that “prior to the 1970s, only a handful of major U.S. white associations were willing to accept African Americans as members” and that “the vast majority of U.S. white-led groups - above all, major white male fraternal groups, such as the Masons, the Odd Fellows, the Knights of Pythias, and the Elks - had explicit racial exclusion clauses in their constitutions or regularly practiced racial exclusion” (Skocpol and Oser). </p><p class="" style="white-space:pre-wrap;">(2) “National and local directories giving rich details about white voluntary associations between the 1870s and the 1920s often omitted most African American associations other than churches” (Skocpol and Oser) </p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Sources: </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Croteau, Jeff. “Moses Dickson and the Order of Twelve”. 26 May 2008. (https://nationalheritagemuseum.typepad.com/library_and_archives/international-order-of-twelve-of-knights-and-daughters-of-tabor/)</p></li><li><p class="" style="white-space:pre-wrap;">PrinceHall.org. “A Brief History of Prince Hall Freemasonry in Massachusetts” The Most Worshipful Prince Hall Grand Lodge F. &amp; A.M. of Massachusetts. (<a href="https://www.princehall.org/prince-hall-freemasonry/)">https://www.princehall.org/prince-hall-freemasonry/)</a> </p></li><li><p class="" style="white-space:pre-wrap;">Skocpol, Theda and Oser, Jennifer Lynn. “Organization despite Adversity: The Origins and Development of African American Fraternal Associations” Vol. 28, No. 3, Special Issue: African American Fraternal Associations and the History of Civil Society in the United States (Fall, 2004), pp. 367-437 (71 pages) Cambridge University Press, (<a href="https://www.jstor.org/stable/40267851">https://www.jstor.org/stable/40267851</a>)</p></li><li><p class="" style="white-space:pre-wrap;">Stevens, Albert C. “The Cyclopedia of Fraternities…” 1899. (<a href="https://archive.org/details/cyclopdiaoffra00stevrich/mode/2up">https://archive.org/details/cyclopdiaoffra00stevrich/mode/2up</a>)</p></li></ul><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">More Recommended Reading: </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Grimshaw, William H. <em>Official History of Freemasonry Among the Colored People of North America </em>. New York, New York, 1903. (<a href="https://archive.org/details/officialhistoryo01grim">https://archive.org/details/officialhistoryo01grim</a>) </p></li><li><p class="" style="white-space:pre-wrap;">Richardson, Clement. <em>The National Cyclopedia of the Colored Race (1919). </em>(The Library of Congress: <a href="https://www.loc.gov/item/19015870/">https://www.loc.gov/item/19015870/</a>)</p></li><li><p class="" style="white-space:pre-wrap;">Schmidt, Alvin J. <em>Fraternal Organizations.</em> Westport, Connecticut. Greenwood Press, 1980. (<a href="https://archive.org/details/fraternalorganiz0000schm/page/n15/mode/2up?q=%22grand+united+order%22">https://archive.org/details/fraternalorganiz0000schm/page/n15/mode/2up?q=%22grand+united+order%22</a>)</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><br><br></p></li></ul>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1664838519725_75862" id="block-yui_3_17_2_1_1664838519725_75862"><div class="sqs-block-content">
-  
-
-<div
-  class="sqs-code-container"
-  
-  
-    data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}"
-  
-  
-  
-  
->
-  
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8442952758105071"
-     crossorigin="anonymous"></script>
+<div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}" >
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8442952758105071" crossorigin="anonymous"></script>
 <!-- AfrAmerFrat2 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8442952758105071"
-     data-ad-slot="2556814024"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8442952758105071" data-ad-slot="2556814024" data-ad-format="auto" data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-  
-
-
-
 </div>
-
 <style class="transform-overrides-vars">
-  
 </style>
-
 </div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1664838519725_75928"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;"><br><br></p><p class="" style="white-space:pre-wrap;"><br><br></p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div></div></div></div>

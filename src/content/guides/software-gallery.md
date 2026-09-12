@@ -3,7 +3,6 @@ title: "Software Gallery"
 canonicalUrl: "https://www.startresearching.com/software-gallery"
 
 ---
-
 - [Family Tree Maker](/software-gallery/3rxtond7jefvgqza1bnkjq2nov0o1l)
 - [Brother's Keeper](/software-gallery/9ac7lp9smwf7cxncqy2378v7cwkj06)
 - [Ancestral Quest](/software-gallery/bamub877i63m7lf2ny5xpa81xp7mp1)

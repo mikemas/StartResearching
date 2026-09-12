@@ -3,7 +3,6 @@ title: "Surname Searches"
 canonicalUrl: "https://www.startresearching.com/surname-searches"
 
 ---
-
 - [Surname Search: "Allen"](/surname-searches/surname-search-allen)
 - [Surname Search: "Anderson"](/surname-searches/surname-search-anderson)
 - [Surname Search: "Brown"](/surname-searches/surname-search-brown)

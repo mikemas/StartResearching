@@ -5,50 +5,15 @@ description: "by Sherri Mastrangelo, 4 October 2025 Start Researching makes no c
 canonicalUrl: "https://www.startresearching.com/blog/genealogy-jobs-list-october-2025"
 
 ---
-
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1759615562172" id="item-68e196add993755a67b08d18"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1759619773537_5800"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>by Sherri Mastrangelo, 4 October 2025</strong></span></p><p class="" style="white-space:pre-wrap;"><em>Start Researching makes no claims or guarantees about the legitimacy, validity or availability of any positions listed below, and we are not responsible for any associated aspects of application or employment.  We are also not associated with any companies listed below, and are not sponsored in any way (other than ads that may appear on this site).</em> </p><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"><a href="https://careers.ancestry.com/jobs/59ebda07-8470-489f-a248-5c0fc12df03d" target="_blank">Archival Digitization Specialist - Ancestry</a> - Des Moines, Iowa (Ancestry.com)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://careers.ancestry.com/jobs/2658e944-98cd-4b0a-8061-40965ed5169f" target="_blank">Archival Digitization Specialist - Ancestry </a>- Washington, DC (Ancestry.com)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.indeed.com/pagead/clk?mo=r&amp;ad=-6NYlbfkN0DRVglgjhCLzUUKE3U1BlCNr1DNsEfrFLmBomm-jydIvqNOkb3IocawL_bWkNe9CE-nsqFh_VSM2Rg1UXYY73c5FSoGpXLBSyweW3rNKiELXTzPQgQ6XMqskrktRlVsRHxs0mHglrHe-2jgjsPij7T40Rqg5rZ3zb7e6fNeEq95gy1mhp_eu5CPE3WMURGqFjf9TKcI1ZHJ-q61Z2PlFugHjoWDjwSG3DBKelfX6-dpp9L8jo_tdWnnZb3zRUJKOaEi17zNlPeQlvkGEEjlX5PZ8TpGRFBt8s2fdBhbI3HzEKtlhAt2fM-mQx5murkQdlzTY28NWCAIAOm8MGuJ0zqOIIXizOWfGdOkDUS5yAuxdR15oAqVCYoL6eLt6QIloVeJOEBlxE3niElCv_P_26T2pdDnamHKCGfFDjLVE5TUyCmGqHkiuIMoyA60OLeuTKlcsqAxR9o1rafRyG_r8UZj0MQju5lMslgCnGs4its7EIEmYpZbn7iLlzIJSI53HgHuLwrnrOrcHO7Vn6zIeEAqL_hpSPI77w9vQBBoV1EBo3MJ19hE_F2hQi1x4GvOkUt9jvdPD3pK6q9G8_uFS2RGs-68BvKqxL1famyFogg72dWTQk2WJIwQu3MhP-9CMUHBjIvQZyQyxfDi-tHjDMTf&amp;xkcb=SoD66_M3sYj8YtwvxZ0BbzkdCdPP&amp;camk=ethIe0s0hefiHdff4ZaeQg==&amp;p=10&amp;fvj=0&amp;vjs=3&amp;tk=1j6olstjpggms84h&amp;jsa=2013" target="_blank">Archivist - Roman Catholic Diocese of Brooklyn</a> - Brooklyn, NY - (Indeed.com)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.ziprecruiter.com/c/Sisters-of-Notre-Dame/Job/Archivist,-part-time/-in-Belmont,CA?jid=47545e2a066e776a" target="_blank">Archivist (part-time) - Sisters of Notre Dame </a>- Belmont, CA (ZipRecruiter<a href="https://www.americanancestors.org/about/careers">)</a></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.americanancestors.org/about/careers">Assistant Archivist - American Ancestors</a> - Boston, MA (AmericanAncestors.org)</p></li><li><p class="" style="white-space:pre-wrap;"> <a href="https://www.indeed.com/viewjob?jk=fa25b7bf87856450&amp;q=historian&amp;tk=1j6okpd1pi03n81q&amp;from=web&amp;advn=9801295246537434&amp;adid=428329917&amp;ad=-6NYlbfkN0CrRjl0Uo4tiT2SPxERKOd7HyOZv8nhwpbq_m3eY3Z-WjHnI0aSfrY8e34rCp6NubpUo_N_z7mbnUXDE-euavOHtvFCkGz6a5bl4KAQ4pWRPDRlJgBnLpRpzqkux0yw0ShF4vcGfZ_hTjn2sR7XZty0m215xoMQnGCmyh4YXd6NV5oUpwu1930TuHaFq8JK8Zu9zK71XD2rO2dEaQ1kYLxXAl7kSUL-139ac9XEo5BkVtjwcHSHsOVQX37h49N9U5Nn0ErwYIgBqEorqKQIPXCE2jcGS7XlaSt5JBX2Z2LGdpfxpswBIW1cBUFjonHL6CPad05SZLMZI06MwPeD-iIki0_XMt_FTJwhb7gUcl0KEgnowyWwLJKmXSW8lgBouNJfNwtSHOBmwcxorGozKdg7Gf-WK0EyyRs1zM1mv9wd7PwrDU-wOGrSrvQxe2hoJzu-9VGzN_T9Oc7OJFDLz8hmy5JV5xF5fTK0ELAdEx8BtGKEDXreKLxM45-JmgmcQMd-uY1VSPOPFGbjHbpMzrDZgap3t02VUHFFuvBEU3TszQ%3D%3D&amp;pub=4a1b367933fd867b19b072952f68dceb&amp;camk=4HOcmqOLYrBbtSlw9z6QHg%3D%3D&amp;xkcb=SoCD6_M3sYhqfdSV4B0JbzkdCdPP&amp;xpse=SoDl6_I3sYhmbLQh1p0IbzkdCdPP&amp;xfps=59bb7499-5ed9-47f6-897c-2177660f649c&amp;vjs=3" target="_blank">Associate Curator - San Mateo County Historical Association</a> - Redwood City, CA - (Indeed.com)</p></li><li><p class="" style="white-space:pre-wrap;"> <a href="https://www.indeed.com/rc/clk?jk=c991536864067a28&amp;bb=cmJZ5PqllBMyEjIZg8g4u-JhZlr-3wRQ9lVCmtLZv7af8EQBgwwuRqSFLajazksU4tZ5T4HYSDRVbRqsoCCzHhm1KAecQQ_IalWMus4pUEDNpiBKt6pCXq7FYCIAOoOAnjRQJpuzTOs%3D&amp;xkcb=SoCT67M3sYj8YtwvxZ0CbzkdCdPP&amp;fccid=177fc8e06167328e&amp;vjs=3" target="_blank">Data Engineer (Genealogy) - The Lifetime Value Co.</a> (Remote) (Indeed.com)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.23andme.com/en-int/careers/jobs/8188202002/">Data Product Manager Lead - 23andMe</a> - Palo Alto, CA (23andMe.com)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://careers.ancestry.com/jobs/837b8560-75f2-423c-937a-78f08f53794e" target="_blank">Digitization Technician - Historical Document Preservation - Ancestry </a>- Lehi, UT (Ancestry.com)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.indeed.com/viewjob?jk=01b157d0dadf8a93" target="_blank">Experienced Genealogical &amp; Probate Researcher - American Research Bureau</a> - Millcreek, UT (Indeed.com)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.ziprecruiter.com/Jobs/Familysearch/-in-South-Salt-Lake,UT?lvk=4hD5_9V2dLmF4ZWulSeJeA.--NzYABSmO-" target="_blank">FamilySearch Director of Product Management &amp; Design </a>- Salt Lake City, UT (ZipRecruiter)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.ziprecruiter.com/jobs-search?search=genealogy&amp;location=texas&amp;refine_by_location_type=&amp;radius=5000&amp;days=30&amp;refine_by_employment=employment_type%3Aall&amp;refine_by_salary=&amp;refine_by_salary_ceil=&amp;lk=HQWV5r4RLxk9iwb1psXHvA&amp;page=1" target="_blank">Forensic Genealogist - University of North Texas System</a> - Fort Worth, TX (ZipRecruiter)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://cityjobs.nyc.gov/job/forensic-investigative-genealogist-in-bronx-jid-35235" target="_blank">Forensic Investigative Genealogist</a> - New York City - Bronx, NY (JobsNYC)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.dar.org/genealogist-sitelimited-hybrid-work-schedule-available" target="_blank">Genealogist (on-site / limited hybrid work schedule)</a> - Daughters of the American Revolution (DAR), Washington, D.C.</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.indeed.com/viewjob?jk=cad832c1dcf15213" target="_blank">Genealogist / Historian</a> - Davidson County, NC (Indeed.com)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://lauthinvestigationsinternational.applytojob.com/apply/gwuSh2QVmC/GenealogistProbate-Generator-Of-HeirSearch-Division" target="_blank">Genealogist / Probate Generator of HeirSearch Division</a> - Lauth Investigations International</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://lauthinvestigationsinternational.applytojob.com/apply/ZeAqCtX3dY/Geneologist-Researcher" target="_blank">Genealogist Researcher</a> -Boulder, CO - Lauth Investigations International</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.indeed.com/viewjob?jk=41921750108f7484" target="_blank">Genealogy Librarian - RFT - St Louis Public Library</a> (Indeed.com)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.indeed.com/rc/clk?jk=c46386a19d520157&amp;bb=8YXGNUbm4xh0B_ihmwHRfZruWc7b3LVV24pL6nzpCjB2b1Apuvhy7su8pvf9e19WAJHFTHKtuPbcai0gQa9kzJwL8x5EVpIW926RL6zGLrrAzcgs8qXrWNdspYEtR0QWx9zIp-nOrHU%3D&amp;xkcb=SoDA67M3sYkbIbRQKB0EbzkdCdPP&amp;fccid=af76e647b0509456&amp;vjs=3" target="_blank">Genealogy Senior Clerk I - Jefferson County Library</a> - High Ridge, MO -(Indeed.com)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.indeed.com/rc/clk?jk=e0a48dee0c1f5107&amp;bb=8YXGNUbm4xh0B_ihmwHRfY-mVtE7ODKpKdmi-DMmt0G3OiwY4N2tWO3_CDvZB5slRf-Vo1w8_oelYiREbaIpsf0-YB-OtE-Risv-zKS3zxPFXbMtC4UbEZK5d6VXO1KPn6mHQG6ayVQ%3D&amp;xkcb=SoB067M3sYkbIbRQKB0FbzkdCdPP&amp;fccid=0192c62015d9c3df&amp;vjs=3" target="_blank">Heirship Researcher - Purple Land Management </a>- Charleston, SC - (Indeed.com)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.indeed.com/viewjob?jk=436bb6fce7569ed0&amp;tk=1j6om9lduge69825&amp;from=serp&amp;vjs=3" target="_blank">JewishGen Administrative Assistant - Museum of Jewish Heritage</a> - New York, NY - (Indeed.com)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.governmentjobs.com/careers/cityofsantaclaraca/jobs/3046296/librarian-ii-reference-genealogy-and-local-history-part-time?page=2&amp;pagetype=jobOpportunitiesJobs" target="_blank">Librarian II - Reference Genealogy and Local History (Part-time) </a>- Santa Clara, CA (GovernmentJobs.com)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=12261ced-819c-4d6d-af85-ffea690b6521&amp;ccId=9201102651278_3&amp;jobId=547135&amp;jwId=9201102651278_1&amp;lang=en_US" target="_blank">Microfiche Digitization Technician - Evening Shift - Internet Archive</a>- San Francisco, CA (Archive.org)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.legacytree.com/apply" target="_blank">Onsite Records Lookup - Contractor - (Remote) </a>- Legacy Tree Genealogists </p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.indeed.com/viewjob?jk=46f50840575b60e1" target="_blank">Part time Metadata Specialist Intern FamilySearch, Korean Genealogical Records </a> - Lehi, UT (Indeed.com)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://careers.archivists.org/jobs/21712093/processing-archivist-ii" target="_blank">Processing Archivist II - Maine State Archives</a> - Augusta, Maine (Society of American Archives)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.23andme.com/en-int/careers/jobs/8198440002/">Product Design Lead - 23andMe</a> - (23andMe.com)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.glassdoor.com/partner/jobListing.htm?pos=102&amp;ao=1110586&amp;s=58&amp;guid=00000199b18fc4c6abc88cd8c026ec55&amp;src=GD_JOB_AD&amp;t=SR&amp;vt=w&amp;ea=1&amp;cs=1_86dab512&amp;cb=1759620614024&amp;jobListingId=1009897533902&amp;cpc=3BA4CE39D5B5DEF5&amp;jrtk=5-yul1-0-1j6oovh8egqp6800-a20c476cc0b44404---6NYlbfkN0CoZx6RZ76Kz2BC5LaLJVXH_1oYGbR7vq7wgU_JS4Ka__sklYchdE95VBhec8eLPccEZob3AlHUOhJH74j6KKPMlI3bo2CXgvY5Y4xJTTPReuO3QP0ke_VLIFm3ObGl3gqjEbWMu-rnxklSAg64j168JXnYNx4KIHZc-bG8ZuWbPvdYABtaxuTQwUJ8ZhuRCVHpDMgU7m3NTN_Wh6lZ65wIOhZFOPYGLkLJqNOPLbN_uduSjrxwrVUrjs1rfflwUiGkhuBOB3seHKoWwSfwplN3e6-ZShuLzsWk3exuMTHgzeR0hkOnUZ-ZXxa-cNPZB55kW_crvKajNQJQLpQtX8bGdW4acQhIOVre0f8p8KRm7BvIQvu2EqcrD87RBWuU1Eg2w_0wYmwcqM2HJpExmvt08n1wCr6Lr85GZZcgN63Sf5aG2EL_HyRyFT58tJTwMoPZ6hwA_ouNmWUcsLetteKVvY3OOFHCWkw-2iCXEB-k4SW_wm07B8RvMtLYL1h9YXS-4U5Z-3Cd_7F_WuTUcPAj_B_fMdemO3qPxU44Mp3IiRpP3GaeORzLnvjCgyf5Q1huhkCVvK4t28VbfduwNmsaoehEzaI1FHYl3cLAB6-ey6LcZBs2AG_vkIcC13seiifn5ioyIDosz--LovR8a_IkYMuL0r0HIraqGFejjzq0yDTu_Qz-fgeY66_BWMLG6hY7j1lkDZ2l7KpUwmUv0zS8zC9EcRq0DtS7QKcxd_3heWcTbHHgMQnF_pVbNKEcqVY1FlqNyN3zitByEgMj4eAV_An6anwLunAdq8Z5p86mLLdKNJonBr8HTuToE_RTunN10ocVVSn1Z_w84Oi0wkM_t4lOLaypPobh1F0gBgUBl3Bn4bo4P7YWHQPXmk6puezeC68ZWER4JhzLrwgwXJdBxhJhHakhp5hVgGammxMdBA%3D%3D" target="_blank">Reference Desk Assistant - The Georgia Historical Society </a>- Savannah, GA (Glassdoor.com)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.indeed.com/rc/clk?jk=368bc540d7bafc10&amp;bb=cmJZ5PqllBMyEjIZg8g4u14x6-ayl9TO1szpoG5zTiJ4giZ-1Zg9efMz-MT8GDNasUtUR88dLzWPLt7m6DEbR7u4PyrRahVw601pfCINea2DOkYc4EBIiVx-JeE235W1v9Y4xf5Vv6w%3D&amp;xkcb=SoBT67M3sYj8YtwvxZ0PbzkdCdPP&amp;fccid=dd616958bd9ddc12&amp;vjs=3" target="_blank">Registrar - Dallas County Historical Foundation </a>- Dallas, TX (Indeed.com)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.indeed.com/viewjob?jk=3d409dadf8e37cdb" target="_blank">Skip Trace &amp; Property Researcher - Titan Genealogy &amp; Property Research, LLC</a> - Houston, TX (Indeed.com)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.simplyhired.com/job/DYma-h92nqE3Z-8ooc5nTRnqUVjJkhh3lbvJBoLsyAq_Ki4s4OywCw?jobCardTrackingKey=5-pdx1-0-1j6on32dtj3l5804-f9f492cf8d9c1ab5&amp;xkcb=SoD667M3sYmDiTxS6B0NbzkdCdPP" target="_blank">State Historical Society Archivist - University of Missouri</a> - St. Louis, MO (SimplyHired.com) </p></li></ol><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Have a job opportunity to submit? </p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-form form-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.form/9aa0af3c-e491-4117-8230-2d8187c1e22d_1076/website.components.form.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.form/9aa0af3c-e491-4117-8230-2d8187c1e22d_1076/website.components.form.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.form" data-sqsp-block="form" data-website-component-id="yui_3_17_2_1_1759628846985_2840" id="block-yui_3_17_2_1_1759628846985_2840"><div class="sqs-block-content">
-
-
-
-
-
-
   <div class="sqs-site-style-form" >
-    
     <script type="application/json" id="form-context-68e1ce40c4fa4742fd1d6f4a" class="sqs-form-block-context">
     {"secureUrl":"https://red-brass-j2gh.squarespace.com","collectionId":"5f4685cb01761143148d6a1e","formFieldFormats":{"countries":[{"name":"Afghanistan","code":"AF","phoneCode":"+93"},{"name":"Åland Islands","code":"AX","phoneCode":"+358"},{"name":"Albania","code":"AL","phoneCode":"+355"},{"name":"Algeria","code":"DZ","phoneCode":"+213"},{"name":"American Samoa","code":"AS","phoneCode":"+1"},{"name":"Andorra","code":"AD","phoneCode":"+376"},{"name":"Angola","code":"AO","phoneCode":"+244"},{"name":"Anguilla","code":"AI","phoneCode":"+1"},{"name":"Antigua & Barbuda","code":"AG","phoneCode":"+1"},{"name":"Argentina","code":"AR","phoneCode":"+54"},{"name":"Armenia","code":"AM","phoneCode":"+374"},{"name":"Aruba","code":"AW","phoneCode":"+297"},{"name":"Ascension Island","code":"AC","phoneCode":"+247"},{"name":"Australia","code":"AU","phoneCode":"+61"},{"name":"Austria","code":"AT","phoneCode":"+43"},{"name":"Azerbaijan","code":"AZ","phoneCode":"+994"},{"name":"Bahamas","code":"BS","phoneCode":"+1"},{"name":"Bahrain","code":"BH","phoneCode":"+973"},{"name":"Bangladesh","code":"BD","phoneCode":"+880"},{"name":"Barbados","code":"BB","phoneCode":"+1"},{"name":"Belarus","code":"BY","phoneCode":"+375"},{"name":"Belgium","code":"BE","phoneCode":"+32"},{"name":"Belize","code":"BZ","phoneCode":"+501"},{"name":"Benin","code":"BJ","phoneCode":"+229"},{"name":"Bermuda","code":"BM","phoneCode":"+1"},{"name":"Bhutan","code":"BT","phoneCode":"+975"},{"name":"Bolivia","code":"BO","phoneCode":"+591"},{"name":"Bosnia & Herzegovina","code":"BA","phoneCode":"+387"},{"name":"Botswana","code":"BW","phoneCode":"+267"},{"name":"Brazil","code":"BR","phoneCode":"+55"},{"name":"British Indian Ocean Territory","code":"IO","phoneCode":"+246"},{"name":"British Virgin Islands","code":"VG","phoneCode":"+1"},{"name":"Brunei","code":"BN","phoneCode":"+673"},{"name":"Bulgaria","code":"BG","phoneCode":"+359"},{"name":"Burkina Faso","code":"BF","phoneCode":"+226"},{"name":"Burundi","code":"BI","phoneCode":"+257"},{"name":"Cambodia","code":"KH","phoneCode":"+855"},{"name":"Cameroon","code":"CM","phoneCode":"+237"},{"name":"Canada","code":"CA","phoneCode":"+1"},{"name":"Cape Verde","code":"CV","phoneCode":"+238"},{"name":"Caribbean Netherlands","code":"BQ","phoneCode":"+599"},{"name":"Cayman Islands","code":"KY","phoneCode":"+1"},{"name":"Central African Republic","code":"CF","phoneCode":"+236"},{"name":"Chad","code":"TD","phoneCode":"+235"},{"name":"Chile","code":"CL","phoneCode":"+56"},{"name":"China","code":"CN","phoneCode":"+86"},{"name":"Christmas Island","code":"CX","phoneCode":"+61"},{"name":"Cocos (Keeling) Islands","code":"CC","phoneCode":"+61"},{"name":"Colombia","code":"CO","phoneCode":"+57"},{"name":"Comoros","code":"KM","phoneCode":"+269"},{"name":"Congo - Brazzaville","code":"CG","phoneCode":"+242"},{"name":"Congo - Kinshasa","code":"CD","phoneCode":"+243"},{"name":"Cook Islands","code":"CK","phoneCode":"+682"},{"name":"Costa Rica","code":"CR","phoneCode":"+506"},{"name":"Côte d’Ivoire","code":"CI","phoneCode":"+225"},{"name":"Croatia","code":"HR","phoneCode":"+385"},{"name":"Cuba","code":"CU","phoneCode":"+53"},{"name":"Curaçao","code":"CW","phoneCode":"+599"},{"name":"Cyprus","code":"CY","phoneCode":"+357"},{"name":"Czechia","code":"CZ","phoneCode":"+420"},{"name":"Denmark","code":"DK","phoneCode":"+45"},{"name":"Djibouti","code":"DJ","phoneCode":"+253"},{"name":"Dominica","code":"DM","phoneCode":"+1"},{"name":"Dominican Republic","code":"DO","phoneCode":"+1"},{"name":"Ecuador","code":"EC","phoneCode":"+593"},{"name":"Egypt","code":"EG","phoneCode":"+20"},{"name":"El Salvador","code":"SV","phoneCode":"+503"},{"name":"Equatorial Guinea","code":"GQ","phoneCode":"+240"},{"name":"Eritrea","code":"ER","phoneCode":"+291"},{"name":"Estonia","code":"EE","phoneCode":"+372"},{"name":"Eswatini","code":"SZ","phoneCode":"+268"},{"name":"Ethiopia","code":"ET","phoneCode":"+251"},{"name":"Falkland Islands","code":"FK","phoneCode":"+500"},{"name":"Faroe Islands","code":"FO","phoneCode":"+298"},{"name":"Fiji","code":"FJ","phoneCode":"+679"},{"name":"Finland","code":"FI","phoneCode":"+358"},{"name":"France","code":"FR","phoneCode":"+33"},{"name":"French Guiana","code":"GF","phoneCode":"+594"},{"name":"French Polynesia","code":"PF","phoneCode":"+689"},{"name":"Gabon","code":"GA","phoneCode":"+241"},{"name":"Gambia","code":"GM","phoneCode":"+220"},{"name":"Georgia","code":"GE","phoneCode":"+995"},{"name":"Germany","code":"DE","phoneCode":"+49"},{"name":"Ghana","code":"GH","phoneCode":"+233"},{"name":"Gibraltar","code":"GI","phoneCode":"+350"},{"name":"Greece","code":"GR","phoneCode":"+30"},{"name":"Greenland","code":"GL","phoneCode":"+299"},{"name":"Grenada","code":"GD","phoneCode":"+1"},{"name":"Guadeloupe","code":"GP","phoneCode":"+590"},{"name":"Guam","code":"GU","phoneCode":"+1"},{"name":"Guatemala","code":"GT","phoneCode":"+502"},{"name":"Guernsey","code":"GG","phoneCode":"+44"},{"name":"Guinea","code":"GN","phoneCode":"+224"},{"name":"Guinea-Bissau","code":"GW","phoneCode":"+245"},{"name":"Guyana","code":"GY","phoneCode":"+592"},{"name":"Haiti","code":"HT","phoneCode":"+509"},{"name":"Honduras","code":"HN","phoneCode":"+504"},{"name":"Hong Kong SAR China","code":"HK","phoneCode":"+852"},{"name":"Hungary","code":"HU","phoneCode":"+36"},{"name":"Iceland","code":"IS","phoneCode":"+354"},{"name":"India","code":"IN","phoneCode":"+91"},{"name":"Indonesia","code":"ID","phoneCode":"+62"},{"name":"Iran","code":"IR","phoneCode":"+98"},{"name":"Iraq","code":"IQ","phoneCode":"+964"},{"name":"Ireland","code":"IE","phoneCode":"+353"},{"name":"Isle of Man","code":"IM","phoneCode":"+44"},{"name":"Israel","code":"IL","phoneCode":"+972"},{"name":"Italy","code":"IT","phoneCode":"+39"},{"name":"Jamaica","code":"JM","phoneCode":"+1"},{"name":"Japan","code":"JP","phoneCode":"+81"},{"name":"Jersey","code":"JE","phoneCode":"+44"},{"name":"Jordan","code":"JO","phoneCode":"+962"},{"name":"Kazakhstan","code":"KZ","phoneCode":"+7"},{"name":"Kenya","code":"KE","phoneCode":"+254"},{"name":"Kiribati","code":"KI","phoneCode":"+686"},{"name":"Kosovo","code":"XK","phoneCode":"+383"},{"name":"Kuwait","code":"KW","phoneCode":"+965"},{"name":"Kyrgyzstan","code":"KG","phoneCode":"+996"},{"name":"Laos","code":"LA","phoneCode":"+856"},{"name":"Latvia","code":"LV","phoneCode":"+371"},{"name":"Lebanon","code":"LB","phoneCode":"+961"},{"name":"Lesotho","code":"LS","phoneCode":"+266"},{"name":"Liberia","code":"LR","phoneCode":"+231"},{"name":"Libya","code":"LY","phoneCode":"+218"},{"name":"Liechtenstein","code":"LI","phoneCode":"+423"},{"name":"Lithuania","code":"LT","phoneCode":"+370"},{"name":"Luxembourg","code":"LU","phoneCode":"+352"},{"name":"Macao SAR China","code":"MO","phoneCode":"+853"},{"name":"Madagascar","code":"MG","phoneCode":"+261"},{"name":"Malawi","code":"MW","phoneCode":"+265"},{"name":"Malaysia","code":"MY","phoneCode":"+60"},{"name":"Maldives","code":"MV","phoneCode":"+960"},{"name":"Mali","code":"ML","phoneCode":"+223"},{"name":"Malta","code":"MT","phoneCode":"+356"},{"name":"Marshall Islands","code":"MH","phoneCode":"+692"},{"name":"Martinique","code":"MQ","phoneCode":"+596"},{"name":"Mauritania","code":"MR","phoneCode":"+222"},{"name":"Mauritius","code":"MU","phoneCode":"+230"},{"name":"Mayotte","code":"YT","phoneCode":"+262"},{"name":"Mexico","code":"MX","phoneCode":"+52"},{"name":"Micronesia","code":"FM","phoneCode":"+691"},{"name":"Moldova","code":"MD","phoneCode":"+373"},{"name":"Monaco","code":"MC","phoneCode":"+377"},{"name":"Mongolia","code":"MN","phoneCode":"+976"},{"name":"Montenegro","code":"ME","phoneCode":"+382"},{"name":"Montserrat","code":"MS","phoneCode":"+1"},{"name":"Morocco","code":"MA","phoneCode":"+212"},{"name":"Mozambique","code":"MZ","phoneCode":"+258"},{"name":"Myanmar (Burma)","code":"MM","phoneCode":"+95"},{"name":"Namibia","code":"NA","phoneCode":"+264"},{"name":"Nauru","code":"NR","phoneCode":"+674"},{"name":"Nepal","code":"NP","phoneCode":"+977"},{"name":"Netherlands","code":"NL","phoneCode":"+31"},{"name":"New Caledonia","code":"NC","phoneCode":"+687"},{"name":"New Zealand","code":"NZ","phoneCode":"+64"},{"name":"Nicaragua","code":"NI","phoneCode":"+505"},{"name":"Niger","code":"NE","phoneCode":"+227"},{"name":"Nigeria","code":"NG","phoneCode":"+234"},{"name":"Niue","code":"NU","phoneCode":"+683"},{"name":"Norfolk Island","code":"NF","phoneCode":"+672"},{"name":"Northern Mariana Islands","code":"MP","phoneCode":"+1"},{"name":"North Korea","code":"KP","phoneCode":"+850"},{"name":"North Macedonia","code":"MK","phoneCode":"+389"},{"name":"Norway","code":"NO","phoneCode":"+47"},{"name":"Oman","code":"OM","phoneCode":"+968"},{"name":"Pakistan","code":"PK","phoneCode":"+92"},{"name":"Palau","code":"PW","phoneCode":"+680"},{"name":"Palestinian Territories","code":"PS","phoneCode":"+970"},{"name":"Panama","code":"PA","phoneCode":"+507"},{"name":"Papua New Guinea","code":"PG","phoneCode":"+675"},{"name":"Paraguay","code":"PY","phoneCode":"+595"},{"name":"Peru","code":"PE","phoneCode":"+51"},{"name":"Philippines","code":"PH","phoneCode":"+63"},{"name":"Poland","code":"PL","phoneCode":"+48"},{"name":"Portugal","code":"PT","phoneCode":"+351"},{"name":"Puerto Rico","code":"PR","phoneCode":"+1"},{"name":"Qatar","code":"QA","phoneCode":"+974"},{"name":"Réunion","code":"RE","phoneCode":"+262"},{"name":"Romania","code":"RO","phoneCode":"+40"},{"name":"Russia","code":"RU","phoneCode":"+7"},{"name":"Rwanda","code":"RW","phoneCode":"+250"},{"name":"Samoa","code":"WS","phoneCode":"+685"},{"name":"San Marino","code":"SM","phoneCode":"+378"},{"name":"São Tomé & Príncipe","code":"ST","phoneCode":"+239"},{"name":"Saudi Arabia","code":"SA","phoneCode":"+966"},{"name":"Senegal","code":"SN","phoneCode":"+221"},{"name":"Serbia","code":"RS","phoneCode":"+381"},{"name":"Seychelles","code":"SC","phoneCode":"+248"},{"name":"Sierra Leone","code":"SL","phoneCode":"+232"},{"name":"Singapore","code":"SG","phoneCode":"+65"},{"name":"Sint Maarten","code":"SX","phoneCode":"+1"},{"name":"Slovakia","code":"SK","phoneCode":"+421"},{"name":"Slovenia","code":"SI","phoneCode":"+386"},{"name":"Solomon Islands","code":"SB","phoneCode":"+677"},{"name":"Somalia","code":"SO","phoneCode":"+252"},{"name":"South Africa","code":"ZA","phoneCode":"+27"},{"name":"South Korea","code":"KR","phoneCode":"+82"},{"name":"South Sudan","code":"SS","phoneCode":"+211"},{"name":"Spain","code":"ES","phoneCode":"+34"},{"name":"Sri Lanka","code":"LK","phoneCode":"+94"},{"name":"St. Barthélemy","code":"BL","phoneCode":"+590"},{"name":"St. Helena","code":"SH","phoneCode":"+290"},{"name":"St. Kitts & Nevis","code":"KN","phoneCode":"+1"},{"name":"St. Lucia","code":"LC","phoneCode":"+1"},{"name":"St. Martin","code":"MF","phoneCode":"+590"},{"name":"St. Pierre & Miquelon","code":"PM","phoneCode":"+508"},{"name":"St. Vincent & Grenadines","code":"VC","phoneCode":"+1"},{"name":"Sudan","code":"SD","phoneCode":"+249"},{"name":"Suriname","code":"SR","phoneCode":"+597"},{"name":"Svalbard & Jan Mayen","code":"SJ","phoneCode":"+47"},{"name":"Sweden","code":"SE","phoneCode":"+46"},{"name":"Switzerland","code":"CH","phoneCode":"+41"},{"name":"Syria","code":"SY","phoneCode":"+963"},{"name":"Taiwan","code":"TW","phoneCode":"+886"},{"name":"Tajikistan","code":"TJ","phoneCode":"+992"},{"name":"Tanzania","code":"TZ","phoneCode":"+255"},{"name":"Thailand","code":"TH","phoneCode":"+66"},{"name":"Timor-Leste","code":"TL","phoneCode":"+670"},{"name":"Togo","code":"TG","phoneCode":"+228"},{"name":"Tokelau","code":"TK","phoneCode":"+690"},{"name":"Tonga","code":"TO","phoneCode":"+676"},{"name":"Trinidad & Tobago","code":"TT","phoneCode":"+1"},{"name":"Tristan da Cunha","code":"TA","phoneCode":"+290"},{"name":"Tunisia","code":"TN","phoneCode":"+216"},{"name":"Türkiye","code":"TR","phoneCode":"+90"},{"name":"Turkmenistan","code":"TM","phoneCode":"+993"},{"name":"Turks & Caicos Islands","code":"TC","phoneCode":"+1"},{"name":"Tuvalu","code":"TV","phoneCode":"+688"},{"name":"U.S. Virgin Islands","code":"VI","phoneCode":"+1"},{"name":"Uganda","code":"UG","phoneCode":"+256"},{"name":"Ukraine","code":"UA","phoneCode":"+380"},{"name":"United Arab Emirates","code":"AE","phoneCode":"+971"},{"name":"United Kingdom","code":"GB","phoneCode":"+44"},{"name":"United States","code":"US","phoneCode":"+1"},{"name":"Uruguay","code":"UY","phoneCode":"+598"},{"name":"Uzbekistan","code":"UZ","phoneCode":"+998"},{"name":"Vanuatu","code":"VU","phoneCode":"+678"},{"name":"Vatican City","code":"VA","phoneCode":"+39"},{"name":"Venezuela","code":"VE","phoneCode":"+58"},{"name":"Vietnam","code":"VN","phoneCode":"+84"},{"name":"Wallis & Futuna","code":"WF","phoneCode":"+681"},{"name":"Western Sahara","code":"EH","phoneCode":"+212"},{"name":"Yemen","code":"YE","phoneCode":"+967"},{"name":"Zambia","code":"ZM","phoneCode":"+260"},{"name":"Zimbabwe","code":"ZW","phoneCode":"+263"}],"initialAddressFormat":{"id":0,"type":"ADDRESS","country":"US","labelLocale":"en","fields":[{"type":"FIELD","label":"Address Line 1","identifier":"Line1","length":0,"required":true,"metadata":{"autocomplete":"address-line1"}},{"type":"SEPARATOR","label":"\n","identifier":"Newline","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"Address Line 2","identifier":"Line2","length":0,"required":false,"metadata":{"autocomplete":"address-line2"}},{"type":"SEPARATOR","label":"\n","identifier":"Newline","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"City","identifier":"City","length":0,"required":true,"metadata":{"autocomplete":"address-level2"}},{"type":"SEPARATOR","label":",","identifier":"Comma","length":0,"required":false,"metadata":{}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"State","identifier":"State","length":0,"required":true,"metadata":{"autocomplete":"address-level1"}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"ZIP Code","identifier":"Zip","length":0,"required":true,"metadata":{"autocomplete":"postal-code"}}]},"initialNameOrder":"GIVEN_FIRST","initialPhoneFormat":{"id":0,"type":"PHONE_NUMBER","country":"US","labelLocale":"en-US","fields":[{"type":"SEPARATOR","label":"(","identifier":"LeftParen","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"1","identifier":"1","length":3,"required":false,"metadata":{}},{"type":"SEPARATOR","label":")","identifier":"RightParen","length":0,"required":false,"metadata":{}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"2","identifier":"2","length":3,"required":false,"metadata":{}},{"type":"SEPARATOR","label":"-","identifier":"Dash","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"3","identifier":"3","length":14,"required":false,"metadata":{}}]}},"useFormsJs":true,"formId":"68e1ce40c4fa4742fd1d6f4a","formName":"Job Posts Form","formFields":[{"type":"text","id":"text-yui_3_17_2_1_1759628846985_2847","locked":false,"title":"Job Title","description":"","placeholder":"","required":true,"text":true},{"required":true,"locked":false,"description":"","id":"website-1c5e197e-1d24-4705-9d42-303ec1596e28","website":true,"type":"website","placeholder":"","title":"Website Link"},{"type":"textarea","id":"textarea-yui_3_17_2_1_1759628846985_2848","locked":false,"title":"Additional Notes","description":"","placeholder":"","required":false,"textarea":true,"maxLength":""}],"formSubmitButtonText":"Submit Job","formSubmissionMessage":{"html":"<p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\">Thank you! Your submission will be reviewed shortly. Contact us with any questions. <\/p><p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\">StartResearching@gmail.com<\/p>"},"successRedirect":"","disclaimerMessage":{"html":""},"captchaEnabled":true,"captchaTheme":1,"captchaAlignment":1,"isSmsConsentEnabled":false,"businessName":null,"privacyPolicyUrl":null,"termsAndConditionsUrl":null,"hasActiveSmsSubscription":null,"sendingProfileFullySetUp":null}
     </script>
-    
     <script type="application/json" id="form-block-design-fields-68e1ce40c4fa4742fd1d6f4a" class="sqs-form-block-design-fields">
     {"buttonAlignment":null,"buttonVariant":null,"firstFieldHighlightType":null,"submissionTextAlignment":null,"submissionVerticalAlignment":null,"submissionAnimation":null,"breakpoints":[{"id":"system_desktop","name":"Desktop"},{"id":"system_mobile","name":"Mobile","maxWidth":"767px"}],"breakpointOverrides":null,"breakpointOverridesFlag":false,"useLightbox":null}
     </script>
@@ -57,126 +22,47 @@ canonicalUrl: "https://www.startresearching.com/blog/genealogy-jobs-list-october
     </script>
     <div id="form-submission-html-68e1ce40c4fa4742fd1d6f4a" class="sqs-form-block-submission-html" data-submission-html=""></div>
 <style id="container-styles">#block-yui_3_17_2_1_1759628846985_2840 {
-    
-    
-    
-
-
-
   }
-
   #block-yui_3_17_2_1_1759628846985_2840 .form-wrapper {
-    
     --form-block-padding: initial;
 }
-
   #block-yui_3_17_2_1_1759628846985_2840 {
       mix-blend-mode: var(--form-block-blend-mode
     );
       border-radius: var(--form-block-border-radius);
   }
-
-  
-  
-
-
-
-  
-  
-
   #block-yui_3_17_2_1_1759628846985_2840 {
     }
-
 </style>
-
 <style id="override-container-styles">
     @media screen and (max-width: 767px) {
-          
-            
-
 #block-yui_3_17_2_1_1759628846985_2840 {
-            
             }
         }
-    
-  
     @media screen and (max-width: 767px) {
           #block-yui_3_17_2_1_1759628846985_2840 .form-wrapper {
-            
             }
         }
-    
   @media screen and (max-width: 767px) {
-          
-          
-
-          
-          
-          
         }</style>
-
-    
-      
-
-
-    
-
-    <div class="form-wrapper"
-      
-    >
-      
+    <div class="form-wrapper" >
     </div>
     <style>
       #block-yui_3_17_2_1_1759628846985_2840 .form-wrapper {
         display: grid;
       }
-
       #block-yui_3_17_2_1_1759628846985_2840 .lightbox-handle-wrapper {
         display: none;
       }
-
       #block-yui_3_17_2_1_1759628846985_2840 .lightbox-handle-wrapper-system_desktop {
         display: block;
       }
     </style>
-    
     <style class="transform-overrides-vars">
-  
 </style>
-
-    
-
-
-
   </div>
 </div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1759628846985_2945"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;">Looking to hire a professional genealogist? See: <a href="https://members.apgen.org/members/directory/search_APG.php?org_id=APG" target="_blank">APGen.org</a></p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div></div></div></div>

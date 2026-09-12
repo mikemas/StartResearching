@@ -5,51 +5,12 @@ description: "7 February 2023, by Sherri Mastrangelo What do the handwritten num
 canonicalUrl: "https://www.startresearching.com/blog/numerical-codes-on-death-certificates"
 
 ---
-
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1675548136789" id="item-63ded5cff0d97f7dfdf46d31"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-46345ea78b9407a53a7e"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>7 February 2023, by Sherri Mastrangelo</strong></span></p><p class="" style="white-space:pre-wrap;">What do the handwritten numbers on death certificates mean, and why would we need them?</p><p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>Cause of Death / ICD Code Meaning</strong></span></p><p class="" style="white-space:pre-wrap;">We usually see these codes in the “cause of death” section. Sometimes there are two numbers, related to the primary and secondary causes. </p><p class="" style="white-space:pre-wrap;">These alpha-numerical codes from the International Classification of Diseases (ICD), now published by the World Health Organization (WHO), are used by the government agencies when calculating mortality and morbidity statistics, and to maintain a standard of medical terminology throughout the world. The WHO also takes this information to compare mortality rates and causes of death from all countries.  In the United States, these codes are maintained as the ICD-CM (CM standing for Clinical Modification) by the CDC, CMS, and the National Center for Health Statistics (NCHS). </p><p class="" style="white-space:pre-wrap;">It’s important to note that ICD was originally the International List of the Causes of Death (ILCD) for versions 1 - 5 in the US, before it was centralized by the World Health Organization and standardized as the International Classification of Diseases, or ICD. </p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1675548406200_411158" id="block-yui_3_17_2_1_1675548406200_411158"><div class="sqs-block-content">
-  
-
-<div
-  class="sqs-code-container"
-  
-  
-    data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}"
-  
-  
-  
-  
->
-  
+<div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}" >
     <style type="text/css">
 .tg  
 .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
@@ -125,539 +86,59 @@ canonicalUrl: "https://www.startresearching.com/blog/numerical-codes-on-death-ce
   </tr>
 </tbody>
 </table>
-  
-  
-
-
-
 </div>
-
 <style class="transform-overrides-vars">
-  
 </style>
-
 </div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1675627186640_1108246" id="block-yui_3_17_2_1_1675627186640_1108246"><div class="sqs-block-content">
-  
-
-<div
-  class="sqs-code-container"
-  
-  
-    data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}"
-  
-  
-  
-  
->
-  
+<div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}" >
     <i><p><sup>(1)</sup> See the chart on the CDC's "ICD-9" page, linked in sources.<br><br> <sup>(2)</sup> "Beginning with deaths occurring in January 1999, the United States began using the International Classification of Diseases, Tenth Revision  (ICD-10) to classify causes of death reported on death certificates. This is the first change in twenty years; ICD-9 codes have been in effect from 1979-1998" (Center for Health Statistics, Washington State Department of Health).</i></p>
-  
-  
-
-
-
 </div>
-
 <style class="transform-overrides-vars">
-  
 </style>
-
 </div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1675548406200_443826"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;">Version 11 was put into effect by WHO as of January 1, 2022.</p><p class="" style="white-space:pre-wrap;">Note there are also separate lists for oncology / cancer (the ICD - 0), as well as other diseases and fields of medicine.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>Which ICD Version / Revision year to use?</strong></span></p><p class="" style="white-space:pre-wrap;">The ILCD or ICD was updated about once a decade after each revision conference, starting in 1900, and was based on the Bertillon Classification of Causes of Death (BCCD) written by French statistician Jacques Bertillon in 1893 and adapted by America, Canada, and Mexico in 1898.  </p><p class="" style="white-space:pre-wrap;">Though some years have greater changes than others, it is still important to use the codes for the correct year.  Different countries implemented the ICD updates in their country at different times, however. Different countries may also have additional updates and variations. </p><p class="" style="white-space:pre-wrap;">Knowing which ICD to use to decipher death certificate codes can be a little tricky, as the date of the conference / revision may have been a year or two before the resource list was published (per the chart above).  For example, if you have a death certificate in the United States from 1966, your instinct might be to use the 8th revision, as the conference was in 1966 - but WHO didn’t publish this information until 1967. </p><p class="" style="white-space:pre-wrap;">Furthermore, especially with the later revisions, the US did not always immediately implement the update. For example, though the ICD-10 conference was in 1990, the US didn’t start using ICD-10 for death certificates until 1999. </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>What is “Wolfbane”?</strong></span></p><p class="" style="white-space:pre-wrap;">Many genealogists utilize the free website for<a href="http://www.wolfbane.com/icd/index.html" target="_blank"> Wolfbane Cybernetics</a>, as it seems to be one of the few online resources that list earlier versions of the IDC. </p><p class="" style="white-space:pre-wrap;">It is not entirely clear to me where Wolfbane has pulled this information from, especially from the older versions. As it a website based in the UK, my best guess is that they used books like “The Manual of the International List of Causes of Death, as adapted for use in England and Wales: Based on the second decennial revision by the commission, Paris, 1909” (<a href="https://archive.org/details/b21363924/mode/2up">View on the Internet Archive</a>) published in 1912 in London by His Majesty’s Stationery Office. </p><p class="" style="white-space:pre-wrap;">The lists seem closely aligned with historical translated publications in the US, to the best of my knowledge, so I would feel comfortable to continue using Wolfbane as a source to quickly lookup a code or two, as browsing through the books on Internet Archive can be tedious. </p><p class="" style="white-space:pre-wrap;">Note there is also a very helpful, and underutilized decoder on Wolfbane for versions ICD 6, ICD 7, ICD 8, ICD 9, and ICD 10 in which you can enter the code and it offers the cause of death, but I hesitate to link it directly as it runs as an exe program. <a href="http://www.wolfbane.net" target="_blank">Find the “ICD Decoder” as the third item on this page of Wolfbane</a>.</p><p class="" style="white-space:pre-wrap;">If Wolfbane is down, remember you can always reference the <a href="https://web.archive.org/web/20221126233747/http://www.wolfbane.com/">Wayback Machine on the Internet Archive</a> to view past instances of the website.</p><p class="" style="white-space:pre-wrap;">As for the name, I believe “wolfbane” is a synonym of wolfsbane, the poisonous purple flower also known as aconite. I’m not entirely sure who is behind Wolfbane Cybernetics, why they named the site Wolfbane, or why the site looks circa the turn of the millennium - but it is a helpful website!  </p><p class="" style="white-space:pre-wrap;"><br><span style="text-decoration:underline"><strong>Why bother to look up these numbers?</strong></span><br>It’s not something you need to do for every death certificate, but it can be helpful in some circumstances: </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Doctors handwriting can be hard to read!</p></li><li><p class="" style="white-space:pre-wrap;">We want to know more about the cause of death</p></li><li><p class="" style="white-space:pre-wrap;">Only a number is shown, not a cause of death</p></li><li><p class="" style="white-space:pre-wrap;">Use when compiling family medical history to standardize causes of death</p></li></ul><p class="" style="white-space:pre-wrap;"><br><span style="text-decoration:underline"><strong>What do other numbers on the death certificate mean?</strong></span></p><p class="" style="white-space:pre-wrap;">They most likely have to do with coding the data for statistical purposes. For examples, states may be numbered 1 - 51, Canada as 55, Mexico as 57, and the rest of the world 59. Items not able to be classified were generally 9 or 99.  Occupations were also classified as statistical data on some forms. </p><p class="" style="white-space:pre-wrap;">They would also number the certificates, usually in the top right corner, in the order they received them.</p><p class="" style="white-space:pre-wrap;"><br><span style="text-decoration:underline"><strong>What do different colored death certificates mean?</strong></span></p><p class="" style="white-space:pre-wrap;">I get this question a lot. While the exact answer depends on the state and time period, generally a different color was used for each different form. For example, in this FamilySearch collection of Massachusetts death certificates, <a href="https://www.familysearch.org/search/film/107574038?cat=3010706&amp;cc=1928860&amp;i=1" target="_blank">“Deaths 1924 Abington to Amesbury Vol. 1”  </a>you can see they used the yellow form R-301 Standard Certificate of Death; pink form R-302 for Standard Certificate of Death (slightly different, I think there is an added signature); the blue form R-303 Medical Examiner’s Certificate of Death; green form R-307 Additional Information for Death Certificate; and so on.  </p><p class="" style="white-space:pre-wrap;">Have you come across different colored forms in your research?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>Can we see an example of the ICD numbers?</strong></span></p><p class="" style="white-space:pre-wrap;">Of course. Below is an excerpt of a death certificate from 1914 in Philadelphia, Pennsylvania:</p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1675627186640_1212705"><div class="sqs-block-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-    
-  
-    <div
-        class="
-          image-block-outer-wrapper
-          layout-caption-below
-          design-layout-inline
-          combination-animation-none
-          individual-animation-none
-          individual-text-animation-none
-        "
-        data-test="image-block-inline-outer-wrapper"
-        data-sqsp-image-classic-block-layout="inline"
-    >
-
-      
-
-      
-        <figure
-            class="
-              sqs-block-image-figure
-              intrinsic
-            "
-            style="max-width:628px;"
-        >
-          
-        
-        
-
-        
-          
-            
-          <div
-              
-              
-              class="image-block-wrapper"
-              data-animation-role="image"
-              
-  
-
-          >
-            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
-              
-          
-        
-              has-aspect-ratio
-            " style="
-                position: relative;
-                
-                  padding-bottom:72.92993927001953%;
-                
-                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
-              "
-              >
-                
-                
-                
-                
-                
-                
-                
-                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/19358d16-c815-4db1-9c54-39a97ae3e15f/cert2.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/19358d16-c815-4db1-9c54-39a97ae3e15f/cert2.png" data-image-dimensions="628x458" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/19358d16-c815-4db1-9c54-39a97ae3e15f/cert2.png" width="628" height="458" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/19358d16-c815-4db1-9c54-39a97ae3e15f/cert2.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/19358d16-c815-4db1-9c54-39a97ae3e15f/cert2.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/19358d16-c815-4db1-9c54-39a97ae3e15f/cert2.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/19358d16-c815-4db1-9c54-39a97ae3e15f/cert2.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/19358d16-c815-4db1-9c54-39a97ae3e15f/cert2.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/19358d16-c815-4db1-9c54-39a97ae3e15f/cert2.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/19358d16-c815-4db1-9c54-39a97ae3e15f/cert2.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
-
+    <div class=" image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none " data-test="image-block-inline-outer-wrapper" data-sqsp-image-classic-block-layout="inline" >
+        <figure class=" sqs-block-image-figure intrinsic " style="max-width:628px;" >
+          <div class="image-block-wrapper" data-animation-role="image" >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element has-aspect-ratio " style=" position: relative; padding-bottom:72.92993927001953%; overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black); " >
+                <img data-stretch="false" data-src="/images/images.squarespace-cdn.com/d5f4c120-cert2.png" data-image="/images/images.squarespace-cdn.com/d5f4c120-cert2.png" data-image-dimensions="628x458" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="/images/images.squarespace-cdn.com/d5f4c120-cert2.png" width="628" height="458" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" loading="lazy" decoding="async" data-loader="sqs">
             </div>
           </div>
-        
-          
-        
-
-        
-      
         </figure>
-      
-
     </div>
-  
-
-
-  
-
-
 </div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1675627186640_1213094"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;">In the Cause of Death section, we see slightly illegible handwriting, along with a circled code of “120”.  With the death in 1914, we know we should be looking at the 2nd revision, based on the 1909 conference. <br><br>We look it up in the <em>Manual of the International List of the Causes of Death</em>, published in 1911 in the US (linked in the chart above). And while the handwriting on the certificate does not look like Bright’s disease to me, it does look like Chronic Nephritis. </p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1675627186640_1223607"><div class="sqs-block-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-    
-  
-    <div
-        class="
-          image-block-outer-wrapper
-          layout-caption-below
-          design-layout-inline
-          combination-animation-none
-          individual-animation-none
-          individual-text-animation-none
-        "
-        data-test="image-block-inline-outer-wrapper"
-        data-sqsp-image-classic-block-layout="inline"
-    >
-
-      
-
-      
-        <figure
-            class="
-              sqs-block-image-figure
-              intrinsic
-            "
-            style="max-width:576px;"
-        >
-          
-        
-        
-
-        
-          
-            
-          <div
-              
-              
-              class="image-block-wrapper"
-              data-animation-role="image"
-              
-  
-
-          >
-            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
-              
-          
-        
-              has-aspect-ratio
-            " style="
-                position: relative;
-                
-                  padding-bottom:93.22917175292969%;
-                
-                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
-              "
-              >
-                
-                
-                
-                
-                
-                
-                
-                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/9ba3fb37-5ee5-4e6b-8a95-1a9ede427ba8/120.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/9ba3fb37-5ee5-4e6b-8a95-1a9ede427ba8/120.png" data-image-dimensions="576x537" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/9ba3fb37-5ee5-4e6b-8a95-1a9ede427ba8/120.png" width="576" height="537" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/9ba3fb37-5ee5-4e6b-8a95-1a9ede427ba8/120.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/9ba3fb37-5ee5-4e6b-8a95-1a9ede427ba8/120.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/9ba3fb37-5ee5-4e6b-8a95-1a9ede427ba8/120.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/9ba3fb37-5ee5-4e6b-8a95-1a9ede427ba8/120.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/9ba3fb37-5ee5-4e6b-8a95-1a9ede427ba8/120.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/9ba3fb37-5ee5-4e6b-8a95-1a9ede427ba8/120.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/9ba3fb37-5ee5-4e6b-8a95-1a9ede427ba8/120.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
-
+    <div class=" image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none " data-test="image-block-inline-outer-wrapper" data-sqsp-image-classic-block-layout="inline" >
+        <figure class=" sqs-block-image-figure intrinsic " style="max-width:576px;" >
+          <div class="image-block-wrapper" data-animation-role="image" >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element has-aspect-ratio " style=" position: relative; padding-bottom:93.22917175292969%; overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black); " >
+                <img data-stretch="false" data-src="/images/images.squarespace-cdn.com/9c90b41a-120.png" data-image="/images/images.squarespace-cdn.com/9c90b41a-120.png" data-image-dimensions="576x537" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="/images/images.squarespace-cdn.com/9c90b41a-120.png" width="576" height="537" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" loading="lazy" decoding="async" data-loader="sqs">
             </div>
           </div>
-        
-          
-        
-
-        
-      
         </figure>
-      
-
     </div>
-  
-
-
-  
-
-
 </div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1675627186640_1250926"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;">Looking at the second page of the classification under the number 120, I notice the word “Uraemia” and feel that’s a good fit for the first part of the handwriting, making the cause of death “Uraemia - Chronic Nephritis”. Would you agree?</p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1675627186640_1249503"><div class="sqs-block-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-    
-  
-    <div
-        class="
-          image-block-outer-wrapper
-          layout-caption-below
-          design-layout-inline
-          combination-animation-none
-          individual-animation-none
-          individual-text-animation-none
-        "
-        data-test="image-block-inline-outer-wrapper"
-        data-sqsp-image-classic-block-layout="inline"
-    >
-
-      
-
-      
-        <figure
-            class="
-              sqs-block-image-figure
-              intrinsic
-            "
-            style="max-width:511px;"
-        >
-          
-        
-        
-
-        
-          
-            
-          <div
-              
-              
-              class="image-block-wrapper"
-              data-animation-role="image"
-              
-  
-
-          >
-            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
-              
-          
-        
-              has-aspect-ratio
-            " style="
-                position: relative;
-                
-                  padding-bottom:48.33659362792969%;
-                
-                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
-              "
-              >
-                
-                
-                
-                
-                
-                
-                
-                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ab159bf2-7284-482d-a322-0d16e069b67a/129b.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ab159bf2-7284-482d-a322-0d16e069b67a/129b.png" data-image-dimensions="511x247" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ab159bf2-7284-482d-a322-0d16e069b67a/129b.png" width="511" height="247" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ab159bf2-7284-482d-a322-0d16e069b67a/129b.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ab159bf2-7284-482d-a322-0d16e069b67a/129b.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ab159bf2-7284-482d-a322-0d16e069b67a/129b.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ab159bf2-7284-482d-a322-0d16e069b67a/129b.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ab159bf2-7284-482d-a322-0d16e069b67a/129b.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ab159bf2-7284-482d-a322-0d16e069b67a/129b.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ab159bf2-7284-482d-a322-0d16e069b67a/129b.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
-
+    <div class=" image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none " data-test="image-block-inline-outer-wrapper" data-sqsp-image-classic-block-layout="inline" >
+        <figure class=" sqs-block-image-figure intrinsic " style="max-width:511px;" >
+          <div class="image-block-wrapper" data-animation-role="image" >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element has-aspect-ratio " style=" position: relative; padding-bottom:48.33659362792969%; overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black); " >
+                <img data-stretch="false" data-src="/images/images.squarespace-cdn.com/b8eb06fc-129b.png" data-image="/images/images.squarespace-cdn.com/b8eb06fc-129b.png" data-image-dimensions="511x247" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="/images/images.squarespace-cdn.com/b8eb06fc-129b.png" width="511" height="247" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" loading="lazy" decoding="async" data-loader="sqs">
             </div>
           </div>
-        
-          
-        
-
-        
-      
         </figure>
-      
-
     </div>
-  
-
-
-  
-
-
 </div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1675627186640_1223949"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;">What are your thoughts? Do you think using Wolfbane, or the American publications, will be helpful in your research? <br><br></p><p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>Sources &amp; Further Research:</strong></span> </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Center for Disease Control and Prevention (CDC); National Center for Health Statistics. “ICD-9” (<a href="https://www.cdc.gov/nchs/icd/icd9.htm#:~:text=International%20Classification%20of%20Diseases%2CNinth%20Revision%20(ICD%2D9)&amp;text=The%20International%20Classification%20of%20Diseases,and%20presentation%20of%20mortality%20statistics.">https://www.cdc.gov/nchs/icd/icd9.htm#:~:text=International%20Classification%20of%20Diseases%2CNinth%20Revision%20(ICD%2D9)&amp;text=The%20International%20Classification%20of%20Diseases,and%20presentation%20of%20mortality%20statistics.</a>)</p></li><li><p class="" style="white-space:pre-wrap;">Center for Health Statistics, Washington State Department of Health. “Guide to Presenting and Using ICD-10 Mortality Data”. January 20, 2004. (<a href="https://doh.wa.gov/sites/default/files/legacy/Documents/5400//ICD10Gud.pdf">https://doh.wa.gov/sites/default/files/legacy/Documents/5400//ICD10Gud.pdf</a>)</p></li><li><p class="" style="white-space:pre-wrap;">Moriyama, Iwao M., Ph.D.; Loy, Ruth M., M.B.E.; Robb-Smith, Alastair H.T., M.D. “History of the Statistical Classification of Diseases and Causes of Death” Centers for Disease Control and Prevention (CDC). National Center for Health Statistics, 2011. (<a href="https://www.cdc.gov/nchs/data/misc/classification_diseases2011.pdf)">https://www.cdc.gov/nchs/data/misc/classification_diseases2011.pdf)</a> </p></li><li><p class="" style="white-space:pre-wrap;">World Health Organization (WHO), “History of the Development of the ICD” (<a href="https://cdn.who.int/media/docs/default-source/classification/icd/historyoficd.pdf?sfvrsn=b9e617af_3)">https://cdn.who.int/media/docs/default-source/classification/icd/historyoficd.pdf?sfvrsn=b9e617af_3)</a> </p></li></ul><p class="" style="white-space:pre-wrap;"><br></p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div></div></div></div>

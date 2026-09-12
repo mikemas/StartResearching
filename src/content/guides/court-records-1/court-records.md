@@ -4,189 +4,28 @@ description: "Even if you think your ancestor was never in trouble with the law 
 canonicalUrl: "https://www.startresearching.com/court-records-1/court-records"
 
 ---
-
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1587273281905" id="item-5e9bde32aef03710d35f1b78"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-fe2d6808f1faff9b24d6"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;">Even if you think your ancestor was never in trouble with the law or had their day in court, there was likely some aspect of their life captured by the court records. Maybe they applied for a business licence to run a tavern, or were sued over a land dispute, or were simply listed in a relative’s will. Perhaps they were even a witness or a juror in another case. </p><p class="" style="white-space:pre-wrap;">They may have been involved in a <strong>civil case</strong>, when laws were broken and an individual may have been harmed but not society, and people file suit against each other for damages; an <strong>equity case, </strong>or a dispute between two or more parties in which no laws were broken, usually property disputes or probate cases; or a <strong>criminal case, </strong>in which laws were broken and society may have been harmed, and the state brings a case against the defendant.  While civil and criminal cases are usually tried in state courts, equity cases are tried in local county courts. The federal or national higher level courts try cases in which the U.S. Constitution is in question or federal laws are broken. </p><p class="" style="white-space:pre-wrap;">Court records can be difficult to find, and cumbersome to go through. They may use a variety of legal terminology and abbreviations, some drawn from Latin. A law dictionary might be helpful in this case, such as <a href="https://www.amazon.com/Blacks-Dictionary-BLACKS-DICTIONARY-STANDARD/dp/1539229750"><em>Black’s Law Dictionary</em></a><strong><em> </em></strong>by Henry Campbell Black, or one of several online reference websites like <a href="https://thelawdictionary.org/">thelawdictionary.org</a> or <a href="https://en.wikipedia.org/wiki/List_of_Latin_legal_terms">Wikipedia’s List of Latin legal terms.</a>  </p><p class="" style="white-space:pre-wrap;">Court records can include dockets (or court calendars), minutes, orders, and case files. Records may be organized with an index to plaintiffs and a different index for defendants. File types differ depending on the type of record. </p><p class="" style="white-space:pre-wrap;">The majority of court records are kept in the county where the event occurred, or where the subjects reside. Note that in some instances, events can happen in a residence’s previous location even after they have moved away.</p><p class="" style="white-space:pre-wrap;"><br><strong>Types of Records Found in Courts</strong></p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Adoption: these records are often sealed and require petition to the courts and agreements by the parties involved. See <a href="/adoption">Adoption Records</a></p></li><li><p class="" style="white-space:pre-wrap;">Apprenticeship or Indenture</p></li><li><p class="" style="white-space:pre-wrap;">Appointment to a public office or position</p></li><li><p class="" style="white-space:pre-wrap;">Applications for Patents or Business Licences</p></li><li><p class="" style="white-space:pre-wrap;">Crimes: Bastardy, Fornication</p></li><li><p class="" style="white-space:pre-wrap;">Debt</p></li><li><p class="" style="white-space:pre-wrap;">Divorce Cases (see below)</p></li><li><p class="" style="white-space:pre-wrap;">Guardianship </p></li><li><p class="" style="white-space:pre-wrap;">Insanity Records</p></li><li><p class="" style="white-space:pre-wrap;">Lawsuits</p></li><li><p class="" style="white-space:pre-wrap;">Naturalization</p></li><li><p class="" style="white-space:pre-wrap;">Property Disputes</p></li><li><p class="" style="white-space:pre-wrap;">Partitions - a type of suit about dividing property or estates</p></li><li><p class="" style="white-space:pre-wrap;">Petitions</p></li><li><p class="" style="white-space:pre-wrap;">Wills &amp; Probate Records (see below)</p></li><li><p class="" style="white-space:pre-wrap;">Slavery Records (registration of free blacks, disagreements about inheritances, recognition of marriages and children, especially after emancipation) </p></li><li><p class="" style="white-space:pre-wrap;">Taxes or Finances</p></li></ul><p class="" style="white-space:pre-wrap;"><br></p><h3 style="white-space:pre-wrap;"><strong>Divorce Records</strong></h3>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1594097899738_277010"><div class="sqs-block-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-    
-
-      <figure
-          class="
-            sqs-block-image-figure
-            image-block-outer-wrapper
-            image-block-v2
-            design-layout-card
-            combination-animation-none
-            individual-animation-none
-            individual-text-animation-none
-            image-position-left
-            
-          "
-          data-scrolled
-          data-test="image-block-v2-outer-wrapper"
-          data-sqsp-image-classic-block-layout="card"
-      >
-
+      <figure class=" sqs-block-image-figure image-block-outer-wrapper image-block-v2 design-layout-card combination-animation-none individual-animation-none individual-text-animation-none image-position-left " data-scrolled data-test="image-block-v2-outer-wrapper" data-sqsp-image-classic-block-layout="card" >
         <div class="intrinsic">
-          
-            <div
-          
-              class="
-                
-                image-inset"
-              data-animation-role="image"
-              data-description=""
-              
-  
-
-          >
-            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
-              
-                content-fit
-              
-            " style="
-              position: relative;
-              overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
-              
-            ">
-              
-              
-              
-              
-              
-              
-              
-              <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1594261627815-A2NDYF1YLIEXN0N7WWZ7/divorce+abernathy.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1594261627815-A2NDYF1YLIEXN0N7WWZ7/divorce+abernathy.png" data-image-dimensions="428x676" data-image-focal-point="0.5,0.5" alt="divorce abernathy.png" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1594261627815-A2NDYF1YLIEXN0N7WWZ7/divorce+abernathy.png" width="428" height="676" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: contain;" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1594261627815-A2NDYF1YLIEXN0N7WWZ7/divorce+abernathy.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1594261627815-A2NDYF1YLIEXN0N7WWZ7/divorce+abernathy.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1594261627815-A2NDYF1YLIEXN0N7WWZ7/divorce+abernathy.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1594261627815-A2NDYF1YLIEXN0N7WWZ7/divorce+abernathy.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1594261627815-A2NDYF1YLIEXN0N7WWZ7/divorce+abernathy.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1594261627815-A2NDYF1YLIEXN0N7WWZ7/divorce+abernathy.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1594261627815-A2NDYF1YLIEXN0N7WWZ7/divorce+abernathy.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
-
+            <div class=" image-inset" data-animation-role="image" data-description="" >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element content-fit " style=" position: relative; overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black); ">
+              <img data-stretch="false" data-src="/images/images.squarespace-cdn.com/757d15fa-divorce-abernathy.png" data-image="/images/images.squarespace-cdn.com/757d15fa-divorce-abernathy.png" data-image-dimensions="428x676" data-image-focal-point="0.5,0.5" alt="divorce abernathy.png" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="/images/images.squarespace-cdn.com/757d15fa-divorce-abernathy.png" width="428" height="676" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: contain;" onload="this.classList.add(&quot;loaded&quot;)" loading="lazy" decoding="async" data-loader="sqs">
               <div class="image-overlay" style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);"></div>
             </div>
-          
             </div>
-          
-
         </div>
-
-        
-          
           <figcaption class="image-card-wrapper" data-width-ratio>
             <div class="image-card sqs-dynamic-text-container" data-sqsp-image-classic-block-content-container>
-
-              
-
-              
-                <div class="image-subtitle-wrapper" data-sqsp-image-classic-block-subtitle><div class="image-subtitle sqs-dynamic-text"
-                
-  
-><p class="">A divorce record from the North Carolina Buncombe County Superior Court in 1907, which shows the couple Henry and Emma Abernathy filing for divorce after she committed adultery with Baxter Davis. From <a href="https://www.familysearch.org/ark:/61903/3:1:3Q9M-C33T-S91P-X?cat=1134344&amp;i=6">familysearch.org</a></p></div></div>
-              
-
-              
-
+                <div class="image-subtitle-wrapper" data-sqsp-image-classic-block-subtitle><div class="image-subtitle sqs-dynamic-text" ><p class="">A divorce record from the North Carolina Buncombe County Superior Court in 1907, which shows the couple Henry and Emma Abernathy filing for divorce after she committed adultery with Baxter Davis. From <a href="https://www.familysearch.org/ark:/61903/3:1:3Q9M-C33T-S91P-X?cat=1134344&amp;i=6">familysearch.org</a></p></div></div>
             </div>
           </figcaption>
-        
-
       </figure>
-
-    
-
-  
-
-
 </div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1594097899738_277311"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;"><strong>﻿</strong>Filing for divorce typically takes place where the couple last lived together. Some records, like an index or a docket book, may only show the names of the couple that filed for divorce. Court case files or divorce records are likely to show much more detailed information, such as the names of the couple, date and location of the marriage, and names and ages of any children. It should show a reason given for divorce, like adultery, desertion or intoxication. There may be stories, testimonies, trial notes, evidence, and a judge ruling.  There may be an inventory of fees.</p><p class="" style="white-space:pre-wrap;">Also note: just because there is a divorce mentioned, it may not have gone through or been finalized. </p><h3 style="white-space:pre-wrap;"><strong>Selection of Various Divorce Record Collections</strong></h3><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/search/catalog/2015584?availability=Online">California, divorce index, 1966 - 1984</a>, familysearch.org</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.ancestry.com/search/collections/60927">Colorado, Divorce Index, 1851-1985</a>, Ancestry.com, $</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.ancestry.com/search/collections/61780/">Hawaii, Divorce Records, 1848 - 1892</a>, Ancestry.com, $</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.ancestry.com/search/collections/61022">Iowa, Divorce Index, 1992-2008</a>, Ancestry.com, $</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/search/catalog/728268?availability=Online">[Kansas, Marshall County] Civil court case files (only divorces), 1863-1917</a>, familysearch.org</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.ancestry.com/search/collections/61049/">Kentucky, Divorce Records, 1962-2005</a>, Ancestry.com, $</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/search/catalog/982563?availability=Family%20History%20Library">Massachusetts (Berkshire County), divorce docket books, 1888 - 1927</a>, familysearch.org (click camera icons to browse images) </p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/search/catalog/973566?availability=Online">Massachusetts (Bristol County), docket books for divorce records, 1909 - 1918</a>, familysearch.org (click camera icons to browse images)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.ancestry.com/search/collections/61477/">Montana, Divorce Records, 1943-1988</a>, Ancestry.com, $</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.ancestry.com/search/collections/60966">Oregon, Divorce Records, 1961-1985</a>, Ancestry.com, $</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.ancestry.com/search/collections/9280">Virginia, Divorce Records, 1918-2014</a>, Ancestry.com, $</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.ancestry.com/search/collections/61251">Washington, Divorce Index, 1969 - 2017</a>, Ancestry.com, $</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.ancestry.com/search/collections/61832">Wyoming, Divorce Index Cards, 1941 - 1953</a>, Ancestry.com, $</p></li></ul><p class="" style="white-space:pre-wrap;"><br></p><h3 style="white-space:pre-wrap;"><strong>Will &amp; Probate Records</strong></h3><p class="" style="white-space:pre-wrap;">When a person dies, records may be created in the courts regarding their decision with that person’s estate and how it should be distributed among their heirs or creditors. Courts may also decide who cares for that person’s children. If the deceased died with a will it is called <strong>testate</strong>, if they died without a will it is called <strong>intestate</strong>. The person leaving the will is called the <strong>testator. </strong>The person appointed by the testator to carry out the will after their death is called the <strong>executor </strong>or <strong>executrix</strong>. </p><p class="" style="white-space:pre-wrap;">Wills are created before a person’s death, and NOT indicative of a person’s date of death. Early records of wills may have notations however, that say “proved” with the date of death. </p><p class="" style="white-space:pre-wrap;">Also, not everyone went through this process of creating a will or going through probate. Male property owners were more likely to have probate files. </p><p class="" style="white-space:pre-wrap;">Probate records are created after a person’s death, and may include wills in the records as well as other documents to settle their estate. They many not always give the date of death, but you will know the person died before the probate record in court. </p><p class="" style="white-space:pre-wrap;">So the testator creates a will, signed by witnesses (usually family members) and appoints an executor. When the testator dies, the executor or other family members bring the will to court along with a <strong>petition for probate</strong>. The court admits the case and a hearing is scheduled, and people may contest the will. An inventory of the estate is created, the will is finalized, and the executor settles the estate. </p><p class="" style="white-space:pre-wrap;">A Probate Court may be called many things, such as: Circuit Court, Surrogate’s Court, Equity Court, Orphans Court, Register of the Wills, County Clerk, and so on. </p><p class="" style="white-space:pre-wrap;">These court records can be a great source of valuable information for genealogists. In addition to personal family stories, they may list names of spouses and children, show relationships, and be an important “linking” source that proves how one generation is related to the previous one.  They will have inventories of the deceased’s estate and land, and may tell who is appointed guardian of any minor children. Inventories of estate’s and wills of slaveholder’s may also list their slaves, with record of what was to happen to them upon the will owner’s death (some were given to family members, sold to others, or freed). Wills may also give directives on how to handle the deceased’s remains, such as where they wish to be buried. </p><p class="" style="white-space:pre-wrap;">If your ancestor did not have their own probate record, there is still a chance they were mentioned as a beneficiary in another one. In fact an individual may be a beneficiary in a couple different wills, from that of their spouse or parents to grandparents, other relatives, or even friends and neighbors. </p><h3 style="white-space:pre-wrap;"><strong>Types of Probate &amp; Will Records</strong></h3><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Accounts</p></li><li><p class="" style="white-space:pre-wrap;">Bills of Appraisement</p></li><li><p class="" style="white-space:pre-wrap;">Bonds</p></li><li><p class="" style="white-space:pre-wrap;">Codicils (amendments to the will)</p></li><li><p class="" style="white-space:pre-wrap;">Deeds and land records</p></li><li><p class="" style="white-space:pre-wrap;">Distributions</p></li><li><p class="" style="white-space:pre-wrap;">Estate Inventories (which may include lists of enslaved people)</p></li><li><p class="" style="white-space:pre-wrap;">Guardianship appointments or adoptions</p></li><li><p class="" style="white-space:pre-wrap;">Index of Records</p></li><li><p class="" style="white-space:pre-wrap;">Letters Administration</p></li><li><p class="" style="white-space:pre-wrap;">Letters Testamentary</p></li><li><p class="" style="white-space:pre-wrap;">List of heirs or devisees</p></li><li><p class="" style="white-space:pre-wrap;">Name changes</p></li><li><p class="" style="white-space:pre-wrap;">Orders and decrees</p></li><li><p class="" style="white-space:pre-wrap;">Petition for probate</p></li><li><p class="" style="white-space:pre-wrap;">Probate court dockets and probate case files</p></li><li><p class="" style="white-space:pre-wrap;">Publications in newspapers</p></li><li><p class="" style="white-space:pre-wrap;">Tax records</p></li><li><p class="" style="white-space:pre-wrap;">Wills </p></li></ul><h3 data-rte-preserve-empty="true" style="white-space:pre-wrap;"></h3><h3 style="white-space:pre-wrap;"><strong>Where to Find Probate &amp; Will Records</strong></h3><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Court Records from the local Courthouse: </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">locate the county where the ancestor lived</p></li><li><p class="" style="white-space:pre-wrap;">find index files of probates or wills to search</p></li><li><p class="" style="white-space:pre-wrap;">or search / browse online collections from that county</p></li><li><p class="" style="white-space:pre-wrap;">find probate court docket or see what information is available</p></li><li><p class="" style="white-space:pre-wrap;">request copies of that information (may be a small fee) </p></li><li><p class="" style="white-space:pre-wrap;">clerk at probate court may be able to help, online, over the phone or in person</p></li></ul></li><li><p class="" style="white-space:pre-wrap;">State Archives may hold some historical records</p></li><li><p class="" style="white-space:pre-wrap;">Local libraries or historical societies</p></li><li><p class="" style="white-space:pre-wrap;">Online public collections (see below for sample of collections) </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"><a href="https://www.ancestry.com/search/collections/catalog/?category=140_36&amp;sort=record-count">Ancestry.com</a> - in the card catalog, under “Court, Land, Wills &amp; Financial” which you can narrow down further to “Wills, Estates &amp; Guardian Records” </p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/search/catalog">FamilySearch.org</a> - narrow down the card catalog by location, then browse for collections of court records, probate records, or wills, or indexes. Many collections are organized by county. </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li></ul></li></ul><h3 style="white-space:pre-wrap;"><strong>Various Probate &amp; Will Record Collections Online</strong></h3><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/search/catalog/2442315?availability=Family%20History%20Library">Alaska, Anchorage, probate records, 1900 - 1974</a>, FamilySearch.org (click camera icon to browse images)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/search/collection/2061549">Arkansas Probate Records, 1817-1979</a>, FamilySearch.org (browse images)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/search/collection/1999181">California Probate Estate Files, 1833-1991</a>, FamilySearch.org (browse images)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/search/catalog/412735?availability=Family%20History%20Library">Essex County, Massachusetts, probate records and indexes, 1638 - 1916</a>, FamilySearch.org (click camera icon to browse images) </p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.ancestry.com/search/collections/9048">Illinois, Wills and Probate Records, 1772-1999</a>, Ancestry.com, $</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.ancestry.com/search/collections/9064">Iowa, Wills and Probate Records, 1758-1997</a>, Ancestry.com, $</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/search/collection/2037995">Maine, Androscoggin County, Probate Estate Files, 1854-1918</a>, FamilySearch.org (browse images) </p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/search/collection/2040534">Maine, County Probate Records, 1760-1979</a>, FamilySearch.org (browse images)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/search/catalog/2777936?availability=Family%20History%20Library">Massachusetts, Norfolk County, probate case files, 1793-1900</a>, FamilySearch.org (browse images)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.ancestry.com/search/collections/9069">Massachusetts, Wills and Probate Records, 1635-1991</a>, Ancestry.com, $</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.ancestry.com/search/collections/9070">Minnesota, Wills and Probate Records, 1801-1925</a>, Ancestry.com, $</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/search/collection/2399107">Missouri Probate Records, 1750 - 1998</a>, FamilySearch.org (browse images)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.ancestry.com/search/collections/8800">New York, Wills and Probate Records, 1659 - 1999</a>, Ancestry.com, $</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.ancestry.com/search/collections/9061">North Carolina, Wills and Probate Records, 1665-1998</a>, Ancestry.com, $</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.ancestry.com/search/collections/8801">Ohio, Wills and Probate Records, 1786-1998</a>, Ancestry.com, $</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.ancestry.com/search/collections/8802">Pennsylvania, Wills and Probate Records, 1683-1993</a>, Ancestry.com, $</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/search/catalog/274352?availability=Family%20History%20Library">Probate Records (Manchester, District, Vermont), 1779-1914</a>, FamilySearch.org</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/search/collection/2016287">Texas Probate Records, 1800 - 1990</a>, FamilySearch.org (browse images)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.ancestry.com/search/categories/us_willsprobate/">U.S. Wills and Probates</a> - Ancestry.com, $</p></li></ul><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Return to <a href="/records">Records</a></p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </div></div></div></div></div>

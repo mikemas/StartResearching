@@ -4,48 +4,12 @@ description: "Whether your goal is to practice genealogy for a hobby or a living
 canonicalUrl: "https://www.startresearching.com/education/educationnbsp"
 
 ---
-
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1587234817593" id="item-5e9b47fb8bfd225caf961b81"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-b41e0f18d2fa6c45b0c8"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;">Whether your goal is to practice genealogy for a hobby or a living, these educational programs below will give you the skills you need - though you should know many people today work as professional genealogists without having completed any of these courses. </p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1592594924142_84504" id="block-yui_3_17_2_1_1592594924142_84504"><div class="sqs-block-content">
-  
-
-<div
-  class="sqs-code-container"
-  
-  
-    data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}"
-  
-  
-  
-  
->
-  
+<div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}" >
     <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
 .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
@@ -168,42 +132,11 @@ canonicalUrl: "https://www.startresearching.com/education/educationnbsp"
   </tr>
 </tbody>
 </table>
-  
-  
-
-
-
 </div>
-
 <style class="transform-overrides-vars">
-  
 </style>
-
 </div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1592594924142_84574"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;"><em>*Note all above courses subject to change and cancellation. Many are now offered virtually during COVID. If you know of any additional educational courses or workshops, please let us know.</em></p><p class="" style="white-space:pre-wrap;">Note that degrees and education in other fields, from history to library sciences, can be very helpful in genealogy research, and will advance your career if you hope to become a professional. </p><p class="" style="white-space:pre-wrap;">If you are just starting out, the free online course <a href="https://www.futurelearn.com/courses/genealogy">Genealogy: Researching Your Family Tree</a> from the University of Strathclyde Glasgow and FutureLearn.com can be very informative. </p><p class="" style="white-space:pre-wrap;">We also recommend courses from the <a href="https://www.ngsgenealogy.org/genealogy-courses/">National Genealogical Society</a> as well as the <a href="https://www.genealogicalstudies.com/eng/courses.asp">National Institute for Genealogical Studies (NIGS)</a> for all levels of study, which you can take online at your own pace. </p><p class="" style="white-space:pre-wrap;">Scholarship awards may be available from a variety of sources to help you finance your education. </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"><a href="http://www.gen-fed.org/home/scholarships/">Lackey Memorial Scholarship</a> from The Genealogical Institute on Federal Research Alumni Association (Gen-Fed Alumni) </p></li><li><p class="" style="white-space:pre-wrap;"><a href="http://fasg.org/awards/asg-scholar-award/">ASG Scholar Award</a> from The American Society of  Genealogists</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.progenealogists.com/scholarship">AncestryProGenealogists Scholarship Program</a> from Ancestry.com</p></li></ul><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">All genealogists should stay up to date with current practices and research methods. Stay aware of new sources that are discovered, transcribed, and published. Learn from those who have been researching and teaching for years. Here are some ways to stay at the top of your game: </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Attend workshops, conferences, and seminars</p></li><li><p class="" style="white-space:pre-wrap;">Host or lecture at workshops, conferences, and seminars</p></li><li><p class="" style="white-space:pre-wrap;">Volunteer to help transcribe, organize, or assist in research</p></li><li><p class="" style="white-space:pre-wrap;">Subscribe to newsletters, journals, magazines, and email lists</p></li><li><p class="" style="white-space:pre-wrap;">Read books, blogs, and other media</p></li><li><p class="" style="white-space:pre-wrap;">Apply to lineage membership groups</p></li><li><p class="" style="white-space:pre-wrap;">Join local genealogy societies</p></li><li><p class="" style="white-space:pre-wrap;">Join historical societies or historical museums</p></li><li><p class="" style="white-space:pre-wrap;">Consider earning credentials</p></li></ul><p class="" style="white-space:pre-wrap;">If you know of any other courses specific to genealogy, especially within the United States or available online, please let us know so we can share with everyone.  </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">See also: <a href="/becoming-a-professional">Becoming a Professional</a><br></p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </div></div></div></div></div>

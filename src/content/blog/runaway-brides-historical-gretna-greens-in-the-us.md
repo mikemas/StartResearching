@@ -5,293 +5,46 @@ description: "2 January 2023, by Sherri Mastrangelo When looking for marriage re
 canonicalUrl: "https://www.startresearching.com/blog/runaway-brides-historical-gretna-greens-in-the-us"
 
 ---
-
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1672284146730" id="item-63ad02a0dbef0d00f06982e1"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-0db7f969535dd749770f"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>2 January 2023, by Sherri Mastrangelo</strong></span></p><p class="" style="white-space:pre-wrap;">When looking for marriage records, you’ll assume the marriage took place in your ancestor’s place of residence, or the hometown of the bride. But what happens when you’ve exhausted your search and still can’t find any records? Where did your ancestors go to get married, and why? How do you know where to look?</p><p class="" style="white-space:pre-wrap;">The answer might have something to do with “Gretna Greens”, the term for a well-known place for out-of-town wedding destinations. </p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1672284148666_82748"><div class="sqs-block-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-    
-  
-    <div
-        class="
-          image-block-outer-wrapper
-          layout-caption-below
-          design-layout-inline
-          combination-animation-none
-          individual-animation-none
-          individual-text-animation-none
-        "
-        data-test="image-block-inline-outer-wrapper"
-        data-sqsp-image-classic-block-layout="inline"
-    >
-
-      
-
-      
-        <figure
-            class="
-              sqs-block-image-figure
-              intrinsic
-            "
-            style="max-width:1200px;"
-        >
-          
-        
-        
-
-        
-          
-            
-          <div
-              
-              
-              class="image-block-wrapper"
-              data-animation-role="image"
-              
-  
-
-          >
-            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
-              
-          
-        
-              has-aspect-ratio
-            " style="
-                position: relative;
-                
-                  padding-bottom:52.499996185302734%;
-                
-                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
-              "
-              >
-                
-                
-                
-                
-                
-                
-                
-                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8509abc4-52c4-4e3f-88de-3aaf62ad9945/cold%2C+smooth+%26+tasty..png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8509abc4-52c4-4e3f-88de-3aaf62ad9945/cold%2C+smooth+%26+tasty..png" data-image-dimensions="1200x630" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8509abc4-52c4-4e3f-88de-3aaf62ad9945/cold%2C+smooth+%26+tasty..png" width="1200" height="630" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8509abc4-52c4-4e3f-88de-3aaf62ad9945/cold%2C+smooth+%26+tasty..png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8509abc4-52c4-4e3f-88de-3aaf62ad9945/cold%2C+smooth+%26+tasty..png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8509abc4-52c4-4e3f-88de-3aaf62ad9945/cold%2C+smooth+%26+tasty..png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8509abc4-52c4-4e3f-88de-3aaf62ad9945/cold%2C+smooth+%26+tasty..png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8509abc4-52c4-4e3f-88de-3aaf62ad9945/cold%2C+smooth+%26+tasty..png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8509abc4-52c4-4e3f-88de-3aaf62ad9945/cold%2C+smooth+%26+tasty..png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8509abc4-52c4-4e3f-88de-3aaf62ad9945/cold%2C+smooth+%26+tasty..png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
-
+    <div class=" image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none " data-test="image-block-inline-outer-wrapper" data-sqsp-image-classic-block-layout="inline" >
+        <figure class=" sqs-block-image-figure intrinsic " style="max-width:1200px;" >
+          <div class="image-block-wrapper" data-animation-role="image" >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element has-aspect-ratio " style=" position: relative; padding-bottom:52.499996185302734%; overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black); " >
+                <img data-stretch="false" data-src="/images/images.squarespace-cdn.com/0770aac4-cold-smooth-tasty..png" data-image="/images/images.squarespace-cdn.com/0770aac4-cold-smooth-tasty..png" data-image-dimensions="1200x630" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="/images/images.squarespace-cdn.com/0770aac4-cold-smooth-tasty..png" width="1200" height="630" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" loading="lazy" decoding="async" data-loader="sqs">
             </div>
           </div>
-        
-          
-        
-
-        
-      
         </figure>
-      
-
     </div>
-  
-
-
-  
-
-
 </div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1672284148666_83106"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;">The phrase came into use after the Scottish village Gretna Green became a popular wedding sanctuary for England’s youth in the 18th century. “Located on the old coaching route between London and Edinburgh, Gretna Green was the first village reached once you entered Scotland. After Lord Hardwick's marriage act in 1754 outlawed marriage in England without paternal consent before the age of 21, young couples started to elope 'over the border' to Gretna Green, where they could be married at 16 years of age.” (- The Gretna Wedding Bureau).</p><p class="" style="white-space:pre-wrap;">Furthermore the GWB shares “many an infamous 'chase' has taken place along that old coaching route to Gretna Green, and there are many legendary tales of furious fathers in pursuit throughout the night, always reaching Gretna Green just a little too late. The residents of the small village of Gretna Green were well know for helping run-away couples and many an inn and watering station along the route could be counted on to, 'accidentally' delay any pursuers, allowing the couples to safely reach Gretna Green.” (- The Gretna Wedding Bureau)</p><p class="" style="white-space:pre-wrap;">In the 18th through 20th centuries, certain locations in the United States became known as “Gretna Greens”, if not in name then in spirit, as these popular wedding destinations usually offered less marriage restrictions to those hoping to tie the knot. Not all who traveled to these places where under age (though it was often the case). Perhaps they were looking to avoid parental consent requirements, for less of a waiting period, for lower fees for a license, or to avoid health test requirements and medical examinations. Perhaps they came from a dry town and wanted to serve alcohol at the reception. Or perhaps they just wanted a popular and romantic wedding destination. </p><p class="" style="white-space:pre-wrap;">Whatever the case may be for their travels, discovering where the popular “marriage mills” were near your ancestors’ homes might help you narrow down your search. When determining your research plan, consider the ages of your bride and groom and the marriage laws within the state, as well as nearby states.  Did they need a quick marriage for any reason? Was there a birth shortly after the wedding, or at a young age? Also look if they had family in neighboring states, or reasons to travel. </p><p class="" style="white-space:pre-wrap;">Once you have some idea where to look, check the free (with registration) records at FamilySearch.org, searching the catalog by county for marriage records during your time frame. </p><p class="" style="white-space:pre-wrap;">Gretna Greens across the US may lie just over the state border, or just over the Canadian or Mexican border. They might be military posts, or towns along the rivers, or along the railroad stops. They may have been near popular honeymoon locations, like Niagara Falls.  </p><p class="" style="white-space:pre-wrap;">In the below list of known marriage mill locations within the US, keep in mind each may have been popular at different times, depending on state laws. Also be aware of county borders and changes over time.<br><br></p><p class="" style="white-space:pre-wrap;">Arizona:</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Yuma (Yuma County)</p></li><li><p class="" style="white-space:pre-wrap;">Salome (La Paz)</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">Arkansas</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Texarkana (Miller County)</p></li><li><p class="" style="white-space:pre-wrap;">Marion (Crittenden County)</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">Connecticut</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Groton (New London)</p></li><li><p class="" style="white-space:pre-wrap;">Thompson (Windham)</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">Delaware</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Wilmington (Delaware County)</p></li></ul><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Georgia</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Rome (Floyd)</p></li><li><p class="" style="white-space:pre-wrap;">Rossville (Walker County)</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">Idaho</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Bear Lake County</p></li><li><p class="" style="white-space:pre-wrap;">Coeur d’Alene (Kootenai County)</p></li><li><p class="" style="white-space:pre-wrap;">Payette (Payette)</p></li><li><p class="" style="white-space:pre-wrap;">Weiser (Washington) </p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">Illinois</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Chicago (Cook County)</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1672707459096_7691" id="block-yui_3_17_2_1_1672707459096_7691"><div class="sqs-block-content">
-  
-
-<div
-  class="sqs-code-container"
-  
-  
-    data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}"
-  
-  
-  
-  
->
-  
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8442952758105071"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8442952758105071"
-     data-ad-slot="2072110511"></ins>
+<div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}" >
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8442952758105071" crossorigin="anonymous"></script>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-8442952758105071" data-ad-slot="2072110511"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-  
-
-
-
 </div>
-
 <style class="transform-overrides-vars">
-  
 </style>
-
 </div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1672707459096_7838"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p class="" style="white-space:pre-wrap;">Indiana</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Angola (Steuben County)</p></li><li><p class="" style="white-space:pre-wrap;"><strong>Crown Point (Lake County)</strong></p></li><li><p class="" style="white-space:pre-wrap;">Evansville (Vanderburgh County)</p></li><li><p class="" style="white-space:pre-wrap;">Floyd County</p></li><li><p class="" style="white-space:pre-wrap;">Jeffersonville (Clark County)</p></li><li><p class="" style="white-space:pre-wrap;">Lawrenceburg (Dearborn County)</p></li><li><p class="" style="white-space:pre-wrap;">Valparaiso (Porter County)</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">Iowa</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Keokuk (Lee County)</p></li><li><p class="" style="white-space:pre-wrap;">Nashua (Chickasaw County)</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">Kansas</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Bellevue (Johnson County)</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">Kentucky</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Ashtabula County</p></li><li><p class="" style="white-space:pre-wrap;">Greenup County</p></li><li><p class="" style="white-space:pre-wrap;">Maysville (Mason)</p></li><li><p class="" style="white-space:pre-wrap;">Pike County</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">Louisiana</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Gretna (Jefferson Parish)</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">Maryland</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"><strong>Elkton (Cecil County)</strong></p></li><li><p class="" style="white-space:pre-wrap;">Chestertown (Kent County)</p></li><li><p class="" style="white-space:pre-wrap;">Garrett County</p></li><li><p class="" style="white-space:pre-wrap;">Hartford County</p></li><li><p class="" style="white-space:pre-wrap;">Howard County</p></li><li><p class="" style="white-space:pre-wrap;">Rockville (Montgomery County)</p></li><li><p class="" style="white-space:pre-wrap;">Westminister (Carroll County)</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">Massachusetts</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Lowell (Middlesex)</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">Michigan</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Port Huron (St. Clair County)</p></li><li><p class="" style="white-space:pre-wrap;">St. Joseph (Berrien County)</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">Minnesota</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Moorhead (Clay County)</p></li><li><p class="" style="white-space:pre-wrap;">Waukegan (Lake County)</p></li><li><p class="" style="white-space:pre-wrap;">Winona County</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">Mississippi</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Alcorn County</p></li><li><p class="" style="white-space:pre-wrap;">DeSoto County</p></li><li><p class="" style="white-space:pre-wrap;">Tishomingo County</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">Missouri</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Liberty (Clay County)</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">Nebraska</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Omaha (Douglas County)</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">Nevada</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Las Vegas (Clark)</p></li><li><p class="" style="white-space:pre-wrap;">Reno (Washoe)</p></li><li><p class="" style="white-space:pre-wrap;">Wendover (Elko)</p></li><li><p class="" style="white-space:pre-wrap;">West Wendover (Elko)</p></li><li><p class="" style="white-space:pre-wrap;">Winnemucca (Humboldt) </p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">New Hampshire</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Seabrook (Rockingham County)</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">New Mexico</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Curry County</p></li><li><p class="" style="white-space:pre-wrap;">Raton (Colfax)</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">New York</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Buffalo (Eirie County)</p></li><li><p class="" style="white-space:pre-wrap;">Crown Point (Essex County)</p></li><li><p class="" style="white-space:pre-wrap;">Kings County</p></li><li><p class="" style="white-space:pre-wrap;">New York City</p></li><li><p class="" style="white-space:pre-wrap;">Niagara Falls (Niagara County)</p></li><li><p class="" style="white-space:pre-wrap;">Ogdensburg (St. Lawrence) </p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">North Carolina</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Mount Airy (Surry)</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">Ohio</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Aberdeen (Brown)</p></li><li><p class="" style="white-space:pre-wrap;">Bowling Green (Wood County)</p></li><li><p class="" style="white-space:pre-wrap;">Cincinnati (Hamilton)</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">Oklahoma</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Love County</p></li><li><p class="" style="white-space:pre-wrap;">Bryan County</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">Pennsylvania</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Media (Delaware County)</p></li><li><p class="" style="white-space:pre-wrap;">Pittsburgh (Allegheny)</p></li><li><p class="" style="white-space:pre-wrap;">Reading (Berks)</p></li><li><p class="" style="white-space:pre-wrap;">Washington County</p></li></ul><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Tennessee</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Gatlinburg (Sevier County)</p></li><li><p class="" style="white-space:pre-wrap;">Roane County</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">Texas</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Liberty County</p></li><li><p class="" style="white-space:pre-wrap;">Orange County</p></li><li><p class="" style="white-space:pre-wrap;">Fort Bend County</p></li></ul><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Utah</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Farmington (Davis)</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">Virginia</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Alexandria (Fairfax)</p></li><li><p class="" style="white-space:pre-wrap;">Frederiksburg</p></li><li><p class="" style="white-space:pre-wrap;">Manassas (Prince William)</p></li><li><p class="" style="white-space:pre-wrap;">Warrenton (Fauquier County)</p></li><li><p class="" style="white-space:pre-wrap;">Winchester (Frederick County) </p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">Washington</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Port Orchard (Kitsap)</p></li><li><p class="" style="white-space:pre-wrap;">Clark County</p></li><li><p class="" style="white-space:pre-wrap;">Skamania County</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">West Virginia</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Point Pleasant (Mason)</p></li><li><p class="" style="white-space:pre-wrap;">Wellsburg (Brooke County)</p></li><li><p class="" style="white-space:pre-wrap;">West Alexander (Washington)</p></li><li><p class="" style="white-space:pre-wrap;">Wheeling (Ohio County)</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">Wyoming</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Evanstan (Uinta County) </p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">Have any more to add to the list? Please share via comments or email. <br><br></p><p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>Sources &amp; More Information:</strong></span> </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">“Gretna Greens in the United States” FamilySearch (<a href="https://www.familysearch.org/en/wiki/Gretna_Greens_in_the_United_States" target="_blank">https://www.familysearch.org/en/wiki/Gretna_Greens_in_the_United_States</a>)</p></li><li><p class="" style="white-space:pre-wrap;">The Gretna Wedding Bureau (<a href="https://gretnaweddings.co.uk/about_gretna.html" target="_blank">https://gretnaweddings.co.uk/about_gretna.html</a>)</p></li><li><p class="" style="white-space:pre-wrap;">August, Melissa. “How One Small Maryland Town Became the Marriage Capital of the East Coast in the Early 20th Century” Time. 11 February 2021.  (<a href="https://time.com/5938395/elkton-maryland-marriage-capital-east-coast/" target="_blank">https://time.com/5938395/elkton-maryland-marriage-capital-east-coast/</a>)</p></li><li><p class="" style="white-space:pre-wrap;">Lyle. “Crown Point, Indiana: Chicago’s Gretna Green” Chicago Public Library. 10 February, 2015. (<a href="https://www.chipublib.org/blogs/post/crown-point-indiana-chicagos-gretna-green/" target="_blank">https://www.chipublib.org/blogs/post/crown-point-indiana-chicagos-gretna-green/</a>)</p></li><li><p class="" style="white-space:pre-wrap;">Mitchell, Dawn. “Indiana was a scandalous marriage mill and Valentino took advantage” IndyStar. 4 July 2019.(<a href="https://www.indystar.com/story/news/history/retroindy/2019/07/04/indiana-scandalous-marriage-mill-and-valentino-took-advantage-gretna-green-weddings/1621342001/" target="_blank">https://www.indystar.com/story/news/history/retroindy/2019/07/04/indiana-scandalous-marriage-mill-and-valentino-took-advantage-gretna-green-weddings/1621342001/</a>)</p></li><li><p class="" style="white-space:pre-wrap;">Stateside Staff, Michigan Radio. “100 years ago, Michigan was the place for a 30-second wedding” 27 June 2018. (<a href="https://www.michiganradio.org/families-community/2018-06-27/100-years-ago-michigan-was-the-place-to-go-for-a-30-second-wedding" target="_blank">https://www.michiganradio.org/families-community/2018-06-27/100-years-ago-michigan-was-the-place-to-go-for-a-30-second-wedding</a>)</p></li><li><p class="" style="white-space:pre-wrap;">Toler, John. “Recalling Warrenton’s Days as a Marriage Mill” Fauquier Times. 10 March 2017. (<a href="https://www.fauquier.com/news/recalling-warrenton-s-days-as-a-marriage-mill/article_430dd13e-0548-11e7-a179-2bd2de898de1.html" target="_blank">https://www.fauquier.com/news/recalling-warrenton-s-days-as-a-marriage-mill/article_430dd13e-0548-11e7-a179-2bd2de898de1.html</a>)</p></li><li><p class="" style="white-space:pre-wrap;">Towne, Douglas. “The Best Little Hitchin’ Post in Arizona” 23 January 2020. Phoenix. (<a href="https://www.phoenixmag.com/2020/01/23/the-best-little-hitchin-post-in-arizona/" target="_blank">https://www.phoenixmag.com/2020/01/23/the-best-little-hitchin-post-in-arizona/</a>)</p></li><li><p class="" style="white-space:pre-wrap;">Webster, Nancy Coltune. “Crown Point became destination for quickie weddings” Chicago Tribune. 10 Jun 2016. (<a href="https://www.chicagotribune.com/suburbs/post-tribune/ct-ptb-bicentennial-marriage-mill-st-0612-20160610-story.html" target="_blank">https://www.chicagotribune.com/suburbs/post-tribune/ct-ptb-bicentennial-marriage-mill-st-0612-20160610-story.html</a>)</p></li><li><p class="" style="white-space:pre-wrap;">Wilkinson, Heather. “New England’s Gretna Green: Why so many out of state marriages in Seabrook, New Hampshire?” Nutfield Genealogy. 2 April 2015. (<a href="https://nutfieldgenealogy.blogspot.com/2015/04/new-englands-gretna-green-why-so-many.html" target="_blank">https://nutfieldgenealogy.blogspot.com/2015/04/new-englands-gretna-green-why-so-many.html</a>)<br><br></p></li></ul>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1672707459096_17125" id="block-yui_3_17_2_1_1672707459096_17125"><div class="sqs-block-content">
-  
-
-<div
-  class="sqs-code-container"
-  
-  
-    data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}"
-  
-  
-  
-  
->
-  
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8442952758105071"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8442952758105071"
-     data-ad-slot="2072110511"></ins>
+<div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}" >
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8442952758105071" crossorigin="anonymous"></script>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-8442952758105071" data-ad-slot="2072110511"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-  
-  
-
-
-
 </div>
-
 <style class="transform-overrides-vars">
-  
 </style>
-
 </div></div></div></div></div>
