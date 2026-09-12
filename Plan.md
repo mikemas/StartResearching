@@ -127,7 +127,7 @@ Moved here from the old "What exists now" section; will be removed when done.
 - [x] Local preview verified (`npm run preview`, 200 on `/` and `/blog/`)
 - [x] GitHub repo created: https://github.com/mikemas/StartResearching
 - [x] Parse RSS → Markdown posts, preserve slugs (50 published posts imported)
-- [x] Add Pages deploy workflow + staging URL
+- [x] Add Pages deploy workflow + staging URL (Pages enabled, https://mikemas.github.io/StartResearching/ deploying)
 - [ ] Redirects for old Squarespace paths
 - [ ] Staging review + Sherri approval
 - [ ] DNS cutover, verify, downgrade Squarespace
