@@ -1,0 +1,28 @@
+---
+// Mirrors current Squarespace nav: https://www.startresearching.com/
+const sections = [
+  { label: '10 Steps to Start', href: '/10-steps' },
+  { label: 'Blog Posts', href: '/blog' },
+  { label: 'Citing Sources', href: '/citing-sources' },
+  { label: 'Databases', href: '/databases' },
+  { label: 'DNA Testing', href: '/dna-testing' },
+  { label: 'Helpful Guides', href: '/helpful-guides' },
+  { label: 'Improving Skills', href: '/improving-skills' },
+  { label: 'Interviewing', href: '/interviewing' },
+  { label: 'Lineage Memberships', href: '/lineage-memberships' },
+  { label: 'Records', href: '/records' },
+  { label: 'Search Methods', href: '/search-methods' },
+  { label: 'Software', href: '/software' },
+  { label: 'Surname Searches', href: '/surname-searches' },
+  { label: 'Templates', href: '/tools-templates' },
+  { label: 'The GPS', href: '/gps' },
+  { label: 'Types of Sources', href: '/types-of-sources' },
+];
+---
+<nav aria-label="Primary">
+  <ul>
+    {sections.map((s) => (
+      <li><a href={s.href}>{s.label}</a></li>
+    ))}
+  </ul>
+</nav>
