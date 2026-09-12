@@ -1,0 +1,2405 @@
+---
+title: "U.S. History Timeline"
+description: "Understanding historical context is an important part of genealogical research. Learning what events our ancestors lived through and the struggles they may have"
+canonicalUrl: "https://www.startresearching.com/us-timeline/history"
+
+---
+
+<div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1587234364694" id="item-5e9b46300feebf4d48266f01"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-c11a62f632dd41b9958b"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">Understanding historical context is an important part of genealogical research.  Learning what events our ancestors lived through and the struggles they may have faced helps give us insight into their lives and the strength of their spirit - all the important, colorful details of their story that are so much more valuable than the facts about the date they were born or died.  Not only can we relate to our ancestors more personally, but the past becomes more real to us as we learn about our relatives that experienced it. </p><p class="" style="white-space:pre-wrap;">Think about when and where your ancestors lived, and what events they lived through. How might they or their family have been affected?  Did they take part or witness these historical events? Could these events have influenced some of their decisions, such as moving their family west to claim land?  </p><p class="" style="white-space:pre-wrap;">You can also use this timeline to help you figure out what records or sources might be available for your ancestors, or what kinds of things you should be researching.  </p><p class="" style="white-space:pre-wrap;">I also suggest looking into more localized historical events, through <a href="/newspaper-records-1">newspaper records</a> of the time or town history collections. You may be able to find stories directly about your ancestors, or about smaller events only those communities faced. You will also be able to see how those in the smaller communities and towns reacted to historical events both big and small.  </p><p class="" style="white-space:pre-wrap;">The below timeline is by no means comprehensive and is meant only as a rough illustration to guide you for further independent study. </p><h3 style="white-space:pre-wrap;"><br><strong>Our Brief Timeline of United States History</strong></h3>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1588890390931_301945"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:956px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:66.94561004638672%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588980695259-BDEON3TWOCGITDOMYL31/Charles_M._Russell%2C_Water_for_Camp.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588980695259-BDEON3TWOCGITDOMYL31/Charles_M._Russell%2C_Water_for_Camp.jpg" data-image-dimensions="956x640" data-image-focal-point="0.5,0.5" alt="Water for Camp painting by Charles M. Russell, photo from wikipedia.org, public domain." data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588980695259-BDEON3TWOCGITDOMYL31/Charles_M._Russell%2C_Water_for_Camp.jpg" width="956" height="640" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588980695259-BDEON3TWOCGITDOMYL31/Charles_M._Russell%2C_Water_for_Camp.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588980695259-BDEON3TWOCGITDOMYL31/Charles_M._Russell%2C_Water_for_Camp.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588980695259-BDEON3TWOCGITDOMYL31/Charles_M._Russell%2C_Water_for_Camp.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588980695259-BDEON3TWOCGITDOMYL31/Charles_M._Russell%2C_Water_for_Camp.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588980695259-BDEON3TWOCGITDOMYL31/Charles_M._Russell%2C_Water_for_Camp.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588980695259-BDEON3TWOCGITDOMYL31/Charles_M._Russell%2C_Water_for_Camp.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588980695259-BDEON3TWOCGITDOMYL31/Charles_M._Russell%2C_Water_for_Camp.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption data-sqsp-image-classic-block-caption-container class="image-caption-wrapper">
+            <div class="image-caption"><p class=""><em>Water for Camp</em> painting by Charles M. Russell, photo from<a href="https://en.wikipedia.org/wiki/Charles_Marion_Russell#/media/File:Charles_M._Russell,_Water_for_Camp.jpg"> wikipedia.org</a>, public domain.</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1588890390931_302237"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;"><strong>16th Century (Pre-Colonial, Before 1600) </strong></p><p class="" style="white-space:pre-wrap;">1400’s - Historic Native American tribes (Apache, Cherokee, Navajo, Sioux and others) inhabit the land  </p><p class="" style="white-space:pre-wrap;">1492 - Columbus comes to America</p><p class="" style="white-space:pre-wrap;">1513 - Ponce de Leon lands in Florida</p><p class="" style="white-space:pre-wrap;">1565 - St. Augustine in Florida the first permanent settlement in the land</p><p class="" style="white-space:pre-wrap;">1587 - Virginia Dare first English child in the New World is born in Roanoke</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;"><strong>17th Century (Colonial America Founded)</strong></p><p class="" style="white-space:pre-wrap;">1607 - Colony of Jamestown founded</p><p class="" style="white-space:pre-wrap;">1617 - 1619 - Smallpox wipes out large Native American populations</p><p class="" style="white-space:pre-wrap;">1619 - Slave trade begins</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1588890390931_348849"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1200px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:70.41666412353516%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588981315696-4DSGS2IN4QHACPZPN1YQ/The_Mayflower_Compact_1620_cph.3g07155.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588981315696-4DSGS2IN4QHACPZPN1YQ/The_Mayflower_Compact_1620_cph.3g07155.jpg" data-image-dimensions="1200x845" data-image-focal-point="0.5,0.5" alt="The Mayflower Compact, 1620 painting by Jean Leon Gerome Ferris, from Wikimedia.org, public domain" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588981315696-4DSGS2IN4QHACPZPN1YQ/The_Mayflower_Compact_1620_cph.3g07155.jpg" width="1200" height="845" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588981315696-4DSGS2IN4QHACPZPN1YQ/The_Mayflower_Compact_1620_cph.3g07155.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588981315696-4DSGS2IN4QHACPZPN1YQ/The_Mayflower_Compact_1620_cph.3g07155.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588981315696-4DSGS2IN4QHACPZPN1YQ/The_Mayflower_Compact_1620_cph.3g07155.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588981315696-4DSGS2IN4QHACPZPN1YQ/The_Mayflower_Compact_1620_cph.3g07155.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588981315696-4DSGS2IN4QHACPZPN1YQ/The_Mayflower_Compact_1620_cph.3g07155.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588981315696-4DSGS2IN4QHACPZPN1YQ/The_Mayflower_Compact_1620_cph.3g07155.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588981315696-4DSGS2IN4QHACPZPN1YQ/The_Mayflower_Compact_1620_cph.3g07155.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption data-sqsp-image-classic-block-caption-container class="image-caption-wrapper">
+            <div class="image-caption"><p class=""><em>The Mayflower Compact, 1620 </em>painting by Jean Leon Gerome Ferris, from <a href="https://commons.wikimedia.org/wiki/File:The_Mayflower_Compact_1620_cph.3g07155.jpg">Wikimedia.org</a>, public domain</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1588890390931_1155404"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">1620 - Pilgrims arrive in the Mayflower</p><p class="" style="white-space:pre-wrap;">1628 - The Massachusetts Bay Colony founded</p><p class="" style="white-space:pre-wrap;">1636 - Harvard College founded as first university in US</p><p class="" style="white-space:pre-wrap;">1644 - English takeover New Amsterdam from the Dutch, rename it New York</p><p class="" style="white-space:pre-wrap;">1656 - Quakers arrive in New England</p><p class="" style="white-space:pre-wrap;">1675 - 1676 - King Philip’s War</p><p class="" style="white-space:pre-wrap;">1692 - Salem Witch Trials</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;"><strong>18th Century (French &amp; Indian Wars, Revolutionary War)</strong></p><p class="" style="white-space:pre-wrap;">1752 - Ben Franklin flies a kite in a thunderstorm</p><p class="" style="white-space:pre-wrap;">1754 - 1763&nbsp; French and Indian Wars between Great Britain and France, each siding with various Native American tribes</p><p class="" style="white-space:pre-wrap;">1763 - Treaty of Paris ends the French and Indian wars</p><p class="" style="white-space:pre-wrap;">1765 - The Stamp Act of 1765 helps start the Revolution</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1588890390931_376699"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:948px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:94.83122253417969%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588981930838-OM22VM221HDMVVZBPOUV/948px-The_Bloody_Massacre.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588981930838-OM22VM221HDMVVZBPOUV/948px-The_Bloody_Massacre.jpg" data-image-dimensions="948x899" data-image-focal-point="0.5,0.5" alt="The Bloody Massacre, copper engraving by Paul Revere, from Wikimedia.org, public domain." data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588981930838-OM22VM221HDMVVZBPOUV/948px-The_Bloody_Massacre.jpg" width="948" height="899" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588981930838-OM22VM221HDMVVZBPOUV/948px-The_Bloody_Massacre.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588981930838-OM22VM221HDMVVZBPOUV/948px-The_Bloody_Massacre.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588981930838-OM22VM221HDMVVZBPOUV/948px-The_Bloody_Massacre.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588981930838-OM22VM221HDMVVZBPOUV/948px-The_Bloody_Massacre.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588981930838-OM22VM221HDMVVZBPOUV/948px-The_Bloody_Massacre.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588981930838-OM22VM221HDMVVZBPOUV/948px-The_Bloody_Massacre.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588981930838-OM22VM221HDMVVZBPOUV/948px-The_Bloody_Massacre.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption data-sqsp-image-classic-block-caption-container class="image-caption-wrapper">
+            <div class="image-caption"><p class=""><em>The Bloody Massacre, </em>copper engraving by Paul Revere, from <a href="https://commons.wikimedia.org/wiki/File:The_Bloody_Massacre.jpg">Wikimedia.org</a>, public domain.</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1588890390931_1113449"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">1770 - The Boston Massacre</p><p class="" style="white-space:pre-wrap;">1773 - The Boston Tea Party</p><p class="" style="white-space:pre-wrap;">1776 - Declaration of Independence signed</p><p class="" style="white-space:pre-wrap;">1789 - US Constitution goes into effect, George Washington elected first president</p><p class="" style="white-space:pre-wrap;">1790 - First U.S. Federal Census, would continue every decade; Rhode Island becomes the 13th state</p><p class="" style="white-space:pre-wrap;">1791 - The Bill of Rights was ratified</p><p class="" style="white-space:pre-wrap;">1793 - Eli Whitney invents the cotton gin, demand for slavery increases</p><p class="" style="white-space:pre-wrap;">1794 - Whiskey Rebellion</p><p class="" style="white-space:pre-wrap;">1796 - Tennessee becomes the 16th state</p><p class="" style="white-space:pre-wrap;">1798 - Congress passes the Alien and Sedition Acts </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1588890390931_388071"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1800px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:65.5%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588983059415-IQQ8DIW2QXHKG4XKWWST/Alfred_Jacob_Miller_-_Breaking_up_Camp_at_Sunrise_-_Walters_371940142.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588983059415-IQQ8DIW2QXHKG4XKWWST/Alfred_Jacob_Miller_-_Breaking_up_Camp_at_Sunrise_-_Walters_371940142.jpg" data-image-dimensions="1800x1179" data-image-focal-point="0.5,0.5" alt="Breaking up Camp at Sunrise painting by Alfred Jacob Miller, from Wikipedia.org, public domain." data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588983059415-IQQ8DIW2QXHKG4XKWWST/Alfred_Jacob_Miller_-_Breaking_up_Camp_at_Sunrise_-_Walters_371940142.jpg" width="1800" height="1179" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588983059415-IQQ8DIW2QXHKG4XKWWST/Alfred_Jacob_Miller_-_Breaking_up_Camp_at_Sunrise_-_Walters_371940142.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588983059415-IQQ8DIW2QXHKG4XKWWST/Alfred_Jacob_Miller_-_Breaking_up_Camp_at_Sunrise_-_Walters_371940142.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588983059415-IQQ8DIW2QXHKG4XKWWST/Alfred_Jacob_Miller_-_Breaking_up_Camp_at_Sunrise_-_Walters_371940142.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588983059415-IQQ8DIW2QXHKG4XKWWST/Alfred_Jacob_Miller_-_Breaking_up_Camp_at_Sunrise_-_Walters_371940142.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588983059415-IQQ8DIW2QXHKG4XKWWST/Alfred_Jacob_Miller_-_Breaking_up_Camp_at_Sunrise_-_Walters_371940142.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588983059415-IQQ8DIW2QXHKG4XKWWST/Alfred_Jacob_Miller_-_Breaking_up_Camp_at_Sunrise_-_Walters_371940142.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588983059415-IQQ8DIW2QXHKG4XKWWST/Alfred_Jacob_Miller_-_Breaking_up_Camp_at_Sunrise_-_Walters_371940142.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption data-sqsp-image-classic-block-caption-container class="image-caption-wrapper">
+            <div class="image-caption"><p class=""><em>Breaking up Camp at Sunrise </em>painting by Alfred Jacob Miller, from <a href="https://simple.wikipedia.org/wiki/Oregon_Trail#/media/File:Alfred_Jacob_Miller_-_Breaking_up_Camp_at_Sunrise_-_Walters_371940142.jpg">Wikipedia.org</a>, public domain.</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1588890390931_388363"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;"><strong>19th Century (Westward Expansion, War of 1812, Trail of Tears)</strong></p><p class="" style="white-space:pre-wrap;">1801 - Thomas Jefferson elected the third president of the U.S. </p><p class="" style="white-space:pre-wrap;">1803 - Territory of Louisiana purchased from France </p><p class="" style="white-space:pre-wrap;">1804 - Aaron Burr shoots Alexander Hamilton in duel</p><p class="" style="white-space:pre-wrap;">1804 - Lewis &amp; Clark begin their journey</p><p class="" style="white-space:pre-wrap;">1812 -1814 - War of 1812</p><p class="" style="white-space:pre-wrap;">1815 - Battle of New Orleans</p><p class="" style="white-space:pre-wrap;">1816 - <a href="https://www.wdl.org/en/item/9561/">First Continental map of the United States</a> </p><p class="" style="white-space:pre-wrap;">1819 - Spain ceded Florida to US</p><p class="" style="white-space:pre-wrap;">1820 - Maine created as a state</p><p class="" style="white-space:pre-wrap;">1815 - 1860 westward expansion, Oregon Trail in use</p><p class="" style="white-space:pre-wrap;"><em>(slavery prominent in US)</em></p><p class="" style="white-space:pre-wrap;">1836 - The Battle of the Alamo in Texas</p><p class="" style="white-space:pre-wrap;">1838 - Cherokee Trail of Tears march</p><p class="" style="white-space:pre-wrap;">1846 - 1848 - Mexican War</p><p class="" style="white-space:pre-wrap;">1847 - Potato Famine in Ireland spurs Irish immigration to US</p><p class="" style="white-space:pre-wrap;">1848 - Wisconsin becomes a state</p><p class="" style="white-space:pre-wrap;">1849 - Gold rush</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;"><strong>19th Century, continued… (Civil War &amp; Reconstruction, Immigration, Inventions)</strong></p><p class="" style="white-space:pre-wrap;">1851 - New York Times newspaper begins (as New-York Daily Times)</p><p class="" style="white-space:pre-wrap;">1855 - New York state opens Castle Garden immigration center</p><p class="" style="white-space:pre-wrap;">1859 - Modern oil industry begins in Pennsylvania</p><p class="" style="white-space:pre-wrap;">1860 - Abraham Lincoln elected the 16th president</p><p class="" style="white-space:pre-wrap;">1861 - The Battle of Bull Run, first battle of the Civil War</p><p class="" style="white-space:pre-wrap;">1861 - Southern States secede</p><p class="" style="white-space:pre-wrap;">1862 - Homestead Act for government land</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1588890390931_426975"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:800px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:62.124996185302734%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588983757698-3IA2URBDKU2UUGV7W3U9/union-soldiers-capture-vicksburg-during-the-american-civil-war_800.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588983757698-3IA2URBDKU2UUGV7W3U9/union-soldiers-capture-vicksburg-during-the-american-civil-war_800.jpg" data-image-dimensions="800x497" data-image-focal-point="0.5,0.5" alt="First at Vicksburg, unknown artist. From Wikimedia.org, public domain." data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588983757698-3IA2URBDKU2UUGV7W3U9/union-soldiers-capture-vicksburg-during-the-american-civil-war_800.jpg" width="800" height="497" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588983757698-3IA2URBDKU2UUGV7W3U9/union-soldiers-capture-vicksburg-during-the-american-civil-war_800.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588983757698-3IA2URBDKU2UUGV7W3U9/union-soldiers-capture-vicksburg-during-the-american-civil-war_800.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588983757698-3IA2URBDKU2UUGV7W3U9/union-soldiers-capture-vicksburg-during-the-american-civil-war_800.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588983757698-3IA2URBDKU2UUGV7W3U9/union-soldiers-capture-vicksburg-during-the-american-civil-war_800.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588983757698-3IA2URBDKU2UUGV7W3U9/union-soldiers-capture-vicksburg-during-the-american-civil-war_800.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588983757698-3IA2URBDKU2UUGV7W3U9/union-soldiers-capture-vicksburg-during-the-american-civil-war_800.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588983757698-3IA2URBDKU2UUGV7W3U9/union-soldiers-capture-vicksburg-during-the-american-civil-war_800.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption data-sqsp-image-classic-block-caption-container class="image-caption-wrapper">
+            <div class="image-caption"><p class=""><em>First at Vicksburg, </em>unknown artist. From <a href="https://commons.wikimedia.org/wiki/File:First_at_Vicksburg.jpg">Wikimedia.org</a>, public domain.</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1588890390931_1166789"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">(1861 - 1865 - Civil War)</p><p class="" style="white-space:pre-wrap;">1863 - Battle of Gettysburg</p><p class="" style="white-space:pre-wrap;">1863 - Emancipation proclamation; </p><p class="" style="white-space:pre-wrap;">1865 - Thirteenth amendment abolishes slavery</p><p class="" style="white-space:pre-wrap;">1865-1877 - Reconstruction</p><p class="" style="white-space:pre-wrap;">1869 - Transcontinental railroad completed</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1588890390931_463021"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:882px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:70.97505950927734%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588984742973-YJ3JATY1T3DACO8VSOGK/Brooklyn_bridge_%283408338881%29.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588984742973-YJ3JATY1T3DACO8VSOGK/Brooklyn_bridge_%283408338881%29.jpg" data-image-dimensions="882x626" data-image-focal-point="0.5,0.5" alt="Brooklyn Bridge from the collection of the Nationaal Archief of the Netherlands from Wikimedia.org, public domain." data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588984742973-YJ3JATY1T3DACO8VSOGK/Brooklyn_bridge_%283408338881%29.jpg" width="882" height="626" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588984742973-YJ3JATY1T3DACO8VSOGK/Brooklyn_bridge_%283408338881%29.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588984742973-YJ3JATY1T3DACO8VSOGK/Brooklyn_bridge_%283408338881%29.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588984742973-YJ3JATY1T3DACO8VSOGK/Brooklyn_bridge_%283408338881%29.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588984742973-YJ3JATY1T3DACO8VSOGK/Brooklyn_bridge_%283408338881%29.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588984742973-YJ3JATY1T3DACO8VSOGK/Brooklyn_bridge_%283408338881%29.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588984742973-YJ3JATY1T3DACO8VSOGK/Brooklyn_bridge_%283408338881%29.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588984742973-YJ3JATY1T3DACO8VSOGK/Brooklyn_bridge_%283408338881%29.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption data-sqsp-image-classic-block-caption-container class="image-caption-wrapper">
+            <div class="image-caption"><p class=""><em>Brooklyn Bridge</em> from the collection of the <a href="https://www.flickr.com/people/29998366@N02">Nationaal Archief of the Netherlands</a> from <a href="https://commons.wikimedia.org/wiki/File:Brooklyn_bridge_(3408338881).jpg">Wikimedia.org</a>, public domain.</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1588890390931_463317"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">1870 - Construction starts on the Brooklyn Bridge, January 1870 (would open in 1883)</p><p class="" style="white-space:pre-wrap;">1871 -&nbsp;The Great Chicago Fire begins</p><p class="" style="white-space:pre-wrap;">1876 -Alexander graham bell invents the telephone. <a href="https://www.wdl.org/en/item/11375/">View his laboratory notebook</a></p><p class="" style="white-space:pre-wrap;">1876 - Battle of the Little Bighorn</p><p class="" style="white-space:pre-wrap;">1880 - Thomas Edison files a patent for his lamp</p><p class="" style="white-space:pre-wrap;">1881 - Clara Barton invents the American Red Cross</p><p class="" style="white-space:pre-wrap;">1882 - Edison starts supplying electricity to the public; Chinese Exclusion Act stopped Chinese immigration</p><p class="" style="white-space:pre-wrap;">1886 - Haymarket Riot, Statue of Liberty erected and dedicated</p><p class="" style="white-space:pre-wrap;">1886 - Coca Cola invented, Sears Company born</p><p class="" style="white-space:pre-wrap;">1891 - Basketball invented</p><p class="" style="white-space:pre-wrap;">1892 - Ellis Island opens (the first federal immigration center)</p><p class="" style="white-space:pre-wrap;">1896 - Plessy v. Ferguson Supreme Court case allows for racial segregation</p><p class="" style="white-space:pre-wrap;">1898 - Spanish-American War; we acquire Puerto Rico and Guam; </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1588890390931_480689"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1200px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:61%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588985552441-T797UEOCOXVRC4AK8SPK/1200px-San_Francisco_earthquake_and_fire_of_1906_-_Genthe_-_LOC.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588985552441-T797UEOCOXVRC4AK8SPK/1200px-San_Francisco_earthquake_and_fire_of_1906_-_Genthe_-_LOC.png" data-image-dimensions="1200x732" data-image-focal-point="0.5,0.5" alt="San Francisco earthquake and fire of 1906, by Arnold Genthe, from Wikimedia.org, public domain" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588985552441-T797UEOCOXVRC4AK8SPK/1200px-San_Francisco_earthquake_and_fire_of_1906_-_Genthe_-_LOC.png" width="1200" height="732" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588985552441-T797UEOCOXVRC4AK8SPK/1200px-San_Francisco_earthquake_and_fire_of_1906_-_Genthe_-_LOC.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588985552441-T797UEOCOXVRC4AK8SPK/1200px-San_Francisco_earthquake_and_fire_of_1906_-_Genthe_-_LOC.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588985552441-T797UEOCOXVRC4AK8SPK/1200px-San_Francisco_earthquake_and_fire_of_1906_-_Genthe_-_LOC.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588985552441-T797UEOCOXVRC4AK8SPK/1200px-San_Francisco_earthquake_and_fire_of_1906_-_Genthe_-_LOC.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588985552441-T797UEOCOXVRC4AK8SPK/1200px-San_Francisco_earthquake_and_fire_of_1906_-_Genthe_-_LOC.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588985552441-T797UEOCOXVRC4AK8SPK/1200px-San_Francisco_earthquake_and_fire_of_1906_-_Genthe_-_LOC.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588985552441-T797UEOCOXVRC4AK8SPK/1200px-San_Francisco_earthquake_and_fire_of_1906_-_Genthe_-_LOC.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption data-sqsp-image-classic-block-caption-container class="image-caption-wrapper">
+            <div class="image-caption"><p class="">San Francisco earthquake and fire of 1906, by Arnold Genthe, from <a href="https://commons.wikimedia.org/wiki/File:San_Francisco_earthquake_and_fire_of_1906_-_Genthe_-_LOC.png">Wikimedia.org</a>, public domain</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1588890390931_480981"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;"><strong>20th Century (Disasters, Women’s Rights, World Wars)</strong></p><p class="" style="white-space:pre-wrap;">1900 - Galveston hurricane kills thousands</p><p class="" style="white-space:pre-wrap;">1903 - Wright brothers flight, Ford Motor Company starts, first World Series of baseball</p><p class="" style="white-space:pre-wrap;">1906 - San Francisco Earthquake</p><p class="" style="white-space:pre-wrap;">1907 - William Taft elected the 27th president, coal mine explosion in West Virginia, record number of 1.3 million immigrants in one year</p><p class="" style="white-space:pre-wrap;">1910 - Boys Scouts of America invented</p><p class="" style="white-space:pre-wrap;">1912 - The Titanic sinks, Girl Scouts started</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1588890390931_665408"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:885px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:74.4632797241211%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588992739461-9W2YL9W2381E5D0VTQRG/Suffrage_parade%2C_1913.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588992739461-9W2YL9W2381E5D0VTQRG/Suffrage_parade%2C_1913.jpg" data-image-dimensions="885x659" data-image-focal-point="0.5,0.5" alt="Suffrage Parade, by National Photo Company. From Wikimedia.org, public domain." data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588992739461-9W2YL9W2381E5D0VTQRG/Suffrage_parade%2C_1913.jpg" width="885" height="659" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588992739461-9W2YL9W2381E5D0VTQRG/Suffrage_parade%2C_1913.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588992739461-9W2YL9W2381E5D0VTQRG/Suffrage_parade%2C_1913.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588992739461-9W2YL9W2381E5D0VTQRG/Suffrage_parade%2C_1913.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588992739461-9W2YL9W2381E5D0VTQRG/Suffrage_parade%2C_1913.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588992739461-9W2YL9W2381E5D0VTQRG/Suffrage_parade%2C_1913.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588992739461-9W2YL9W2381E5D0VTQRG/Suffrage_parade%2C_1913.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588992739461-9W2YL9W2381E5D0VTQRG/Suffrage_parade%2C_1913.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption data-sqsp-image-classic-block-caption-container class="image-caption-wrapper">
+            <div class="image-caption"><p class="">Suffrage Parade, by National Photo Company. From <a href="https://commons.wikimedia.org/wiki/File:Suffrage_parade,_1913.jpg">Wikimedia.org,</a> public domain.</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1588890390931_665703"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">1913 - Women’s Suffrage parade in D.C.</p><p class="" style="white-space:pre-wrap;">1914 - Panama canal finished</p><p class="" style="white-space:pre-wrap;">1917 - Prohibition instituted with the 18th amendment; US enters World War I</p><p class="" style="white-space:pre-wrap;">1918 / 1919 - Spanish Flu hits the US </p><p class="" style="white-space:pre-wrap;">1920 - Women get right to vote with 19th amendment, NFL starts</p><p class="" style="white-space:pre-wrap;">1924 - Indigenous Native Americans given right to citizenship</p><p class="" style="white-space:pre-wrap;">1926 - NBC founded as first major TV broadcast network</p><p class="" style="white-space:pre-wrap;">1927 - Charles Lindbergh travels across the Atlantic</p><p class="" style="white-space:pre-wrap;">1928 - Mickey Mouse created, Steamboat Willie premieres</p><p class="" style="white-space:pre-wrap;">1929 - Stock market crash, Great Depression begins</p><p class="" style="white-space:pre-wrap;">1934 - Dust Bowl in the midwest</p><p class="" style="white-space:pre-wrap;">1935 - FDR establishes Works Projects Administration (WPA), social security created</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1588890390931_521105"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:2500px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:79.1199951171875%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588986668901-BEVM8LY538AKLUNP955C/16571444402_91982f1d7e_o.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588986668901-BEVM8LY538AKLUNP955C/16571444402_91982f1d7e_o.jpg" data-image-dimensions="2500x1978" data-image-focal-point="0.5,0.5" alt="Amelia Earhart, photographer unknown, from flickr user NASA on The Commons, public domain" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588986668901-BEVM8LY538AKLUNP955C/16571444402_91982f1d7e_o.jpg" width="2500" height="1978" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588986668901-BEVM8LY538AKLUNP955C/16571444402_91982f1d7e_o.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588986668901-BEVM8LY538AKLUNP955C/16571444402_91982f1d7e_o.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588986668901-BEVM8LY538AKLUNP955C/16571444402_91982f1d7e_o.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588986668901-BEVM8LY538AKLUNP955C/16571444402_91982f1d7e_o.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588986668901-BEVM8LY538AKLUNP955C/16571444402_91982f1d7e_o.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588986668901-BEVM8LY538AKLUNP955C/16571444402_91982f1d7e_o.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588986668901-BEVM8LY538AKLUNP955C/16571444402_91982f1d7e_o.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption data-sqsp-image-classic-block-caption-container class="image-caption-wrapper">
+            <div class="image-caption"><p class="">Amelia Earhart, photographer unknown, from<a href="https://www.flickr.com/photos/nasacommons/16571444402"> flickr user NASA on The Commons</a>, public domain</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1588890390931_521397"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">1937 - Amelia Earhart vanishes; Hindenburg zeppelin blows up</p><p class="" style="white-space:pre-wrap;">1939 - Disney’s Snow White and the Seven Dwarfs first full-length animated movie </p><p class="" style="white-space:pre-wrap;">1941 - Pearl Harbor bombed, US enters World War II</p><p class="" style="white-space:pre-wrap;">1943 - Chinese immigrants finally allowed to become U.S. citizens</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="61.34453781512605" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1588890390931_598402"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:2500px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:61.344539642333984%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588992250671-QS0M9LEJMMVXHPRB4V2L/Into_the_Jaws_of_Death_23-0455M_edit.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588992250671-QS0M9LEJMMVXHPRB4V2L/Into_the_Jaws_of_Death_23-0455M_edit.jpg" data-image-dimensions="2500x2012" data-image-focal-point="0.5,0.5" alt="Into the Jaws of Death by Chief Photographer’s Mate Robert F. Sargent, National Archives and Records Administration, from Wikipedia.org, public domain" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588992250671-QS0M9LEJMMVXHPRB4V2L/Into_the_Jaws_of_Death_23-0455M_edit.jpg" width="2500" height="2012" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588992250671-QS0M9LEJMMVXHPRB4V2L/Into_the_Jaws_of_Death_23-0455M_edit.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588992250671-QS0M9LEJMMVXHPRB4V2L/Into_the_Jaws_of_Death_23-0455M_edit.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588992250671-QS0M9LEJMMVXHPRB4V2L/Into_the_Jaws_of_Death_23-0455M_edit.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588992250671-QS0M9LEJMMVXHPRB4V2L/Into_the_Jaws_of_Death_23-0455M_edit.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588992250671-QS0M9LEJMMVXHPRB4V2L/Into_the_Jaws_of_Death_23-0455M_edit.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588992250671-QS0M9LEJMMVXHPRB4V2L/Into_the_Jaws_of_Death_23-0455M_edit.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588992250671-QS0M9LEJMMVXHPRB4V2L/Into_the_Jaws_of_Death_23-0455M_edit.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption data-sqsp-image-classic-block-caption-container class="image-caption-wrapper">
+            <div class="image-caption"><p class=""><em>Into the Jaws of Death</em> by Chief Photographer’s Mate Robert F. Sargent, National Archives and Records Administration, from <a href="https://en.wikipedia.org/wiki/Invasion_of_Normandy#/media/File:Into_the_Jaws_of_Death_23-0455M_edit.jpg">Wikipedia.org</a>, public domain</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1588890390931_598694"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">1944 - Invasion of Normandy “D-Day”</p><p class="" style="white-space:pre-wrap;">1945 - US drops atomic bombs on Hiroshima and Nagasaki</p><p class="" style="white-space:pre-wrap;">1947 - Start of Cold War with Soviet Union </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;"><strong>20th Century, continued… (Civil Rights, Cold War)</strong></p><p class="" style="white-space:pre-wrap;">1950 - 1953 - Korean War</p><p class="" style="white-space:pre-wrap;">1952 - Microwave oven invented</p><p class="" style="white-space:pre-wrap;">1954 - Elvis Presley begins his career</p><p class="" style="white-space:pre-wrap;">1954 - Senator Joseph McCarthy’s communist hearings</p><p class="" style="white-space:pre-wrap;">1954 - Racial segregation in schools declared unconstitutional with <em>Brown v. Board of Education</em> </p><p class="" style="white-space:pre-wrap;">1955 - Rosa Parks refuses to give up bus seat</p><p class="" style="white-space:pre-wrap;">1958 - Lego blocks created, NASA created</p><p class="" style="white-space:pre-wrap;">1959 - Alaska becomes the 49th state, and Hawaii becomes the 50th</p><p class="" style="white-space:pre-wrap;">1962 - Cuban Missile Crisis; Walmart created</p><p class="" style="white-space:pre-wrap;"><br><br></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1588890390931_558835"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:660px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:75%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588990541172-MJ0IBOKWG1J57W1Q5ZPA/36233249121_55cd558207_o.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588990541172-MJ0IBOKWG1J57W1Q5ZPA/36233249121_55cd558207_o.jpg" data-image-dimensions="660x495" data-image-focal-point="0.5,0.5" alt="Martin Luther King Jr., photograph from flickr user National Park Service, CC by 2.0 some rights reserved." data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588990541172-MJ0IBOKWG1J57W1Q5ZPA/36233249121_55cd558207_o.jpg" width="660" height="495" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588990541172-MJ0IBOKWG1J57W1Q5ZPA/36233249121_55cd558207_o.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588990541172-MJ0IBOKWG1J57W1Q5ZPA/36233249121_55cd558207_o.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588990541172-MJ0IBOKWG1J57W1Q5ZPA/36233249121_55cd558207_o.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588990541172-MJ0IBOKWG1J57W1Q5ZPA/36233249121_55cd558207_o.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588990541172-MJ0IBOKWG1J57W1Q5ZPA/36233249121_55cd558207_o.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588990541172-MJ0IBOKWG1J57W1Q5ZPA/36233249121_55cd558207_o.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588990541172-MJ0IBOKWG1J57W1Q5ZPA/36233249121_55cd558207_o.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption data-sqsp-image-classic-block-caption-container class="image-caption-wrapper">
+            <div class="image-caption"><p class="">Martin Luther King Jr., photograph from<a href="https://www.flickr.com/photos/nationalparkservice/36233249121"> flickr user National Park Service</a>, CC by 2.0 some rights reserved.</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1588890390931_559131"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">1963 - Martin Luther King Jr.’s “I have a dream” speech</p><p class="" style="white-space:pre-wrap;">1963 - JFK assassinated</p><p class="" style="white-space:pre-wrap;">1964 - The Beatles US Tour</p><p class="" style="white-space:pre-wrap;">1965 - First US troops arrive in Vietnam; The Immigration and Naturalization Act (INA) ends racist immigrant quota systems</p><p class="" style="white-space:pre-wrap;">1967 - The first Super Bowl</p><p class="" style="white-space:pre-wrap;">1968 - Martin Luther King assassinated</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="67.89915966386555" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1588890390931_708406"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:2500px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:67.89916229248047%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588993667702-YZUHMLDN3XNVRYSQPFI0/Aldrin_Apollo_11.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588993667702-YZUHMLDN3XNVRYSQPFI0/Aldrin_Apollo_11.jpg" data-image-dimensions="2500x2500" data-image-focal-point="0.5532544378698225,0.011834319526627219" alt="“Astronaut Buzz Aldrin on the moon” by NASA. From Wikimedia.org, public domain." data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588993667702-YZUHMLDN3XNVRYSQPFI0/Aldrin_Apollo_11.jpg" width="2500" height="2500" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 55.325443786982255% 1.183431952662722%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588993667702-YZUHMLDN3XNVRYSQPFI0/Aldrin_Apollo_11.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588993667702-YZUHMLDN3XNVRYSQPFI0/Aldrin_Apollo_11.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588993667702-YZUHMLDN3XNVRYSQPFI0/Aldrin_Apollo_11.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588993667702-YZUHMLDN3XNVRYSQPFI0/Aldrin_Apollo_11.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588993667702-YZUHMLDN3XNVRYSQPFI0/Aldrin_Apollo_11.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588993667702-YZUHMLDN3XNVRYSQPFI0/Aldrin_Apollo_11.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1588993667702-YZUHMLDN3XNVRYSQPFI0/Aldrin_Apollo_11.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption data-sqsp-image-classic-block-caption-container class="image-caption-wrapper">
+            <div class="image-caption"><p class="">“Astronaut Buzz Aldrin on the moon” by NASA. From <a href="https://commons.wikimedia.org/w/index.php?go=Go&amp;ns0=1&amp;ns100=1&amp;ns106=1&amp;ns12=1&amp;ns14=1&amp;ns6=1&amp;search=buzz%20aldrin&amp;searchToken=c62maqj5fvyvkkbd7c7yy5z1&amp;title=Special%3ASearch#%2Fmedia%2FFile%3AAldrin_Apollo_11.jpg">Wikimedia.org</a>, public domain.</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1588890390931_708698"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">1969 - First moon landing, Neil Armstrong walks on the moon</p><p class="" style="white-space:pre-wrap;">1969 - Woodstock concert</p><p class="" style="white-space:pre-wrap;">1973 - Roe v. Wade Supreme Court decision legalizes first trimester abortion</p><p class="" style="white-space:pre-wrap;">1974 - President Nixon resigns after Watergate</p><p class="" style="white-space:pre-wrap;">1977 - First Star Wars movie</p><p class="" style="white-space:pre-wrap;">1978 - Apple Computer created</p><p class="" style="white-space:pre-wrap;">1980 - Mt St. Helens erupted</p><p class="" style="white-space:pre-wrap;">1981 - HIV / Aids hits US</p><p class="" style="white-space:pre-wrap;">1983 - Mario Bros created</p><p class="" style="white-space:pre-wrap;">1986 - Space Shuttle Challenger Disaster</p><p class="" style="white-space:pre-wrap;">1989 - Exxon Valdez largest oil spill in US history</p><p class="" style="white-space:pre-wrap;">1991 - Persian Gulf War, US leads “Desert Storm”; Cold War officially ends, World Wide Web debuts</p><p class="" style="white-space:pre-wrap;">1992 - Los Angeles riots, Hurricane Andrew, Bill Clinton elected the 42nd president</p><p class="" style="white-space:pre-wrap;">1995 - Oklahoma bombing; O.J. Simpson aquitted of murder</p><p class="" style="white-space:pre-wrap;">1996 - Google created</p><p class="" style="white-space:pre-wrap;">1999 - Columbine school shooting</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1588890390931_757887"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:970px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:67.62886810302734%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589048331111-2LOY03FNUX9IWL7EZF1Y/World-Trade-Center_9-11.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589048331111-2LOY03FNUX9IWL7EZF1Y/World-Trade-Center_9-11.jpg" data-image-dimensions="970x656" data-image-focal-point="0.5,0.5" alt="The World Trade Center on 9-11, Library of Congress. From Wikimedia.org, public domain" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589048331111-2LOY03FNUX9IWL7EZF1Y/World-Trade-Center_9-11.jpg" width="970" height="656" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589048331111-2LOY03FNUX9IWL7EZF1Y/World-Trade-Center_9-11.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589048331111-2LOY03FNUX9IWL7EZF1Y/World-Trade-Center_9-11.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589048331111-2LOY03FNUX9IWL7EZF1Y/World-Trade-Center_9-11.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589048331111-2LOY03FNUX9IWL7EZF1Y/World-Trade-Center_9-11.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589048331111-2LOY03FNUX9IWL7EZF1Y/World-Trade-Center_9-11.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589048331111-2LOY03FNUX9IWL7EZF1Y/World-Trade-Center_9-11.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589048331111-2LOY03FNUX9IWL7EZF1Y/World-Trade-Center_9-11.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption data-sqsp-image-classic-block-caption-container class="image-caption-wrapper">
+            <div class="image-caption"><p class="">The World Trade Center on 9-11, Library of Congress. From <a href="https://commons.wikimedia.org/wiki/File:World-Trade-Center_9-11.jpg">Wikimedia.org,</a> public domain</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1588890390931_758179"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;"><strong>21st Century (Terrorism, School Shootings, Social Media)</strong></p><p class="" style="white-space:pre-wrap;">2001 - September 11 terrorist attacks</p><p class="" style="white-space:pre-wrap;">2003 - Space Shuttle Columbia explosion</p><p class="" style="white-space:pre-wrap;">2003 - Iraq War</p><p class="" style="white-space:pre-wrap;">2005 - Hurricane Katrina hits the southeast US</p><p class="" style="white-space:pre-wrap;">2005 - YouTube created</p><p class="" style="white-space:pre-wrap;">2007 - Virginia Tech school shooting</p><p class="" style="white-space:pre-wrap;">2007 - Facebook created</p><p class="" style="white-space:pre-wrap;">2008 - financial bail-outs and recession</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1588890390931_796211"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1276px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:59.40439224243164%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589048734793-KXWGCHJGPTRXF7RICWDG/obama+two.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589048734793-KXWGCHJGPTRXF7RICWDG/obama+two.png" data-image-dimensions="1276x758" data-image-focal-point="0.5,0.5" alt="“Barack Obama sworn in as 44th President of United States…” Wikimedia, public domain." data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589048734793-KXWGCHJGPTRXF7RICWDG/obama+two.png" width="1276" height="758" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589048734793-KXWGCHJGPTRXF7RICWDG/obama+two.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589048734793-KXWGCHJGPTRXF7RICWDG/obama+two.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589048734793-KXWGCHJGPTRXF7RICWDG/obama+two.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589048734793-KXWGCHJGPTRXF7RICWDG/obama+two.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589048734793-KXWGCHJGPTRXF7RICWDG/obama+two.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589048734793-KXWGCHJGPTRXF7RICWDG/obama+two.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589048734793-KXWGCHJGPTRXF7RICWDG/obama+two.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption data-sqsp-image-classic-block-caption-container class="image-caption-wrapper">
+            <div class="image-caption"><p class="">“Barack Obama sworn in as 44th President of United States…” <a href="https://commons.wikimedia.org/wiki/File:Obama_swearing_in.JPG#/media/File:Obama_swearing_in.JPG">Wikimedia</a>, public domain.</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1588890390931_796505"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">2008 - Barack Obama becomes first Black president</p><p class="" style="white-space:pre-wrap;">2009 - H1N1 virus; Michael Jackson dies</p><p class="" style="white-space:pre-wrap;">2010 - Instagram created,</p><p class="" style="white-space:pre-wrap;">2011 - Occupy Wall Street Movement</p><p class="" style="white-space:pre-wrap;">2012 - Colorado movie theatre shooting; Sandy Hook Elementary school shooting; Hurricane Sandy</p><p class="" style="white-space:pre-wrap;">2013 - Boston Marathon bombing; Edward Snowden leaks classified documents from the NSA; Black Lives Matter political movement</p><p class="" style="white-space:pre-wrap;">2015 - Same-sex marriage legalized</p><p class="" style="white-space:pre-wrap;">2016 - Trump elected; Pulse nightclub shooting; Chicago Cubs win World Series; Simone Biles wins big at the Olympics</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1588890390931_899627"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:2500px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:66.68000030517578%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589051924333-DQA5S9DAHOL0TOFQD2G9/Seattle_Women%27s_March_Jan_2018_%2839021597955%29.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589051924333-DQA5S9DAHOL0TOFQD2G9/Seattle_Women%27s_March_Jan_2018_%2839021597955%29.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="Women’s March in Seattle, From Wikimedia.org, public domain." data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589051924333-DQA5S9DAHOL0TOFQD2G9/Seattle_Women%27s_March_Jan_2018_%2839021597955%29.jpg" width="2500" height="1667" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589051924333-DQA5S9DAHOL0TOFQD2G9/Seattle_Women%27s_March_Jan_2018_%2839021597955%29.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589051924333-DQA5S9DAHOL0TOFQD2G9/Seattle_Women%27s_March_Jan_2018_%2839021597955%29.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589051924333-DQA5S9DAHOL0TOFQD2G9/Seattle_Women%27s_March_Jan_2018_%2839021597955%29.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589051924333-DQA5S9DAHOL0TOFQD2G9/Seattle_Women%27s_March_Jan_2018_%2839021597955%29.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589051924333-DQA5S9DAHOL0TOFQD2G9/Seattle_Women%27s_March_Jan_2018_%2839021597955%29.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589051924333-DQA5S9DAHOL0TOFQD2G9/Seattle_Women%27s_March_Jan_2018_%2839021597955%29.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1589051924333-DQA5S9DAHOL0TOFQD2G9/Seattle_Women%27s_March_Jan_2018_%2839021597955%29.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption data-sqsp-image-classic-block-caption-container class="image-caption-wrapper">
+            <div class="image-caption"><p class="">Women’s March in Seattle, From <a href="https://commons.wikimedia.org/wiki/File:Seattle_Women%27s_March_Jan_2018_(39021597955).jpg">Wikimedia.org</a>, public domain.</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1588890390931_899926"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">2017 - Las Vegas mass shooting; the #MeToo movement begins; Hurricane Maria hits Puerto Rico</p><p class="" style="white-space:pre-wrap;">2018 -  Parkland school shooting</p><p class="" style="white-space:pre-wrap;">2019 - US women’s soccer wins the World Cup; mass shooting in a Texas Walmart; Jeffrey Epstein found dead; Trump impeached</p><p class="" style="white-space:pre-wrap;">2020 - Coronavirus stops society and kills over 174k Americans; #BlackLivesMatter movement and protests of police brutality; Anti-racism movement</p><h3 style="white-space:pre-wrap;"><br><strong>Additional References &amp; Sources: </strong></h3><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">BBC News. “United States profile - Timeline”, 25 March 2019.  <a href="https://www.bbc.com/news/world-us-canada-16759233">https://www.bbc.com/news/world-us-canada-16759233</a> Accessed May 2020. </p></li><li><p class="" style="white-space:pre-wrap;">Library of Congress. “United States History” <em>World Digital Library</em>,  <a href="https://www.wdl.org/en/sets/us-history/timeline/">https://www.wdl.org/en/sets/us-history/timeline/</a>   Accessed May 2020. </p></li></ul><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Pruitt, Sarah. “14 Major Events of the 2010’s”, <em>History.com</em>. Updated 5 Feb 2020, Original 9 Dec 2019. <a href="https://www.history.com/news/2010s-decade-major-events">https://www.history.com/news/2010s-decade-major-events</a> Accessed May 2020. </p></li><li><p class="" style="white-space:pre-wrap;">Wikipedia. “Timelines of United States history by period”.  <a href="https://en.wikipedia.org/wiki/Category:Timelines_of_United_States_history_by_period">https://en.wikipedia.org/wiki/Category:Timelines_of_United_States_history_by_period</a> Accessed May 2020. </p></li></ul><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div></div></div>

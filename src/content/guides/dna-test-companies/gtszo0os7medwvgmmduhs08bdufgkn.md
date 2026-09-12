@@ -1,0 +1,8 @@
+---
+title: "23andme"
+description: "Autosomal, Y-DNA, mtDNA. Saliva based. Choose from \u201cAncestry + Traits\u201d, \u201cHealth + Ancestry\u201d, or \u201cVIP\u201d home tests. Offers Genetic Health Risk and Carrier Status "
+canonicalUrl: "https://www.startresearching.com/dna-test-companies/gtszo0os7medwvgmmduhs08bdufgkn"
+
+---
+
+<p class="" style="white-space:pre-wrap;">Autosomal, Y-DNA, mtDNA. Saliva based. Choose from “Ancestry + Traits”, “Health + Ancestry”, or “VIP” home tests. Offers Genetic Health Risk and Carrier Status health reports, as well as genetic based traits and ancestry estimates. Reports include maternal and paternal haplogroups, and neanderthal ancestry. <a href="https://www.23andme.com/genetic-science/" target="">23andme.com </a>or <a href="https://www.amazon.com/gp/product/B01LZ5K87Z/ref=as_li_tl?camp=1789&amp;creative=9325&amp;creativeASIN=B01LZ5K87Z&amp;ie=UTF8&amp;linkCode=as2&amp;linkId=3b4ea9c84fd95301412e7b25537f962a&amp;tag=startresearching-20" target="_blank">Amazon.com (Ancestry only)</a>; or <a href="https://www.amazon.com/gp/product/B01G7PYQTM/ref=as_li_tl?camp=1789&amp;creative=9325&amp;creativeASIN=B01G7PYQTM&amp;ie=UTF8&amp;linkCode=as2&amp;linkId=7d81bbc98ec8b4a5a8ff232feb8471eb&amp;tag=startresearching-20" target="_blank">Amazon.com (Health &amp; Ancestry)</a></p>

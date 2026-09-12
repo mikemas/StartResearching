@@ -1,0 +1,195 @@
+---
+title: "A Private Family Tree on FamilySearch: the Controlled Edit Tree (CET)"
+pubDate: 2025-05-26
+description: "26 May, 2025 by Sherri Mastrangelo Have you ever been surprised by another user\u2019s edits on your Family Tree on the FamilySearch platform? Did you know you can a"
+canonicalUrl: "https://www.startresearching.com/blog/trying-the-familysearch-user-owned-tree-feature-cet"
+
+---
+
+<div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1748289585974" id="item-6834c72500d169668e9b5da5"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-c83e198f9d3af63e3af5"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>26 May, 2025 by Sherri Mastrangelo</strong></span></p><p class="" style="white-space:pre-wrap;">Have you ever been surprised by another user’s edits on your Family Tree on the FamilySearch platform? Did you know you can avoid that issue, with a free private tree? While the CET was first introduced in the fall of 2024, it seems not many know about this helpful option. </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1748302336705_4576"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:940px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:62.553192138671875%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/925532d2-4904-47f7-a5c1-b6bb9452ac92/new+series+of+posts+%28940+x+588+px%29+%2816%29.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/925532d2-4904-47f7-a5c1-b6bb9452ac92/new+series+of+posts+%28940+x+588+px%29+%2816%29.png" data-image-dimensions="940x588" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/925532d2-4904-47f7-a5c1-b6bb9452ac92/new+series+of+posts+%28940+x+588+px%29+%2816%29.png" width="940" height="588" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/925532d2-4904-47f7-a5c1-b6bb9452ac92/new+series+of+posts+%28940+x+588+px%29+%2816%29.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/925532d2-4904-47f7-a5c1-b6bb9452ac92/new+series+of+posts+%28940+x+588+px%29+%2816%29.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/925532d2-4904-47f7-a5c1-b6bb9452ac92/new+series+of+posts+%28940+x+588+px%29+%2816%29.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/925532d2-4904-47f7-a5c1-b6bb9452ac92/new+series+of+posts+%28940+x+588+px%29+%2816%29.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/925532d2-4904-47f7-a5c1-b6bb9452ac92/new+series+of+posts+%28940+x+588+px%29+%2816%29.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/925532d2-4904-47f7-a5c1-b6bb9452ac92/new+series+of+posts+%28940+x+588+px%29+%2816%29.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/925532d2-4904-47f7-a5c1-b6bb9452ac92/new+series+of+posts+%28940+x+588+px%29+%2816%29.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1748302336705_4927"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">Right now the CET feature is only available to selected users that sign up and are approved: <a href="https://www.familysearch.org/en/labs/docs/CETsLearnMore">https://www.familysearch.org/en/labs/docs/CETsLearnMore</a> </p><p class="" style="white-space:pre-wrap;">FamilySearch’s User Owned Tree, or Controlled Edit Tree (CET), allows it’s users to <strong>create and manage private family trees</strong> on their platform, with all the tools and resources of their main tree. Until now, private trees have not been available on FamilySearch. While you could upload a tree with the <em>Genealogies</em> feature, it could not be edited - even by the owner. </p><p class="" style="white-space:pre-wrap;">While the CET can only be edited by the owner, others can be invited as collaborators. You have the option to make it public or private.</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>What makes the CET different than the main Family Tree?</strong></span></p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Privacy options. You can choose to have your tree public, meaning that other users can view your tree, but they can not edit it - or private*, with only you and your invited guests able to view it.  With the public option, living individuals in the tree are still hidden from other users. This public mode is the default. </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Even with private settings, some items attached to confidential people are public by default, like memories.  Be sure to review all privacy settings.</p></li></ul></li><li><p class="" style="white-space:pre-wrap;">No outside collaboration, unless invited.</p></li><li><p class="" style="white-space:pre-wrap;">The tree may not necessarily start with you, unlike your access to the main tree. The <a href="https://developers.familysearch.org/main/docs/comparison-of-family-tree-and-controlled-edit-trees-cet" target="_blank">API guide</a> states: “a [CET] tree is not guaranteed to contain a person who represents the current user. Therefore, the concept of the user’s person may not be supported.” You can set a starting person when editing your tree. </p></li><li><p class="" style="white-space:pre-wrap;">Relationship views to self not supported, as no current user. Again, per <a href="https://developers.familysearch.org/main/docs/comparison-of-family-tree-and-controlled-edit-trees-cet" target="_blank">the API guide</a> for developers, “the ability to view a user’s relationship to persons in the [CET] tree is not supported because there may not be a person representing the user in the tree.”</p></li><li><p class="" style="white-space:pre-wrap;">Certain features not supported yet. </p></li><li><p class="" style="white-space:pre-wrap;">Not available to all users yet.  </p></li></ul><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>How to Create and Use a CET</strong></span></p><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Once approved, login and upload your GED file. (Need a GED? If you are trying this from Ancestry.com, you can download your GED file from your Tree Settings page). This process could take hours, depending on the size of your file.</p><p class="" style="white-space:pre-wrap;"><br></p></li><li><p class="" style="white-space:pre-wrap;">Continue to edit the tree as normal. However, please note:  </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">You must add sources! While the GED upload will create a citation, it will not copy over the file from other sources like Ancestry.com. It does preserve web links.  </p></li><li><p class="" style="white-space:pre-wrap;">Also, when searching for records on FamilySearch, you must search from your CET to be able to attach the record. </p><p class="" style="white-space:pre-wrap;"><br></p></li></ul></li><li><p class="" style="white-space:pre-wrap;">You can access your CET anytime you are logged in from the Family Tree tab under CETs.</p></li><li><p class="" style="white-space:pre-wrap;">Optionally: add an image to your CET by clicking the black and white default picture, and uploading a new image.</p></li></ol><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">It is not known when, or if, the CET feature will be available to all. We suggest <a href="https://www.familysearch.org/en/blog/" target="_blank">subscribing to their blog</a> for latest updates.</p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Though I immensely value the public Family Tree on FamilySearch for it’s collaboration and wealth of information, CETs are a good way for researchers to keep the integrity of their research without outside interference, and vice versa - CETs are also a way to explore possible relationship models or trees without affecting the main Family Tree data. </p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>Additional Resources</strong></span></p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Be sure to join the group: <a href="https://community.familysearch.org/en/group/338-cet-feedback-early-access" target="_blank">CET Feedback - Early Access</a></p></li><li><p class="" style="white-space:pre-wrap;">You can also track supported features here: <a href="https://community.familysearch.org/en/discussion/162042/features-currently-supported-coming-soon-not-yet-supported#latest">https://community.familysearch.org/en/discussion/162042/features-currently-supported-coming-soon-not-yet-supported#latest</a> </p></li><li><p class="" style="white-space:pre-wrap;">CET Developer API Guide: <a href="https://developers.familysearch.org/main/docs/cet-api-guide">https://developers.familysearch.org/main/docs/cet-api-guide</a>  </p></li></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>

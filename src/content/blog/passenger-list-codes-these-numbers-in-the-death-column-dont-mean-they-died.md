@@ -1,0 +1,389 @@
+---
+title: "Passenger List Codes: These numbers in the 'Death' column don't mean they died!"
+pubDate: 2023-09-17
+description: "17 September, 2023. By Sherri Mastrangelo This post is a continuation of my series on passenger list markings and codes. Please also reference these posts: \u201cPas"
+canonicalUrl: "https://www.startresearching.com/blog/passenger-list-codes-these-numbers-in-the-death-column-dont-mean-they-died"
+
+---
+
+<div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1693335572086" id="item-64ee3b619261c0169331b889"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-09ef0a93b9c8dc0da2d5"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>17 September, 2023. By Sherri Mastrangelo</strong></span></p><p class="" style="white-space:pre-wrap;">This post is a continuation of my series on passenger list markings and codes. Please also reference these posts: </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"><a href="https://www.startresearching.com/blog/passenger-lists-the-meaning-behind-the-notations-abbreviations-and-marks" target="_blank"><em>“Passenger Lists: The Meaning Behind the Notations, Abbreviations, and Marks”</em> </a></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.startresearching.com/blog/passenger-lists-pt-2-the-meaning" target="_blank"><em>“Immigration Act of 1924 Codes on U.S. Passenger Arrival Lists”</em></a></p></li></ul><p class="" style="white-space:pre-wrap;">Today I’ll be looking at a series of numbers in the far right column of early passenger lists from the late 19th century, specifically a New York arrival record from 1895. In a recent email, a reader asks: </p><p class="" style="white-space:pre-wrap;"> “<strong><em>The person I am looking at has numbers written under the row of “Date and Cause of Death”, the numbers 5-3. She is listed with her children but no other adult, this leads me to believe that she may have died on the ship, and the note added later on….I would appreciate any help you can provide me with in regards to these numbers, would you happen to know if these refer to a date, place, or code for a&nbsp;specific cause of death?&nbsp;</em></strong></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1693335574999_8895"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:100%;"
+        >
+          
+        
+        
+
+        
+          
+            <button
+                data-sqsp-image-classic-block-lightbox-button
+                class="
+                  sqs-block-image-button
+                  lightbox
+                  
+          
+        
+                "
+                data-description="&lt;p class=&quot;&quot; style=&quot;white-space:pre-wrap;&quot;&gt;Above image shows numbers written that were not a part of the original form. Image excerpt of a passenger list from Ellis Island, NY, 1895, as found on &lt;a href=&quot;https://www.familysearch.org/ark:/61903/3:1:33S7-91D4-DY3?i&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;FamilySearch.org&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;br&gt;&lt;/em&gt;&lt;/p&gt;"
+                data-lightbox-theme="dark"
+            >
+              <span class="v6-visually-hidden">View fullsize</span>
+              
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:52.499996185302734%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="true" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/11be3a7d-10f0-463e-8fa5-3f647071f708/%E2%80%9C...watching+the+parades+when+the+soldiers+came+home+from+the+Civil+War.+This+was+the+most+exciting.+I+saved+uniform+buttons.+In+fact%2C+all+the+young+boys+did+this.+We+made+a+game+of+it+to+see+who+.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/11be3a7d-10f0-463e-8fa5-3f647071f708/%E2%80%9C...watching+the+parades+when+the+soldiers+came+home+from+the+Civil+War.+This+was+the+most+exciting.+I+saved+uniform+buttons.+In+fact%2C+all+the+young+boys+did+this.+We+made+a+game+of+it+to+see+who+.png" data-image-dimensions="600x315" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/11be3a7d-10f0-463e-8fa5-3f647071f708/%E2%80%9C...watching+the+parades+when+the+soldiers+came+home+from+the+Civil+War.+This+was+the+most+exciting.+I+saved+uniform+buttons.+In+fact%2C+all+the+young+boys+did+this.+We+made+a+game+of+it+to+see+who+.png" width="600" height="315" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/11be3a7d-10f0-463e-8fa5-3f647071f708/%E2%80%9C...watching+the+parades+when+the+soldiers+came+home+from+the+Civil+War.+This+was+the+most+exciting.+I+saved+uniform+buttons.+In+fact%2C+all+the+young+boys+did+this.+We+made+a+game+of+it+to+see+who+.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/11be3a7d-10f0-463e-8fa5-3f647071f708/%E2%80%9C...watching+the+parades+when+the+soldiers+came+home+from+the+Civil+War.+This+was+the+most+exciting.+I+saved+uniform+buttons.+In+fact%2C+all+the+young+boys+did+this.+We+made+a+game+of+it+to+see+who+.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/11be3a7d-10f0-463e-8fa5-3f647071f708/%E2%80%9C...watching+the+parades+when+the+soldiers+came+home+from+the+Civil+War.+This+was+the+most+exciting.+I+saved+uniform+buttons.+In+fact%2C+all+the+young+boys+did+this.+We+made+a+game+of+it+to+see+who+.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/11be3a7d-10f0-463e-8fa5-3f647071f708/%E2%80%9C...watching+the+parades+when+the+soldiers+came+home+from+the+Civil+War.+This+was+the+most+exciting.+I+saved+uniform+buttons.+In+fact%2C+all+the+young+boys+did+this.+We+made+a+game+of+it+to+see+who+.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/11be3a7d-10f0-463e-8fa5-3f647071f708/%E2%80%9C...watching+the+parades+when+the+soldiers+came+home+from+the+Civil+War.+This+was+the+most+exciting.+I+saved+uniform+buttons.+In+fact%2C+all+the+young+boys+did+this.+We+made+a+game+of+it+to+see+who+.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/11be3a7d-10f0-463e-8fa5-3f647071f708/%E2%80%9C...watching+the+parades+when+the+soldiers+came+home+from+the+Civil+War.+This+was+the+most+exciting.+I+saved+uniform+buttons.+In+fact%2C+all+the+young+boys+did+this.+We+made+a+game+of+it+to+see+who+.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/11be3a7d-10f0-463e-8fa5-3f647071f708/%E2%80%9C...watching+the+parades+when+the+soldiers+came+home+from+the+Civil+War.+This+was+the+most+exciting.+I+saved+uniform+buttons.+In+fact%2C+all+the+young+boys+did+this.+We+made+a+game+of+it+to+see+who+.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+            </button>
+          
+        
+
+        
+          
+          <figcaption data-sqsp-image-classic-block-caption-container class="image-caption-wrapper">
+            <div class="image-caption"><p class="" style="white-space:pre-wrap;">Above image shows numbers written that were not a part of the original form. Image excerpt of a passenger list from Ellis Island, NY, 1895, as found on <a href="https://www.familysearch.org/ark:/61903/3:1:33S7-91D4-DY3?i" target="_blank"><em>FamilySearch.org</em></a><em>.<br></em></p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1693335574999_9264"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">Looking at the example passenger list above, in the column titled “Date and Cause of Death”, there is a series of numbers including “4 -2”, “2 - 1”, “1-0”, and “6-4”. it was a perfectly reasonable assumption to think they would be related to a death on the ship’s voyage, as they appear in this column. </p><p class="" style="white-space:pre-wrap;">Perhaps a “4 - 2” means the individual died the 2nd of April. However, in this instance the ship <em>SS. La Champagne </em>arrived at Ellis Island on December 17, 1895 - a voyage which would not have taken more than eight months to complete. There is no possibility they died on the ship in April. Following this logic the numbers “2 - 1” and “1 - 0” could not mean the passengers died in February or January, as the ship was not sailing then.   If you go back a few pages, you’ll see higher sets of numbers like “17 - 8”,  which would confirm the first number is not related to a month. </p><p class="" style="white-space:pre-wrap;">In fact, these numbers have nothing to do with any date, nor do they have anything to do with the column about the cause of death!</p><p class="" style="white-space:pre-wrap;">I reached out to another genealogist during my research on this, and they discovered <a href="https://groups.jewishgen.org/g/main/topic/74486548?p=%2C%2C%2C20%2C0%2C0%2C0%3A%3Arecentpostdate%2Fsticky%2C%2C%2C20%2C2%2C0%2C74486548" target="_blank">a relevant discussion on a forum of JewishGen</a>. On this comment thread from a few years ago in 2020, expert Marian Smith shares that <strong><em>“Those numbers in the Cause of Death column on Customs Lists have long been a source of confusion. They are annotations made later by gov’t statistical clerks when “coding” the documents for official US immigration statistics.  Clerks used that column for this data because it was usually the largest block of available empty space on the page…”</em></strong></p><p class="" style="white-space:pre-wrap;">Great! But what do they mean?</p><p class="" style="white-space:pre-wrap;">Commenter David Rosen says “these numbers in the last column are <strong>a count of the males - females on the passenger list</strong>….At the bottom of the last column there should be a total, e.g., 16 - 11 - 27” and another, Stephan Parnes, agrees. Parnes expands on that it is a “<strong>tally of the passengers by nationality.</strong> Thus, on this page, for example, there are 2 males and 0 females from England, 1 male and 0 females from Bohemia, 2 males and 1 female from Holland, 9 males and 5 females from Germany, and so forth.”</p><p class="" style="white-space:pre-wrap;">Why did they feel the need to calculate the number of males and females of each nationality that arrived in the US? </p><p class="" style="white-space:pre-wrap;">Well, the immigration ship’s captain was required to track and report such information since the Steerage Act of 1819: </p><p style="margin-left:40px;white-space:pre-wrap;" class="">"Statistics relative to immigration to the United States date from 1819, when the first United States law regulating the carriage of steerage passengers at sea was enacted In addition to the requirements respecting the carriage of steerage passengers, the act of 1819 provided that the captain or master of any ship or vessel arriving in the United&nbsp; States from any foreign place should - deliver and report to the collector of the district in which such ship or vessel should arrive, a list or manifest of all the passengers taken on board of the said ship or vessel at any foreign port or place; in which list or manifest it shall be the duty of the said master to designate, particularly, the age, sex, and occupation of said passengers, respectively, the country to which they severally belong, and that of which it is their intention to become inhabitants….."  </p><p style="margin-left:40px;white-space:pre-wrap;" class="">                - United States, from the “Statistical Review of Immigration to the United States, 1820 to 1910," pg. 55.  </p><p class="" style="white-space:pre-wrap;">Copies of these manifests were given to the Secretary of State, who would report on this statistical data to Congress.  Various government departments tallied the data over the years, as “statistics of immigration were collected by the Department of state from 1820 to 1874 and by the Bureau of Statistics from 1867 to 1895.&nbsp;Since 1895 they have been gathered exclusively by the Commissioner-General of Immigration, whose bureau began the collection of these statistics several years prior to that date" (United States, “Statistical Review..”) </p><p class="" style="white-space:pre-wrap;">So in our example of an 1895 passenger arrival list from Ellis Island in New York, the tally marks we noticed in the ‘death’ column were either made by government clerks from the Bureau of Statistics or the department of the Commissioner-General of Immigration (as there was some overlap) for the purpose of a government report. To my knowledge there were no immigration regulations or quotas at this time, but they later may have been based on some of this information. </p><p class="" style="white-space:pre-wrap;">Now that we know who made the tally marks and why, can we find the reports they created from this data?</p><p class="" style="white-space:pre-wrap;">In the government abstract, “Statistical Review of Immigration, 1820 to 1910” we see several charts displaying the information collected over the years. I found one with a male / female breakdown by country of origin, pictured partially below: </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1693335574999_98699"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:990px;"
+        >
+          
+        
+        
+
+        
+          
+            <button
+                data-sqsp-image-classic-block-lightbox-button
+                class="
+                  sqs-block-image-button
+                  lightbox
+                  
+          
+        
+                "
+                data-description="&lt;p class=&quot;&quot; style=&quot;white-space:pre-wrap;&quot;&gt;&lt;a href=&quot;https://www2.census.gov/library/publications/1896/compendia/statab/18ed/1895-04.pdf&quot;&gt; &lt;/a&gt;An excerpt from “Table 9 - Immigration to the United States, 1820 to 1910; Part 2: By Country of Origin and by Sex, for Years Ending June 30, 1869 to 1910, Inclusive” highlighting years 1895, 1896, and 1897, from the abstract “Statistical Review of Immigration, 1820 to 1910”, published by the United States. &lt;/p&gt;"
+                data-lightbox-theme="dark"
+            >
+              <span class="v6-visually-hidden">View fullsize</span>
+              
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:68.48484802246094%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/e203838d-c9f6-4653-9ad7-3649bb890dab/immigration+by+sex2.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/e203838d-c9f6-4653-9ad7-3649bb890dab/immigration+by+sex2.png" data-image-dimensions="990x678" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/e203838d-c9f6-4653-9ad7-3649bb890dab/immigration+by+sex2.png" width="990" height="678" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/e203838d-c9f6-4653-9ad7-3649bb890dab/immigration+by+sex2.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/e203838d-c9f6-4653-9ad7-3649bb890dab/immigration+by+sex2.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/e203838d-c9f6-4653-9ad7-3649bb890dab/immigration+by+sex2.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/e203838d-c9f6-4653-9ad7-3649bb890dab/immigration+by+sex2.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/e203838d-c9f6-4653-9ad7-3649bb890dab/immigration+by+sex2.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/e203838d-c9f6-4653-9ad7-3649bb890dab/immigration+by+sex2.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/e203838d-c9f6-4653-9ad7-3649bb890dab/immigration+by+sex2.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+            </button>
+          
+        
+
+        
+          
+          <figcaption data-sqsp-image-classic-block-caption-container class="image-caption-wrapper">
+            <div class="image-caption"><p class="" style="white-space:pre-wrap;"><a href="https://www2.census.gov/library/publications/1896/compendia/statab/18ed/1895-04.pdf"> </a>An excerpt from “Table 9 - Immigration to the United States, 1820 to 1910; Part 2: By Country of Origin and by Sex, for Years Ending June 30, 1869 to 1910, Inclusive” highlighting years 1895, 1896, and 1897, from the abstract “Statistical Review of Immigration, 1820 to 1910”, published by the United States. </p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1693335574999_99088"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">This one should include the year 1895, but for some reason they only have the total and not the sex breakdown. A note at the bottom of the chart says “sex not reported” for that year, though we know it was reported on some manifests. Other tables within the same abstract display similar data, such as Table 4, which shows the amount of male and female immigrants per year, but not by country.<br></p><p class="" style="white-space:pre-wrap;">In summary, another great example of “codes” left on forms by government clerks that confuse genealogists many decades (or in this case, more than a century) later. </p><p class="" style="white-space:pre-wrap;"><br><br></p><p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>Sources and Further Reading:</strong></span></p><p class="" style="white-space:pre-wrap;">Smith, Marian L., David Rosen, Stephen Parnes, and others. <em>Groups.JewishGen.org, </em>May 2020 (<a href="https://groups.jewishgen.org/g/main/topic/74486548?p=,,,20,0,0,0::recentpostdate/sticky,,,20,2,0,74486548)">https://groups.jewishgen.org/g/main/topic/74486548?p=,,,20,0,0,0::recentpostdate/sticky,,,20,2,0,74486548)</a> Accessed 17 September 2023. <br></p><p class="" style="white-space:pre-wrap;"><em>“New York Passenger Arrival Lists (Ellis Island), 1892 - 1924,” </em>database with images, FamilySearch<em> (</em><a href="https://www.familysearch.org/ark:/61903/3:1:33S7-91D4-DY3?i)">https://www.familysearch.org/ark:/61903/3:1:33S7-91D4-DY3?i)</a> Roll 652, 6 Dec 1895 - 31 Dec 1895<em>; (NARA Series M237). </em>Accessed 17 September 2023.</p><p class="" style="white-space:pre-wrap;">United States.  “<em>Abstracts of reports of the Immigration Commission: with conclusions and recommendations, and views of the minority (in two volumes)”. </em>Washington, 1911. Vol 1, ABSTRACT OF THE STATISTICAL REVIEW OF IMMIGRATION TO THE UNITED STATES, 1820 TO 1910. <strong><em>(</em></strong><a href="https://nrs.lib.harvard.edu/urn-3:fhcl:949022"><span style="text-decoration:underline"><strong><em>https://nrs.lib.harvard.edu/urn-3:fhcl:949022</em></strong></span></a><span style="text-decoration:underline"><strong><em>)</em></strong></span> Collection Development Department, Widener Library, HCL; Harvard University.<em> </em>Accessed 17 September 2023. </p><p class="" style="white-space:pre-wrap;"><br></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>

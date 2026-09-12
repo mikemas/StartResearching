@@ -1,0 +1,520 @@
+---
+title: "More on first character start vertical patterns within the Voynich"
+description: "By Sherri Mastrangelo, 29 September 2025. This is a follow-up to: \u201cThe 490 - a pattern?\u201d In the previous post, I shared samples of vertical patterns within the "
+canonicalUrl: "https://www.startresearching.com/voynich-blog/more-on-first-character-start-vertical-patterns-within-the-voynich"
+
+---
+
+<div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1758847669247" id="item-68d5df1a74353311c3a54b16"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-dbb0fc492e749fc42684"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>By Sherri Mastrangelo, 29 September 2025.</strong></span></p><p class="" style="white-space:pre-wrap;"><em>This is a follow-up to: </em><a href="/voynich-blog/the-490-a-pattern" target="_blank"><em>“The 490 - a pattern?”</em></a></p><p class="" style="white-space:pre-wrap;">In the previous post, I shared samples of vertical patterns within the starting characters of some paragraphs.</p><p class="" style="white-space:pre-wrap;">I analyzed many of the text heavy pages, folios 1 - 57r, 58r, 58v, 65v - 66v, 75r - 87v, 90r - 96v,  103r - 116r. This is ignoring the wheel on 57v, the zodiac section, some of the other wheels and foldouts, and the heavily labeled root section. In total I used 174 pages, <strong>with 3,784 lines of text (</strong>note that number for my later probability equations).  When a folio had a separate vertical column in front of the text paragraphs, such as 76r, it was ignored.  </p><p class="" style="white-space:pre-wrap;">I identified <strong>18 unique starting characters</strong> for all the lines.</p><p class="" style="white-space:pre-wrap;">The highest string-length of characters that repeat elsewhere is “7", with two different pairs of seven string length. The first pair can be found on 14r and 104r, and the second pair on 105r and 106r, as pictured below:</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1758848009107_3089"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:940px;"
+        >
+          
+        
+        
+
+        
+          
+            <button
+                data-sqsp-image-classic-block-lightbox-button
+                class="
+                  sqs-block-image-button
+                  lightbox
+                  
+          
+        
+                "
+                data-description=""
+                data-lightbox-theme="dark"
+            >
+              <span class="v6-visually-hidden">View fullsize</span>
+              
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:83.82978820800781%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/c969a6ac-6223-4b3f-9ba9-d713c8f0740b/Your+paragraph+text+%286%29.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/c969a6ac-6223-4b3f-9ba9-d713c8f0740b/Your+paragraph+text+%286%29.png" data-image-dimensions="940x788" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/c969a6ac-6223-4b3f-9ba9-d713c8f0740b/Your+paragraph+text+%286%29.png" width="940" height="788" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/c969a6ac-6223-4b3f-9ba9-d713c8f0740b/Your+paragraph+text+%286%29.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/c969a6ac-6223-4b3f-9ba9-d713c8f0740b/Your+paragraph+text+%286%29.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/c969a6ac-6223-4b3f-9ba9-d713c8f0740b/Your+paragraph+text+%286%29.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/c969a6ac-6223-4b3f-9ba9-d713c8f0740b/Your+paragraph+text+%286%29.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/c969a6ac-6223-4b3f-9ba9-d713c8f0740b/Your+paragraph+text+%286%29.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/c969a6ac-6223-4b3f-9ba9-d713c8f0740b/Your+paragraph+text+%286%29.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/c969a6ac-6223-4b3f-9ba9-d713c8f0740b/Your+paragraph+text+%286%29.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+            </button>
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1758848009107_3458"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">The next highest string length is 6 characters, with 22 different matching pairs found - though with a heavy amount of overlap between sets. For example, the string of seven length above in 14r, also includes the the string of six on 15r, “0 9 0 4 9 0”, as well as the string of five “9 0 4 9 0” counted in the data.</p><p class="" style="white-space:pre-wrap;">Of the 174 pages I analyzed, I found vertical patterns in the first characters of <strong>5 string length or more in 88 pages</strong> or a little over <strong>50% of the text. </strong>Again, with overlap. Here’s a sample:</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1758848009107_24088"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:940px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:83.82978820800781%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8ea639f7-76f7-4a67-aa91-9ecb61de4c23/Your+paragraph+text+%287%29.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8ea639f7-76f7-4a67-aa91-9ecb61de4c23/Your+paragraph+text+%287%29.png" data-image-dimensions="940x788" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8ea639f7-76f7-4a67-aa91-9ecb61de4c23/Your+paragraph+text+%287%29.png" width="940" height="788" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8ea639f7-76f7-4a67-aa91-9ecb61de4c23/Your+paragraph+text+%287%29.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8ea639f7-76f7-4a67-aa91-9ecb61de4c23/Your+paragraph+text+%287%29.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8ea639f7-76f7-4a67-aa91-9ecb61de4c23/Your+paragraph+text+%287%29.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8ea639f7-76f7-4a67-aa91-9ecb61de4c23/Your+paragraph+text+%287%29.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8ea639f7-76f7-4a67-aa91-9ecb61de4c23/Your+paragraph+text+%287%29.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8ea639f7-76f7-4a67-aa91-9ecb61de4c23/Your+paragraph+text+%287%29.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/8ea639f7-76f7-4a67-aa91-9ecb61de4c23/Your+paragraph+text+%287%29.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1758848009107_24448"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;"> You’ll notice I prefer not to work with EVA characters. I also made judgements about the characters, as some are more obvious than others. The intent was to look for patterns. </p><p class="" style="white-space:pre-wrap;">So does any of this mean anything? Are repeating patterns a natural consequence of having so many similar “words” in the manuscript - or at least so many similar prefixes? Or of a cipher? Or perhaps a lazy scribe, copying from previous pages as he made up the text?  </p><p class="" style="white-space:pre-wrap;">Let’s look to probability equations - especially the Poisson distribution (same birthday) model. This is where ChatGPT+ comes in clutch.  For this, my first prompt was: “Assume a manuscript of 3,784 lines of text is in a grid of various column length. Let’s look at the first column, which has 18 unique possible characters. How likely is it for a vertical pattern of seven characters to have an identical seven string pattern elsewhere in the column?”</p><p class="" style="white-space:pre-wrap;">This gave me a 1.16% chance, or about 1 in 86 that at least one 7-character vertical sequence repeats. Seems pretty reasonable actually. So how likely are two different pairs of seven string length, as shown in the image above?</p><p class="" style="white-space:pre-wrap;"><strong>That’s about 0.0067%, or 1 in 15,000, which means the text is not random nonsense. </strong></p><p class="" style="white-space:pre-wrap;">Here’s what that can mean: </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1759165277336_34074"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1012px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:140.71145629882812%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1a45d112-9458-4832-b349-33349be45f6b/notrandom.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1a45d112-9458-4832-b349-33349be45f6b/notrandom.png" data-image-dimensions="1012x1424" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1a45d112-9458-4832-b349-33349be45f6b/notrandom.png" width="1012" height="1424" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1a45d112-9458-4832-b349-33349be45f6b/notrandom.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1a45d112-9458-4832-b349-33349be45f6b/notrandom.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1a45d112-9458-4832-b349-33349be45f6b/notrandom.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1a45d112-9458-4832-b349-33349be45f6b/notrandom.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1a45d112-9458-4832-b349-33349be45f6b/notrandom.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1a45d112-9458-4832-b349-33349be45f6b/notrandom.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1a45d112-9458-4832-b349-33349be45f6b/notrandom.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1759165277336_34446"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;"><br>So “not random”. Which could mean a language, or a cipher. Or could still mean a scribe or two copying from other pages. It really doesn’t tell us much, does it? What do you think? </p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><br> </p><p class="" style="white-space:pre-wrap;"> </p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"> </p><p class="" style="white-space:pre-wrap;">  </p><p class="" style="white-space:pre-wrap;"> </p><p class="" style="white-space:pre-wrap;"><br><br><br></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>

@@ -1,0 +1,35 @@
+---
+title: "The GPS "
+description: "Have you ever tried to share your research with family members or friends, only to be asked \u201chow do you know?\u201d and you\u2019re not sure how to respond? Well, you sho"
+canonicalUrl: "https://www.startresearching.com/gps/the-genealogical-proof-standard"
+
+---
+
+<div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1587182218364" id="item-5e9a7a7e0feebf4d480ef248"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-99f5413dbe3675208e6a"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">Have you ever tried to share your research with family members or friends, only to be asked “how do you know?” and you’re not sure how to respond? Well, you should tell them that you adhere to the <strong>“Genealogical Proof Standard” (GPS)</strong> and because of this your work should be considered credible. If you follow this protocol set by the <a href="https://bcgcertification.org/">Board for Certification of Genealogists</a> you should have logical, easy to follow research with properly cited sources and strong evidence.  </p><p class="" style="white-space:pre-wrap;">The GPS outlines five steps of minimum standards all genealogists should follow: </p><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Reasonably exhaustive research. </p></li><li><p class="" style="white-space:pre-wrap;">Complete and accurate source citations.</p></li><li><p class="" style="white-space:pre-wrap;">Thorough analysis and correlation.</p></li><li><p class="" style="white-space:pre-wrap;">Resolution of conflicting evidence.</p></li><li><p class="" style="white-space:pre-wrap;"> Soundly written conclusion based on the strongest evidence. </p></li></ol><p class="" style="white-space:pre-wrap;"><em>Source: </em><a href="https://bcgcertification.org/ethics-standards/"><em>bcgcertification.org/ethics-standards</em></a></p><p class="" style="white-space:pre-wrap;">By following the steps above (which are greatly summarized) we can be confident in our research, but also aware that new evidence may come to light that may shift our final conclusions. More information about each of these five elements can be learned through BCG’s <a href="https://www.amazon.com/Genealogy-Standards-Board-Certification-Genealogists/dp/163026346X/ref=sr_1_3?dchild=1&amp;qid=1597179348&amp;refinements=p_27%3ABoard%20for%20Certification%20of%20Genealogists&amp;s=books&amp;sr=1-3&amp;text=Board%20for%20Certification%20of%20Genealogists"><em>Genealogy Standards</em></a><em> </em>published in 2014, and the revised <a href="https://www.amazon.com/Genealogy-Standards-Second-Certification-Genealogists/dp/168442352X/ref=sr_1_1?dchild=1&amp;qid=1597179320&amp;refinements=p_27%3ABoard%20for%20Certification%20of%20Genealogists&amp;s=books&amp;sr=1-1&amp;text=Board%20for%20Certification%20of%20Genealogists">2019 second edition</a> (first published in 2000 as <a href="https://www.amazon.com/BCG-Genealogical-Standards-Manual/dp/0916489922"><em>The BCG Genealogical Standards Manual</em></a><em>). </em><strong>I highly recommend all genealogists read through the latest version to fully understand the GPS and how it applies to your research. </strong></p><p class="" style="white-space:pre-wrap;">You should also understand that anyone can be a “professional genealogist” simply by accepting payment for work completed. The only difference between an amateur and professional is the latter charges clients for research (though all genealogists should adhere to standards). There is no legal system that regulates who can become a professional in the field of genealogy. </p><p class="" style="white-space:pre-wrap;">However, it should be noted in the United States there are two independent accreditation systems for genealogists, the <a href="https://www.bcgcertification.org/">Board for Certification of Genealogists (BCG)</a> and the <a href="https://www.icapgen.org/">International Commission for the Accreditation of Professional Genealogists (ICapGen)</a>, both of which confer their own post-nominal credentials. If you are accredited through the Board, you can earn “CG” for Certified Genealogist, or “CGL” for Certified Genealogical Lecturer (they previously had more credentials which may be used by some genealogists still). If you are accredited through ICapGen, you can earn the “AG” credential for Accredited Genealogist. Both organizations are very respected in the field, and help set the standards.</p><p class="" style="white-space:pre-wrap;">You do not have to become certified by either of these organizations to become a genealogist. but it is a very good idea to become familiar with, and try to follow, the standards set forth by the BCG’s Genealogical Proof Standard (GPS). </p><p class="" style="white-space:pre-wrap;">See: <a href="/becoming-a-professional">Becoming a Professional</a> and <a href="/education">Education</a> </p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><strong>Additional References: </strong></p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Board for Certification of Genealogists, <em>Genealogy Standards</em>, 50th Edition. Washington, D.C.: Ancestry.com, 2014.</p></li><li><p class="" style="white-space:pre-wrap;">Board for Certification of Genealogists, <em>Genealogy Standards</em>, 2nd Edition. Washington, D.C.: Ancestry.com, 2019.</p></li><li><p class="" style="white-space:pre-wrap;">Christine Rose. <em>Genealogical Proof Standard: Building a Solid Case. </em>4th ed. San Jose, California: CR Publications, 2014. </p></li><li><p class="" style="white-space:pre-wrap;">James Ison, <a href="https://www.rootstech.org/videos/james-ison?lang=eng">“Using the Genealogical Proof Standard for Success”</a> Video, Rootstech.org, 2016</p></li><li><p class="" style="white-space:pre-wrap;">Thomas W. Jones. <em>Mastering Genealogical Proof</em>, Arlington, VA:  National Genealogical Society, 2017</p></li></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div></div></div>

@@ -1,0 +1,334 @@
+---
+title: "Understanding the \"Hachette v Internet Archive\" Case   "
+pubDate: 2023-03-26
+description: "25 March 2023, by Sherri Mastrangelo The Internet Archive, a non-profit organization based in San Francisco, has been an immensely valuable resource for genealo"
+canonicalUrl: "https://www.startresearching.com/blog/inside-the-internet-archives-court-case"
+
+---
+
+<div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1679785362608" id="item-641f7c681edf6d5a2c0dbb9e"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-3df779b811fa616cffd3"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>25 March 2023, by Sherri Mastrangelo</strong></span></p><p class="" style="white-space:pre-wrap;">The Internet Archive, a non-profit organization based in San Francisco, has been an immensely valuable resource for genealogy researchers, including myself, for decades. I refer to it for finding local town histories, city directories, and biographies - most of which are out of print and not available elsewhere. I also utilize their Wayback Machine to reference broken links to older internet pages that no longer exist, but have been preserved by the Archive.&nbsp; All of these sources are a beacon of truth in a world where it’s getting harder and harder to distinguish fact from fiction, especially online. </p><p class="" style="white-space:pre-wrap;">For the past three years the Internet Archive battled against several book publishers, over licensing fees and copyright issues with their lending library programs, including one launched during the pandemic called the “National Emergency Library”.  The case is called <em>Hachette Book Group, Inc. v. Internet Archive, </em>and though litigation started back in 2020, the lawyers were able to argue their cases in front of a New York federal judge a few days ago. A judgement came back on the 24th - which I’ll get to shortly. </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1679785007954_50074"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1200px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:52.499996185302734%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/e758ff78-4b85-4d42-b927-40c6db846b0c/Digital+Libraries+are+the+Future.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/e758ff78-4b85-4d42-b927-40c6db846b0c/Digital+Libraries+are+the+Future.png" data-image-dimensions="1200x630" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/e758ff78-4b85-4d42-b927-40c6db846b0c/Digital+Libraries+are+the+Future.png" width="1200" height="630" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/e758ff78-4b85-4d42-b927-40c6db846b0c/Digital+Libraries+are+the+Future.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/e758ff78-4b85-4d42-b927-40c6db846b0c/Digital+Libraries+are+the+Future.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/e758ff78-4b85-4d42-b927-40c6db846b0c/Digital+Libraries+are+the+Future.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/e758ff78-4b85-4d42-b927-40c6db846b0c/Digital+Libraries+are+the+Future.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/e758ff78-4b85-4d42-b927-40c6db846b0c/Digital+Libraries+are+the+Future.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/e758ff78-4b85-4d42-b927-40c6db846b0c/Digital+Libraries+are+the+Future.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/e758ff78-4b85-4d42-b927-40c6db846b0c/Digital+Libraries+are+the+Future.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption data-sqsp-image-classic-block-caption-container class="image-caption-wrapper">
+            <div class="image-caption"><p class="" style="white-space:pre-wrap;"><em>(The above graphic was created with Canva’s new text to image AI generator - so fun!)</em>  </p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1679785364519_3592"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">For almost 27 years, the Internet Archive (“IA”), founded by Brewster Kahle, has had the mission to “provide Universal Access to All Knowledge” by creating a digital history of our society through archiving the internet, literary works, and many forms of multimedia. There’s over 735 billion web pages, 41 million books and texts, 14.7 million audio recordings, 8.4 million videos, 4.4 million images, and 890k software programs (<a href="https://archive.org/about/" target="_blank">archive.org</a>). The Archive works with the Smithsonian, the Library of Congress, and many other libraries and universities in the world to maintain unique digital collections. Their website states they currently “scan 4,300 books per day in 18 locations around the world”, working hard to provide everyone - including those with print disabilities - free access to their digital library.&nbsp; </p><p class="" style="white-space:pre-wrap;">While books published before 1924 and those in the public domain can be downloaded, newer books can be borrowed. In 2011, the Archive started a lending program through its “<a href="https://openlibrary.org" target="_blank">Open Library</a>” that allows a single user to digitally check out a scanned book. This “Controlled Digital Lending (CDL) initiative allows one person to check out the digital copy of each scanned book. The idea is that the purchased physical book is being lent in digital form but no extra copies are being lent” (Claburn). In other words, the Internet Archive has in its possession a physical copy of a book, which it has scanned, and allows one person at a time to access it digitally, for free.&nbsp;I believe users can currently have up to 10 checked-out books at a time.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1679812313548_6135" id="block-yui_3_17_2_1_1679812313548_6135"><div class="sqs-block-content">
+  
+
+<div
+  class="sqs-code-container"
+  
+  
+    data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}"
+  
+  
+  
+  
+>
+  
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8442952758105071"
+     crossorigin="anonymous"></script>
+<!-- internetarchive1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8442952758105071"
+     data-ad-slot="4779160095"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
+  
+
+
+
+</div>
+
+<style class="transform-overrides-vars">
+  
+</style>
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1679812313548_6201"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">Many libraries today operate in a similar manner with their digital lending and e-book programs, though your local library has licensing restrictions that may limit things like how often the book can be checked out, or how long they can have the e-book in circulation.&nbsp;Your local library (unless they worked with the IA), paid publishers for the right to distribute e-books to their patrons.  &nbsp; </p><p class="" style="white-space:pre-wrap;">During the pandemic lockdown, when libraries across the country closed for health reasons, the Archive removed the one person at a time restriction in the CDL by declaring a temporary “National Emergency Library” and providing digital copies for anyone to borrow from their homes. In addition to the millions of public domain books offered, the Emergency Library program also allowed authors to opt-in by donating their books for readers, or opt-out if they requested it. This National Emergency Library program ended in June of 2020 - but it was enough to ruffle the feathers of publishers whom seemed to have looked the other way since 2011. </p><p class="" style="white-space:pre-wrap;">The same summer in 2020, four book publishers: Hachette Book Group, HarperCollins Publishers, John Wiley &amp; Sons, and Penguin Random House, filed a lawsuit over this digital lending, claiming copyright infringement and financial harm.&nbsp; Oral arguments in this case, <em>Hachette v. Internet Archive</em>, were heard this past Monday, the 20th of March, three years later. </p><p class="" style="white-space:pre-wrap;"><strong>The Archive did not pay licensing fees to the book publishers for this National Emergency Library program, which allowed multiple people to check out a book at the same time, or their Open Library lending program.</strong> The court complaint states “without any license or any payment to authors or publishers, IA scans print books, uploads these illegally scanned books to its servers, and distributes verbatim digital copies of the books <em>in whole</em> via public-facing websites” (see link below for full text). These were books that the Archive had at least one physical copy in their possession, and had scanned into their digital library. “The central question in the case, as summarized during oral arguments by Judge John Koeltl, is: does a library have the right to make a copy of a book that it otherwise owns and then lend the ebook it has made without a license from the publisher to patrons of the library?” (Claburn)</p><p class="" style="white-space:pre-wrap;"><br><br></p><p class="" style="white-space:pre-wrap;">View a transcript of the whole complaint, filed in 2020: <a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.537900/gov.uscourts.nysd.537900.1.0_1.pdf"><span style="text-decoration:underline">https://storage.courtlistener.com/recap/gov.uscourts.nysd.537900/gov.uscourts.nysd.537900.1.0_1.pdf</span></a></p><p class="" style="white-space:pre-wrap;"><br><br></p><p class="" style="white-space:pre-wrap;">Defendant’s answer:&nbsp; <a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.537900/gov.uscourts.nysd.537900.33.0_1.pdf"><span style="text-decoration:underline">https://storage.courtlistener.com/recap/gov.uscourts.nysd.537900/gov.uscourts.nysd.537900.33.0_1.pdf</span></a></p><p class="" style="white-space:pre-wrap;"><br>Publishers claimed a financial loss from the Archive’s lending programs, but the lawyer for the Internet Archive, “Joseph Gratz, argued that the Open Library’s digitization of physical books is fair use, and publishers have yet to show they’ve been harmed by IA’s digital lending” (Belanger). Additionally, a recent <em>Ars Technica</em> article points out that “during this same time, however, the book publishing industry experienced so much demand that revenues rose by 12 percent, amounting to a $3 billion spike in sales by 2021…” (Belanger). </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1679812313548_4890" id="block-yui_3_17_2_1_1679812313548_4890"><div class="sqs-block-content">
+  
+
+<div
+  class="sqs-code-container"
+  
+  
+    data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}"
+  
+  
+  
+  
+>
+  
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8442952758105071"
+     crossorigin="anonymous"></script>
+<!-- internetarchive1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8442952758105071"
+     data-ad-slot="4779160095"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
+  
+
+
+
+</div>
+
+<style class="transform-overrides-vars">
+  
+</style>
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1679812313548_5020"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">The pandemic was no doubt a profitable time for book publishers - yet they argue they could have made more. The book publisher’s lawyer, Elizabeth McNamara, “seemed to suggest that publishers would have been further enriched if not for IA providing unprecedented free, unlimited e-books access. She also told Koeltl that publishers suing - Hachette, HarperCollins, Penguin Random House, and Wiley - are concerned that there are already some libraries avoiding paying e-book licensing fees by partnering with IA and making their own copies. If the court sanctioned IA’s digitization practices and thousands of libraries started digitizing the books in their collections, the entire e-book licensing market would collapse” (Belanger).</p><p class="" style="white-space:pre-wrap;">To be fair, I might side with the book publishers views on the licensing fee issue - but I’m very worried what the outcome of this case might mean for the future of the Internet Archive and similar digital libraries. It’s easy to see the book publishers as a bit greedy here, but should they allow libraries to make and distribute copies of their books?  Does current copyright law protect digital libraries? What about in the case of a national emergency, like a pandemic?  </p><p class="" style="white-space:pre-wrap;">The Internet Archive feared the worst, as founder Brewster Kahle wrote: “It’s not fair to assume that other libraries will take on the IA’s role or repository if there is a judgment against them, as “the publishers are now demanding that those millions of digitized books, not only be made inaccessible, but be destroyed. This is horrendous. Let me say it again - the publishers are demanding that millions of digitized books be destroyed…And if they success in destroying our books or even making many of them inaccessible, there will be a chilling effect on the hundreds of other libraries that lend digitized books as we do.” (Claburn, quoting Kahle).</p><p class="" style="white-space:pre-wrap;">The court case does state that “the Internet Archive provides a number of services not at issue in this action, including its Wayback Machine and digitization of public domain materials” so we don’t have to worry about that at the moment.  </p><p class="" style="white-space:pre-wrap;">According to the Internet Archives defendant response, they mention <strong>“all of the works at issue in this case have been removed from the Internet Archive’s websites</strong>” back in 2020. I assume this means they have retained the physical copies, and digital scans, but have removed them for public display and from the lending program. </p><p class="" style="white-space:pre-wrap;">It’s not the first such case where digital libraries have come under fire. Past related litagtions include: <em>Authors Guild v. Google; McGraw-Hill v. Google; </em>and <em>Authors Guild v. HathiTrust</em>. If you’re interested in reading more, I found the following article by Argyri Panezi found in the <em>Cornell Journal of Law and Public Policy</em> does a good job summarizing these past cases and details of the copyright issues: <a href="https://community.lawschool.cornell.edu/wp-content/uploads/2022/07/Panezi-final-1.pdf"><span style="text-decoration:underline">https://community.lawschool.cornell.edu/wp-content/uploads/2022/07/Panezi-final-1.pdf</span></a></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>The Judgement</strong></span></p><p class="" style="white-space:pre-wrap;">With a loss for the Archive, “after three years of litigation Koeltl easily found for the publishers, holding that the Internet Archive’s scanning and lending clearly constituted a prima facie case of copyright infringement and that the Internet Archive’s fair use defense failed on the facts and the law” (Anderson). This detailed <a href="https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/91862-in-a-swift-decision-judge-eviscerates-internet-archive-s-scanning-and-lending-program.html" target="_blank">Publishers Weekly article</a> explains Judge Koeltl’s reasoning. </p><p class="" style="white-space:pre-wrap;">Furthermore, the Judgement says “IA’s wholesale copying and unauthorized lending of digital copies of the publishers’ print books does not transform the use of the books, and IA profits from exploiting the copyrighted material without paying the customary price” (Anderson). </p><p class="" style="white-space:pre-wrap;"> View the full Judge’s opinion and Order, as of 24 March 2023: </p><p class="" style="white-space:pre-wrap;"><a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.537900/gov.uscourts.nysd.537900.188.0.pdf">https://storage.courtlistener.com/recap/gov.uscourts.nysd.537900/gov.uscourts.nysd.537900.188.0.pdf</a> </p><p class="" style="white-space:pre-wrap;">So what does all this mean for the future of the Internet Archive?</p><p class="" style="white-space:pre-wrap;">Within the order, it states that “IA remains entitled to scan and distribute the many public domain books in its collection...It also may use its scans of the Works in Suit, or other works in its collection, in a manner consistent with the uses deemed to be fair in Google Books and HathiTrust” (pg 45, link above). <strong>While this means the digital scans stored at Internet Archive likely won’t be destroyed, some of your search results for books not in the public domain may soon be limited to “preview” only sections, or even less: indexed titles. </strong> </p><p class="" style="white-space:pre-wrap;">A statement from the Internet Archive founder, Brewster Kahle, reads: </p><p class="" style="white-space:pre-wrap;">“Libraries are more than the customer service departments for corporate database products. For democracy to thrive at global scale, libraries must be able to sustain their historic role in society - owning, preserving, and lending books. </p><p class="" style="white-space:pre-wrap;">This ruling is a blow for libraries, readers, and authors and we plan to appeal it” (<a href="https://blog.archive.org/2023/03/25/the-fight-continues/" target="_blank">blog.archive.org</a>). </p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">While it is too late to make a difference in this case, there are still some things you can do: </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Read the <a href="https://blog.archive.org" target="_blank">Internet Archive Blog</a>, especially,<a href="http://blog.archive.org/2020/06/14/how-can-you-help-the-internet-archive/" target="_blank"> “How Can You Help the Internet Archive?”</a> reposted from 2020.</p></li></ul><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Sign up for the <a href="https://empoweringlibraries.org/get-involved/" target="_blank">Internet Archive’s Empowering Libraries newsletter</a></p></li><li><p class="" style="white-space:pre-wrap;">Follow the Internet Archive (<a href="https://www.bing.com/ck/a?%21&amp;fclid=135fc31d-56c2-6cd5-0983-cdd2578e6d19&amp;hsh=3&amp;ntb=1&amp;p=336e8d9d0b5b163aJmltdHM9MTY3OTcwMjQwMCZpZ3VpZD0xMzVmYzMxZC01NmMyLTZjZDUtMDk4My1jZGQyNTc4ZTZkMTkmaW5zaWQ9NTIwNQ&amp;psq=internet%20archive%20twitter&amp;ptn=3&amp;u=a1aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlcm5ldGFyY2hpdmU" target="_blank">@InternetArchive</a>) and Brewster Kahle (<a href="https://www.bing.com/ck/a?%21&amp;fclid=135fc31d-56c2-6cd5-0983-cdd2578e6d19&amp;hsh=3&amp;ntb=1&amp;p=bf45f35625c0e36eJmltdHM9MTY3OTcwMjQwMCZpZ3VpZD0xMzVmYzMxZC01NmMyLTZjZDUtMDk4My1jZGQyNTc4ZTZkMTkmaW5zaWQ9NTE5NQ&amp;psq=brewster%20kahle%20twitter&amp;ptn=3&amp;u=a1aHR0cHM6Ly90d2l0dGVyLmNvbS9icmV3c3Rlcl9rYWhsZQ" target="_blank">@Brewster_Kahle</a>) on Twitter</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>Sources and Further Reading:</strong></span></p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Albanese, Andrew. “In a Swift Decision, Judge Eviscerates Internet Archive’s Scanning and Lending Program”. Publishers Weekly, 25 March 2023. <a href="https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/91862-in-a-swift-decision-judge-eviscerates-internet-archive-s-scanning-and-lending-program.html">https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/91862-in-a-swift-decision-judge-eviscerates-internet-archive-s-scanning-and-lending-program.html</a> </p></li><li><p class="" style="white-space:pre-wrap;">Italie, Hillel. “Judge rules online archive’s book service violated copyright” AP News. 24 March 2023. <a href="https://apnews.com/article/books-and-literature-manhattan-john-g-koeltl-business-0674119646bd920492f87490e8d2027b">https://apnews.com/article/books-and-literature-manhattan-john-g-koeltl-business-0674119646bd920492f87490e8d2027b</a> </p></li><li><p class="" style="white-space:pre-wrap;">Belanger, Ashley. “Book publishers with surging profits struggle to prove Internet Archive hurt sales” 20 March 2023. <a href="https://arstechnica.com/tech-policy/2023/03/book-publishers-with-surging-profits-struggle-to-prove-internet-archive-hurt-sales/"><span style="text-decoration:underline">https://arstechnica.com/tech-policy/2023/03/book-publishers-with-surging-profits-struggle-to-prove-internet-archive-hurt-sales/</span></a></p></li><li><p class="" style="white-space:pre-wrap;">Claburn, Thomas. “How the Internet Archive faces potential destruction at the hands of publishers” 20 Mar 2023. <a href="https://www.theregister.com/2023/03/20/internet_archive_lawsuit_latest/"><span style="text-decoration:underline">https://www.theregister.com/2023/03/20/internet_archive_lawsuit_latest/</span></a></p></li><li><p class="" style="white-space:pre-wrap;">Panezi, Argyri. “A Public Service Role for Digital Libraries: A Case of Emergency Electronic Access to Library Material and the Unequal Battle Against Misinformation through Copyright Law Reform”. Cornell Journal of Law and Public Policy; Vol. 31: 65. <a href="https://community.lawschool.cornell.edu/wp-content/uploads/2022/07/Panezi-final-1.pdf"><span style="text-decoration:underline">https://community.lawschool.cornell.edu/wp-content/uploads/2022/07/Panezi-final-1.pdf</span></a></p></li><li><p class="" style="white-space:pre-wrap;">(Also see court records linked above)</p></li></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>

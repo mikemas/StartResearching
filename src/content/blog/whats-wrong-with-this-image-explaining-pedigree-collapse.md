@@ -1,0 +1,252 @@
+---
+title: "What's Wrong with This Image? Explaining \"Pedigree Collapse\" and \"Endogamy\""
+pubDate: 2022-01-15
+description: "Have you seen this graphic, or some version of it, floating around social media? It\u2019s called \u201cAncestral Mathematics\u201d, and says \u201cfor you to be born today from 11"
+canonicalUrl: "https://www.startresearching.com/blog/whats-wrong-with-this-image-explaining-pedigree-collapse"
+
+---
+
+<div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1642215980832" id="item-61e238a4b0a6b3288a573fcb"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-3e09519f8f7f216a91d5"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">Have you seen this graphic, or some version of it, floating around social media?  It’s called “Ancestral Mathematics”, and says “for you to be born today from 11 previous generations, you needed a total of 4,094 ancestors over the last 400 years”.  Chances are very high this math is not correct for your own family history, and here’s why… </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1642215149048_50520"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1200px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:52.33333206176758%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/4c9efd4f-b74c-4ea8-b89e-7bb8e5cf9a03/Copy+of+Add+a+heading+%281%29.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/4c9efd4f-b74c-4ea8-b89e-7bb8e5cf9a03/Copy+of+Add+a+heading+%281%29.png" data-image-dimensions="1200x628" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/4c9efd4f-b74c-4ea8-b89e-7bb8e5cf9a03/Copy+of+Add+a+heading+%281%29.png" width="1200" height="628" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/4c9efd4f-b74c-4ea8-b89e-7bb8e5cf9a03/Copy+of+Add+a+heading+%281%29.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/4c9efd4f-b74c-4ea8-b89e-7bb8e5cf9a03/Copy+of+Add+a+heading+%281%29.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/4c9efd4f-b74c-4ea8-b89e-7bb8e5cf9a03/Copy+of+Add+a+heading+%281%29.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/4c9efd4f-b74c-4ea8-b89e-7bb8e5cf9a03/Copy+of+Add+a+heading+%281%29.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/4c9efd4f-b74c-4ea8-b89e-7bb8e5cf9a03/Copy+of+Add+a+heading+%281%29.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/4c9efd4f-b74c-4ea8-b89e-7bb8e5cf9a03/Copy+of+Add+a+heading+%281%29.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/4c9efd4f-b74c-4ea8-b89e-7bb8e5cf9a03/Copy+of+Add+a+heading+%281%29.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1642215983475_2850"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">While we all imagine our family tree to be a large inverted triangle - starting small at the bottom with us and our parents and grandparents and growing wider and wider as you back each generation, the more likely reality is that the inverted triangle shape is somewhat distorted by some of your ancestors showing up in more than one place on the tree. </p><p class="" style="white-space:pre-wrap;">This is called <strong>“pedigree collapse”</strong>, when the same person shows up in a direct line more than once, when two genetically related people have a child, like a first cousin marriage, second cousin marriage, and so on. Two first cousins would share a set of grandparents (so instead of you having 8 great-grandparents, if these first-cousins were two of your grandparents, you would only have 6 great-grandparents). </p><p class="" style="white-space:pre-wrap;">Mathematically, it would be impossible for you NOT to have pedigree collapse at some point in your lineage, as “the number of individuals in such a tree grows exponentially and will eventually become impossibly high. For example, a single individual alive today would, over 30 generations going back to the High Middle Ages, have roughly a billion ancestors, more than the total world population at the time” (International Society of Genetical Genealogy Wiki).</p><p class="" style="white-space:pre-wrap;">This term, “pedigree collapse”, was coined by Robert C. Gunderson of the Genealogical Society of Utah, during his presentation on noble lineage at a genealogical conference, in the year 1980 (<a href="https://en.wikipedia.org/wiki/Robert_C._Gunderson">wikipedia</a>).</p><p class="" style="white-space:pre-wrap;">In addition to pedigree collapse within your direct, genetic lineage, you likely have other ancestors show up more than once in your extended tree. For example, a pair of brothers might marry a pair of sisters, causing some collapse in your tree but not affecting your direct bloodline. </p><p class="" style="white-space:pre-wrap;">There is also mathematical evidence, due to population amounts, that there was often more than one type of cousin relationship between a married couple. They could be both second and fourth cousins, for example. </p><p class="" style="white-space:pre-wrap;">When pedigree collapse happens over and over again throughout generations, we call it “<strong>endogamy</strong>”. When there is mostly marrying within the same community over many generations, endogamy occurs. </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1642267122578_47964" id="block-yui_3_17_2_1_1642267122578_47964"><div class="sqs-block-content">
+  
+
+<div
+  class="sqs-code-container"
+  
+  
+    data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}"
+  
+  
+  
+  
+>
+  
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8442952758105071"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8442952758105071"
+     data-ad-slot="5547272356"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
+  
+
+
+
+</div>
+
+<style class="transform-overrides-vars">
+  
+</style>
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1642267122578_48045"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">Reasons for endogamy in a population may include:</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">geographic isolation, like a group of people confined on an island</p></li><li><p class="" style="white-space:pre-wrap;">limited means of travel for a population resulting in a closer pool of potential partners</p></li><li><p class="" style="white-space:pre-wrap;">cultural, social, or religious customs encouraging marriage within the group</p></li><li><p class="" style="white-space:pre-wrap;">forced isolation of a group resulting in limited pool of partners</p></li><li><p class="" style="white-space:pre-wrap;">legal restrictions in a society on marriage</p></li><li><p class="" style="white-space:pre-wrap;">a smaller group of potential partners due to a limited population</p></li></ul><p class="" style="white-space:pre-wrap;">Both pedigree collapse and endogamy have huge genetic impacts on descendants. A limited gene pool is not great for health. There is a higher risk of inheriting recessive genetic disorders, a higher chance of miscarriages and infertility, and greater likelihood of birth defects, relative to the degree of relationship - with a greater risk in offspring the more closely related the parents are to each other.</p><p class="" style="white-space:pre-wrap;">Both pedigree collapse and endogamy can mess with DNA testing results as well, possibly showing a higher percentage DNA match due to more inherited shared DNA, and making the tester think there is a closer genetic match than there really is. For this reason DNA testing companies weigh results from certain populations differently.</p><p class="" style="white-space:pre-wrap;">It is also because of pedigree collapse that the further you go back in time and generations, the more common ancestors we all share. </p><p class="" style="white-space:pre-wrap;">Other terms you may come across when studying these two things are <strong>consanguinity</strong>, meaning biological relationship, and <strong>coefficient of relationship, </strong>or the degree of consanguinity. </p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline">Sources / Further Research: </span></p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">“Pedigree Collapse”, <em>International Society of Genetic Genealogy Wiki</em> (https://isogg.org/wiki/Pedigree_collapse)</p></li><li><p class="" style="white-space:pre-wrap;">Woodbury, Paul. “Dealing with Endogamy, Part I: Exploring Amounts of Shared DNA” <em>LegacyTree Genealogists. </em>17 Oct 2016.<em> (</em>https://www.legacytree.com/blog/dealing-endogamy-part-exploring-amounts-shared-dna)</p></li><li><p class="" style="white-space:pre-wrap;">“Robert C. Gunderson”, <em>Wikipedia</em> (https://en.wikipedia.org/wiki/Robert_C._Gunderson)</p></li><li><p class="" style="white-space:pre-wrap;">Southard, Diahan. “Endogamy v Pedigree Collapse | DNA Matches”, <em>Your DNA Guide.</em> 22 July 2021.<em> </em>(https://www.yourdnaguide.com/ydgblog/pedigree-collapse-v-endogamy).</p></li><li><p class="" style="white-space:pre-wrap;">“What’s the Difference Between Pedigree Collapse and Endogamy?” <em>DNA Explained</em>. 23 July 2021. (https://dna-explained.com/2021/07/23/whats-the-difference-between-pedigree-collapse-and-endogamy/).</p></li></ul><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><br></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div></div></div>

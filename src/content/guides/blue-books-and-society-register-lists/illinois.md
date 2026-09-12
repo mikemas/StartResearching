@@ -1,0 +1,79 @@
+---
+title: "Blue Books &amp; Society Lists: Illinois"
+description: "Blue Book of the State of Illinois, 1903 - Internet Archive Blue Book of the State of Illinois, 1905 - Internet Archive Chicago Social and Club Register, 1921 ("
+canonicalUrl: "https://www.startresearching.com/blue-books-and-society-register-lists/illinois"
+
+---
+
+<div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1631326087586" id="item-613c0f692e6f8b39bc2d2af1"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-b844c805165dc91afd1e"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/bluebookstateil01statgoog"><span style="text-decoration:underline">Blue Book of the State of Illinois, 1903</span></a> - Internet Archive</p></li></ul><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/bluebookstateil00statgoog/page/n10/mode/2up"><span style="text-decoration:underline">Blue Book of the State of Illinois, 1905 </span></a>- Internet Archive</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/chicagosocialclu00chic/page/n7/mode/2up"><span style="text-decoration:underline">Chicago Social and Club Register, 1921 (Prominent Women)</span></a> - Internet Archive</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/coloredpeoplesbl1905beth"><span style="text-decoration:underline">Colored People’s Blue Book and Business Directory of Chicao, Ill</span></a>, 1905 - Internet Archive</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/socialregisterch22newy/page/n3/mode/2up"><span style="text-decoration:underline">Chicago Social Register, 1921</span></a> - Internet Archive</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/herringshawscity00herr"><span style="text-decoration:underline">Herringshaw’s City Blue Book of Biography: Chicagoans of 1916</span></a> - Internet Archive</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/herringshawscity1919herr/page/n5/mode/2up"><span style="text-decoration:underline">Herringshaw’s City Blue Book of Biography: Chicagoans of 1919</span></a> - Internet Archive</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/peoriaoftodaywit1915rich"><span style="text-decoration:underline">Peoria of To-Day with Peoria Blue Book Directory, 1915</span></a> - Internet Archive</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/socialregisterch07newy/page/n5/mode/2up"><span style="text-decoration:underline">Social Register, Chicago, 1899</span></a> - Internet Archive</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://hdl.handle.net/2027/uiuo.ark:/13960/t1dj5b63g"><span style="text-decoration:underline">Social Register, Chicago, 1899 - 1907</span></a> - HathiTrust Digital Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://hdl.handle.net/2027/ien.35556028483162"><span style="text-decoration:underline">Social Register, Chicago, 1906 (November 1905)</span></a> - HathiTrust Digital Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/socialregisterch08newy"><span style="text-decoration:underline">Social Register, Chicago, 1908</span></a> - Internet Archive</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://hdl.handle.net/2027/hvd.hn4hq3"><span style="text-decoration:underline">Social Register, Chicago, 1909</span></a> - HathiTrust Digital Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://hdl.handle.net/2027/hvd.hn4hq4"><span style="text-decoration:underline">Social Register, Chicago, 1910</span></a> - HathiTrust Digital Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://hdl.handle.net/2027/hvd.hn4hq5"><span style="text-decoration:underline">Social Register, Chicago, 1911</span></a> - HathiTrust Digital Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/socialregisterch12newy"><span style="text-decoration:underline">Social Register, Chicago, 1912</span></a> - Internet Archive</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://hdl.handle.net/2027/hvd.hn4hq8"><span style="text-decoration:underline">Social Register, Chicago, 1914</span></a> - HathiTrust Digital Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://hdl.handle.net/2027/hvd.hn4hqa"><span style="text-decoration:underline">Social Register, Chicago, 1916</span></a> - HathiTrust Digital Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://hdl.handle.net/2027/uiuo.ark:/13960/t8gf0q288"><span style="text-decoration:underline">Social Register, Chicago, 1922 (November 1921)</span></a> - HathiTrust Digital Library</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/chicagobluebooko1890chic"><span style="text-decoration:underline">The Chicago Blue Book of Selected Names of Chicago and Suburban Towns for the Year Ending 1890</span></a> - Internet Archive</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/chicagobluebooko1891chic"><span style="text-decoration:underline">The Chicago Blue Book of Selected Names of Chicago and Suburban Towns for the Year Ending 1891</span></a> - Internet Archive</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/chicagobluebooko1892chic"><span style="text-decoration:underline">The Chicago Blue Book of Selected Names of Chicago and Suburban Towns for the Year Ending 1892</span></a> - Internet Archive</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/chicagobluebooko1893chic"><span style="text-decoration:underline">The Chicago Blue Book of Selected Names of Chicago and Suburban Towns for the Year Ending 1893</span></a> - Internet Archive</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/chicagobluebooko1894chic"><span style="text-decoration:underline">The Chicago Blue Book of Selected Names of Chicago and Suburban Towns for the Year Ending 1894</span></a> - Internet Archive</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/chicagobluebooko1895chic"><span style="text-decoration:underline">The Chicago Blue Book of Selected Names of Chicago and Suburban Towns for the Year Ending in 1895</span></a> - Internet Archive</p></li><li><p class="" style="white-space:pre-wrap;">(1896 missing)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/chicagobluebooko1897chic"><span style="text-decoration:underline">The Chicago Blue Book of Selected Names of Chicago and Suburban Towns for the Year Ending 1897</span></a> - Internet Archive</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/chicagobluebooko1898chic"><span style="text-decoration:underline">The Chicago Blue Book of Selected Names of Chicago and Suburban Towns for the Year Ending 1898</span></a> - Internet Archive</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/chicagobluebooko00unse"><span style="text-decoration:underline">The Chicago Blue Book of Selected Names of Chicago and Suburban Towns for the Year Ending 1899</span></a> - Internet Archive</p></li><li><p class="" style="white-space:pre-wrap;">(1900 missing)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/chicagobluebooko1901chic"><span style="text-decoration:underline">The Chicago Blue Book of Selected Names of Chicago and Suburban Towns for the Year Ending 1901</span></a> - Internet Archive</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/chicagobluebooko1902chic"><span style="text-decoration:underline">The Chicago Blue Book of Selected Names of Chicago and Suburban Towns for the Year Ending 1902</span></a> - Internet Archive</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/chicagobluebooko1903chic"><span style="text-decoration:underline">The Chicago Blue Book of Selected Names of Chicago and Suburban Towns for the Year Ending 1903</span></a> - Internet Archive</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/chicagobluebooko1904chic"><span style="text-decoration:underline">The Chicago Blue Book of Selected Names of Chicago and Suburban Towns for the Year Ending 1904</span></a> - Internet Archive&nbsp;</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/chicagobluebooko1905chic"><span style="text-decoration:underline">The Chicago Blue Book of Selected Names of Chicago and Suburban Towns for the Year Ending 1905 </span></a>- Internet Archive</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/chicagobluebooko1906chic"><span style="text-decoration:underline">The Chicago Blue Book of Selected Names of Chicago and Suburban Towns for the Year Ending 1906 </span></a>- Internet Archive</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/chicagobluebooko1907chic"><span style="text-decoration:underline">The Chicago Blue Book of Selected Names of Chicago and Suburban Towns for the Year Ending 1907</span></a> - Internet Archive</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/chicagobluebooko1908chic"><span style="text-decoration:underline">The Chicago Blue Book of Selected Names of Chicago and Suburban Towns for the Year Ending 1908</span></a> - Internet Archive</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/chicagobluebooko1909chic"><span style="text-decoration:underline">The Chicago Blue Book of Selected Names of Chicago and Suburban Towns for the Year Ending 1909</span></a> - Internet Archive</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/chicagobluebooko1910chic"><span style="text-decoration:underline">The Chicago Blue Book of Selected Names of Chicago and Suburban Towns for the Year Ending 1910</span></a> - Internet Archive</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/chicagobluebooko1911chic"><span style="text-decoration:underline">The Chicago Blue Book of Selected Names of Chicago and Suburban Towns for the Year Ending 1911</span></a> - Internet Archive</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/chicagobluebooko1912chic"><span style="text-decoration:underline">The Chicago Blue Book of Selected Names of Chicago and Suburban Towns for the Year Ending 1912</span></a> - Internet Archive</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/chicagobluebooko1913chic"><span style="text-decoration:underline">The Chicago Blue Book of Selected Names of Chicago and Suburban Towns for the Year Ending 1913</span></a> - Internet Archive</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/chicagobluebooko1914chic"><span style="text-decoration:underline">The Chicago Blue Book of Selected Names of Chicago and Suburban Towns for the Year Ending 1914 </span></a>- Internet Archive</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/chicagobluebooko1915chic"><span style="text-decoration:underline">The Chicago Blue Book of Selected Names of Chicago and Suburban Towns for the Year Ending&nbsp; 1915</span></a> - Internet Archive&nbsp;</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/chicagojewishcom00sent/mode/2up"><span style="text-decoration:underline">The Chicago Jewish Community Blue Book, abt 1918</span></a> - Internet Archive</p></li></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-horizontalrule horizontalrule-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.horizontalrule/1c8ea4ed-0373-4f0a-9bb4-2cc767e044eb_271/website.components.horizontalrule.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.horizontalrule/1c8ea4ed-0373-4f0a-9bb4-2cc767e044eb_271/website.components.horizontalrule.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.horizontalrule" data-sqsp-block="line" data-website-component-id="yui_3_17_2_1_1631325496156_477265" id="block-yui_3_17_2_1_1631325496156_477265"><div class="sqs-block-content">
+  
+
+
+<div>
+  <hr />
+  
+    <style class="transform-overrides-vars">
+  
+</style>
+
+    
+
+
+
+  
+</div>
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1631325496156_477682"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;"><a href="/blue-books-and-society-register-lists/california">California</a> - Illinois - <a href="/blue-books-and-society-register-lists/maryland">Maryland </a>- <a href="/blue-books-and-society-register-lists/massachusetts">Massachusetts</a> - <a href="/blue-books-and-society-register-lists/missouri">Missouri</a> -  <a href="/blue-books-and-society-register-lists/new-york">New York</a> - <a href="/blue-books-and-society-register-lists/ohio">Ohio </a>-  <a href="/blue-books-and-society-register-lists/pennsylvania">Pennsylvania</a></p><p class="" style="white-space:pre-wrap;"><a href="/blue-books-and-society-register-lists/all-other-states">All Other States (including Alabama, Colorado, Connecticut, Florida, Indiana, Iowa, Louisiana, Michigan, New Jersey, North Carolina, Oklahoma, Oregon, Rhode Island, Texas, Washington State, Washington D.C., Wisconsin)</a></p><p class="" style="white-space:pre-wrap;"><a href="/blue-books-and-society-register-lists/national-or-multiple-states">National or Multiple States (including the Summer Social Register and others)</a></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;"><a href="/records">Records</a> &gt; <a href="/blue-books-and-society-register-lists/blue-books-and-society">Blue Books &amp; Society Lists</a></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div></div></div>

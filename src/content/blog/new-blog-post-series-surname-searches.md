@@ -1,0 +1,195 @@
+---
+title: "New blog post series: \"Surname Searches\" "
+pubDate: 2024-05-25
+description: "25 May, 2024 (Updated 11 July, 2024) by Sherri Mastrangelo There\u2019s a new blog post series on Start Researching, called \u201cSurname Search\u201d. Each post will feature "
+canonicalUrl: "https://www.startresearching.com/blog/new-blog-post-series-surname-searches"
+
+---
+
+<div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1716660508880" id="item-665228df61c4e376898205e2"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-b83ec1719f81bee06ef6"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>25 May, 2024 (Updated 11 July, 2024) by Sherri Mastrangelo</strong></span></p><p class="" style="white-space:pre-wrap;">There’s a new blog post series on Start Researching, called “Surname Search”.  Each post will feature a quick study of one surname at a time, providing links to resources available related to these surnames - found mostly online, but all available for free.  </p><p class="" style="white-space:pre-wrap;">The goals for these posts include: providing a singular location for researchers to connect with those interested in the same surnames; sharing resources that may be difficult to find; highlighting resources available to all; and preserving aging and decaying internet websites for future researchers.   </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1719010201113_346886"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:940px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:62.553192138671875%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/7fddf689-3d41-4027-956e-f44dbeda3753/new+series+of+posts+%28940+x+588+px%29+%2810%29.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/7fddf689-3d41-4027-956e-f44dbeda3753/new+series+of+posts+%28940+x+588+px%29+%2810%29.png" data-image-dimensions="940x588" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/7fddf689-3d41-4027-956e-f44dbeda3753/new+series+of+posts+%28940+x+588+px%29+%2810%29.png" width="940" height="588" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/7fddf689-3d41-4027-956e-f44dbeda3753/new+series+of+posts+%28940+x+588+px%29+%2810%29.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/7fddf689-3d41-4027-956e-f44dbeda3753/new+series+of+posts+%28940+x+588+px%29+%2810%29.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/7fddf689-3d41-4027-956e-f44dbeda3753/new+series+of+posts+%28940+x+588+px%29+%2810%29.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/7fddf689-3d41-4027-956e-f44dbeda3753/new+series+of+posts+%28940+x+588+px%29+%2810%29.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/7fddf689-3d41-4027-956e-f44dbeda3753/new+series+of+posts+%28940+x+588+px%29+%2810%29.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/7fddf689-3d41-4027-956e-f44dbeda3753/new+series+of+posts+%28940+x+588+px%29+%2810%29.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/7fddf689-3d41-4027-956e-f44dbeda3753/new+series+of+posts+%28940+x+588+px%29+%2810%29.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1719010201113_347304"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">Currently there are twenty-two surnames studied: </p><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"><a href="https://www.startresearching.com/surname-searches/surname-search-allen"><strong>Allen / Allan</strong></a></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.startresearching.com/surname-searches/surname-search-anderson"><strong>Anderson</strong></a></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.startresearching.com/surname-searches/surname-search-brown"><strong>Brown</strong></a><strong> </strong></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.startresearching.com/surname-searches/surname-search-clark" target="_blank"><strong>Clark</strong></a></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.startresearching.com/surname-searches/surname-search-davis" target="_blank"><strong>Davis</strong></a></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.startresearching.com/surname-searches/surname-search-evans"><strong>Evans</strong></a></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.startresearching.com/surname-searches/surname-search-gentry"><strong>Gentry</strong></a></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.startresearching.com/surname-searches/surname-search-hagard-or-haggard" target="_blank"><strong>Haggard</strong></a></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.startresearching.com/surname-searches/surname-search-hall"><strong>Hall</strong></a></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.startresearching.com/surname-searches/surname-search-hodge"><strong>Hodge / Hodges</strong></a></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.startresearching.com/surname-searches/surname-search-johnson"><strong>Johnson</strong></a><strong> </strong></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.startresearching.com/surname-searches/surname-search-jones"><strong>Jones</strong></a></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.startresearching.com/surname-searches/surname-search-kavanagh"><strong>Kavanagh / Cavanagh</strong></a></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.startresearching.com/surname-searches/surname-search-miller"><strong>Miller</strong></a></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.startresearching.com/surname-searches/surname-search-moore"><strong>Moore</strong></a></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.startresearching.com/surname-searches/surname-search-robinson"><strong>Robinson</strong></a></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.startresearching.com/surname-searches/surname-search-sharp"><strong>Sharp</strong></a></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.startresearching.com/surname-searches/surname-search-smith"><strong>Smith</strong></a></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.startresearching.com/surname-searches/surname-search-taylor"><strong>Taylor</strong></a></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.startresearching.com/surname-searches/surname-search-upham" target="_blank"><strong>Upham</strong></a> </p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.startresearching.com/surname-searches/surname-search-warren"><strong>Warren</strong></a></p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.startresearching.com/surname-searches/surname-search-wilson"><strong>Wilson</strong></a></p></li></ol><p class="" style="white-space:pre-wrap;">Our goal is to hit 100 by the end of summer! <br></p><p class="" style="white-space:pre-wrap;">The categories of these resource links are as follows:  </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Related surnames or alternate spellings</p></li><li><p class="" style="white-space:pre-wrap;">Notable ancestors</p></li><li><p class="" style="white-space:pre-wrap;">Genealogy websites</p></li><li><p class="" style="white-space:pre-wrap;">Message boards</p></li><li><p class="" style="white-space:pre-wrap;">Social media groups &amp; societies</p></li><li><p class="" style="white-space:pre-wrap;">Photographs</p></li><li><p class="" style="white-space:pre-wrap;">Local historical or genealogical society web clippings</p></li><li><p class="" style="white-space:pre-wrap;">Online news clippings or blog posts</p></li><li><p class="" style="white-space:pre-wrap;">Artifacts</p></li><li><p class="" style="white-space:pre-wrap;">Correspondence &amp; letters</p></li><li><p class="" style="white-space:pre-wrap;">Homes &amp; historical markers </p></li><li><p class="" style="white-space:pre-wrap;">Oral histories</p></li><li><p class="" style="white-space:pre-wrap;">Books (online &amp; in print)</p></li></ul><p class="" style="white-space:pre-wrap;"> A few categories, like Books (online &amp; in print), may refer to a work that is not available online, with the hopes you are able to find the material in other ways, like at your local library or used book store. </p><p class="" style="white-space:pre-wrap;">Also, the internet can be a fickle place. Occasionally links may reference sites that are no longer active, such as a family genealogy blog on rootsweb, and may instead include an archived link from the Wayback Machine. As I find these resources I archive them on the WBM as well, helping to preserve these resources for as long as the WBM is active. However, items found on auction sites like eBay may disappear when the listing is sold or removed.</p><p class="" style="white-space:pre-wrap;">Resource links are provided as a stepping stone to your own individual research, and are not vetted for accuracy or authenticity. </p><p class="" style="white-space:pre-wrap;">Please also remember that there are many individuals throughout time that share the same name, and possibly the same birth year or other attributes, and it is up to you to determine whether or not it is actually your ancestor. Not every ‘Jane Doe’ is your ‘Jane Doe’. </p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">What these posts are NOT: </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">No individual database records. No census records, vital records, newspaper records, etc. or links to such, from sites such as Ancestry.com or Findmypast.org.  </p></li><li><p class="" style="white-space:pre-wrap;">No links behind pay walls or anything that requires membership (other than an occasional registration with sites like FamilySearch.org to read an online book, for example). </p></li><li><p class="" style="white-space:pre-wrap;">No references to living individuals, to the best of our knowledge, for privacy.</p></li><li><p class="" style="white-space:pre-wrap;">No uploads of your research, family trees, or files (we will link to a public website of your work, however). </p></li><li><p class="" style="white-space:pre-wrap;">No research done within the blog post. </p></li><li><p class="" style="white-space:pre-wrap;">No database of surnames to search at this time. </p></li></ul><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">These posts will also be updated in real time when new information is available.  </p><p class="" style="white-space:pre-wrap;">Which surnames should be featured next? </p><p class="" style="white-space:pre-wrap;"> </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>

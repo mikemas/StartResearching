@@ -1,0 +1,379 @@
+---
+title: "Surname Search: \"Hall\""
+description: "See also: Allen | Anderson | Brown | Clark | Davis | Evans | Gentry | Haggard | Hodge | Johnson | Jones | Kavanagh / Cavanagh | Miller | Moore | Robinson | Shar"
+canonicalUrl: "https://www.startresearching.com/surname-searches/surname-search-hall"
+
+---
+
+<div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1720038745214" id="item-6685b4eaeb317053c83e9ec9"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-c69c294e1d328f4a12af"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">See also:<a href="https://www.startresearching.com/surname-searches/surname-search-allen"> Allen</a> | <a href="https://www.startresearching.com/surname-searches/surname-search-anderson" target="_blank">Anderson</a> |  <a href="https://www.startresearching.com/surname-searches/surname-search-brown">Brown</a> | <a href="https://www.startresearching.com/surname-searches/surname-search-clark">Clark </a>| <a href="https://www.startresearching.com/surname-searches/surname-search-davis">Davis</a> |<a href="https://www.startresearching.com/surname-searches/surname-search-evans" target="_blank"> Evans</a> | <a href="https://www.startresearching.com/surname-searches/surname-search-gentry" target="_blank">Gentry</a> | <a href="https://www.startresearching.com/surname-searches/surname-search-hagard-or-haggard">Haggard</a> | <a href="https://www.startresearching.com/surname-searches/surname-search-hodge" target="_blank">Hodge</a> |<a href="https://www.startresearching.com/surname-searches/surname-search-johnson"> Johnson</a> |<a href="https://www.startresearching.com/surname-searches/surname-search-jones"> Jones </a>| <a href="https://www.startresearching.com/surname-searches/surname-search-kavanagh">Kavanagh</a> / <a href="https://www.startresearching.com/surname-searches/surname-search-kavanagh">Cavanagh</a> | <a href="https://www.startresearching.com/surname-searches/surname-search-miller" target="_blank">Miller</a> | <a href="https://www.startresearching.com/surname-searches/surname-search-moore" target="_blank">Moore</a> | <a href="https://www.startresearching.com/surname-searches/surname-search-robinson" target="_blank">Robinson</a> | <a href="https://www.startresearching.com/surname-searches/surname-search-sharp" target="_blank">Sharp</a> | <a href="https://www.startresearching.com/surname-searches/surname-search-smith">Smith</a> | <a href="https://www.startresearching.com/surname-searches/surname-search-taylor" target="_blank">Taylor</a> | <a href="https://www.startresearching.com/surname-searches/surname-search-upham">Upham</a> | <a href="https://www.startresearching.com/surname-searches/surname-search-warren" target="_blank">Warren</a> | <a href="https://www.startresearching.com/surname-searches/surname-search-wilson">Wilson</a></p><p class="" style="white-space:pre-wrap;"><em>The goal of these surname search blog posts is to help you connect with other researchers interested in these surnames, and to find more information about your ancestors. Use the resources below as a stepping point to find credible sources, and remember: not every “Jane Doe” is your “Jane Doe”!  If you have information related to the Hall surname, or would like to reach out to fellow Hall genealogy researchers, leave a comment. Please do not share any information about those still living to respect privacy.</em> </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><h2 style="white-space:pre-wrap;"><strong>Hall</strong></h2><p class="" style="white-space:pre-wrap;"><strong>Related surnames or alternate spellings:</strong>  Holl</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div><div class="sqs-block gallery-block sqs-block-gallery" data-block-json="&#123;&quot;existingGallery&quot;:null,&quot;hSize&quot;:null,&quot;newWindow&quot;:false,&quot;floatDir&quot;:null,&quot;methodOption&quot;:&quot;transient&quot;,&quot;aspect-ratio&quot;:&quot;four-three&quot;,&quot;aspectRatio&quot;:null,&quot;auto-crop&quot;:true,&quot;blockAnimation&quot;:&quot;none&quot;,&quot;collectionId&quot;:&quot;668ebf287d943820e74fa8cf&quot;,&quot;design&quot;:&quot;grid&quot;,&quot;lightbox&quot;:true,&quot;lightboxTheme&quot;:&quot;dark&quot;,&quot;padding&quot;:0,&quot;show-meta&quot;:true,&quot;show-meta-basic&quot;:true,&quot;show-meta-only-title&quot;:false,&quot;show-meta-only-description&quot;:false,&quot;square-thumbs&quot;:true,&quot;thumbnails-per-row&quot;:6,&quot;vSize&quot;:null,&quot;transientGalleryId&quot;:&quot;668ebf287d943820e74fa8cf&quot;&#125;" data-block-type="8" data-sqsp-block="gallery" id="block-yui_3_17_2_1_1720558729187_122748"><div class="sqs-block-content">
+
+
+  
+
+  
+
+
+<div class="
+  sqs-gallery-container
+  sqs-gallery-block-grid
+  sqs-gallery-aspect-ratio-four-three
+  sqs-gallery-thumbnails-per-row-6
+  
+  
+
+  
+    
+    
+  
+  sqs-gallery-block-show-meta
+  
+  
+
+  
+  
+
+  
+  block-animation-none
+  clear"
+  
+  
+>
+  <div class="sqs-gallery">
+    
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    data-title="Hall Family"
+                    data-description="&lt;p&gt;circa 1930's. From the Fort Collins History Connection.&lt;/p&gt;"
+                    data-lightbox-theme="dark"
+                    href="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1720631080818-HASD8AWHLA32SAJBT131/hall+family.jpg"
+                    role="button"
+                  
+                  
+                    aria-label="Hall Family"
+                  
+                  class="
+                    image-slide-anchor
+                    
+                      js-gallery-lightbox-opener
+                    
+                    content-fill
+                  "
+                >
+                  
+                    <span class="v6-visually-hidden">View fullsize</span>
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1720631080818-HASD8AWHLA32SAJBT131/hall+family.jpg" alt="Hall Family" /></noscript><img class="thumb-image" elementtiming="system-gallery-block-grid" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1720631080818-HASD8AWHLA32SAJBT131/hall+family.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1720631080818-HASD8AWHLA32SAJBT131/hall+family.jpg" data-image-dimensions="755x540" data-image-focal-point="0.5,0.5" alt="Hall Family" data-load="false" data-image-id="668ebf282620044c04e551be" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    data-title="Willy Hall"
+                    data-description="&lt;p&gt;c. 1860. Library of Congress&lt;/p&gt;"
+                    data-lightbox-theme="dark"
+                    href="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1720631615273-LZ3Y0LY1U2EPJ9P78ZPN/willy.png"
+                    role="button"
+                  
+                  
+                    aria-label="Willy Hall"
+                  
+                  class="
+                    image-slide-anchor
+                    
+                      js-gallery-lightbox-opener
+                    
+                    content-fill
+                  "
+                >
+                  
+                    <span class="v6-visually-hidden">View fullsize</span>
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1720631615273-LZ3Y0LY1U2EPJ9P78ZPN/willy.png" alt="Willy Hall" /></noscript><img class="thumb-image" elementtiming="system-gallery-block-grid" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1720631615273-LZ3Y0LY1U2EPJ9P78ZPN/willy.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1720631615273-LZ3Y0LY1U2EPJ9P78ZPN/willy.png" data-image-dimensions="1716x1309" data-image-focal-point="0.5,0.5" alt="Willy Hall" data-load="false" data-image-id="668ec13d01044548c7447195" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    data-title="Lelia Hall"
+                    data-description="&lt;p&gt;c. 1894 - 1901. Library of Congress.&lt;/p&gt;"
+                    data-lightbox-theme="dark"
+                    href="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1720632270874-923PFLF8NB9S587VI21W/lelia.png"
+                    role="button"
+                  
+                  
+                    aria-label="Lelia Hall"
+                  
+                  class="
+                    image-slide-anchor
+                    
+                      js-gallery-lightbox-opener
+                    
+                    content-fill
+                  "
+                >
+                  
+                    <span class="v6-visually-hidden">View fullsize</span>
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1720632270874-923PFLF8NB9S587VI21W/lelia.png" alt="Lelia Hall" /></noscript><img class="thumb-image" elementtiming="system-gallery-block-grid" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1720632270874-923PFLF8NB9S587VI21W/lelia.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1720632270874-923PFLF8NB9S587VI21W/lelia.png" data-image-dimensions="1716x1309" data-image-focal-point="0.5,0.5" alt="Lelia Hall" data-load="false" data-image-id="668ec3cdc0a29736f6a1f57d" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    data-title="Pauline Hall"
+                    data-description="&lt;p&gt;1889. Digital Commonwealth Massachusetts.&lt;/p&gt;"
+                    data-lightbox-theme="dark"
+                    href="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1720632583906-LV3RKJPDJAWSR8UHJWZ7/pauline.png"
+                    role="button"
+                  
+                  
+                    aria-label="Pauline Hall"
+                  
+                  class="
+                    image-slide-anchor
+                    
+                      js-gallery-lightbox-opener
+                    
+                    content-fill
+                  "
+                >
+                  
+                    <span class="v6-visually-hidden">View fullsize</span>
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1720632583906-LV3RKJPDJAWSR8UHJWZ7/pauline.png" alt="Pauline Hall" /></noscript><img class="thumb-image" elementtiming="system-gallery-block-grid" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1720632583906-LV3RKJPDJAWSR8UHJWZ7/pauline.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1720632583906-LV3RKJPDJAWSR8UHJWZ7/pauline.png" data-image-dimensions="1790x1653" data-image-focal-point="0.5,0.5" alt="Pauline Hall" data-load="false" data-image-id="668ec5064510980ee03cd1cd" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    data-title="Josephine Hall"
+                    data-description="&lt;p&gt;c. 1889. Digital Commonwealth Massachusetts. &lt;/p&gt;"
+                    data-lightbox-theme="dark"
+                    href="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1720633616515-7O012ZCPLT6LO66GSMG1/josephine.png"
+                    role="button"
+                  
+                  
+                    aria-label="Josephine Hall"
+                  
+                  class="
+                    image-slide-anchor
+                    
+                      js-gallery-lightbox-opener
+                    
+                    content-fill
+                  "
+                >
+                  
+                    <span class="v6-visually-hidden">View fullsize</span>
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1720633616515-7O012ZCPLT6LO66GSMG1/josephine.png" alt="Josephine Hall" /></noscript><img class="thumb-image" elementtiming="system-gallery-block-grid" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1720633616515-7O012ZCPLT6LO66GSMG1/josephine.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1720633616515-7O012ZCPLT6LO66GSMG1/josephine.png" data-image-dimensions="1538x1653" data-image-focal-point="0.484640525205292,0.30272108843537415" alt="Josephine Hall" data-load="false" data-image-id="668ec90f6adf4d70d2dbad99" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    data-title="Minnie Hall"
+                    data-description="&lt;p&gt;1894. Denver Public Library&lt;/p&gt;"
+                    data-lightbox-theme="dark"
+                    href="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1720640301020-UGSAOB5L00JT1YCX4DEQ/minnie.jpg"
+                    role="button"
+                  
+                  
+                    aria-label="Minnie Hall"
+                  
+                  class="
+                    image-slide-anchor
+                    
+                      js-gallery-lightbox-opener
+                    
+                    content-fill
+                  "
+                >
+                  
+                    <span class="v6-visually-hidden">View fullsize</span>
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1720640301020-UGSAOB5L00JT1YCX4DEQ/minnie.jpg" alt="Minnie Hall" /></noscript><img class="thumb-image" elementtiming="system-gallery-block-grid" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1720640301020-UGSAOB5L00JT1YCX4DEQ/minnie.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1720640301020-UGSAOB5L00JT1YCX4DEQ/minnie.jpg" data-image-dimensions="1999x3077" data-image-focal-point="0.4710526315789474,0.36394557823129253" alt="Minnie Hall" data-load="false" data-image-id="668ee32c39c3b64de37ae8d0" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+    
+  </div>
+
+  
+
+</div>
+
+
+
+
+<style type="text/css" id="design-grid-css">
+#block-yui_3_17_2_1_1720558729187_122748 .sqs-gallery-block-grid .sqs-gallery-design-grid { margin-right: -0px; }
+#block-yui_3_17_2_1_1720558729187_122748 .sqs-gallery-block-grid .sqs-gallery-design-grid-slide .margin-wrapper { margin-right: 0px; margin-bottom: 0px; }
+</style>
+
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1720558729187_122905"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <h3 style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>Notable ancestors include:</strong></span><strong> </strong></h3><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"><a href="https://www.britannica.com/biography/Charles-Martin-Hall" target="_blank">Charles Martin Hall </a>- inventor, aluminum manufacturing</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.verywellmind.com/g-stanley-hall-biography-2795507" target="_blank">G. Stanley Hall</a> - pyschologist</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.lva.virginia.gov/exhibits/titanic/crew.php" target="_blank">J. Hall </a>- Titanic crew fireman and victim</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://nap.nationalacademies.org/read/11522/chapter/11" target="_blank">James Hall Jr -</a> paleontologist and geologist</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.arts.gov/honors/jazz/jim-hall" target="_blank">Jim Hall </a>- jazz guitarist</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://corporate.hallmark.com/about/j-c-hall/#:~:text=Joyce%20C.,and%20Nancy%20Dudley%20Houston%20Hall." target="_blank">Joyce C. Hall </a>- creator of Hallmark cards</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.acs.org/education/whatischemistry/african-americans-in-sciences/lloyd-augustus-hall.html" target="_blank">Lloyd Augustus Hall</a> - chemist, food preservation pioneer</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.georgiaencyclopedia.org/articles/government-politics/lyman-hall-1724-1790/" target="_blank">Lyman Hall -</a> signer of the Declaration of Independence</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.britannica.com/biography/Radclyffe-Hall" target="_blank">Marguerite Radclyffe Hall</a> - poet and author</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><h3 style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>Genealogy websites</strong></span></h3><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"><a href="https://www.johnlisle.com/newenglandhall/genealogy/index.php" target="_blank">“Hall Families of New England”</a> johnlisle.com</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://sites.rootsweb.com/~sdlyman/Families/Hall/hall.slinde.part1.htm" target="_blank">“Hall Family Genealogy” </a>by John Francis Hall (Rootsweb)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://hall.one-name.net/" target="_blank">“Hall Family Histories…A study to preserve Hall pedigrees worldwide”</a> hall.one-name.net</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.hallfamilyname.com/index.html" target="_blank">“Hall Family History”</a> hallfamilyname.com</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://gthirkleby.tribalpages.com/" target="_blank">“Hall Family Tree” </a>gthirkleby.tribalpages.com</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.rmhh.co.uk/" target="_blank">“Hall Genealogy Website”</a> rmhh.co.uk</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://hallhistory.net/hall/" target="_blank">“Hall History”</a> hallhistory.net</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://hallgenealogy.com/" target="_blank">“Homepage of William G. Hall” </a>hallgenealogy.com</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><h3 style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>Message boards &amp; mailing lists</strong></span></h3><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"><a href="https://www.rootschat.com/forum/index.php?topic=790936.0" target="_blank">“Hall family from Clackmannanshire”</a> on Rootschat</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.british-genealogy.com/forum/archive/index.php/t-12497.html" target="_blank">“Hall family in Newcastle” thread </a>on British-Genealogy forum</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.ancestry.com/boards/surnames.hall" target="_blank">“Hall” posts</a> on Ancestry.com Message Boards </p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.genealogy.com/forum/surnames/topics/hall/" target="_blank">“Hall” posts</a> on Genealogy.com GenForum Message Boards - </p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.reddit.com/r/Genealogy/comments/mo2uwd/help_request_edward_percy_hall_missing_in_1950s_uk/" target="_blank">“Help request: Edward Percy Hall missing in 1950s [UK]” </a>post on reddit</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://historyhub.history.gov/military-records/military-and-civilian-personnel-records/f/personnel-records-forum/35856/looking-to-see-where-my-dad-rc-hall-or-pete-hall-worked-with-civilian-conservation-corps" target="_blank">“Looking to see where my dad RC Hall or Pete Hall worked with Civilian Conservation Corps…” post</a> on HistoryHub</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.reddit.com/r/Genealogy/comments/16qhxob/who_are_the_parents_of_thomas_lane_hall_my/" target="_blank">“Who are the parents of Thomas Lane Hall?”</a> thread on reddit</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><h3 style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>Social media groups &amp; societies</strong></span></h3><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"><a href="http://www.genealogywise.com/m/group?id=3463583%3AGroup%3A6073&amp;maxDate=2014-10-24T00%3A45%3A00.923Z" target="_blank">“Hall Family Genealogy” group </a>on Genealogy Wise</p></li></ul><p class="" style="white-space:pre-wrap;"><br><span style="text-decoration:underline"><strong>Photographs of Hall:</strong></span></p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"><a href="https://www.loc.gov/item/2019630503/" target="_blank">“Adelaide Hall, 1961” </a>Library of Congress</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://digitalcollections.hclib.org/digital/collection/MplsPhotos/id/31451/rec/31" target="_blank">“Alan Hall, 1939” </a>Hennepin County Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.mnhs.org/search/collections/record/404ecc67-3c97-42e4-980c-d48bcbb88665?return=https%3A%2F%2Fwww.mnhs.org%2Fsearch%2Fcollections%3FsearchText%3D%2522hall%2522%26parameters%3D%257B%2522resultsDisplay%2522%253A%2522list%2522%252C%2522pageNum%2522%253A6%252C%2522pageSize%2522%253A25%252C%2522topKeywordSortOn%2522%253A%2522count%2522%252C%2522topKeywordSortDir%2522%253A%2522desc%2522%257D%26hasMedia%3Dtrue" target="_blank">“Albert R. Hall, c. 1870”</a> Minnesota Historical Society</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://digital.denverlibrary.org/nodes/view/1127365?keywords=hall&amp;type=all&amp;highlights=WyJoYWxsIl0%3D" target="_blank">“Alice Ida Hall, 1895”</a> Denver Public Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://texashistory.unt.edu/ark:/67531/metapth405502/" target="_blank">“Anna Hall family”</a> Hardin-Simmons University Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://digitalcollections.hclib.org/digital/collection/MplsPhotos/id/38126/rec/101" target="_blank">“Barbara Hall, 1945”</a> Hennepin County Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.loc.gov/item/2016688263/" target="_blank">“Benton Jay Hall, 1873”</a> Library of Congress</p></li><li><p class="" style="white-space:pre-wrap;"><a href="http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p265301coll005/id/1458" target="_blank">“Bill Hall”</a>, Knox County Public Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.loc.gov/item/2016702011/" target="_blank">“Capt. Hall, 1901.”</a> Library of Congress.</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.mnhs.org/search/collections/record/2a80f08e-62e1-47d8-98cf-c3d687a7ab98?return=https%3A%2F%2Fwww.mnhs.org%2Fsearch%2Fcollections%3FsearchText%3D%2522hall%2522%26parameters%3D%257B%2522resultsDisplay%2522%253A%2522list%2522%252C%2522pageNum%2522%253A6%252C%2522pageSize%2522%253A25%252C%2522topKeywordSortOn%2522%253A%2522count%2522%252C%2522topKeywordSortDir%2522%253A%2522desc%2522%257D%26hasMedia%3Dtrue" target="_blank">“Charlotte Hall, c. 1940” </a>Minnesota Historical Society</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.mnhs.org/search/collections/record/d993695d-1587-41ee-8532-77bcec32caea" target="_blank">“Darwin S. Hall and his wife with Native American Indian collection, 1914”</a> Minnesota Historical Society</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.loc.gov/item/2016689111/" target="_blank">“Darwin Scott Hall, 1873”</a> Library of Congress</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.mnhs.org/search/collections/record/440e6024-1614-412a-83d8-900ec5fa91d7" target="_blank">“Elizabeth (Lizzie) Archer VanCleve Hall of Honolulu, Hawaii” </a>Minnesota Historical Society</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://digital.denverlibrary.org/nodes/view/1125719?keywords=hall&amp;type=all&amp;highlights=WyJoYWxsIl0%3D" target="_blank">“Fannie Hall, 1889”</a> Denver Public Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://digital.denverlibrary.org/nodes/view/1130828?keywords=hall&amp;type=all&amp;highlights=WyJoYWxsIl0%3D" target="_blank">“Fannie Hall, 1890”</a> Denver Public Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://digital.denverlibrary.org/nodes/view/1135046?keywords=hall&amp;type=all&amp;highlights=WyJoYWxsIl0%3D" target="_blank">“Frank Albert Hall” </a>Denver Public Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://fchc.contentdm.oclc.org/digital/collection/ph/id/37880" target="_blank">“Hall Family, circa 1930”</a> Fort Collins History Connection</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=digcoll_uuu_11ucl_rhc/1303710&amp;context=L&amp;vid=MWDL" target="_blank">“Hall Family: Dee, Ivan, Vera, Philip, Donna, and Thora Hall” </a>Uintah County Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.digitalcommonwealth.org/search/commonwealth:sn00dv49s" target="_blank">“Hall” unknown female. </a>(possibly Josephine Hall) Digital Commonwealth Massachusetts.</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.mnhs.org/search/collections/record/c57abfd9-ebf1-48f1-80dc-8b28c05f379b?return=https%3A%2F%2Fwww.mnhs.org%2Fsearch%2Fcollections%3FsearchText%3D%2522hall%2522%26parameters%3D%257B%2522resultsDisplay%2522%253A%2522list%2522%252C%2522pageNum%2522%253A6%252C%2522pageSize%2522%253A25%252C%2522topKeywordSortOn%2522%253A%2522count%2522%252C%2522topKeywordSortDir%2522%253A%2522desc%2522%257D%26hasMedia%3Dtrue" target="_blank">“Helen Hall of Minneapolis, daughter of Dr. William Asbury Hall, 1907”</a> Minnesota Historical Society</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://digital.denverlibrary.org/nodes/view/1116201?keywords=hall&amp;type=all&amp;highlights=WyJoYWxsIl0%3D" target="_blank">“J.P. Hall, 1886” </a>Denver Public Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://cdm16311.contentdm.oclc.org/digital/collection/p265301coll9/id/51/rec/2" target="_blank">“James Hall and Margaret Hall, chestnut hunting, Oct 1894”</a> Calvin M. McClung Historical Collection</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.loc.gov/item/2016687949/" target="_blank">“James William Hall, D.D.”</a> Library of Congress</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.loc.gov/item/2016696633/" target="_blank">“John Hall, 1894”</a> Library of Congress</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.digitalcommonwealth.org/search/commonwealth:w37662292" target="_blank">“Josephine Hall, ca 1889” </a>Library of Congress</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://cdm16311.contentdm.oclc.org/digital/collection/p265301coll9/id/617/rec/16" target="_blank">“Judge E.T. Hall and Martha A. Hall” </a>Calvin M. McClung Historical Collection</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://digital.denverlibrary.org/nodes/view/1130829?keywords=hall&amp;type=all&amp;highlights=WyJoYWxsIl0%3D" target="_blank">“Kate Hall, 1890”</a> Denver Public Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.mnhs.org/search/collections/record/c2788dfb-187a-401d-a6ed-eff9f027ee1c?return=https%3A%2F%2Fwww.mnhs.org%2Fsearch%2Fcollections%3FsearchText%3D%2522hall%2522%26parameters%3D%257B%2522resultsDisplay%2522%253A%2522list%2522%252C%2522pageNum%2522%253A6%252C%2522pageSize%2522%253A25%252C%2522topKeywordSortOn%2522%253A%2522count%2522%252C%2522topKeywordSortDir%2522%253A%2522desc%2522%257D%26hasMedia%3Dtrue" target="_blank">“Leander Hall, grandfather of Marion Snelling Hall, c. 1880” </a>Minnesota Historical Society</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.loc.gov/item/2016689150/" target="_blank">“Lelia Hall, 1873”</a> Library of Congress</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.loc.gov/item/2016695903/" target="_blank">“Lelia Hall, 1894”</a> Library of Congress</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.mnhs.org/search/collections/record/a1a89afe-abe2-48cd-84e6-65bd81d15625" target="_blank">“Liberty Hall, 1870”</a> Minnesota Historical Society</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://cdm16311.contentdm.oclc.org/digital/collection/p265301coll9/id/65/rec/3" target="_blank">“Lucy Hall, Will S. Hall, and Alma Hall, 1895”</a> Calvin M. McClung Historical Collection</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://digital.denverlibrary.org/nodes/view/1127142?keywords=hall&amp;type=all&amp;highlights=WyJoYWxsIl0%3D" target="_blank">“LuVerne Elizabeth Hall, 1895”</a> Denver Public Library </p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=digcoll_uuu_11ucl_rhc/1300875&amp;context=L&amp;vid=MWDL" target="_blank">“Lynn and Eula Hall” </a>Uintah County Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.loc.gov/item/2016694397/" target="_blank">“Mabel Hall, 1894” </a>Library of Congress</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=digcoll_uuu_11ucl_rhc/1296990&amp;context=L&amp;vid=MWDL" target="_blank">“Mark M. and Mary May Hall”</a> Uintah County Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://digital.denverlibrary.org/nodes/view/1127267?keywords=hall&amp;type=all&amp;highlights=WyJoYWxsIl0%3D" target="_blank">“Minnie Hall, 1894” </a>Denver Public Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.loc.gov/item/2016702390/" target="_blank">“Miss Hall, circa 1901” </a>Library of Congress</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.mnhs.org/search/collections/record/8899bb73-77ff-4831-8cae-0a127f0accd2" target="_blank">“Mr. and Mrs. Leander W. Hall, 1925” </a>Minnesota Historical Society</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://digital.denverlibrary.org/nodes/view/1062627?keywords=hall&amp;type=all&amp;highlights=WyJoYWxsIl0%3D&amp;lsk=be1ca648ba8c40ff5447f8dace6dda34" target="_blank">“Mr. Joseph W. Hall and friend, Leadville, Colo. 1890” </a>Denver Public Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.digitalcommonwealth.org/search/commonwealth:cj82p379t" target="_blank">“Pauline Hall, 1889”</a> Digital Commonwealth Massachusetts</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.digitalcommonwealth.org/search/commonwealth:nk325891c" target="_blank">“Pauline Hall, ca 1881”</a> Digital Commonwealth Massachusetts</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.mnhs.org/search/collections/record/f0ceecdc-cc47-4798-be57-0a7d1efdad63" target="_blank">“Theodore Seymour and Edwin Oscar Hall. Children of Elizabeth Archer VanCleve and William Wisner Hall, 1888”</a> Minnesota Historical Society</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.loc.gov/item/2016692462/" target="_blank">“Uriel Sebree Hall, 1891”</a> Library of Congress</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.mediahistoricarchives.org/items/show/3339#?c=0&amp;m=0&amp;s=0&amp;cv=0&amp;xywh=-3419%2C0%2C9795%2C4234" target="_blank">“W. Bolton Hall, 1909” </a>Media Historic Archives</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.loc.gov/item/2014705628/" target="_blank">“Walter H. Hall”</a> Library of Congress</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.loc.gov/item/2014716660/" target="_blank">“Wendell Hall” </a>Library of Congress</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.loc.gov/item/2014702027/" target="_blank">“Weston Birch “Bert” Hall, ca 1915”. </a>Library of Congress</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://oac.cdlib.org/ark:/13030/kt1n39p882/?brand=oac4" target="_blank">“William Hall and children, William Jr., Judy, and Robert” </a>Online Archive of California </p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.loc.gov/item/2018645001/" target="_blank">“William “Willy” Woodhull Hall, 1860”</a> Library of Congress</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li></ul><p class="" style="white-space:pre-wrap;">  </p><h3 style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>Website clippings, news articles, blog posts (no paywalls)</strong></span><strong> </strong></h3><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Frick, Melanie. <a href="https://homesteadgenealogy.com/2016/05/31/y-dna-and-the-hall-family-of-the-colonial-carolinas/" target="_blank">“Y-DNA and the Hall Family of the Colonial Carolinas”</a> Homestead Genealogy</p></li><li><p class="" style="white-space:pre-wrap;">Smith, Ricky. <a href="https://www.rootsandrecall.com/fairfield-county/files/2013/04/xHall-Family.pdf" target="_blank">“John and Martha Gladden Hall Family” </a>(pdf link) rootsandrecall.com</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://bakerfamilytree.blogspot.com/2015/10/chapter-40-our-hall-family-ancestors.html" target="_blank">“Chapter 40. Our Hall Family ancestors”</a> 8 October 2015. Baker Family Tree</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.bartletthistory.net/hall-ancestry" target="_blank">“Hall Ancestry”</a> Bartlett NH History</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://cumbofamily.com/?p=571" target="_blank">“Hall family history etched in my DNA”</a> 13 August 2016. Cumbo Family Website</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.collincountyhistory.com/hall-family.html" target="_blank">“Hall Family” </a>Collin County, Texas History</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://pinemountainsettlement.net/?page_id=50968" target="_blank">“Hall Family”</a> Pine Mountain Settlement School Collections</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li></ul><h3 style="white-space:pre-wrap;"><strong><br></strong><span style="text-decoration:underline"><strong>Artifacts</strong></span></h3><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"><a href="https://www.biblerecords.com/hall1.html" target="_blank">“Hall Bible” </a>biblerecords.com</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.mnhs.org/search/collections/record/468e3874-8a25-4ebb-a734-2adba296de2d" target="_blank">“Levi Hall campaign card, 1923”</a> Minnesota Historical Society<br><br></p></li></ul><h3 style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>Correspondence and letters</strong></span></h3><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"><a href="https://hrc.contentdm.oclc.org/digital/collection/p15878coll106/id/65540/" target="_blank">“Correspondence from Radclyffe Hall to Evguenia Souline” </a>Harry Ransom Center</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://oac.cdlib.org/ark:/13030/kt567nd9wp/?brand=oac4" target="_blank">“Letter from Robert Hall to John Muir, 1890 Nov 1”</a> Online Archive of California</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archives.lib.umn.edu/repositories/7/archival_objects/231709" target="_blank">“Robert D. Hall correspondence and reports, 1911 - 1917”</a><br></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li></ul><h3 style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>Homes &amp; historical markers</strong></span></h3><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"><a href="https://www.hmdb.org/m.asp?m=105100" target="_blank">“Captain James Hall”</a> marker in Virginia</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://cdm16311.contentdm.oclc.org/digital/collection/p265301coll9/id/479/rec/13" target="_blank">“Charles M. Hall residence”</a> Knoxville, Tennessee</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://digital.denverlibrary.org/nodes/view/316787?keywords=hall&amp;type=all&amp;highlights=WyJoYWxsIl0%3D" target="_blank">“Frank Hall residence, circa 1900”</a> Denver Public Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="http://archives.csuchico.edu/cdm/ref/collection/coll11/id/6966" target="_blank">“Hall family residence” </a>California State University</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://digital.sonomalibrary.org/Documents/Detail/hall-house/70272" target="_blank">“Hall House” </a>Sonoma County Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.hmdb.org/m.asp?m=219688" target="_blank">“James Hall, Elk Grove House”</a> California</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=digcoll_uuu_11ucl_rhc/1298308&amp;context=L&amp;vid=MWDL" target="_blank">“Lynn Hall home” </a>Uintah County Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.hmdb.org/m.asp?m=188279" target="_blank">“The Hough-Hall Family”</a> West Virginia</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><h3 style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>Oral histories and transcripts</strong></span></h3><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"><a href="https://www.loc.gov/item/afc2001001.11260/" target="_blank">“Claudia Hall Collection” </a>(audio only) Library of Congress</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.loc.gov/item/afc2001001.33262/" target="_blank">“Haskell Hall Collection, 1949”</a> Library of Congress</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.loc.gov/item/afc2001001.60364/" target="_blank">“Johnnie Hall Collection, 1963”</a> Library of Congress</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://docsouth.unc.edu/sohp/G-0056-1/menu.html" target="_blank">“Oral history interview with Modjeska Simkins, November 15, 1974.”</a> (audio only) Documenting the American South</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.aaa.si.edu/collections/interviews/oral-history-interview-r-hbob-hall-13043" target="_blank">“Oral history interview with R.H. (Bob) Hall, 1965 Nov. 28” </a>(audio only) Smithsonian</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://mds.marshall.edu/cgi/viewcontent.cgi?article=1009&amp;context=oral_history" target="_blank">“Oral history interview: Alice Hall, 1974”</a> (transcript only) Marshall University</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li></ul><p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>Finding aids (may not have any online content)</strong></span></p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"><a href="https://library.ucsd.edu/dc/collection/bb3175569k" target="_blank">“Hall family papers and sugar plantation records”</a> UC San Diego</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li></ul><h3 style="white-space:pre-wrap;"><strong><br></strong><span style="text-decoration:underline"><strong>Books (Online &amp; In Print)</strong></span><strong> </strong></h3><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Adams, Mary Lizzie Hall. <a href="https://archive.org/details/hallfamilyhistor00adam/page/n5/mode/2up" target="_blank">“The Hall Family History”</a> Statesville, North Carolina, 1949. (Full view on Internet Archive)</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/ancestryoffewdes00np/page/n5/mode/2up" target="_blank">“Ancestry of a few of the descendants of Edward Hall of Rehoboth, Mass, with intermarriages” </a>(Full view on Internet Archive)</p></li><li><p class="" style="white-space:pre-wrap;">Coe, Mrs. S. F. Hall <a href="https://archive.org/details/memorandarelatin00coes/page/n9/mode/2up" target="_blank">“Memoranda relating to the ancestry and family of Sophia Fidelia Hall” </a>Meriden, Conn., The Curtiss-Way Co., 1902. (Full view on Internet Archive)</p></li><li><p class="" style="white-space:pre-wrap;">Hall, Charles S. <a href="https://catalog.hathitrust.org/Record/005695178?type%5B%5D=all&amp;lookfor%5B%5D=ancestry%20of%20hall%20&amp;ft=ft" target="_blank">“Hall ancestry. A series of sketches of the lineal ancestors of the children of Samuel Holden Parsons Hall and his wife Emeline Bulkeley of Binghamton, N.Y.” </a>1896. (Full view on HathiTrust) </p></li><li><p class="" style="white-space:pre-wrap;">Hall, Helen L. <a href="https://archive.org/details/hallgenealogy00hall/page/n1/mode/2up" target="_blank">“The Hall Genealogy”</a> 1960. (Full view on Internet Archive)</p></li><li><p class="" style="white-space:pre-wrap;">Hall, J. K. <a href="https://archive.org/details/revjamesdavidson00hall/page/n5/mode/2up" target="_blank">“The Rev. James Davidson Hall and his descendants, 1806 - 1946”</a> Belmont, N.C., 1946. (Full view on Internet Archive)</p></li><li><p class="" style="white-space:pre-wrap;">Hall, Marion Martin.<a href="https://archive.org/details/hallmoorebarnard00hall/page/n9/mode/2up" target="_blank"> “Hall Family”</a> 1947. (Full view on Internet Archive)</p></li><li><p class="" style="white-space:pre-wrap;">Hall, Rev. David Brainard. <a href="https://archive.org/details/hallsofnewenglan00hall/page/n7/mode/2up" target="_blank">“The Halls of New England. Genealogical and biographical”</a> Albany, NY, Joel Munsell’s Sons., 1883. (Full view on Internet Archive)</p></li><li><p class="" style="white-space:pre-wrap;">Hall, Thomas John. <a href="https://archive.org/details/hallfamilyofwest00hall/page/n7/mode/2up" target="_blank">“The Hall family of West River and kindred families”</a> 1941. (Full view on Internet Archive)</p></li><li><p class="" style="white-space:pre-wrap;">Hartley, Elizabeth J. Hall. <a href="https://archive.org/details/descendantsofmos00hart/page/n7/mode/2up" target="_blank">“Descendants of Moses Hall, John Doudna and Benjamin Hall”</a> Denver, Colorado, 1958. (Full view on Internet Archive)</p></li><li><p class="" style="white-space:pre-wrap;">Meier, Gladys Hall. <a href="https://archive.org/details/historyofhallfam00meie/page/n5/mode/2up" target="_blank">“History of the Hall Family and allied lines” </a>Brownsville, Texas, 1959. (Full view on Internet Archive)</p></li><li><p class="" style="white-space:pre-wrap;">Morris, Oliver M. <a href="https://archive.org/details/hallfamilytreege00morr/page/n7/mode/2up" target="_blank">“The Hall Family Tree: a genealogy with history and biographies”</a> Long Beach, CA; 1940 (Full view on Internet Archive)</p></li><li><p class="" style="white-space:pre-wrap;">Quint, Alonzo Hall. <a href="https://archive.org/details/deaconjohnhallof00quin/page/n5/mode/2up" target="_blank">“Deacon John Hall of Dover, New Hampshire, and some of his descendants” </a>Hall’s Book Shop, Boston, MA., 1920. (Full view on Internet Archive)</p></li><li><p class="" style="white-space:pre-wrap;">Roe, James Varley. <a href="https://archive.org/details/historyofjobpitc00roej" target="_blank">“History of Job Pitcher Hall, his Hall ancestors, 1764-1600, his descendants, 1848-1958”</a> (Full view on Internet Archive)</p></li><li><p class="" style="white-space:pre-wrap;">Sumner, Edith Bartlett. <a href="https://catalog.hathitrust.org/Record/005695182?type%5B%5D=all&amp;lookfor%5B%5D=ancestry%20of%20hall%20&amp;ft=ft" target="_blank">“Ancestry and descendants of Amaziah Hall and Betsey Baldwin” </a>1954. (Full view on HathiTrust)</p></li><li><p class="" style="white-space:pre-wrap;">Toll, Estella.<a href="https://archive.org/details/familyrecordofje00toll/page/n3/mode/2up" target="_blank"> “Family record of Jehu Hall” </a>Lawndale, California. (Full view on Internet Archive) </p></li><li><p class="" style="white-space:pre-wrap;">Warren, Robert Hall.<a href="https://catalog.hathitrust.org/Record/101821266?type%5B%5D=title&amp;lookfor%5B%5D=hall%20family&amp;ft=ft" target="_blank"> “The Hall Family” </a>Bristol., J.W. Arrowsmith, 1910. (Full view on HathiTrust)</p><p class="" style="white-space:pre-wrap;"><br></p></li></ul><p class="" style="white-space:pre-wrap;">                    </p><p class="" style="white-space:pre-wrap;">Leave a note below if you would like to share relevant links to the <strong>Hall </strong>surname search, or get in touch with other researchers. Again, do not share any private information of your own, or belonging to anyone living. Thank you! </p><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;">Which surname should we feature next? </p><p class="" style="white-space:pre-wrap;">See also:<a href="https://www.startresearching.com/surname-searches/surname-search-allen"> Allen</a> | <a href="https://www.startresearching.com/surname-searches/surname-search-anderson" target="_blank">Anderson</a> |  <a href="https://www.startresearching.com/surname-searches/surname-search-brown">Brown</a> | <a href="https://www.startresearching.com/surname-searches/surname-search-clark">Clark </a>| <a href="https://www.startresearching.com/surname-searches/surname-search-davis">Davis</a> |<a href="https://www.startresearching.com/surname-searches/surname-search-evans" target="_blank"> Evans</a> | <a href="https://www.startresearching.com/surname-searches/surname-search-gentry" target="_blank">Gentry</a> | <a href="https://www.startresearching.com/surname-searches/surname-search-hagard-or-haggard">Haggard</a> | <a href="https://www.startresearching.com/surname-searches/surname-search-hodge" target="_blank">Hodge</a> |<a href="https://www.startresearching.com/surname-searches/surname-search-johnson"> Johnson</a> |<a href="https://www.startresearching.com/surname-searches/surname-search-jones"> Jones </a>| <a href="https://www.startresearching.com/surname-searches/surname-search-kavanagh">Kavanagh</a> / <a href="https://www.startresearching.com/surname-searches/surname-search-kavanagh">Cavanagh</a> | <a href="https://www.startresearching.com/surname-searches/surname-search-miller" target="_blank">Miller</a> | <a href="https://www.startresearching.com/surname-searches/surname-search-moore" target="_blank">Moore</a> | <a href="https://www.startresearching.com/surname-searches/surname-search-robinson" target="_blank">Robinson</a> | <a href="https://www.startresearching.com/surname-searches/surname-search-sharp" target="_blank">Sharp</a> | <a href="https://www.startresearching.com/surname-searches/surname-search-smith">Smith</a> | <a href="https://www.startresearching.com/surname-searches/surname-search-taylor" target="_blank">Taylor</a> | <a href="https://www.startresearching.com/surname-searches/surname-search-upham">Upham</a> | <a href="https://www.startresearching.com/surname-searches/surname-search-warren" target="_blank">Warren</a> | <a href="https://www.startresearching.com/surname-searches/surname-search-wilson">Wilson</a></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;"><a href="https://www.startresearching.com/surname-searches/surname-search-upham#comments-placeholder"><em>Comment</em></a></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>

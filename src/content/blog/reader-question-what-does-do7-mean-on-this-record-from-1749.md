@@ -1,0 +1,214 @@
+---
+title: "Reader Question: What does \"do7\" mean on this record from 1749?"
+pubDate: 2024-01-27
+description: "27 January 2024 (updated 28 Jan), by Sherri Mastrangelo Today\u2019s reader question is: \u201cWhat does \u201cdo7\u201d mean on this record from 1749?\u201d In this book of U.S. Dutch "
+canonicalUrl: "https://www.startresearching.com/blog/reader-question-what-does-do7-mean-on-this-record-from-1749"
+
+---
+
+<div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1706391237183" id="item-65b5708c975e310e12130417"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-13a45f1f6ce9e4de8dfb"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>27 January 2024 (updated 28 Jan), by Sherri Mastrangelo</strong></span></p><p class="" style="white-space:pre-wrap;">Today’s reader question is: “What does “do7” mean on this record from 1749?” </p><p class="" style="white-space:pre-wrap;">In this book of U.S. Dutch Reformed Church Records from Albany, New York (as found on Ancestry.com, linked below) from the mid 18th century, there are pages of baptism records. There are three handwritten columns per page. The first column has the infant’s name, and a date. The second has the parent’s names, and the third has the names of the witnesses. </p><p class="" style="white-space:pre-wrap;">In place of some of the surnames is an abbreviation that appears to be “dol” with the “o” character raised superscript and the last character perhaps a number “7”, or the letter “I”, or letter “L”, as seen in the examples below: </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1706389603329_52442"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:940px;"
+        >
+          
+        
+        
+
+        
+          
+            <button
+                data-sqsp-image-classic-block-lightbox-button
+                class="
+                  sqs-block-image-button
+                  lightbox
+                  
+          
+        
+                "
+                data-description="&lt;p class=&quot;&quot; style=&quot;white-space:pre-wrap;&quot;&gt;The example above is from the &lt;a href=&quot;https://www.ancestry.com/discoveryui-content/view/217242:6961?tid=&amp;amp;pid=&amp;amp;queryId=16768b2f-7641-4e1f-a6c4-39f54a62157c&amp;amp;_phsrc=CGd775&amp;amp;_phstart=successSource&quot; target=&quot;_blank&quot;&gt;“U.S. Dutch Reformed Church Records in Selected States, 1639 - 1989”&lt;/a&gt; on Ancestry. under New York, Albany, Albany Vol. II, Book 2. &lt;/p&gt;"
+                data-lightbox-theme="dark"
+            >
+              <span class="v6-visually-hidden">View fullsize</span>
+              
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:83.82978820800781%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/947ea0bb-008a-4e67-ab30-f5d863b589e9/Binary+Search+%281%29.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/947ea0bb-008a-4e67-ab30-f5d863b589e9/Binary+Search+%281%29.png" data-image-dimensions="940x788" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/947ea0bb-008a-4e67-ab30-f5d863b589e9/Binary+Search+%281%29.png" width="940" height="788" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/947ea0bb-008a-4e67-ab30-f5d863b589e9/Binary+Search+%281%29.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/947ea0bb-008a-4e67-ab30-f5d863b589e9/Binary+Search+%281%29.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/947ea0bb-008a-4e67-ab30-f5d863b589e9/Binary+Search+%281%29.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/947ea0bb-008a-4e67-ab30-f5d863b589e9/Binary+Search+%281%29.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/947ea0bb-008a-4e67-ab30-f5d863b589e9/Binary+Search+%281%29.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/947ea0bb-008a-4e67-ab30-f5d863b589e9/Binary+Search+%281%29.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/947ea0bb-008a-4e67-ab30-f5d863b589e9/Binary+Search+%281%29.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+            </button>
+          
+        
+
+        
+          
+          <figcaption data-sqsp-image-classic-block-caption-container class="image-caption-wrapper">
+            <div class="image-caption"><p class="" style="white-space:pre-wrap;">The example above is from the <a href="https://www.ancestry.com/discoveryui-content/view/217242:6961?tid=&amp;pid=&amp;queryId=16768b2f-7641-4e1f-a6c4-39f54a62157c&amp;_phsrc=CGd775&amp;_phstart=successSource" target="_blank">“U.S. Dutch Reformed Church Records in Selected States, 1639 - 1989”</a> on Ancestry. under New York, Albany, Albany Vol. II, Book 2. </p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1706389603329_52831"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">It appears that this abbreviation is replacing some surnames, but not all - only the surnames that are the same as the person above has the abbreviation. I think it is safe to assume that this abbreviation, whether it is do7, doI, or doL, means some form of “ditto”, or <em>same as above.</em> </p><p class="" style="white-space:pre-wrap;">Can we take it further? We’ve seen “do” as an abbreviation for “ditto” in the past, but not usually with any extra letters or numbers. </p><p class="" style="white-space:pre-wrap;">We know these are based on Dutch records, and a quick google translator search tells us “ditto” in Dutch is <strong>“Idem Ditto”</strong>, meaning <em>the same</em>.  Therefore I believe the abbreviation is of “doI” meaning “idem ditto”, or this person has the same surname as the person above. </p><p class="" style="white-space:pre-wrap;">Looking back a few years, the earliest example of the use of this abbreviation seems to be in 1725 (<a href="https://www.ancestry.com/discoveryui-content/view/22643:6961?tid=&amp;pid=&amp;queryId=e00ece15-736d-4ff1-b2b6-41ed5b8a488c&amp;_phsrc=CGd779&amp;_phstart=successSource" target="_blank">page 238 of Albany, Vol 1.</a>) though the records seem to jump from 1700 to 1725. While the records of 1700 continue in <a href="https://www.ancestry.com/discoveryui-content/view/22643:6961?tid=&amp;pid=&amp;queryId=e00ece15-736d-4ff1-b2b6-41ed5b8a488c&amp;_phsrc=CGd779&amp;_phstart=successSource" target="_blank">Volume II, page 82</a>, they are written after the 1740s records so it makes me question the time frame when they were actually written down. <span style="text-decoration:line-through">The 1700s recorded in the second volume may have been copied from an earlier record, but actually written in the book in the 1740s.</span> </p><p class="" style="white-space:pre-wrap;"><strong><em>POST UPDATE Jan 28:</em></strong><em> A comment brought up a great point - this is a collection of transcribed records by “The Holland Society of America”, which you can see if scroll to the beginning of the collection with the book cover image and interior stamp. I don’t see a creation date, but a quick search for </em><a href="https://hollandsociety.org/about/history/" target="_blank"><em>The Holland Society of America tells me they were created in 1885</em></a><em> and most likely added the ditto at the time of transcribing sometime after that date. We’d have to look at the original records to be sure.</em> </p><p class="" style="white-space:pre-wrap;">Of course all this sent me down the rabbit hole on the origins of the phrase “idem ditto” as well as the use of “ditto”. It seems “idem” is a Latin word, though “ditto” is Italian (Tuscan) based on an earlier Latin word, and the phrase “idem ditto” is specifically Dutch. The latin verb “dicere” (<em>to say</em>) became “dire” in Italian , conjugated as “detto”, which then became “ditto” in Tuscan dialect, when referencing the same month as written before.  </p><p class="" style="white-space:pre-wrap;">Early uses of “ditto” in English writing include: </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">1625, an english travel writer named Samual Purchas wrote in <a href="https://archive.org/details/in.ernet.dli.2015.79795/page/n385/mode/2up?q=ditto" target="_blank"><em>Hakluytus Posthumus or Purchas His Pilgrimes</em></a><em>, </em>in twenty volumes. Many quote from Volume 10 written in 1625, but I found it used earlier in Vol III: “…whence we departed the one and twentieth, ditto in the afternoone…” </p></li><li><p class="" style="white-space:pre-wrap;">1699, <a href="https://archive.org/details/atcourtofdirecto00comp/mode/2up?q=ditto" target="_blank">“At a Court of Directors of the Company of Scotland, Trading to Africa and the Indies”</a> reads “Ditto the 2nd day of May 1699”</p></li><li><p class="" style="white-space:pre-wrap;">1759<a href="https://www.google.com/books/edition/A_Complete_System_of_Cookery/DPAHAAAAQAAJ?q=Cookery++Parsley+roots,+and+leaves+of+ditto.&amp;gbpv=1#f=false" target="_blank"> William Verral’s “A Complete System of Cookery”, </a>published in London,<a href="https://www.google.com/books/edition/A_Complete_System_of_Cookery/DPAHAAAAQAAJ?q=Cookery++Parsley+roots,+and+leaves+of+ditto.&amp;gbpv=1#f=false" target="_blank"> </a>lists as ingredients “Chickens in the Dutch way, with parsely roots and leaves of ditto” </p></li></ul><p class="" style="white-space:pre-wrap;">In fact, I found it even earlier than 1625 - which I’ll post in a follow-up to this! </p><p class="" style="white-space:pre-wrap;">What’s the earliest written example of “ditto” or “idem ditto” you’ve found? <span style="text-decoration:line-through">Might these Dutch records from New York be the first example in the US?</span> </p><p class="" style="white-space:pre-wrap;">Have you seen this use of “doI” or “idem ditto” on records elsewhere? Share with us! </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>Sources and Further Reading:</strong></span> </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Ancestry.com. <em>“U.S. Dutch Reformed Church Records in Selected States, 1639 - 1989”</em>, Database online. New York, Albany, Albany Vol. II, Book 2. Provo, UT, USA: Ancestry.com Operations, Inc., 2014 (<a href="https://www.ancestry.com/discoveryui-content/view/217242:6961?tid=&amp;pid=&amp;queryId=16768b2f-7641-4e1f-a6c4-39f54a62157c&amp;_phsrc=CGd775&amp;_phstart=successSource)">https://www.ancestry.com/discoveryui-content/view/217242:6961?tid=&amp;pid=&amp;queryId=16768b2f-7641-4e1f-a6c4-39f54a62157c&amp;_phsrc=CGd775&amp;_phstart=successSource)</a> </p></li><li><p class="" style="white-space:pre-wrap;">Purchas, Samuel. <em>“Hakluytus Posthumus or Purchas His Pilgrimes In Twenty Volumes. Vol III”</em> (page 386) Glasgow, Robert Maclehose &amp; Company., 1625.  As found on the Internet Archive. (<a href="https://archive.org/details/in.ernet.dli.2015.79795/page/n385/mode/2up?q=ditto)">https://archive.org/details/in.ernet.dli.2015.79795/page/n385/mode/2up?q=ditto)</a> . Last accessed 27 January 2024. </p></li><li><p class="" style="white-space:pre-wrap;">Verral, William. “A Complete System of Cookery”. London, Oxford University, 1759. As found on Google Books (<a href="https://www.google.com/books/edition/A_Complete_System_of_Cookery/DPAHAAAAQAAJ?q=Cookery++Parsley+roots,+and+leaves+of+ditto.&amp;gbpv=1&amp;bsq=ditto#f=false)">https://www.google.com/books/edition/A_Complete_System_of_Cookery/DPAHAAAAQAAJ?q=Cookery++Parsley+roots,+and+leaves+of+ditto.&amp;gbpv=1&amp;bsq=ditto#f=false)</a> . Last accessed 27 January 2024. </p></li></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>

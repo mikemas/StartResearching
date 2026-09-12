@@ -1,0 +1,200 @@
+---
+title: "How to do a \"Binary Search\": Applying Computer Science Algorithms to Genealogy Research"
+pubDate: 2024-01-06
+description: "6 January 2024 by Sherri Mastrangelo Let\u2019s take the ideas and concepts from certain computer science algorithms, break them down into simpler terms to understan"
+canonicalUrl: "https://www.startresearching.com/blog/how-to-do-a-binary-search-applying-computer-science-algorithms-to-genealogy-research"
+
+---
+
+<div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1704487992537" id="item-659869ac4029020c1ab2d4e8"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-68377d109d8bd76cc780"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>6 January 2024 by Sherri Mastrangelo</strong></span></p><p class="" style="white-space:pre-wrap;">Let’s take the ideas and concepts from certain computer science algorithms, break them down into simpler terms to understand them better, and learn how we can apply them to our genealogy research. No tech skills or coding required! In fact, you may already utilize some of these methods without even recognizing them. </p><p class="" style="white-space:pre-wrap;">The first algorithm we’ll discuss is called a “Binary Search”. </p><p class="" style="white-space:pre-wrap;"><strong>A binary search reduces the search to half at each step, to save time.</strong> Think of it as “divide and conquer”. </p><p class="" style="white-space:pre-wrap;">If you’ve ever tried to go to a certain page number in a book, say you are looking for page 343, you may have implemented a form of binary search by opening the book in the middle. You’re at page 201, so you know you need to go higher. Instead of turning the pages one by one, you estimate another chunk of pages and now you’re at 356, so you need to go lower. This is basically the concept behind a binary search. You would continue dividing the sections into smaller and smaller results until you find the target page.</p><p class="" style="white-space:pre-wrap;">Instead of working in a linear pattern, i.e. starting at the beginning of a list and reading the values all the way through the end, a binary search would start in the middle and either ascend or descend the list depending on if the resulting value is greater or less than the target value, repeatedly dividing each new search area, until it either finds the target or determines it is not there. Of course there is more to it when it comes to the writing the formulas to make the algorithm work, and the computer algorithm may be more precise in terms of dividing each resulting search array in <em>half</em> while you have roughly estimated, but I think this explains the general concept we need to implement. </p><p class="" style="white-space:pre-wrap;">It’s important to note that <strong>a binary search will only work with an ordered set of data, </strong>like an alphabetized list or a set of files organized chronologically. The list can be sorted ascending or descending, as long as its ordered. <strong>If the set of data is compiled randomly this method would not work successfully.</strong> </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1704487993822_115249"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:940px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:83.82978820800781%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/f29f77cb-92d3-49f6-81cc-2b214f087ed0/Binary+Search.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/f29f77cb-92d3-49f6-81cc-2b214f087ed0/Binary+Search.png" data-image-dimensions="940x788" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/f29f77cb-92d3-49f6-81cc-2b214f087ed0/Binary+Search.png" width="940" height="788" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/f29f77cb-92d3-49f6-81cc-2b214f087ed0/Binary+Search.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/f29f77cb-92d3-49f6-81cc-2b214f087ed0/Binary+Search.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/f29f77cb-92d3-49f6-81cc-2b214f087ed0/Binary+Search.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/f29f77cb-92d3-49f6-81cc-2b214f087ed0/Binary+Search.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/f29f77cb-92d3-49f6-81cc-2b214f087ed0/Binary+Search.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/f29f77cb-92d3-49f6-81cc-2b214f087ed0/Binary+Search.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/f29f77cb-92d3-49f6-81cc-2b214f087ed0/Binary+Search.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption data-sqsp-image-classic-block-caption-container class="image-caption-wrapper">
+            <div class="image-caption"><p class="" style="white-space:pre-wrap;">Image above generated with in part with AI tools. </p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1704487993822_115634"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">Another example I’ve heard to describe binary search would be that of a detective watching security footage tapes (as pictured above), trying to figure out when a car was stolen overnight. This example might be a bit outdated with today’s technology but the same idea applies. Let’s say there is perfect high resolution video, aimed directly at the car, that disappeared sometime between when the owner parked it at 8 pm and when they noticed it was gone at 7 am. Instead of sitting down and watching eleven hours of video footage from start to finish, which would take all day, even sped up, the detective is going to implement a form of binary search. He will fast forward the video halfway to 1:30 am. If the car is still there, fast forward half of the remaining time to 4:45 am. If the car is no longer there, go back and divide the previous time between 1:30 am and 4:45 am, and so on until the target time is discovered. This method of searching would take significantly less time than watching hours of video footage!</p><p class="" style="white-space:pre-wrap;">So how can we apply the concept of binary search to our genealogy research?</p><blockquote><p class="" style="white-space:pre-wrap;">The best case scenario for applying this method to genealogy research, would be when you have to look through records that are not indexed, or not transcribed correctly (but are still in some order - alphabetically, chronologically, or otherwise) and you need to narrow down your scope quickly. </p></blockquote><p class="" style="white-space:pre-wrap;">Some examples of this and additional scenarios: </p><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">A large set of record images in a database online, like FamilySearch, that is not indexed (therefore not searchable by name) where you need to find the year in order to narrow down the hunt for your record. I know it can seem overwhelming when you come across these huge image-only datasets to browse - but using the binary search method will help save a lot of time! First confirm there is an order within the collection - are the surnames alphabetical? Or is the information organized by date? Look at the first few pages to give you an idea, then skip ahead to half. Depending on what you need, either skip ahead by another half or backwards by half. Note your page numbers to remember where you have searched. Just be aware often these collections have other, smaller collections within them, and there is usually a small note on the microfilm image when a new section starts.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><p class="" style="white-space:pre-wrap;">An alphabetical City Directory where you need to find a certain surname. Maybe it’s a physical book in your hands, or a digital copy you found on Internet Archive or Google Books. You wouldn’t start with “A” and flip page by page if your surname started with an “R”, you’d skip ahead, and then back, as needed. And once you got to the “R’s” you would do the same for the full surname. </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><p class="" style="white-space:pre-wrap;">You don’t have a date of death for your ancestor, but you know their address and can look them up in City Directories. You know she must have died sometime between the birth of her youngest child in 1931 and the 1940 Census, where her husband is widowed. Instead of looking at all the city directories in a linear fashion, 1932, 1933, 1934, and so on, you can start with 1936 (about halfway), and you’ve likely just cut your search time in half. If she’s alive, you only have 4 more years. If she’s not alive, you work backward - cutting each new search in half. </p><p class="" style="white-space:pre-wrap;">Of course you could “get lucky” when searching in a linear fashion, if the information you needed was in first City Directory you checked, for example. This is just an example to illustrate the search method. And remember to check the printing date on City Directories to be precise. <br></p></li></ol><p class="" style="white-space:pre-wrap;">Can you think of another case scenario where this might come in handy?</p><p class="" style="white-space:pre-wrap;">More computer science algorithms coming soon! <br></p><p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>Sources &amp; Further Reading</strong></span></p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">“Binary Search Algorithm”, Wikipedia. (<a href="https://en.wikipedia.org/wiki/Binary_search_algorithm)">https://en.wikipedia.org/wiki/Binary_search_algorithm)</a> Accessed  5 Jan 2024. </p></li></ul><p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><br></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>

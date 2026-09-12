@@ -59,8 +59,8 @@ Staging URLs (these are temporary preview addresses — the real domain still po
 - Cloudflare Pages: `https://startresearching.pages.dev` (generated name)
 
 Steps (GitHub Pages path):
-1. Add a Pages deploy workflow (`.github/workflows/deploy.yml` running `npm run build`, publishing `dist/`), push to `main`.
-2. Repo Settings → Pages → Source: GitHub Actions (one-time).
+1. Deploy workflow exists (`.github/workflows/deploy.yml`): every push to `main` builds with `PAGES_BASE=/StartResearching` and publishes `dist/`.
+2. One-time: repo Settings → Pages → Source: GitHub Actions (or API-enable it).
 3. Every push to `main` redeploys in ~1–2 min. Share the staging URL with Sherri for approval.
 
 What to verify on staging: same checks as local (Section 2), plus phone/mobile layout, `sitemap.xml`/`robots.txt` present, and no Squarespace editor chrome leaking through.
@@ -80,7 +80,7 @@ Recommendation: **Cloudflare Pages** for production, **GitHub Pages** as zero-co
 
 ## 5. Go-live checklist (only after staging is approved)
 
-- [ ] Finish RSS → Markdown import, check top 10 posts + images
+- [x] Content import done (50 posts + 266 guide pages), top posts + images spot-checked
 - [ ] Add redirects for old Squarespace paths (`/10-steps`, `/databases/*`, etc.)
 - [ ] Lower DNS TTL to 5 min a day before cutover
 - [ ] Point `www` CNAME + apex records to new host, enforce HTTPS
@@ -126,8 +126,8 @@ Moved here from the old "What exists now" section; will be removed when done.
 - [x] Blog RSS staged in `tmp/*.xml` (~295KB) via `npm run import:squarespace`
 - [x] Local preview verified (`npm run preview`, 200 on `/` and `/blog/`)
 - [x] GitHub repo created: https://github.com/mikemas/StartResearching
-- [ ] Parse RSS → Markdown posts, preserve slugs
-- [ ] Add Pages deploy workflow + staging URL
+- [x] Parse RSS → Markdown posts, preserve slugs (50 published posts imported)
+- [x] Add Pages deploy workflow + staging URL
 - [ ] Redirects for old Squarespace paths
 - [ ] Staging review + Sherri approval
 - [ ] DNS cutover, verify, downgrade Squarespace

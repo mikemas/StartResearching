@@ -1,0 +1,858 @@
+---
+title: "How to Save Your Social Media Data "
+pubDate: 2025-01-01
+description: "by Sherri Mastrangelo, 31 December 2024 As you switch from X (formerly Twitter) to BlueSky or Threads, you may wish to download a history of your posts and conv"
+canonicalUrl: "https://www.startresearching.com/blog/how-to-save-your-social-media-data"
+
+---
+
+<div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1735671652048" id="item-67743eafce99921b6e15b180"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-a5726e053032a6ae7c4b"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline">by Sherri Mastrangelo, 31 December 2024</span></p><p class="" style="white-space:pre-wrap;">As you switch from X (formerly Twitter) to BlueSky or Threads, you may wish to download a history of your posts and conversations. And with the possible TikTok ban looming in the U.S., you may be aware that your content and saved video collections may not be available much longer. Whether you move on from a social media platform first, or the platform itself ghosts you - its probably a good idea to back up your valuable media every now and then. </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1735671652854_458807"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:940px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:62.553192138671875%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ead86f9b-0a16-43e1-8ba8-48224a860430/SOCIALMEDIA.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ead86f9b-0a16-43e1-8ba8-48224a860430/SOCIALMEDIA.png" data-image-dimensions="940x588" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ead86f9b-0a16-43e1-8ba8-48224a860430/SOCIALMEDIA.png" width="940" height="588" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ead86f9b-0a16-43e1-8ba8-48224a860430/SOCIALMEDIA.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ead86f9b-0a16-43e1-8ba8-48224a860430/SOCIALMEDIA.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ead86f9b-0a16-43e1-8ba8-48224a860430/SOCIALMEDIA.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ead86f9b-0a16-43e1-8ba8-48224a860430/SOCIALMEDIA.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ead86f9b-0a16-43e1-8ba8-48224a860430/SOCIALMEDIA.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ead86f9b-0a16-43e1-8ba8-48224a860430/SOCIALMEDIA.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ead86f9b-0a16-43e1-8ba8-48224a860430/SOCIALMEDIA.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption data-sqsp-image-classic-block-caption-container class="image-caption-wrapper">
+            <div class="image-caption"><p data-rte-preserve-empty="true" style="white-space:pre-wrap;"><em>                    All icons and logos are copyright of their respective companies. </em></p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1735671652854_459155"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;"><strong>Skip ahead to learn how to backup: </strong><a href="#TikTok" target=""><strong>TikTok</strong></a><strong> /  </strong><a href="#Instagram"><strong>Instagram</strong></a><strong> /  </strong><a href="#Facebook"><strong>Facebook</strong></a><strong> / </strong><a href="#YouTube" target=""><strong>YouTube</strong></a><strong> /  </strong><a href="#Snapchat"><strong>Snapchat</strong></a><strong>  / </strong><a href="#Twitter"><strong>X (Twitter)</strong></a> </p><p class="" style="white-space:pre-wrap;">Social media is a record of your personal life, events, thoughts, and connections. As an elder millennial, my early social media was AOL chatrooms and instant messenger, followed by LiveJournal (which is still up, surprisingly!) and Myspace, then the early days of Facebook. These days I mostly doom scroll TikTok and Instagram, post cute photos of my kids on my small family Facebook group, and follow friends on Threads. But I also use social media for genealogy! When not self-promoting Start Researching or reaching out to contacts, I also look utilize Facebook groups to help with genealogy research,  such as the <a href="https://www.facebook.com/groups/1579933362221582" target="_blank">Abruzzo and Molise (Italy) Genealogy Group</a>, or one of my personal groups of extended relatives that we use to share pictures of family members and ancestors. And think about how amazing it is - or would be - to find one of your ancestor’s diaries! Future generations may look back on social media the same way, with hopes of finding your profiles. <br><br></p><p class="" style="white-space:pre-wrap;">Here’s why you should save your media: </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Your images, videos, and content are valuable to you! While you may look back and cringe at old photos or captions, you may also cherish those memories.</p></li><li><p class="" style="white-space:pre-wrap;">Content you have saved, not just created, is also valuable to you (do you also have a million recipes saved on TikTok like I do?). </p></li><li><p class="" style="white-space:pre-wrap;">Your personal contacts and connections are important to you. You like social media for the reason it was intended, to stay in touch or follow the lives of your friends and family, and want to stay in touch. </p></li><li><p class="" style="white-space:pre-wrap;">You value other content creators and have grown attached to them (even if you do not personally interact with them) and wish to follow them on another platform.</p></li><li><p class="" style="white-space:pre-wrap;">You can’t trust the platform to be reliable:</p></li></ul><ul data-rte-list="default" style="margin-left:40px;"><li><p class="" style="white-space:pre-wrap;">Your own profile or page could be hacked or deleted without warning. You may also be subject to an account suspension or deactivation. </p></li><li><p class="" style="white-space:pre-wrap;">The platform may have an outage or lose data without warning (like when Myspace lost all of my photos). </p></li><li><p class="" style="white-space:pre-wrap;">The platform may shutdown, with or without warning.<br><br></p></li></ul><p class="" style="white-space:pre-wrap;">So what does “saving” look like? The majority of social media platforms have an option to export your data as an archival zip file from your account settings, but this may not include everything you want to save. For example, in Instagram and Facebook this may not include any photos that belong to other people, including photos you are tagged in. Another option is to save each image or video individually. Be sure to download high-res if possible. You can also take screenshots or image captures, especially if you want to capture the comments on a photo together with the image. Saving also looks like downloading your contacts so you can reach out to them or find them on another platform. </p><p class="" style="white-space:pre-wrap;">What about the <a href="https://web.archive.org/" target="_blank">WayBack Machine</a>? </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1735694349862_83900"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:943px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:71.68610382080078%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ab155bce-28ab-4e3d-abb8-7bcf03b5ecc5/thefacebook.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ab155bce-28ab-4e3d-abb8-7bcf03b5ecc5/thefacebook.png" data-image-dimensions="943x676" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ab155bce-28ab-4e3d-abb8-7bcf03b5ecc5/thefacebook.png" width="943" height="676" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ab155bce-28ab-4e3d-abb8-7bcf03b5ecc5/thefacebook.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ab155bce-28ab-4e3d-abb8-7bcf03b5ecc5/thefacebook.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ab155bce-28ab-4e3d-abb8-7bcf03b5ecc5/thefacebook.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ab155bce-28ab-4e3d-abb8-7bcf03b5ecc5/thefacebook.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ab155bce-28ab-4e3d-abb8-7bcf03b5ecc5/thefacebook.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ab155bce-28ab-4e3d-abb8-7bcf03b5ecc5/thefacebook.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/ab155bce-28ab-4e3d-abb8-7bcf03b5ecc5/thefacebook.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption data-sqsp-image-classic-block-caption-container class="image-caption-wrapper">
+            <div class="image-caption"><p data-rte-preserve-empty="true" style="white-space:pre-wrap;">Above: How “thefacebook” looked on February 12th, 2004, according to<a target="_blank" href="https://web.archive.org/web/20040212031928/http://www.thefacebook.com/"> a backup from The Wayback Machine</a>.</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1735694349862_84238"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">The WBM does not work for pages that were never indexed, or for most social media platforms that require a login. You’ll most likely be able to find the main login screen, which is still fun to look at! </p><p class="" style="white-space:pre-wrap;">Can you use the Wayback Machine to back up your information now? If you have a public blog or website, absolutely give it a try by pasting the link to your site in the “Save Page Now” feature. Give it a try with any of your public social media, but keep in mind it will not work for anything private that requires a login to view. Having just tried this again with Facebook, I can confirm it will not work and just saves a login screen. Another note: the Internet Archive and the Wayback Machine is also subject to outages, as we recently had. If it works, be sure to use a secondary backup form as well. </p><p class="" style="white-space:pre-wrap;">You may also try your hand at <a href="https://archiveweb.page/" target="_blank">ArchiveWeb.page </a>to back up your sites. </p><p class="" style="white-space:pre-wrap;">There also cloud services that run automatic backups of certain social media sites for a subscription fee, but be sure to check they cover the platforms you need before purchasing. </p><p class="" style="white-space:pre-wrap;">What can you do with this all this information and media you have backed up? </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">You may be able to transfer some of your data, including your contacts, to a new platform.</p></li><li><p class="" style="white-space:pre-wrap;">Store backups in your computer, or however you choose to organize your photos and videos.</p></li><li><p class="" style="white-space:pre-wrap;">Create a photo book as a way to showcase your images. </p></li><li><p class="" style="white-space:pre-wrap;">If you run a business, you may want to keep the data for legal archives or records. </p></li></ul><p class="" style="white-space:pre-wrap;"><br>Note - when you request a download from these platforms below, It may take a day or two (sometimes up to a month!) to process the request before you receive notification that your download is ready. Then <strong>the link is usually only good for 4 days</strong> so proceed as soon as possible. </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1735671652854_201729" id="block-yui_3_17_2_1_1735671652854_201729"><div class="sqs-block-content">
+  
+
+<div
+  class="sqs-code-container"
+  
+  
+    data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}"
+  
+  
+  
+  
+>
+  
+    <a id="TikTok"></a>
+  
+  
+
+
+
+</div>
+
+<style class="transform-overrides-vars">
+  
+</style>
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1735671652854_201849"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <h2 style="white-space:pre-wrap;"><span style="text-decoration:underline">TikTok</span></h2><p class="" style="white-space:pre-wrap;">With TikTok, follow the steps to download your data below, but also be sure to save your videos - either individually or in bulk with a tool. </p><p class="" style="white-space:pre-wrap;">Your data download can include your account info, your direct messages, your posts on TikTok, your follower information and accounts you follow, and your activity. Within the app: </p><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Profile &gt; Settings and Privacy &gt; Account &gt; Download your data </p></li><li><p class="" style="white-space:pre-wrap;">Select data to download. If you chose “All data” you will get more information than “custom”. </p></li><li><p class="" style="white-space:pre-wrap;">Select file type. </p></li><li><p class="" style="white-space:pre-wrap;">Request download.</p></li><li><p class="" style="white-space:pre-wrap;">When your download is ready, access it from the second tab, and download. </p></li></ol><p class="" style="white-space:pre-wrap;">As you are likely doing this from your phone app, you will want to download it to your phone’s files. I prefer to then email it to then save off my phone. </p><p class="" style="white-space:pre-wrap;">You can also download videos individually, by “saving video” to your phone, which will keep the TikTok watermark. If you wish to save without the watermark, <strong>use a tool like SnapTik.</strong>  </p><p class="" style="white-space:pre-wrap;">For batch downloading, there are other tools you can try from browser extensions to apps (<a href="https://multimedia.easeus.com/brand/video-downloader/index.html?gad_source=1&amp;gclid=Cj0KCQiAyc67BhDSARIsAM95QztSK-MhVELWeEX0ShlVBZowS6yt8WchU5Ad0SPujc8ouac0pRZrv44aAlF7EALw_wcB" target="_blank">EaseUS Video Downloader</a> may work, though I have not tested). There is also <a href="https://help.recime.app/getting-started/3hfwkf6GH8hXhESCpg25Le/import-from-tiktok/3hfwkf6GH4D5XWZb5ZkbPr" target="_blank">a recipe organizer called ReciMe</a> that allows you to import tiktok video recipes, though I believe it just scrapes the recipe itself.  </p><p class="" style="white-space:pre-wrap;">Keep in mind these tools are not likely to work on private accounts you follow. TikTok’s terms of service also say not to download copyrighted content without permission, but the important thing is not to share or reupload the content you download from others.  </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1735671652854_205386" id="block-yui_3_17_2_1_1735671652854_205386"><div class="sqs-block-content">
+  
+
+<div
+  class="sqs-code-container"
+  
+  
+    data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}"
+  
+  
+  
+  
+>
+  
+    <a id="Instagram"></a>
+  
+  
+
+
+
+</div>
+
+<style class="transform-overrides-vars">
+  
+</style>
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1735671652854_205452"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <h2 style="white-space:pre-wrap;"><span style="text-decoration:underline">Instagram</span> </h2><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Settings &gt; Account Center &gt; Your information and permissions &gt; Download your information</p></li><li><p class="" style="white-space:pre-wrap;">Choose accounts and profiles</p></li><li><p class="" style="white-space:pre-wrap;">Choose all or some information</p></li><li><p class="" style="white-space:pre-wrap;">Download to device (choose date range, email, format, and media quality) or transfer to destination (Google Drive, Dropbox).</p></li></ol><p class="" style="white-space:pre-wrap;"> If you are doing this from your phone, find the download and email to yourself or upload to a secondary storage, like Google Drive (preferably more than one location as backup). </p><p class="" style="white-space:pre-wrap;"><strong>This data download will not include photos you are tagged in, nor will it include other people’s photos.</strong> </p><p class="" style="white-space:pre-wrap;">While you can save to your collections within Instagram, this does not save to your camera roll. <strong>The only real option to save photos is to take screenshots of images you wish to save.</strong> </p><p class="" style="white-space:pre-wrap;">Third-party tools like <a href="https://saveinsta.to/en" target="_blank">SaveInsta</a> or <a href="https://toolzu.com/downloader/instagram/video/" target="_blank">Toolzu</a> may be helpful, but use at your own risk. </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1735671652854_206884" id="block-yui_3_17_2_1_1735671652854_206884"><div class="sqs-block-content">
+  
+
+<div
+  class="sqs-code-container"
+  
+  
+    data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}"
+  
+  
+  
+  
+>
+  
+    <a id="Facebook"></a>
+  
+  
+
+
+
+</div>
+
+<style class="transform-overrides-vars">
+  
+</style>
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1735671652854_206950"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <h2 style="white-space:pre-wrap;"><span style="text-decoration:underline">Facebook</span> </h2><p class="" style="white-space:pre-wrap;">Note that mobile devices might differ from web, and that Facebook is often moving this navigation and link menu around. </p><p style="margin-left:40px;white-space:pre-wrap;" class=""><br>1. Menu &gt; Settings &gt; Account Center &gt; Your information and permissions &gt; Download your information</p><p style="margin-left:40px;white-space:pre-wrap;" class="">2. Download information &gt; Facebook &gt; Available information (or Specific types) &gt; Download to device (choose date range, email, format, and media quality) &gt; Create files</p><p class="" style="white-space:pre-wrap;"> <br>Again, your download will not include any photos you are tagged in, or other people’s photos. You might also be missing captions, or text you included with photo albums. I also recommend saving video files directly from Facebook, as their video archive playback is a little wonky. </p><p class="" style="white-space:pre-wrap;">Don’t forget to save information directly from any of your groups, or any of your friends photos you wish to save. </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1735671652854_207816" id="block-yui_3_17_2_1_1735671652854_207816"><div class="sqs-block-content">
+  
+
+<div
+  class="sqs-code-container"
+  
+  
+    data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}"
+  
+  
+  
+  
+>
+  
+    <a id="YouTube"></a>
+  
+  
+
+
+
+</div>
+
+<style class="transform-overrides-vars">
+  
+</style>
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1735671652854_207881"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <h2 style="white-space:pre-wrap;"><span style="text-decoration:underline">YouTube</span></h2><p class="" style="white-space:pre-wrap;">You can use <a href="https://studio.youtube.com/channel/UCP_wYQS96uvGz458LNOZBDA" target="_blank">YouTube Studio</a> to download videos that you have uploaded to YouTube, or <a href="https://takeout.google.com/" target="_blank">Google Takeout</a>. </p><p class="" style="white-space:pre-wrap;">This does not work to download other people’s YouTube videos. You can watch them offline with a premium membership, or try third-party tools to download videos (with permission). </p><p class="" style="white-space:pre-wrap;">If your account is suspended, you cannot download your own data. <br><br>Looking for a deleted video? Try the Wayback Machine or on reddit, ask in <a href="https://www.reddit.com/r/DHExchange/" target="_blank">r/DHExchange </a></p><p class="" style="white-space:pre-wrap;">See also: <a href="https://github.com/yt-dlp/yt-dlp" target="_blank">yt-dlp on github</a></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1735671652854_208806" id="block-yui_3_17_2_1_1735671652854_208806"><div class="sqs-block-content">
+  
+
+<div
+  class="sqs-code-container"
+  
+  
+    data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}"
+  
+  
+  
+  
+>
+  
+    <a id="Snapchat"></a>
+  
+  
+
+
+
+</div>
+
+<style class="transform-overrides-vars">
+  
+</style>
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1735671652854_208872"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <h2 style="white-space:pre-wrap;"><span style="text-decoration:underline">Snapchat</span></h2><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">My Data &gt; Select data, email address, date range, and submit</p></li></ol><p class="" style="white-space:pre-wrap;">Snapchat’s export service works best on a computer, rather than a mobile device, as it can be a big file. </p><p class="" style="white-space:pre-wrap;">Snapchat also has features like Memories and Smart-Backup, which you should ensure are enabled. You can also save individual snaps and stories by downloading to your phone. </p><p class="" style="white-space:pre-wrap;">Snapchat does not include chats in their archiving service, but have been known to send chat archives through support requests.  </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/562628f5-6e94-47cd-834e-46972d2f419c_949/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1735671652854_364206" id="block-yui_3_17_2_1_1735671652854_364206"><div class="sqs-block-content">
+  
+
+<div
+  class="sqs-code-container"
+  
+  
+    data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}"
+  
+  
+  
+  
+>
+  
+    <a id="Twitter"></a>
+  
+  
+
+
+
+</div>
+
+<style class="transform-overrides-vars">
+  
+</style>
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1735671652854_364275"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <h2 style="white-space:pre-wrap;"><br><span style="text-decoration:underline">X (formerly Twitter)</span> </h2><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Profile &gt; Settings and privacy &gt; Your Account &gt; Download an archive of your data &gt; Download archive &gt; Download</p></li></ol><p class="" style="white-space:pre-wrap;">You may have to sign in again with your password at the download stage. </p><p class="" style="white-space:pre-wrap;">People have had the most success backing up thousands of their “tweets” with various third-party apps (<a href="https://circleboom.com/twitter-management-tool/twitter-search-tool/export-tweets" target="_blank">Circleboom</a>, <a href="https://www.tweetbinder.com/" target="_blank">Tweet Binder</a>) or chrome extensions (<a href="https://chromewebstore.google.com/detail/twexportly-export-tweets/hbibehafoapglhcgfhlpifagloecmhfh" target="_blank">TwExportly</a>).  Note that some, like Tweet Binder, have a cost.</p><p class="" style="white-space:pre-wrap;"> </p><p class="" style="white-space:pre-wrap;"><br>As a bonus, here’s how friendster’s login page looked on June 1, 2005, more than 24 years ago:</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1735694349862_216564"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1049px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:83.31744384765625%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/907ec937-5924-4290-a318-1c03b5dfc647/friendster.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/907ec937-5924-4290-a318-1c03b5dfc647/friendster.png" data-image-dimensions="1049x874" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/907ec937-5924-4290-a318-1c03b5dfc647/friendster.png" width="1049" height="874" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/907ec937-5924-4290-a318-1c03b5dfc647/friendster.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/907ec937-5924-4290-a318-1c03b5dfc647/friendster.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/907ec937-5924-4290-a318-1c03b5dfc647/friendster.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/907ec937-5924-4290-a318-1c03b5dfc647/friendster.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/907ec937-5924-4290-a318-1c03b5dfc647/friendster.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/907ec937-5924-4290-a318-1c03b5dfc647/friendster.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/907ec937-5924-4290-a318-1c03b5dfc647/friendster.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption data-sqsp-image-classic-block-caption-container class="image-caption-wrapper">
+            <div class="image-caption"><p data-rte-preserve-empty="true" style="white-space:pre-wrap;">Screenshot from the Wayback Machine. </p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1735694349862_216892"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;"><br></p><p class="" style="white-space:pre-wrap;"><br></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>

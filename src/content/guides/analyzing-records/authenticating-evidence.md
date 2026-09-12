@@ -1,0 +1,35 @@
+---
+title: "Analyzing Records"
+description: "During our investigative research, we analyze records quickly as we search through collections looking for matches, and then again when we find a record that lo"
+canonicalUrl: "https://www.startresearching.com/analyzing-records/authenticating-evidence"
+
+---
+
+<div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1597190536163" id="item-5f3331756949c2475d8ae53f"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-dc9eb8f1d505c2321ba8"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">During our investigative research, we analyze records quickly as we search through collections looking for matches, and then again when we find a record that looks promising. At this stage, we are basically asking if the record is that of our ancestor (or research subject) or not. &nbsp;Even if a record has the same name as our subject there is the chance that this record is referring to someone else of the same name. There are few things we look for to help authenticate the record as belonging to our ancestor: </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">The same (or similar) name, age, general location, and address. The more things we match to other pieces of evidence the better. </p></li><li><p class="" style="white-space:pre-wrap;">Generational linking: the document shows the parent and child relationship with the full names of both generations</p></li><li><p class="" style="white-space:pre-wrap;">Other names or pieces of information we can link to other evidence, including names of spouses, relatives, and neighbors</p></li></ul><p class="" style="white-space:pre-wrap;"> We are then left with a handful of records, each with a varying degree of likelihood that it matches the person we are researching. We need to take a deeper look at these records to confirm the match, and also to establish that the source is reliable, and to what degree<strong> </strong>. See <a href="/types-of-sources">Types of Sources</a> for how to rate the reliability of a record. Examining the record closely like this is part of <strong>source analysis</strong>. This also involves looking at the physical aspects of the record to see if it could be incomplete for any reason, such as a rip in the corner, or an improperly photocopied document. If it is an index, a transcript, or an abstract there could be an original document out there that tells us more information. If the document is loosely bound, there could be additional pages. </p><p class="" style="white-space:pre-wrap;">After we answer these questions, we then look at the evidence and figure out what it tells us. This can be referred to as <strong>information analysis</strong>. Does it change what we know about our ancestors’ life or that of their family members? Does it give us new directions to search for more records? Does it give us a problem we need to solve, or a question we need to answer? Are there clues in this record we don’t see at first glance? </p><p class="" style="white-space:pre-wrap;">Furthermore, to what degree is the evidence itself reliable, or subject to errors? </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Who was the informant for the record, or who created it? Did they have a strong first hand knowledge about the event, or any reason to stretch the truth? Are they an expert in the subject matter? </p></li><li><p class="" style="white-space:pre-wrap;">Why was this record created? Could there be a hidden agenda or motive for someone to change details or leave out information? Basically anything related to money, from pensions to wills, should be scrutinized at length. </p></li><li><p class="" style="white-space:pre-wrap;">When was the record created? Records made closer to the event are less likely to have errors. </p></li><li><p class="" style="white-space:pre-wrap;">Is the information you are pulling for evidence primary for the event? A birth date on a birth certificate would be considered strong evidence, while a birth date taken from a naturalization record would be considered not primary for the event, and therefore less reliable evidence. </p></li></ul><p class="" style="white-space:pre-wrap;">All this time we are taking in-depth research notes about where we have researched and what we have found, and tracking our sources with accurate citation notes. We analyze a record, record the evidence, and search for more records until we have a complete picture of our ancestor’s lives. Finally, take a look at the whole picture and test all of the evidence together to look for conflicts, errors, or missing information (see: <a href="/correlating-evidence">Correlating Evidence</a>) . Do we have multiple sources that point to the same evidence, that’s free of contradictions? Are all of our sources reliable? If so, you are ready to write your conclusion and move on to your next research project. </p><p class="" style="white-space:pre-wrap;"><br>See: <a href="https://red-brass-j2gh.squarespace.com/citing-sources" target="_blank">Citing Sources</a> and <a href="https://red-brass-j2gh.squarespace.com/typesofsources" target="_blank">Types of Sources</a> and <a href="/gps">The GPS</a></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;"><strong>Additional References: </strong></p><p class="" style="white-space:pre-wrap;">Board for Certification of Genealogists, <em>Genealogy Standards</em>, 2nd Edition. Washington, D.C.: Ancestry.com, 2019.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div></div></div>

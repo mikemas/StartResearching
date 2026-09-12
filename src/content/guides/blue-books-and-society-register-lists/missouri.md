@@ -1,0 +1,79 @@
+---
+title: "Blue Books &amp; Society Lists: Missouri"
+description: "Blue Book of St. Joseph, Missouri and fifty miles around, 1905 - FamilySearch Gilt Edge: Residents of St. Louis, Mo. 1889 - HathiTrust Digital Library Hoye\u2019s Bl"
+canonicalUrl: "https://www.startresearching.com/blue-books-and-society-register-lists/missouri"
+
+---
+
+<div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1631326327945" id="item-613c105c22c62f660b4326a9"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-11a6f5feb0b420f92bcd"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/search/catalog/2045394"><span style="text-decoration:underline">Blue Book of St. Joseph, Missouri and fifty miles around, 1905</span></a> - FamilySearch</p></li></ul><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"><a href="https://babel.hathitrust.org/cgi/pt?id=hvd.hx4ue7&amp;seq=6&amp;skin=2021&amp;view=1up">Gilt Edge: Residents of St. Louis, Mo. 1889</a> - HathiTrust Digital Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/library/books/records/item/424452-hoye-s-blue-book-1890-1891?viewer=1&amp;offset=0#page=1&amp;viewer=picture&amp;o=&amp;n=0&amp;q="><span style="text-decoration:underline">Hoye’s Blue Book of Kansas City, Season of 1890 - 1891</span></a> - FamilySearch</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/library/books/records/item/428693-redirection"><span style="text-decoration:underline">Hoye’s Blue Book of Kansas City, Season of 1891 - 1892</span></a> - FamilySearch</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/library/books/records/item/420807-redirection"><span style="text-decoration:underline">Hoye’s Blue Book of Kansas City, 1903</span></a> - FamilySearch</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/library/books/records/item/428635-redirection"><span style="text-decoration:underline">Hoye’s Blue Book of Kansas City, 1907 - 1908</span></a> - FamilySearch</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/library/books/records/item/607475-kansas-city-blue-book-and-club-directory-1914-1915?viewer=1&amp;offset=0#page=5&amp;viewer=picture&amp;o=&amp;n=0&amp;q="><span style="text-decoration:underline">Kansas City Blue Book and Club Directory, 1914 - 1915</span></a> - FamilySearch</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/library/books/records/item/636830-redirection"><span style="text-decoration:underline">Kansas City Social Register, 1932 - 1933</span></a> -&nbsp; FamilySearch</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/library/books/records/item/636831-redirection"><span style="text-decoration:underline">Kansas City Social Register, 1936</span></a> - FamilySearch</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/library/books/records/item/636832-redirection"><span style="text-decoration:underline">Kansas City Social Register, 1937</span></a> - FamilySearch</p></li><li><p class="" style="white-space:pre-wrap;"><a href="http://www.familysearch.org/library/books/idurl/1/636833"><span style="text-decoration:underline">Kansas City Social Register, 1938</span></a> - FamilySearch</p></li><li><p class="" style="white-space:pre-wrap;"><a href="http://www.familysearch.org/library/books/idurl/1/636834"><span style="text-decoration:underline">Kansas City Social Register, 1939</span></a> - FamilySearch</p></li><li><p class="" style="white-space:pre-wrap;"><a href="http://www.familysearch.org/library/books/idurl/1/636835"><span style="text-decoration:underline">Kansas City Social Register, 1940</span></a> - FamilySearch</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/library/books/records/item/636836-redirection"><span style="text-decoration:underline">Kansas City Social Register, 1941</span></a> - FamilySearch</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/library/books/records/item/636837-redirection"><span style="text-decoration:underline">Kansas City Social Register, 1942</span></a> - FamilySearch</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/library/books/records/item/636838-redirection"><span style="text-decoration:underline">Kansas City Social Register, 1944</span></a> - FamilySearch</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/library/books/records/item/636839-redirection"><span style="text-decoration:underline">Kansas City Social Register, 1946</span></a> - FamilySearch</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/library/books/records/item/636840-redirection"><span style="text-decoration:underline">Kansas City Social Register, 1947</span></a> - FamilySearch</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/library/books/records/item/636841-redirection"><span style="text-decoration:underline">Kansas City Social Register, 1948</span></a> - FamilySearch</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/library/books/records/item/636842-redirection"><span style="text-decoration:underline">Kansas City Social Register, 1949</span></a> - FamilySearch</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/library/books/records/item/636843-redirection"><span style="text-decoration:underline">Kansas City Social Register, 1950 - 1951</span></a> - FamilySearch</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/library/books/records/item/636844-redirection"><span style="text-decoration:underline">Kansas City Social Register, 1962</span></a> - FamilySearch</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://archive.org/details/socialregisterof00weak/page/n3/mode/2up"><span style="text-decoration:underline">Social Register of Saint Joseph Missouri, 1903</span></a> - Internet Archive</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://hdl.handle.net/2027/hvd.hn4h21"><span style="text-decoration:underline">Social Register, St. Louis, 1903</span></a> - HathiTrust Digital Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://hdl.handle.net/2027/hvd.hn4h3k"><span style="text-decoration:underline">Social Register, St. Louis, 1904</span></a> - HathiTrust Digital Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://hdl.handle.net/2027/hvd.hn4h2x"><span style="text-decoration:underline">Social Register, St. Louis, 1905</span></a> - HathiTrust Digital Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://hdl.handle.net/2027/hvd.hn4h2w"><span style="text-decoration:underline">Social Register, St. Louis, 1906</span></a> - HathiTrust Digital Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://hdl.handle.net/2027/uiug.30112107842996"><span style="text-decoration:underline">Social Register, St. Louis, 1907</span></a> - HathiTrust Digital Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://hdl.handle.net/2027/hvd.hn4h2u"><span style="text-decoration:underline">Social Register, St. Louis, 1908</span></a> - HathiTrust Digital Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://hdl.handle.net/2027/hvd.hn4h2t"><span style="text-decoration:underline">Social Register, St. Louis, 1909 </span></a>- HathiTrust Digital Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://hdl.handle.net/2027/hvd.hn4h2s"><span style="text-decoration:underline">Social Register, St. Louis, 1910</span></a> - HathiTrust Digital Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://hdl.handle.net/2027/hvd.hn4h2r"><span style="text-decoration:underline">Social Register, St. Louis, 1911</span></a> - HathiTrust Digital Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://hdl.handle.net/2027/uiug.30112086385546"><span style="text-decoration:underline">Social Register, St. Louis, 1912</span></a> - HathiTrust Digital Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://hdl.handle.net/2027/hvd.hn4h2p"><span style="text-decoration:underline">Social Register, St. Louis, 1913</span></a> - HathiTrust Digital Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://hdl.handle.net/2027/uiug.30112107843002"><span style="text-decoration:underline">Social Register, St. Louis, 1914</span></a> - HathiTrust Digital Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://hdl.handle.net/2027/uiug.30112107843010"><span style="text-decoration:underline">Social Register, St. Louis, 1915</span></a> - HathiTrust Digital Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://hdl.handle.net/2027/hvd.hn4h2l"><span style="text-decoration:underline">Social Register, St. Louis, 1916</span></a> - HathiTrust Digital Library</p></li><li><p class="" style="white-space:pre-wrap;"><a href="https://www.familysearch.org/library/books/records/item/335336-st-joseph-blue-book-and-elite-directory-1893?viewer=1&amp;offset=0#page=2&amp;viewer=picture&amp;o=&amp;n=0&amp;q="><span style="text-decoration:underline">St. Joseph Blue Book and Elite Directory, Season 1893 - 1894</span></a> - FamilySearch</p></li></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-horizontalrule horizontalrule-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.horizontalrule/1c8ea4ed-0373-4f0a-9bb4-2cc767e044eb_271/website.components.horizontalrule.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.horizontalrule/1c8ea4ed-0373-4f0a-9bb4-2cc767e044eb_271/website.components.horizontalrule.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.horizontalrule" data-sqsp-block="line" data-website-component-id="yui_3_17_2_1_1631325496156_430981" id="block-yui_3_17_2_1_1631325496156_430981"><div class="sqs-block-content">
+  
+
+
+<div>
+  <hr />
+  
+    <style class="transform-overrides-vars">
+  
+</style>
+
+    
+
+
+
+  
+</div>
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1631325496156_431398"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;"><a href="/blue-books-and-society-register-lists/california">California</a> - <a href="/blue-books-and-society-register-lists/illinois">Illinois</a> - <a href="/blue-books-and-society-register-lists/maryland">Maryland </a>- <a href="/blue-books-and-society-register-lists/massachusetts">Massachusetts</a> - Missouri -  <a href="/blue-books-and-society-register-lists/new-york">New York</a> - <a href="/blue-books-and-society-register-lists/ohio">Ohio </a>-  <a href="/blue-books-and-society-register-lists/pennsylvania">Pennsylvania</a></p><p class="" style="white-space:pre-wrap;"><a href="/blue-books-and-society-register-lists/all-other-states">All Other States (including Alabama, Colorado, Connecticut, Florida, Indiana, Iowa, Louisiana, Michigan, New Jersey, North Carolina, Oklahoma, Oregon, Rhode Island, Texas, Washington State, Washington D.C., Wisconsin)</a></p><p class="" style="white-space:pre-wrap;"><a href="/blue-books-and-society-register-lists/national-or-multiple-states">National or Multiple States (including the Summer Social Register and others)</a></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;"><a href="/records">Records</a> &gt; <a href="/blue-books-and-society-register-lists/blue-books-and-society">Blue Books &amp; Society Lists</a></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div></div></div>

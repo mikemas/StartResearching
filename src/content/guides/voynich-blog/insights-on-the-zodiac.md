@@ -1,0 +1,456 @@
+---
+title: "The Voynich Zodiac &amp; the Labors of the Months"
+description: "by Sherri Mastrangelo, 7 March 2025 (edited 8 March). Perhaps this is a new insight, or perhaps it is not. The vast wealth of research on the Voynich Manuscript"
+canonicalUrl: "https://www.startresearching.com/voynich-blog/insights-on-the-zodiac"
+
+---
+
+<div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1741243109914" id="item-67c9404e37c4342c3486df58"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-eb4632314499566af294"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>by Sherri Mastrangelo, 7 March 2025 (edited 8 March).</strong></span></p><p class="" style="white-space:pre-wrap;">Perhaps this is a new insight, or perhaps it is not. The vast wealth of research on the Voynich Manuscript is difficult to parse completely, as is the manuscript itself, though I am attempting both! </p><p class="" style="white-space:pre-wrap;">I’m starting my first thought somewhat in the middle, in the Zodiac section, from Beinecke Folio 70v through 73v, of the twelve circles representing various zodiac signs and months (with two repeated, and two missing), and I propose a meaning behind this section that is either agricultural or medicinal. </p><p class="" style="white-space:pre-wrap;">The first circle shows two fish, a sign of Pisces (70v1), and in medieval astrology Pisces is affiliated with the month of February. Yet here someone has labeled (what appears to be) ‘March’. The signs and months continue, slightly off kilter, but in order. Aries / March yet labeled April, Taurus / April labeled as May, Gemini / May labeled June, and so on, through the scales of Libra / September shown as the month of October.  Aries appears twice, as does Taurus. Missing are Capricorn / December and Aquarius / January. </p><p class="" style="white-space:pre-wrap;">These labeled names are not incorrect, but they are <strong>simplified</strong>, to show purpose, as was done in similar texts of the time that were written as agriculture or medicinal guides. For example, in part of 72v we see the image of the scales in the center of the circle, labeled with (what appears to be) ‘October’. The scales are associated with the sign of Libra, which occurs about September 23 through October 22 - so largely in the month of October. <strong>If you are writing a guide related to the best times for planting or harvesting, or to perform a ritual, experiment, or health practice, you would generalize the time -</strong> it wouldn’t be an exact date. </p><p class="" style="white-space:pre-wrap;">We can also see this depicted in medieval <a href="https://en.wikipedia.org/wiki/Labours_of_the_Months" target="_blank">‘Labours of the Months’ </a>artwork, such as the <a href="https://chateaudechantilly.fr/en/collection/the-tres-riches-heures-du-duc-de-berry/" target="_blank">The Très Riches Heures du Duc de Berry</a> (est. between 1412 - 1416), and in many other versions of the Books of Hours from the early 15th century. I’ve seen blog posts about comparisons between the zodiac symbols of these works and the Voynich, but not on the parallels of labors within the months.</p><p class="" style="white-space:pre-wrap;">In these works, April was typically associated with planting. <strong>Perhaps this is why April and May were included twice - the most important, or work heavy, time of year.</strong> I feel this also helps to tie the botanical section with the zodiac a bit more as well.    </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1741316572380_51271"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:940px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:83.82978820800781%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/6e76a8c7-0552-4c33-bd6c-a003729869bd/Pisces++February+simplified+the+%E2%80%9CMarch%E2%80%9D+task%2C+time+to+plow+the+fields.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/6e76a8c7-0552-4c33-bd6c-a003729869bd/Pisces++February+simplified+the+%E2%80%9CMarch%E2%80%9D+task%2C+time+to+plow+the+fields.png" data-image-dimensions="940x788" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/6e76a8c7-0552-4c33-bd6c-a003729869bd/Pisces++February+simplified+the+%E2%80%9CMarch%E2%80%9D+task%2C+time+to+plow+the+fields.png" width="940" height="788" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/6e76a8c7-0552-4c33-bd6c-a003729869bd/Pisces++February+simplified+the+%E2%80%9CMarch%E2%80%9D+task%2C+time+to+plow+the+fields.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/6e76a8c7-0552-4c33-bd6c-a003729869bd/Pisces++February+simplified+the+%E2%80%9CMarch%E2%80%9D+task%2C+time+to+plow+the+fields.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/6e76a8c7-0552-4c33-bd6c-a003729869bd/Pisces++February+simplified+the+%E2%80%9CMarch%E2%80%9D+task%2C+time+to+plow+the+fields.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/6e76a8c7-0552-4c33-bd6c-a003729869bd/Pisces++February+simplified+the+%E2%80%9CMarch%E2%80%9D+task%2C+time+to+plow+the+fields.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/6e76a8c7-0552-4c33-bd6c-a003729869bd/Pisces++February+simplified+the+%E2%80%9CMarch%E2%80%9D+task%2C+time+to+plow+the+fields.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/6e76a8c7-0552-4c33-bd6c-a003729869bd/Pisces++February+simplified+the+%E2%80%9CMarch%E2%80%9D+task%2C+time+to+plow+the+fields.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/6e76a8c7-0552-4c33-bd6c-a003729869bd/Pisces++February+simplified+the+%E2%80%9CMarch%E2%80%9D+task%2C+time+to+plow+the+fields.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption data-sqsp-image-classic-block-caption-container class="image-caption-wrapper">
+            <div class="image-caption"><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;">Above left: an excerpt of folio 70v of the Voynich Manuscript, and above right: a page from the Book of Hours, showing that this is the time of year for sowing the fields.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"><strong>It’s also important to note that the “new year” did not fall in January, but in March, which is why our zodiac in the Voynich starts with Pisces (March simplified). Specifically, on the Christian holiday of March 25th, the “Feast of the Annunciation”. </strong>In Christianity, this holiday celebrates when the Archangel Gabriel told Mary she would be the mother of Jesus. I am not linking the Voynich with Christianity here, only that the start of the year would have been in March. The start of the calendar year on March 25th is called <a target="_blank" href="https://it.wikipedia.org/wiki/Stile_dell%27Incarnazione">Incarnation Style. </a>Though Pope Gregory XIII introduced the Gregorian calendar in 1582, it still wasn’t used in much of Italy and Europe until 1750, when the New Year was changed to January 1st.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;">The start of the new year was marked with a sundial (perhaps figured on 67r2 - the page with rubricated text and 12 words arranged in a circle, or perhaps depicted as the tiny ‘clock’ on the large foldout around 85v), in buildings, when the light of the sun reached through a church window and hit the altar at midday.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;">Labors of the Months existed not just in books and manuscripts, but in carvings and artifacts of buildings as well. Some with the zodiac symbols, some without. A few examples:</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"><a target="_blank" href="https://collections.vam.ac.uk/item/O7615/labours-of-the-months-panel-unknown/#:~:text=They%20also%20appear%20in%20illuminated,class%20and%20their%20agricultural%20labourers.">Window roundel of the month of August, circa 1450-1475</a></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"><a target="_blank" href="https://www.vam.ac.uk/blog/museum-life/twenty-objects-twenty-years-labours-months-florence-c1450?srsltid=AfmBOoqjJtA2pzqLWd6j6LXXVUObOeFWgAD8M9-VwnmlLKMCgCyxv61B">Labours of the Months, by Luca della Robbia, from the ceiling of the Medici Palace, circa 1450s</a></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"><a target="_blank" href="https://collections.vam.ac.uk/item/O101184/the-labours-of-the-months-tapestry-unknown/">Labours of the Months, tapestry from Alsace, ca 1450</a></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"><a target="_blank" href="https://web.astronomicalheritage.net/show-entity?identity=33&amp;idsubentity=1">Strasbourg Cathedral, France, occupations with zodiac on facade, late 13th to early 14th century (along with many astronomical sundials and clocks)</a></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"><a target="_blank" href="https://www.durhamworldheritagesite.com/learn/architecture/romanesque/display/st-augustine-church">St. Augustine’s Church in Kent, 12th Century</a></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"><a target="_blank" href="https://en.wikipedia.org/wiki/Zodiac_mosaics_in_ancient_synagogues#/media/File:Mosaicootranto.jpg">Labors of the Months with Zodiac in floor mosaic of the Otranto Cathedral, 1166</a></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"><a target="_blank" href="https://www.medart.pitt.edu/menufrance/vezelay/portals/vezmportalzodiac.html">Zodiac signs and Labors of the Months in France, Church of Sante-Marie-Madeleine</a></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;">Which months were associated with which tasks? Lisa L. Spangenberg has<a target="_blank" href="https://www.digitalmedievalist.com/things/manuscripts/books-of-hours/labors-of-the-months/"> a summary on digitalmedievalist.com </a>that includes planting in April, wheat harvesting in July, and so on. It is also important to note that the time the tasks were done may have changed depending on the climate of the region. For example, when it was warmer in the north, the fields may have been worked earlier than in the south. Furthermore, the tasks may have changed depending on what was being produced, like wine or wheat.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;">In addition to the labors of the months, these pages typically featured: holidays, saints’ feast days or birthdays, or other local events. You can <a target="_blank" href="https://arca.irht.cnrs.fr/iiif/4856/canvas/canvas-2045964/view">view all pages of the Tres Riches Heures Du Duc De Berry here</a></p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1741464475452_70088"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:940px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:83.82978820800781%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/b0909822-88ae-4a46-988e-7764e51edac7/roun+compare.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/b0909822-88ae-4a46-988e-7764e51edac7/roun+compare.png" data-image-dimensions="940x788" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/b0909822-88ae-4a46-988e-7764e51edac7/roun+compare.png" width="940" height="788" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/b0909822-88ae-4a46-988e-7764e51edac7/roun+compare.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/b0909822-88ae-4a46-988e-7764e51edac7/roun+compare.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/b0909822-88ae-4a46-988e-7764e51edac7/roun+compare.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/b0909822-88ae-4a46-988e-7764e51edac7/roun+compare.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/b0909822-88ae-4a46-988e-7764e51edac7/roun+compare.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/b0909822-88ae-4a46-988e-7764e51edac7/roun+compare.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/b0909822-88ae-4a46-988e-7764e51edac7/roun+compare.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption data-sqsp-image-classic-block-caption-container class="image-caption-wrapper">
+            <div class="image-caption"><p data-rte-preserve-empty="true" style="white-space:pre-wrap;">Above: similarities shown between various Books of Hours (upper right: <a target="_blank" href="https://bibliophilly.library.upenn.edu/viewer.php?id=Lewis%20E%20126#page/14/mode/2up">“Use of Rouen”</a>) and the Voynich figures in barrels.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;">Below: another 15th century manuscript, the <strong>Taccuinum Sanitatis, </strong>shows a pattern of herbal pages followed by a section about related work and occupations. (The images below are excerpts and not side by side in the manuscript). <a target="_blank" href="https://digitalcollections.nypl.org/items/b248e800-1326-0131-509d-58d385a7bbd0#/?uuid=2b3002d0-3466-0131-89c2-58d385a7bbd0">View online in The New York Public Library Digital Collections</a></p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1741406362870_3598"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:770px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:70%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/d727b67e-2671-4ffe-ba6e-6f3c95d20a45/tacc.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/d727b67e-2671-4ffe-ba6e-6f3c95d20a45/tacc.png" data-image-dimensions="770x539" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/d727b67e-2671-4ffe-ba6e-6f3c95d20a45/tacc.png" width="770" height="539" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/d727b67e-2671-4ffe-ba6e-6f3c95d20a45/tacc.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/d727b67e-2671-4ffe-ba6e-6f3c95d20a45/tacc.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/d727b67e-2671-4ffe-ba6e-6f3c95d20a45/tacc.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/d727b67e-2671-4ffe-ba6e-6f3c95d20a45/tacc.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/d727b67e-2671-4ffe-ba6e-6f3c95d20a45/tacc.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/d727b67e-2671-4ffe-ba6e-6f3c95d20a45/tacc.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/d727b67e-2671-4ffe-ba6e-6f3c95d20a45/tacc.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1741406362870_12346"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">Thoughts about this? Do you think the zodiac featured in the Voynich could be an agricultural “labors of the months” of sorts? </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>

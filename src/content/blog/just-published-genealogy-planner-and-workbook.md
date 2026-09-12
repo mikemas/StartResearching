@@ -1,0 +1,505 @@
+---
+title: "Win a Copy of My Just Published \"Genealogy Planner and Workbook\"!"
+pubDate: 2021-08-05
+description: "UPDATE SEPT 2021: This giveaway has ended, congratulations to our winner! I\u2019m so excited to announce my first publication, Genealogy Planner and Workbook: Recor"
+canonicalUrl: "https://www.startresearching.com/blog/just-published-genealogy-planner-and-workbook"
+
+---
+
+<div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1627509457475" id="item-6101d25d7c3ad446fa4a128b"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-e6641fcd10952d118176"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;"><strong>UPDATE SEPT 2021: This giveaway has ended, congratulations to our winner! </strong></p><p class="" style="white-space:pre-wrap;">I’m so excited to announce my first publication, <a href="https://amzn.to/3jeVooz" target="_blank">Genealogy Planner and Workbook: Record Your Research Notes Efficiently</a>, is now available for purchase on Amazon! And to celebrate, I’m doing another giveaway!  </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1627589538380_22157"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:2000px;"
+        >
+          
+        
+        
+
+        
+          <a
+              data-sqsp-image-classic-block-image-link
+              class="
+                sqs-block-image-link
+                
+          
+        
+              "
+              href="https://amzn.to/3f9XbKg"
+              target="_blank"
+          >
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:80%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627589644933-9A1VAGGI45B71MZK15RI/Hello%2C+Gorgeous%21+%281%29.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627589644933-9A1VAGGI45B71MZK15RI/Hello%2C+Gorgeous%21+%281%29.png" data-image-dimensions="2000x1600" data-image-focal-point="0.5,0.5" alt="Hello, Gorgeous! (1).png" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627589644933-9A1VAGGI45B71MZK15RI/Hello%2C+Gorgeous%21+%281%29.png" width="2000" height="1600" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627589644933-9A1VAGGI45B71MZK15RI/Hello%2C+Gorgeous%21+%281%29.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627589644933-9A1VAGGI45B71MZK15RI/Hello%2C+Gorgeous%21+%281%29.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627589644933-9A1VAGGI45B71MZK15RI/Hello%2C+Gorgeous%21+%281%29.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627589644933-9A1VAGGI45B71MZK15RI/Hello%2C+Gorgeous%21+%281%29.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627589644933-9A1VAGGI45B71MZK15RI/Hello%2C+Gorgeous%21+%281%29.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627589644933-9A1VAGGI45B71MZK15RI/Hello%2C+Gorgeous%21+%281%29.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627589644933-9A1VAGGI45B71MZK15RI/Hello%2C+Gorgeous%21+%281%29.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          </a>
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1627589538380_22473"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <h3 style="white-space:pre-wrap;">About the Genealogy Planner and Workbook:</h3><p class="" style="white-space:pre-wrap;">I wanted to make something practical, based on how I record and organize my own research. It is a five part book filled with unique, fill-in worksheets for you to personalize. </p><p class="" style="white-space:pre-wrap;">The book begins with a section for your own personal information. Record information about your subscriptions including your member ID, when they renew, how much they cost, and your usernames and passwords. Keep track of your lineage, historical, and genealogical society memberships. Create a list of notable websites. In Part Two, Networking, you can store contact information, and easily reference each contact in the correspondence log. </p><p class="" style="white-space:pre-wrap;">Part Three, The Research, is where it starts getting really good! There are three pedigree charts, of four generations each. You can choose to continue one line through all 12 generations across the three charts, or utilize each chart for a separate line. Give each person a number, and link them to a Family Group Sheet (FGS) for easy cross-referencing (pictured below). </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1627512201927_3606"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:2000px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:80%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627527102433-LW8U84OPYQCDBNEY3CPQ/Hello%2C+Gorgeous%21.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627527102433-LW8U84OPYQCDBNEY3CPQ/Hello%2C+Gorgeous%21.png" data-image-dimensions="2000x1600" data-image-focal-point="0.5,0.5" alt="Hello, Gorgeous!.png" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627527102433-LW8U84OPYQCDBNEY3CPQ/Hello%2C+Gorgeous%21.png" width="2000" height="1600" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627527102433-LW8U84OPYQCDBNEY3CPQ/Hello%2C+Gorgeous%21.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627527102433-LW8U84OPYQCDBNEY3CPQ/Hello%2C+Gorgeous%21.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627527102433-LW8U84OPYQCDBNEY3CPQ/Hello%2C+Gorgeous%21.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627527102433-LW8U84OPYQCDBNEY3CPQ/Hello%2C+Gorgeous%21.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627527102433-LW8U84OPYQCDBNEY3CPQ/Hello%2C+Gorgeous%21.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627527102433-LW8U84OPYQCDBNEY3CPQ/Hello%2C+Gorgeous%21.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627527102433-LW8U84OPYQCDBNEY3CPQ/Hello%2C+Gorgeous%21.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1627589739424_28238"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">There are a total of 30 Family Group Sheet sets, that’s one set for each of the 24 couples on the pedigree chart, plus 6 more for second or third marriages that resulted in children or that you want to research more. </p><p class="" style="white-space:pre-wrap;">Each Family Group Sheet set has room for you to enter: </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Birth, marriage, and death information for both parents </p></li><li><p class="" style="white-space:pre-wrap;">Their parent’s names</p></li><li><p class="" style="white-space:pre-wrap;">Up to 15 children (continues on to second page)</p></li><li><p class="" style="white-space:pre-wrap;">Timeline / known residences list</p></li><li><p class="" style="white-space:pre-wrap;">Research notes </p></li><li><p class="" style="white-space:pre-wrap;">Source list (up to 18 entries)</p></li></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1627589739424_5521"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+        data-sqsp-image-classic-block-layout="inline"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:2000px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div data-sqsp-image-classic-block-image-container class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:80%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627601500971-CTASE70YF48SE1G0Q3DV/Hello%2C+Gorgeous%21+%283%29.png" data-image="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627601500971-CTASE70YF48SE1G0Q3DV/Hello%2C+Gorgeous%21+%283%29.png" data-image-dimensions="2000x1600" data-image-focal-point="0.5,0.5" alt="Hello, Gorgeous! (3).png" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627601500971-CTASE70YF48SE1G0Q3DV/Hello%2C+Gorgeous%21+%283%29.png" width="2000" height="1600" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627601500971-CTASE70YF48SE1G0Q3DV/Hello%2C+Gorgeous%21+%283%29.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627601500971-CTASE70YF48SE1G0Q3DV/Hello%2C+Gorgeous%21+%283%29.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627601500971-CTASE70YF48SE1G0Q3DV/Hello%2C+Gorgeous%21+%283%29.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627601500971-CTASE70YF48SE1G0Q3DV/Hello%2C+Gorgeous%21+%283%29.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627601500971-CTASE70YF48SE1G0Q3DV/Hello%2C+Gorgeous%21+%283%29.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627601500971-CTASE70YF48SE1G0Q3DV/Hello%2C+Gorgeous%21+%283%29.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5e18c9db5f83dc089c81b8bb/1627601500971-CTASE70YF48SE1G0Q3DV/Hello%2C+Gorgeous%21+%283%29.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1627512201927_3922"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" style="white-space:pre-wrap;">Part 4 is the planning section, (some of which is shown above). There are 12 undated calendar pages with up to six weeks on each page. Dates were left off so you can start using the calendar section immediately and start it from the current month. There’s several pages of task checklist sheets and some other tools like a page to manage ongoing maintenance and another page to set some goals, but my absolute favorite part are the trip planner worksheets - these are so useful! Easily prepare for a research trip by writing out specific items and records you hope to find, and keep notes of your success. Refer to this page if you plan a return visit, so you’re not repeating your efforts in vain. </p><p class="" style="white-space:pre-wrap;">To close out this workbook and planner is Part 5, several pages for your research notes. In addition to all of this, there are several more worksheets throughout the workbook, like “Brick Wall Questions” and “Surname List”, that are very helpful when researching new databases and resources. </p><p class="" style="white-space:pre-wrap;">I’ve found having all my research notes easily portable like this is perfect for research trips and traveling. You can quickly refer to your notes, add more information, and record sources as you work. As a bonus its great to refer to when you’re in an area with limited or no WIFI as well. </p><p class="" style="white-space:pre-wrap;">Please continue to provide feedback to me as you use the book, I can’t wait to hear from all of you!</p><p class="" style="white-space:pre-wrap;">Thank you so much for all your support!</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><h3 style="white-space:pre-wrap;">About the Giveaway: </h3><p class="" style="white-space:pre-wrap;">I am giving away one copy of my<a href="https://amzn.to/3jv5FwC" target="_blank"> Genealogy Planner and Workbook</a> to one lucky winner! To enter the giveaway, visit our Facebook page: <a href="https://www.facebook.com/startresearching" target="_blank">facebook.com/startresearching</a>, and comment on the post about the book / giveaway! </p><p class="" style="white-space:pre-wrap;">Be sure to like our Facebook page as well to stay informed about our blog updates and future giveaways. </p><p class="" style="white-space:pre-wrap;">Full rules below. </p><p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline"><strong>Giveaway Rules &amp; Disclaimers:</strong></span> </p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Giveaway ends Tuesday, August 31, 2021 at 11:59 pm PT. </p></li><li><p class="" style="white-space:pre-wrap;">Open to all residents of the United States; <strong>18 or older</strong> (or age of majority in their state of residence, whichever is greater) with a mailing address able to receive packages. Winner may be required to verify age upon request. </p></li><li><p class="" style="white-space:pre-wrap;">Winner will be picked randomly from all entries received. Only one winner will be chosen. Odds of winning depend on number of entries received.</p></li><li><p class="" style="white-space:pre-wrap;">Winner will be notified privately via Facebook messenger (not announced on our sites publicly), and must respond with a proper mailing address within 2 days or prize will be forfeited and given to runner up. Your address will not be used for any means other than sending you the prize. </p></li><li><p class="" style="white-space:pre-wrap;">No cash prize alternative.</p></li><li><p class="" style="white-space:pre-wrap;">This contest is in no way affiliated with, endorsed by, or sponsored by Amazon.com, Facebook.com, or Squarespace.com.</p></li><li><p class="" style="white-space:pre-wrap;">We are not responsible for any items lost, stolen, or damaged in the shipping process. </p></li></ul><p class="" style="white-space:pre-wrap;"><br><br></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div></div></div>
