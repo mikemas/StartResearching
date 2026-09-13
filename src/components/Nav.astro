@@ -18,11 +18,16 @@ const sections = [
   { label: 'The GPS', href: '/gps' },
   { label: 'Types of Sources', href: '/types-of-sources' },
 ];
+const path = Astro.url.pathname.replace(/\/$/, '') || '/';
+const isActive = (href: string) => {
+  if (href === '/blog') return path === '/' || path === '/blog' || path.startsWith('/blog/');
+  return path === href || path.startsWith(href + '/');
+};
 ---
 <nav aria-label="Primary" class="main-nav">
   <ul>
     {sections.map((s) => (
-      <li><a href={s.href}>{s.label}</a></li>
+      <li><a href={s.href} class={isActive(s.href) ? 'active' : undefined}>{s.label}</a></li>
     ))}
   </ul>
 </nav>
