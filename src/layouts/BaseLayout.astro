@@ -24,7 +24,48 @@ import Rail from '../components/Rail.astro';
     <style is:global>
       /* Ported from the live Wells template (site.css) + custom.css:
          sidebar fixed top:50px left:50px width:180px; content margin-left:280px;
-         nav proxima-nova 500 16px; active #3bc8de; body 'Work Sans'. */
+         nav proxima-nova 500 16px; active #3bc8de; body 'Work Sans'.
+         proxima-nova self-hosted in /fonts (weights 300-700 + italics). */
+      @font-face {
+        font-family: "proxima-nova"; font-style: normal; font-weight: 300;
+        font-display: swap;
+        src: url("/fonts/proxima-nova-300-s1.woff2") format("woff2"), url("/fonts/proxima-nova-300-s2.woff2") format("woff2");
+      }
+      @font-face {
+        font-family: "proxima-nova"; font-style: normal; font-weight: 400;
+        font-display: swap;
+        src: url("/fonts/proxima-nova-400-s1.woff2") format("woff2"), url("/fonts/proxima-nova-400-s2.woff2") format("woff2");
+      }
+      @font-face {
+        font-family: "proxima-nova"; font-style: normal; font-weight: 500;
+        font-display: swap;
+        src: url("/fonts/proxima-nova-500-s1.woff2") format("woff2"), url("/fonts/proxima-nova-500-s2.woff2") format("woff2");
+      }
+      @font-face {
+        font-family: "proxima-nova"; font-style: normal; font-weight: 600;
+        font-display: swap;
+        src: url("/fonts/proxima-nova-600-s1.woff2") format("woff2"), url("/fonts/proxima-nova-600-s2.woff2") format("woff2");
+      }
+      @font-face {
+        font-family: "proxima-nova"; font-style: normal; font-weight: 700;
+        font-display: swap;
+        src: url("/fonts/proxima-nova-700-s1.woff2") format("woff2"), url("/fonts/proxima-nova-700-s2.woff2") format("woff2");
+      }
+      @font-face {
+        font-family: "proxima-nova"; font-style: italic; font-weight: 400;
+        font-display: swap;
+        src: url("/fonts/proxima-nova-400i-s1.woff2") format("woff2"), url("/fonts/proxima-nova-400i-s2.woff2") format("woff2");
+      }
+      @font-face {
+        font-family: "proxima-nova"; font-style: italic; font-weight: 500;
+        font-display: swap;
+        src: url("/fonts/proxima-nova-500i-s1.woff2") format("woff2"), url("/fonts/proxima-nova-500i-s2.woff2") format("woff2");
+      }
+      @font-face {
+        font-family: "proxima-nova"; font-style: italic; font-weight: 700;
+        font-display: swap;
+        src: url("/fonts/proxima-nova-700i-s1.woff2") format("woff2"), url("/fonts/proxima-nova-700i-s2.woff2") format("woff2");
+      }
       :root { --teal: #3bc8de; --teal-hover: rgba(59, 200, 222, 0.53); --ink: #222; --periwinkle: #7b6db0; }
       * { box-sizing: border-box; }
       body {
