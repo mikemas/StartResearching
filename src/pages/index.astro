@@ -17,12 +17,11 @@ const rendered = await Promise.all(
   }))
 );
 ---
-<BaseLayout title="Genealogy Research Guides, Records & Tips" rail>
+<BaseLayout title="Start Researching Genealogy" rail>
   {rendered.map(({ post, slug, Content, dateStr }) => (
     <article class="post">
       <h1 class="post-title"><a href={`/blog/${slug}/`}>{post.data.title}</a></h1>
       <Content />
-      <p class="post-footer"><a href={`/blog/${slug}/#comments-placeholder`}>Comment</a></p>
     </article>
   ))}
   <p class="archive-link"><a href="/blog/">Older posts →</a></p>

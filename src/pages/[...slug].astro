@@ -10,12 +10,13 @@ export async function getStaticPaths() {
 const { guide } = Astro.props;
 const { Content } = await render(guide);
 ---
-<BaseLayout title={guide.data.title} description={guide.data.description}>
-  <article>
-    <h1>{guide.data.title}</h1>
-    {guide.data.canonicalUrl && (
-      <p><small>Source: <a href={guide.data.canonicalUrl}>{guide.data.canonicalUrl}</a></small></p>
-    )}
+<BaseLayout
+  title={guide.data.title}
+  description={guide.data.description}
+  canonical={guide.data.canonicalUrl}
+>
+  <article class="post">
+    <h1 class="post-title">{guide.data.title}</h1>
     <Content />
   </article>
 </BaseLayout>
