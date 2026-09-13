@@ -1,0 +1,83 @@
+---
+const popular = [
+  {
+    title: 'Revealing Codes in the 1950 Census: Leave Blank Column A',
+    href: '/blog/codes-in-the-1950-census-leave-blank-column-a/',
+    date: 'April 4, 2022',
+    img: '/images/images.squarespace-cdn.com/968e2cd1-What-are-these-numbers.png',
+  },
+  {
+    title: 'Immigration Act of 1924 Codes on U.S. Passenger Arrival Lists',
+    href: '/blog/passenger-lists-pt-2-the-meaning/',
+    date: 'September 25, 2021',
+    img: '/images/images.squarespace-cdn.com/59d8d1d9-immigration-act-notes.png',
+  },
+  {
+    title: 'Passenger Lists: The Meaning Behind the Notations, Abbreviations, and Marks',
+    href: '/blog/passenger-lists-the-meaning-behind-the-notations-abbreviations-and-marks/',
+    date: 'May 11, 2021',
+    img: '/images/images.squarespace-cdn.com/73195304-ditto-quotation-marks.png',
+  },
+  {
+    title: 'What do these codes on death certificates mean?',
+    href: '/blog/numerical-codes-on-death-certificates/',
+    date: 'February 7, 2023',
+    img: '/images/images.squarespace-cdn.com/d5f4c120-cert2.png',
+  },
+];
+---
+<aside class="rail" aria-label="Sidebar extras">
+  <form class="rail-search" action="/search/" method="get" role="search">
+    <span class="search-icon" aria-hidden="true">
+      <svg width="17" height="17" viewBox="0 0 17 17" fill="none">
+        <circle cx="7.5" cy="7.5" r="5.5" stroke="#999" stroke-width="2" />
+        <line x1="11.5" y1="11.5" x2="16" y2="16" stroke="#999" stroke-width="2" />
+      </svg>
+    </span>
+    <input type="search" name="q" placeholder="Search" aria-label="Search" />
+  </form>
+
+  <div class="rail-fb">
+    <iframe
+      src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fstartresearching&width=300&height=130&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false"
+      width="300"
+      height="130"
+      style="border:none;overflow:hidden;max-width:100%"
+      scrolling="no"
+      frameborder="0"
+      allowfullscreen="true"
+      allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
+      title="Start Researching on Facebook"></iframe>
+  </div>
+
+  <h3 class="rail-heading"><u>Most Popular Blog Posts Ever:</u></h3>
+  {popular.map((p) => (
+    <div class="rail-popular">
+      <a href={p.href}><img src={p.img} alt="" loading="lazy" /></a>
+      <a class="rail-popular-title" href={p.href}>{p.title}</a>
+      <p class="rail-popular-date">{p.date}</p>
+    </div>
+  ))}
+</aside>
+<style is:global>
+  .rail { width: 300px; flex: 0 0 300px; }
+  .rail-search {
+    display: flex; align-items: center; gap: 10px;
+    border: 1px solid #c9c9c9; padding: 12px 14px; margin-bottom: 34px;
+  }
+  .rail-search input {
+    border: none; outline: none; font-size: 16px; width: 100%;
+    font-family: inherit; color: #222; background: transparent;
+  }
+  .rail-search input::placeholder { color: #999; }
+  .rail-fb { margin-bottom: 40px; }
+  .rail-heading { font-size: 17px; font-weight: 400; margin: 0 0 24px; color: #222; }
+  .rail-popular { margin-bottom: 30px; }
+  .rail-popular img { width: 100%; height: auto; display: block; margin-bottom: 10px; }
+  .rail-popular-title { color: #7b6db0; text-decoration: none; font-size: 17px; line-height: 1.45; display: block; }
+  .rail-popular-title:hover { color: #3bc8de; }
+  .rail-popular-date { color: #222; font-size: 15px; margin: 4px 0 0; }
+  @media screen and (max-width: 1100px) {
+    .rail { display: none; }
+  }
+</style>

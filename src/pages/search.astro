@@ -1,0 +1,43 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout title="Search">
+  <h1 class="post-title">Search</h1>
+  <form id="search-form" action="/search/" method="get" role="search" class="rail-search" style="max-width:420px">
+    <input type="search" name="q" id="search-input" placeholder="Search" aria-label="Search" />
+  </form>
+  <div id="search-results"><p>Type above and press Enter.</p></div>
+</BaseLayout>
+<script>
+  async function run() {
+    const params = new URLSearchParams(location.search);
+    const q = (params.get('q') || '').trim().toLowerCase();
+    const input = document.getElementById('search-input');
+    const box = document.getElementById('search-results');
+    if (input && params.get('q')) input.value = params.get('q');
+    if (!q || !box) return;
+    const res = await fetch('/search-index.json');
+    const items = await res.json();
+    const words = q.split(/\s+/);
+    const hits = items
+      .map((it) => {
+        const hay = (it.title + ' ' + it.text).toLowerCase();
+        let score = 0;
+        for (const w of words) {
+          if (it.title.toLowerCase().includes(w)) score += 3;
+          else if (hay.includes(w)) score += 1;
+          else return null;
+        }
+        return { it, score };
+      })
+      .filter(Boolean)
+      .sort((a, b) => b.score - a.score)
+      .slice(0, 30);
+    box.innerHTML = hits.length
+      ? '<ul>' + hits.map((h) =>
+          `<li><a href="${h.it.url}">${h.it.title}</a>` +
+          (h.it.date ? ` <small>(${h.it.date})</small>` : '') + '</li>').join('') + '</ul>'
+      : `<p>No results for "${params.get('q')}".</p>`;
+  }
+  run();
+</script>

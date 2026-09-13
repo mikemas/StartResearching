@@ -4,7 +4,7 @@ import { getCollection } from 'astro:content';
 const slugOf = (e: { slug?: string; id: string }) => e.slug ?? e.id.replace(/\.mdx?$/, '');
 const posts = (await getCollection('blog')).sort((a,b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 ---
-<BaseLayout title="Blog Posts">
+<BaseLayout title="Blog Posts" rail>
   <h1>Blog Posts</h1>
   <ul>
     {posts.map((p) => (
