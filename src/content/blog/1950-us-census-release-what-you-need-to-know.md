@@ -4,6 +4,7 @@ pubDate: 2022-02-06
 description: "I wouldn\u2019t have a decent genealogy blog if I didn\u2019t talk about the upcoming release of the 1950 Census, which the National Archives and Records Association (NAR"
 canonicalUrl: "https://www.startresearching.com/blog/1950-us-census-release-what-you-need-to-know"
 
+tags: ["sidebar"]
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1644170830321" id="item-62000d5f217e2b25b59349f4"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-baada1367cc1922bd75a"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

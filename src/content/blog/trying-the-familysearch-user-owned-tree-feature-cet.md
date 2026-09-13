@@ -4,6 +4,7 @@ pubDate: 2025-05-26
 description: "26 May, 2025 by Sherri Mastrangelo Have you ever been surprised by another user\u2019s edits on your Family Tree on the FamilySearch platform? Did you know you can a"
 canonicalUrl: "https://www.startresearching.com/blog/trying-the-familysearch-user-owned-tree-feature-cet"
 
+tags: []
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1748289585974" id="item-6834c72500d169668e9b5da5"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-c83e198f9d3af63e3af5"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

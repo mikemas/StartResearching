@@ -4,6 +4,7 @@ pubDate: 2021-09-20
 description: "High society flourished in the late 19th century, during a period often called \u201cthe Gilded Age\u201d in America, as the economy boomed and some quickly gained a vast"
 canonicalUrl: "https://www.startresearching.com/blog/blue-books"
 
+tags: ["sidebar"]
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1628647489520" id="item-61133021e8e45144f14e73c8"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1630799577808_2406"><div class="sqs-block-content">
     <div class=" image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none " data-test="image-block-inline-outer-wrapper" data-sqsp-image-classic-block-layout="inline" >

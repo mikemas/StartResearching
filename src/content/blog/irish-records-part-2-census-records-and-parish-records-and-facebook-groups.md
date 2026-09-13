@@ -4,6 +4,7 @@ pubDate: 2021-03-14
 description: "In my previous post, \u201c How to Find Irish Genealogy Records, Part 1: Civil Records \u201d, I discussed the importance of determining which civil registration district"
 canonicalUrl: "https://www.startresearching.com/blog/irish-records-part-2-census-records-and-parish-records-and-facebook-groups"
 
+tags: ["sidebar"]
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1615692959251" id="item-604d846f849cc865eec83c12"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1615693536366_5090"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

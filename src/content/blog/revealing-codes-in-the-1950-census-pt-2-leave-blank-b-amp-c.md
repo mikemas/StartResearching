@@ -4,6 +4,7 @@ pubDate: 2022-04-16
 description: "15 April, 2022. By Sherri Mastrangelo A follow-up to last week\u2019s post, where I discussed \u201cLeave Blank A\u201d, codes that referenced relationships to the head of hou"
 canonicalUrl: "https://www.startresearching.com/blog/revealing-codes-in-the-1950-census-pt-2-leave-blank-b-amp-c"
 
+tags: []
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1649816456387" id="item-625633462f498d2e0c5e8e6f"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-be05f9a75840aacb335c"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

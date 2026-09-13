@@ -4,6 +4,7 @@ pubDate: 2023-02-07
 description: "7 February 2023, by Sherri Mastrangelo What do the handwritten numbers on death certificates mean, and why would we need them? Cause of Death / ICD Code Meaning"
 canonicalUrl: "https://www.startresearching.com/blog/numerical-codes-on-death-certificates"
 
+tags: ["sidebar"]
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1675548136789" id="item-63ded5cff0d97f7dfdf46d31"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-46345ea78b9407a53a7e"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

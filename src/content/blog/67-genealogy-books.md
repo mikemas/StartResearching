@@ -4,6 +4,7 @@ pubDate: 2023-11-23
 description: "22 November, 2023 by Sherri Mastrangelo This list, submitted without additional commentary and straight from my bookshelves, is a comprehensive collection of re"
 canonicalUrl: "https://www.startresearching.com/blog/67-genealogy-books"
 
+tags: ["sidebar"]
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1695847499299" id="item-651493fa7f02301c70603c69"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-ba702701a9807c320cf8"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

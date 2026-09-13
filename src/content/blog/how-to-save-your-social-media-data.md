@@ -4,6 +4,7 @@ pubDate: 2025-01-01
 description: "by Sherri Mastrangelo, 31 December 2024 As you switch from X (formerly Twitter) to BlueSky or Threads, you may wish to download a history of your posts and conv"
 canonicalUrl: "https://www.startresearching.com/blog/how-to-save-your-social-media-data"
 
+tags: []
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1735671652048" id="item-67743eafce99921b6e15b180"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-a5726e053032a6ae7c4b"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

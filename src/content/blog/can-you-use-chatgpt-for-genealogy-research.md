@@ -4,6 +4,7 @@ pubDate: 2023-01-20
 description: "20 January, 2023, by Sherri Mastrangelo ChatGPT is a dialogue and search tool launched by OpenAI this past November, 2022, that is currently free for everyone t"
 canonicalUrl: "https://www.startresearching.com/blog/can-you-use-chatgpt-for-genealogy-research"
 
+tags: ["sidebar"]
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1673831822093" id="item-63c4a4d46134df40fd8e4963"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-818d90a13c87d2d7760b"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

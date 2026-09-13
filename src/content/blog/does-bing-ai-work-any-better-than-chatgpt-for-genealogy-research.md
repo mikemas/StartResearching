@@ -4,6 +4,7 @@ pubDate: 2023-03-12
 description: "11 March, 2023 by Sherri Mastrangelo After a short time on a waitlist, I gained access to Microsoft\u2019s Bing AI last night, which refers to itself simply as \u201cBing"
 canonicalUrl: "https://www.startresearching.com/blog/does-bing-ai-work-any-better-than-chatgpt-for-genealogy-research"
 
+tags: ["sidebar"]
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1678568732748" id="item-640ce5bf182e9e709aeb2e86"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-283c640d9f3390b57f47"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

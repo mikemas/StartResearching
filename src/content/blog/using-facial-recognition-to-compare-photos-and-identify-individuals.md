@@ -4,6 +4,7 @@ pubDate: 2020-12-21
 description: "December 20, 2020 By now, you\u2019re probably aware of the facial recognition built in to many photo storage programs. When you upload a new photo, a program like G"
 canonicalUrl: "https://www.startresearching.com/blog/using-facial-recognition-to-compare-photos-and-identify-individuals"
 
+tags: []
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1608434311201" id="item-5fdebd47c18bd5077ca86bfe"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-6ea986f46782f1f0a51f"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

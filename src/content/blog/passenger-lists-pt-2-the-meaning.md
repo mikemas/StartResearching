@@ -4,6 +4,7 @@ pubDate: 2021-09-25
 description: "Today\u2019s post is a follow-up to a recent blog post, \u201c Passenger Lists: The Meaning Behind the Notations, Abbreviations, and Marks\u201d as I wanted to add a bit more "
 canonicalUrl: "https://www.startresearching.com/blog/passenger-lists-pt-2-the-meaning"
 
+tags: ["sidebar", "popular"]
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1632611189285" id="item-614faa39809f856d5a8380dd"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-7a7832795d722d3675aa"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

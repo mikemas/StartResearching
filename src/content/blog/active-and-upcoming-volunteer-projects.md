@@ -4,6 +4,7 @@ pubDate: 2021-06-09
 description: "A quick post today highlighting the many volunteer opportunities for genealogists of varying skill levels. The majority are transcribing projects that can be do"
 canonicalUrl: "https://www.startresearching.com/blog/active-and-upcoming-volunteer-projects"
 
+tags: []
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1621712766788" id="item-60a95cf4a22ee22cf28102f5"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1623207547010_5327"><div class="sqs-block-content">
     <div class=" image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none " data-test="image-block-inline-outer-wrapper" data-sqsp-image-classic-block-layout="inline" >

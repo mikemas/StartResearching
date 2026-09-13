@@ -4,6 +4,7 @@ pubDate: 2022-10-08
 description: "8 October 2022, by Sherri Mastrangelo Even if your parents have not taken a DNA test, Ancestry DNA\u00ae\u2019s new feature, Parental Matches, will now automatically grou"
 canonicalUrl: "https://www.startresearching.com/blog/exploring-the-new-ancestrydna-parental-matches-feature"
 
+tags: []
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1665257373474" id="item-6341cf51451e5e7aca5af851"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1665257375566_17413"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

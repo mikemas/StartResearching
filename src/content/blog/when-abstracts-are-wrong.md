@@ -4,6 +4,7 @@ pubDate: 2020-08-26
 description: "Dec 1, 2020 My awesome cousin brought this example to me, and it\u2019s a great one to show how abstracts can have misinformation. With abstracts , information is ex"
 canonicalUrl: "https://www.startresearching.com/blog/when-abstracts-are-wrong"
 
+tags: []
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1598457838829" id="item-5f4685e972d7d4010100eeb2"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-8cdf55de0105fce2b4a3"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

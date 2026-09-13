@@ -4,6 +4,7 @@ pubDate: 2021-01-07
 description: "January 6, 2021 Image: RootsTech.org . RootsTech Connect will look different this year! Mark your calendars for these recommended 2021 (mostly virtual) genealog"
 canonicalUrl: "https://www.startresearching.com/blog/upcoming-virtual-genealogy-conferences"
 
+tags: []
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1609962847340" id="item-5ff60fcc04b1802668d5cee1"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1609998084276_5743"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

@@ -4,6 +4,7 @@ pubDate: 2021-04-08
 description: "UPDATE MAY 2021: This giveaway has ended, congratulations to our winner! It\u2019s a beautiful day for a giveaway! Starting today, there\u2019s a chance to win a free Anc"
 canonicalUrl: "https://www.startresearching.com/blog/ancestrydna-giveaway"
 
+tags: []
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1617923657322" id="item-606f8a7b05c5201c15fea1eb"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-e8420b79c88ae31d65da"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

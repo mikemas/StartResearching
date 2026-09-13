@@ -185,13 +185,17 @@ import Rail from '../components/Rail.astro';
       footer.site-footer { color: #999; font-size: 13px; padding: 10px 0 44px; }
       footer.site-footer a { color: #999; }
       footer.site-footer a:hover { color: var(--teal); }
+      .footnav { display: none; }
 
       .menu-toggle { display: none; }
       @media screen and (max-width: 1100px) {
         .columns { flex-wrap: wrap; }
       }
-      @media screen and (max-width: 767px) {
-        .sqs-row { flex-direction: column; }        .sidebar { position: static; width: auto; padding: 24px 22px 0; }
+      @media screen and (max-width: 800px) {
+        .sqs-row { flex-direction: column; }
+        .sqs-gallery .slide { flex: 1 1 22%; }
+        .summary-item-list .summary-item { flex-direction: column; gap: 12px; }
+        .summary-item-list .summary-thumbnail-outer-container { flex: none; width: 200px; }        .sidebar { position: static; width: auto; padding: 24px 22px 0; }
         .sidebar .logo, .sidebar .logo img { width: 150px; }
         .sidebar .desktop-nav { display: none; }
         .menu-toggle { display: block; margin-top: 14px; }
@@ -203,6 +207,13 @@ import Rail from '../components/Rail.astro';
         .menu-toggle nav.main-nav ul { flex-direction: column; gap: 12px; margin: 16px 0 0; }
         .menu-toggle .secondary { display: flex; flex-direction: column; gap: 8px; margin: 14px 0 4px; }
         .content { margin: 0; padding: 26px 22px 60px; }
+        .footnav { display: block; margin: 0 0 26px; }
+        .footnav ul { list-style: none; margin: 0; padding: 0; }
+        .footnav li { margin-bottom: 10px; }
+        .footnav a { color: #3bc8de; text-decoration: none; font-size: 14px; }
+        .footnav .folder-label { color: #222; font-size: 14px; display: block; margin: 12px 0 2px; }
+        .footnav .subnav { list-style: none; margin: 0 0 6px; padding: 0; }
+        .footnav .subnav li { margin-bottom: 6px; }
       }
     </style>
   </head>
@@ -239,6 +250,7 @@ import Rail from '../components/Rail.astro';
         {rail && <Rail />}
       </div>
       <footer class="site-footer">
+        <nav class="footnav" aria-label="Footer"><Nav flat /></nav>
         <p>© {new Date().getFullYear()} Start Researching Genealogy</p>
       </footer>
     </div>

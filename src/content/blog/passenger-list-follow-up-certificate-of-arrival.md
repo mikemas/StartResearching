@@ -4,6 +4,7 @@ pubDate: 2025-01-21
 description: "by Sherri Mastrangelo, 20 January 2025 A follow up to this post - Passenger Lists: The Meaning behind the Notations, Abbreviations, and Marks A reader recently "
 canonicalUrl: "https://www.startresearching.com/blog/passenger-list-follow-up-certificate-of-arrival"
 
+tags: []
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1736304065350" id="item-677de4e6bacca02470b974d6"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-41801a740ff7b17cd655"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

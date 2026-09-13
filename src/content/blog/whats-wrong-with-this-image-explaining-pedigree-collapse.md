@@ -4,6 +4,7 @@ pubDate: 2022-01-15
 description: "Have you seen this graphic, or some version of it, floating around social media? It\u2019s called \u201cAncestral Mathematics\u201d, and says \u201cfor you to be born today from 11"
 canonicalUrl: "https://www.startresearching.com/blog/whats-wrong-with-this-image-explaining-pedigree-collapse"
 
+tags: []
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1642215980832" id="item-61e238a4b0a6b3288a573fcb"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-3e09519f8f7f216a91d5"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

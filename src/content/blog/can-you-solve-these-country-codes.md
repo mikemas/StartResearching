@@ -4,6 +4,7 @@ pubDate: 2021-11-02
 description: "This is a bit different of a post today - one in which I am asking for your help to solve. I have posed this question to several different genealogists, asked a"
 canonicalUrl: "https://www.startresearching.com/blog/can-you-solve-these-country-codes"
 
+tags: ["sidebar"]
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1635873731744" id="item-618172174eab963700c4ca07"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-2680176f9f3de02dd395"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

@@ -4,6 +4,7 @@ pubDate: 2021-11-21
 description: "In the first annual gift guide, I\u2019m sharing over 50 ideas to gift the genealogy enthusiast in your life - or perhaps, to put on your own wish list this holiday "
 canonicalUrl: "https://www.startresearching.com/blog/2021-gift-guide-for-genealogists"
 
+tags: ["sidebar"]
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1637528358109" id="item-619ab30c6e6e6e3aef6b62e1"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-a3e2a1e727f3912a2ef3"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

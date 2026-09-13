@@ -4,6 +4,7 @@ pubDate: 2026-03-26
 description: "By S. Mastrangelo, 26 March 2026 The Crypt of Civilization was sealed in 1940, stored in Atlanta, Georgia, and won\u2019t be opened until the year 8113. That\u2019s some "
 canonicalUrl: "https://www.startresearching.com/blog/include-these-things-in-your-time-capsule"
 
+tags: []
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1774550283243" id="item-69c578ebbd6d5d25cecc8009"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-63c33b58277dc80bc6ae"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

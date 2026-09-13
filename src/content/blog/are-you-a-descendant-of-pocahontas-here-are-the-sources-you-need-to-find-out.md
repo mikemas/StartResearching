@@ -4,6 +4,7 @@ pubDate: 2023-01-05
 description: "8 January 2023, by Sherri Mastrangelo In a recent episode of Finding Your Roots on PBS, actor Edward Norton ( Glass Onion, Fight Club) discovered his family lor"
 canonicalUrl: "https://www.startresearching.com/blog/are-you-a-descendant-of-pocahontas-here-are-the-sources-you-need-to-find-out"
 
+tags: ["sidebar"]
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1672963213865" id="item-63b763deae4f1e4618bbfd8b"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-c75cc1f0103cd94eb28d"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

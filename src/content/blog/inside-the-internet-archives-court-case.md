@@ -4,6 +4,7 @@ pubDate: 2023-03-26
 description: "25 March 2023, by Sherri Mastrangelo The Internet Archive, a non-profit organization based in San Francisco, has been an immensely valuable resource for genealo"
 canonicalUrl: "https://www.startresearching.com/blog/inside-the-internet-archives-court-case"
 
+tags: []
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1679785362608" id="item-641f7c681edf6d5a2c0dbb9e"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-3df779b811fa616cffd3"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

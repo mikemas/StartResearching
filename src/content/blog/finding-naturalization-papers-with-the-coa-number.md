@@ -4,6 +4,7 @@ pubDate: 2025-01-23
 description: "by Sherri Mastrangelo, 23 January 2025 This post is a follow-up to the last, Certificate of Arrival Numbers on Passenger Lists and Naturalization Forms Is it po"
 canonicalUrl: "https://www.startresearching.com/blog/finding-naturalization-papers-with-the-coa-number"
 
+tags: []
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1737588312825" id="item-67917cdfa496ca7dd00b53bd"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-29dff80f1de9b452dea0"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

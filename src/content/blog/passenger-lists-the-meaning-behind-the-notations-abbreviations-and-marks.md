@@ -4,6 +4,7 @@ pubDate: 2021-05-11
 description: "When you look at a list of passengers arriving at a port in the U.S., you\u2019ll see the names of those traveling on the ship, as well as their ages, the port and c"
 canonicalUrl: "https://www.startresearching.com/blog/passenger-lists-the-meaning-behind-the-notations-abbreviations-and-marks"
 
+tags: ["sidebar", "popular"]
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1620752945434" id="item-609ab7aeef02bd4ef53d21dd"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-776171fda93fa31820f2"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

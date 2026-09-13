@@ -4,6 +4,7 @@ pubDate: 2024-01-06
 description: "6 January 2024 by Sherri Mastrangelo Let\u2019s take the ideas and concepts from certain computer science algorithms, break them down into simpler terms to understan"
 canonicalUrl: "https://www.startresearching.com/blog/how-to-do-a-binary-search-applying-computer-science-algorithms-to-genealogy-research"
 
+tags: ["sidebar"]
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1704487992537" id="item-659869ac4029020c1ab2d4e8"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-68377d109d8bd76cc780"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

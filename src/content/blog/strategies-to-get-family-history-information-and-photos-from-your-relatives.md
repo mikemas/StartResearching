@@ -4,6 +4,7 @@ pubDate: 2021-04-20
 description: "Do you ever have the feeling your relatives are holding out on you? You just know they\u2019ve got a box of family photos somewhere they\u2019re either to lazy to find or"
 canonicalUrl: "https://www.startresearching.com/blog/strategies-to-get-family-history-information-and-photos-from-your-relatives"
 
+tags: []
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1618939084656" id="item-607f0c2fb83093372a3e91bf"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-2e331679a96f325c43a4"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

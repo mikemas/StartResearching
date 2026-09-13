@@ -4,6 +4,7 @@ pubDate: 2024-03-24
 description: "24 March 2024, by Sherri Mastrangelo A local historical association member has been adding a picture of their adorable cat to the historical photos they post on"
 canonicalUrl: "https://www.startresearching.com/blog/the-cat-that-didnt-belong-could-you-tell-these-historical-photos-were-edited"
 
+tags: ["sidebar"]
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1711125985390" id="item-65fdafcba0a2c84ea6ff183b"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1711125987225_10780"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

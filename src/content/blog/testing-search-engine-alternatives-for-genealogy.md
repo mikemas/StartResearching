@@ -4,6 +4,7 @@ pubDate: 2025-04-23
 description: "by Sherri Mastrangelo, 26 April 2025 DuckDuckGo, Brave, Kagi, Mojeek\u2026 Swisscows? Are any of these alternative search engines good for your genealogy research? E"
 canonicalUrl: "https://www.startresearching.com/blog/testing-search-engine-alternatives-for-genealogy"
 
+tags: ["sidebar"]
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1745433905758" id="item-680931203326166469b90c6d"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-714a52a0aa7db2412b47"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

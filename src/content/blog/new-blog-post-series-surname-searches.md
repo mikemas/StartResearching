@@ -4,6 +4,7 @@ pubDate: 2024-05-25
 description: "25 May, 2024 (Updated 11 July, 2024) by Sherri Mastrangelo There\u2019s a new blog post series on Start Researching, called \u201cSurname Search\u201d. Each post will feature "
 canonicalUrl: "https://www.startresearching.com/blog/new-blog-post-series-surname-searches"
 
+tags: []
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1716660508880" id="item-665228df61c4e376898205e2"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-b83ec1719f81bee06ef6"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

@@ -4,6 +4,7 @@ pubDate: 2024-01-01
 description: "31 December 2023, by Sherri Mastrangelo Before there was a celebratory ball drop in downtown New York to countdown the New Year, there were \u201ctime balls\u201d in use "
 canonicalUrl: "https://www.startresearching.com/blog/why-do-we-drop-a-ball-in-times-square-on-nye"
 
+tags: []
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1704061177760" id="item-6591e832d708a14d8a921a8b"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-af075608142b5e63fada"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

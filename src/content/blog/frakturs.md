@@ -4,6 +4,7 @@ pubDate: 2021-02-27
 description: "Do you have Pennsylvania German history in your family? Or German, Swiss, or French ancestors that immigrated to the east coast in the 18th and 19th century? Yo"
 canonicalUrl: "https://www.startresearching.com/blog/frakturs"
 
+tags: []
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1612120297481" id="item-6016ff3e81f63750b426840b"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-25007a453f922292a34c"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

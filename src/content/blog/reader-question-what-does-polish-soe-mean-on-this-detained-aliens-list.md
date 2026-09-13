@@ -4,6 +4,7 @@ pubDate: 2023-08-26
 description: "26 August, 2023 by Sherri Mastrangelo One of the interesting questions I received this week was from someone looking at a \u201cRecord of Detained Aliens\u201d form from "
 canonicalUrl: "https://www.startresearching.com/blog/reader-question-what-does-polish-soe-mean-on-this-detained-aliens-list"
 
+tags: ["sidebar"]
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1692749589699" id="item-64e5483847659c7f24aa1893"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-4e6bf9d5c125e4379006"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

@@ -4,6 +4,7 @@ pubDate: 2021-08-05
 description: "UPDATE SEPT 2021: This giveaway has ended, congratulations to our winner! I\u2019m so excited to announce my first publication, Genealogy Planner and Workbook: Recor"
 canonicalUrl: "https://www.startresearching.com/blog/just-published-genealogy-planner-and-workbook"
 
+tags: ["sidebar"]
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1627509457475" id="item-6101d25d7c3ad446fa4a128b"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-e6641fcd10952d118176"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

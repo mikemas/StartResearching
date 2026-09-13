@@ -4,6 +4,7 @@ pubDate: 2022-06-09
 description: "9 June, 2022. By Sherri Mastrangelo. Thank you to the kind reader who reminded me I had yet to post \u201cPart 3\u201d of this series on 1950 census codes. Time seems to "
 canonicalUrl: "https://www.startresearching.com/blog/revealing-codes-in-the-1950-census-pt-3-occupation-codes-in-leave-blank-c"
 
+tags: []
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1653083433670" id="item-62880bd8c9501e73e042b612"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-ac18bb6d37332ad88fec"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

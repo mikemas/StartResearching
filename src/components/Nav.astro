@@ -50,6 +50,7 @@ const isActive = (href: string) => {
   return path === href || path.startsWith(href + '/');
 };
 const folderActive = (f: Folder) => f.children.some((c) => isActive(c.href));
+const { flat = false } = Astro.props;
 ---
 <nav aria-label="Primary" class="main-nav">
   <ul>
@@ -58,6 +59,16 @@ const folderActive = (f: Folder) => f.children.some((c) => isActive(c.href));
         <li><a href={s.href} class={isActive(s.href) ? 'active' : undefined}>{s.label}</a></li>
       ) : (
         <li class="folder">
+          {flat ? (
+            <>
+              <span class="folder-label">{s.label}</span>
+              <ul class="subnav">
+                {s.children.map((c) => (
+                  <li><a href={c.href}>{c.label}</a></li>
+                ))}
+              </ul>
+            </>
+          ) : (
           <details open={folderActive(s) || undefined}>
             <summary class={folderActive(s) ? 'active' : undefined}>{s.label}</summary>
             <ul class="subnav">
@@ -66,6 +77,7 @@ const folderActive = (f: Folder) => f.children.some((c) => isActive(c.href));
               ))}
             </ul>
           </details>
+          )}
         </li>
       )
     )}

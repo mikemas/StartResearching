@@ -4,6 +4,7 @@ pubDate: 2026-04-23
 description: "by Sherri Mastrangelo, 23 April 2026 Have you tried the Full Text search feature? You can find it under the Search tab, or here (free with registration): https:"
 canonicalUrl: "https://www.startresearching.com/blog/top-tips-for-using-full-text-on-familysearch"
 
+tags: []
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1776905203657" id="item-69e96ac426380b4bf70c34d1"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-a362a8ddf76453496c03"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

@@ -4,6 +4,7 @@ pubDate: 2021-12-23
 description: "There\u2019s been a lot of talk recently about the future of the internet and how it will impact our daily lives. Some see this future as a shared 3D virtual reality"
 canonicalUrl: "https://www.startresearching.com/blog/genealogy-in-the-metaverse"
 
+tags: ["sidebar"]
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1640230775339" id="item-61c3ef40ee64bb3828590e4b"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-6838f2d43d0368b00cd0"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

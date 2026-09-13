@@ -4,6 +4,7 @@ pubDate: 2022-08-03
 description: "3 August 2022, by Sherri Mastrangelo I\u2019m so excited to launch my new shop, starting with two new printable games for you to play: \u201cGenealogy Bingo: Ice Breaker "
 canonicalUrl: "https://www.startresearching.com/blog/announcing-new-genealogy-games-genealogy-bingo-ice-breaker-edition-and-a-genealogy-crossword-puzzle"
 
+tags: ["sidebar"]
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1659502986110" id="item-62e9f7f8718316386fd5475f"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-cdefc1b448239c9e22f2"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

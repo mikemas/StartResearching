@@ -4,6 +4,7 @@ pubDate: 2021-07-27
 description: "This post discusses events which may be triggering or distressing. In Canada, there is a 24hr National Residential School Crisis Line available at 1-866-925-441"
 canonicalUrl: "https://www.startresearching.com/blog/indian-residential-schools-a-troubled-history"
 
+tags: ["sidebar"]
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1626892811206" id="item-60f86915b3340079c6858b6d"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-328b71fb184a99229895"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

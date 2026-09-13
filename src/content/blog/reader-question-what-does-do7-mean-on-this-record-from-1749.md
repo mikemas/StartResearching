@@ -4,6 +4,7 @@ pubDate: 2024-01-27
 description: "27 January 2024 (updated 28 Jan), by Sherri Mastrangelo Today\u2019s reader question is: \u201cWhat does \u201cdo7\u201d mean on this record from 1749?\u201d In this book of U.S. Dutch "
 canonicalUrl: "https://www.startresearching.com/blog/reader-question-what-does-do7-mean-on-this-record-from-1749"
 
+tags: []
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1706391237183" id="item-65b5708c975e310e12130417"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-13a45f1f6ce9e4de8dfb"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

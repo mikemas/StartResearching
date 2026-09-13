@@ -4,6 +4,7 @@ pubDate: 2021-03-06
 description: "In these two posts (part 1 and 2), I\u2019ll be sharing several of the best ways to research your Irish ancestors online. For Ireland, I\u2019ve learned this means mainly"
 canonicalUrl: "https://www.startresearching.com/blog/luck-of-the-irish"
 
+tags: []
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1615072536688" id="item-60440aaccc3c7b44bb62fe7a"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-1a86d1dc345cd504857b"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

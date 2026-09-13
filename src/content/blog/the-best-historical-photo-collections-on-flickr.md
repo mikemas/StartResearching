@@ -4,6 +4,7 @@ pubDate: 2021-02-01
 description: "Though you probably won\u2019t uncover photos of your ancestors in these collections, you can gain great context about the way they may have lived, the events they l"
 canonicalUrl: "https://www.startresearching.com/blog/the-best-historical-photo-collections-on-flickr"
 
+tags: ["sidebar"]
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1599079332834" id="item-5f5002ffec338b0974452f7b"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-dcfb3ccef61babcbf5df"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>
