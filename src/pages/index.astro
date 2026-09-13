@@ -1,34 +1,30 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { getCollection } from 'astro:content';
-
-const slugOf = (e: { slug?: string; id: string }) => e.slug ?? e.id.replace(/\.mdx?$/, '');
+import { getCollection, render } from 'astro:content';
 
 const posts = (await getCollection('blog')).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 ).slice(0, 10);
+
+const rendered = await Promise.all(
+  posts.map(async (post) => ({
+    post,
+    slug: post.slug ?? post.id.replace(/\.mdx?$/, ''),
+    Content: (await render(post)).Content,
+    dateStr: post.data.pubDate.toLocaleDateString('en-US', {
+      year: 'numeric', month: 'long', day: 'numeric',
+    }),
+  }))
+);
 ---
 <BaseLayout title="Genealogy Research Guides, Records & Tips">
-  <h1>Start Researching Genealogy</h1>
-  <p>
-    A Squarespace replacement built with Astro. Fast, static, SEO-friendly —
-    with the same sections as the live site: 10 Steps, Databases, DNA Testing,
-    Records, Templates, and more.
-  </p>
-
-  <h2>Latest posts</h2>
-  <ul>
-    {posts.map((p) => (
-      <li><a href={`/blog/${slugOf(p)}/`}>{p.data.title}</a> — {p.data.pubDate.toDateString()}</li>
-    ))}
-  </ul>
-
-  <div class="card-grid">
-    <div class="card"><h3><a href="/10-steps">10 Steps to Start</a></h3><p>Beginner path for new genealogists.</p></div>
-    <div class="card"><h3><a href="/databases">Databases</a></h3><p>Ancestry, FamilySearch, Findmypast, and more.</p></div>
-    <div class="card"><h3><a href="/dna-testing">DNA Testing</a></h3><p>Test companies and how to use results.</p></div>
-    <div class="card"><h3><a href="/records">Records</a></h3><p>Census, birth, marriage, death, military, and more.</p></div>
-    <div class="card"><h3><a href="/tools-templates">Templates</a></h3><p>Family group sheets, pedigree charts, trees.</p></div>
-    <div class="card"><h3><a href="/gps">The GPS</a></h3><p>Genealogical Proof Standard explained.</p></div>
-  </div>
+  {rendered.map(({ post, slug, Content, dateStr }) => (
+    <article class="post">
+      <h1 class="post-title"><a href={`/blog/${slug}/`}>{post.data.title}</a></h1>
+      <p class="post-meta"><a href={`/blog/${slug}/`}>{dateStr}</a></p>
+      <Content />
+      <p class="post-footer"><a href={`/blog/${slug}/#comments-placeholder`}>Comment</a></p>
+    </article>
+  ))}
+  <p class="archive-link"><a href="/blog/">Older posts →</a></p>
 </BaseLayout>
