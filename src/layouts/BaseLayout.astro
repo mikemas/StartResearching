@@ -92,6 +92,17 @@ import Rail from '../components/Rail.astro';
       }
       nav.main-nav a:hover { color: var(--teal-hover); }
       nav.main-nav a.active { color: var(--teal); }
+      nav.main-nav summary {
+        display: block; padding: 0.2em 0; color: #030303; cursor: pointer;
+        list-style: none;
+        font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-weight: 500; font-size: 16px; line-height: 1.6em;
+      }
+      nav.main-nav summary::-webkit-details-marker { display: none; }
+      nav.main-nav summary::marker { content: ''; }
+      nav.main-nav summary:hover { color: var(--teal-hover); }
+      nav.main-nav summary.active { color: var(--teal); }
+      nav.main-nav .subnav { list-style: none; margin: 0; padding: 0; }
       .sidebar .secondary { margin-top: 26px; display: flex; flex-direction: column; }
       .sidebar .secondary a {
         display: block; padding: 0.2em 0; color: #7b6db0;
@@ -117,6 +128,9 @@ import Rail from '../components/Rail.astro';
       .post-footer { margin-top: 26px; font-size: 13px; }
       .post-footer a { color: #999; text-decoration: none; }
       .post-footer a:hover { color: var(--teal); }
+      .post-meta { color: #999; font-size: 13px; margin: 8px 0 24px; }
+      .post-meta a { color: #999; text-decoration: none; }
+      .post-meta a:hover { color: var(--teal); }
       .archive-link { margin: 20px 0 60px; }
 
       /* Article copy: proxima-nova 14px/1.6 per computed styles */

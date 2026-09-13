@@ -1,17 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import { getCollection } from 'astro:content';
-const slugOf = (e: { slug?: string; id: string }) => e.slug ?? e.id.replace(/\.mdx?$/, '');
-const posts = (await getCollection('blog')).sort((a,b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+import BlogStream from '../../components/BlogStream.astro';
 ---
 <BaseLayout title="Blog Posts" rail>
-  <h1>Blog Posts</h1>
-  <ul>
-    {posts.map((p) => (
-      <li>
-        <a href={`/blog/${slugOf(p)}/`}>{p.data.title}</a>
-        <br /><small>{p.data.pubDate.toDateString()}{p.data.description ? ` — ${p.data.description}` : ''}</small>
-      </li>
-    ))}
-  </ul>
+  <BlogStream />
 </BaseLayout>
