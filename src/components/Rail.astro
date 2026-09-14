@@ -1,4 +1,5 @@
 ---
+import AdUnit from './AdUnit.astro';
 const popular = [
   {
     title: 'Revealing Codes in the 1950 Census: Leave Blank Column A',
@@ -49,6 +50,8 @@ const popular = [
       allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
       title="Start Researching on Facebook"></iframe>
   </div>
+
+  <AdUnit slot="7715396381" />
 
   <h3 class="rail-heading"><u>Most Popular Blog Posts Ever:</u></h3>
   {popular.map((p) => (

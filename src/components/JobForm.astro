@@ -1,0 +1,22 @@
+---
+import { FORMSPREE_JOBS_ID } from '../config';
+const action = FORMSPREE_JOBS_ID
+  ? `https://formspree.io/f/${FORMSPREE_JOBS_ID}`
+  : '#jobs-form-inactive';
+---
+<form class="site-form" action={action} method="POST">
+  <input type="hidden" name="_subject" value="Genealogy job submission" />
+  <p class="form-row">
+    <label for="jf-title">Job Title *</label>
+    <input id="jf-title" name="job-title" type="text" required />
+  </p>
+  <p class="form-row">
+    <label for="jf-link">Website Link</label>
+    <input id="jf-link" name="website-link" type="url" placeholder="https://" />
+  </p>
+  <p class="form-row">
+    <label for="jf-notes">Additional Notes</label>
+    <textarea id="jf-notes" name="notes" rows="4"></textarea>
+  </p>
+  <p><button type="submit">Submit</button></p>
+</form>

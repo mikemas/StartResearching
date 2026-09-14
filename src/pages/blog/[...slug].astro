@@ -1,5 +1,8 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import Comments from '../../components/Comments.astro';
+import JobForm from '../../components/JobForm.astro';
+import AdUnit from '../../components/AdUnit.astro';
 import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -13,14 +16,14 @@ export async function getStaticPaths() {
 const { post } = Astro.props;
 const { Content } = await render(post);
 const slug = post.slug ?? post.id.replace(/\.mdx?$/, '');
-const dateStr = post.data.pubDate.toLocaleDateString('en-US', {
-  year: 'numeric', month: 'long', day: 'numeric',
-});
 ---
 <BaseLayout title={post.data.title} description={post.data.description} canonical={post.data.canonicalUrl}>
   <article class="post">
     <h1 class="post-title"><a href={`/blog/${slug}/`}>{post.data.title}</a></h1>
     <Content />
+    {post.data.jobForm && <JobForm />}
+    <AdUnit slot="5938621538" />
   </article>
+  <Comments slug={slug} title={post.data.title} />
   <p class="archive-link"><a href="/blog/">← All posts</a></p>
 </BaseLayout>

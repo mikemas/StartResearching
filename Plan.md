@@ -97,13 +97,13 @@ ads are AdSense + Media.net). Visual/content parity alone is NOT sufficient.
 
 | # | Feature | Live implementation | Replacement | Status |
 |---|---|---|---|---|
-| 1 | Blog comments (50 posts) | Squarespace native (Disqus shortname empty) | Disqus free embed below each post | To build — needs Sherri's Disqus shortname |
-| 2 | Contact form (name/email/message + address + phone → her email) | Squarespace backend | Identical UI, POST to Formspree | To build — needs her email confirmation |
-| 3 | Job-submit form (jobs post) | Same backend | Same Formspree form, flagged subject | To build |
-| 4 | Ads | AdSense `ca-pub-8442952758105071` (Auto Ads + responsive units) + Media.net `8CUEF9XKU` | Same IDs, matching placements + Auto Ads script | To build — Sherri must approve new domain in both dashboards |
+| 1 | Blog comments (50 posts) | Squarespace native (Disqus shortname empty) | Disqus free embed below each post | Built — activates when Sherri's shortname goes in `src/config.ts` |
+| 2 | Contact form (name/email/message + address + phone → her email) | Squarespace backend | Identical UI, POST to Formspree | Built — activates on Formspree ID + her email confirmation |
+| 3 | Job-submit form (jobs post) | Same backend | Same Formspree form, flagged subject | Built — same activation |
+| 4 | Ads | AdSense `ca-pub-8442952758105071` (Auto Ads + responsive units) + Media.net `8CUEF9XKU` | Same IDs, matching placements + Auto Ads script | Built — Sherri must approve new domain in both dashboards |
 | 5 | FB widget + follower count | FB Page plugin (live data) | Already live-data | Done |
-| 6 | Donate page body | Static text (importer saved empty stub) | Re-import real body | To build |
-| 7 | Analytics | GA4 `G-Z559SPN1JF` | Same ID (works immediately) | To build |
+| 6 | Donate page body | Static text (importer saved empty stub) | Re-import real body | Done (Donate Now button needs her Stripe payment link in `src/config.ts`) |
+| 7 | Analytics | GA4 `G-Z559SPN1JF` | Same ID (works immediately) | Done |
 | 8 | Social share buttons | Hidden by her own CSS | Stay hidden (faithful) | Done |
 | 9 | Search, Etsy links, sitemap/robots | — | Done | Done |
 

@@ -8,6 +8,7 @@ interface Props {
 const { title, description = 'Start Researching Genealogy — guides, records, and research tips.', rail = true, canonical } = Astro.props;
 import Nav from '../components/Nav.astro';
 import Rail from '../components/Rail.astro';
+import { ADSENSE_CLIENT, MEDIANET_CID, GA_ID } from '../config';
 ---
 <!doctype html>
 <html lang="en">
@@ -18,6 +19,16 @@ import Rail from '../components/Rail.astro';
     {canonical && <link rel="canonical" href={canonical} />}
     <title>{title} | Start Researching</title>
     <link rel="icon" href="/favicon.ico" sizes="any" />
+    <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}`} crossorigin="anonymous"></script>
+    <script async src={`https://contextual.media.net/dmedianet.js?cid=${MEDIANET_CID}`}></script>
+    <script>window._mNHandle = window._mNHandle || {}; window._mNHandle.queue = window._mNHandle.queue || [];</script>
+    <script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}></script>
+    <script is:inline define:vars={{ gaId: GA_ID }}>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', gaId);
+    </script>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link

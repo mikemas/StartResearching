@@ -1,5 +1,6 @@
 ---
 import { getCollection, render } from 'astro:content';
+import AdUnit from './AdUnit.astro';
 
 const posts = (await getCollection('blog')).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
@@ -20,7 +21,8 @@ const rendered = await Promise.all(
   <article class="post">
     <h1 class="post-title"><a href={`/blog/${slug}/`}>{post.data.title}</a></h1>
     <p class="post-meta"><a href={`/blog/${slug}/`}>{dateStr}</a></p>
-    <Content />
-    <p class="post-footer"><a href={`/blog/${slug}/#comments-placeholder`}>Comment</a></p>
+      <Content />
+      <AdUnit slot="5938621538" />
+      <p class="post-footer"><a href={`/blog/${slug}/#comments-placeholder`}>Comment</a></p>
   </article>
 ))}

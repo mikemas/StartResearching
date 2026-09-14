@@ -1,0 +1,28 @@
+---
+import { DISQUS_SHORTNAME } from '../config';
+interface Props {
+  slug: string;
+  title: string;
+}
+const { slug, title } = Astro.props;
+const pageUrl = `https://www.startresearching.com/blog/${slug}/`;
+---
+{DISQUS_SHORTNAME ? (
+  <div id="disqus_thread"></div>
+  <script is:inline define:vars={{ shortname: DISQUS_SHORTNAME, pageUrl, identifier: slug, title }}>
+    var disqus_config = function () {
+      this.page.url = pageUrl;
+      this.page.identifier = identifier;
+      this.page.title = title;
+    };
+    (function () {
+      var d = document, s = d.createElement('script');
+      s.src = 'https://' + shortname + '.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+  <noscript>Please enable JavaScript to view the comments.</noscript>
+) : (
+  <!-- comments inactive: set DISQUS_SHORTNAME in src/config.ts -->
+)}

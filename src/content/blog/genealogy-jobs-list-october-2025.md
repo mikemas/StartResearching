@@ -5,6 +5,7 @@ description: "by Sherri Mastrangelo, 4 October 2025 Start Researching makes no c
 canonicalUrl: "https://www.startresearching.com/blog/genealogy-jobs-list-october-2025"
 
 tags: []
+jobForm: true
 ---
 <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1759615562172" id="item-68e196add993755a67b08d18"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1759619773537_5800"><div class="sqs-block-content">
 <div class="sqs-html-content" data-sqsp-text-block-content>

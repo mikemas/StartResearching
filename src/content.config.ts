@@ -10,6 +10,7 @@ const blog = defineCollection({
     draft: z.boolean().optional(),
     canonicalUrl: z.string().url().optional(),
     tags: z.array(z.string()).optional(),
+    jobForm: z.boolean().optional(),
   }),
 });
 
@@ -19,6 +20,8 @@ const guides = defineCollection({
     title: z.string(),
     description: z.string().optional(),
     canonicalUrl: z.string().url().optional(),
+    contactForm: z.boolean().optional(),
+    donateButton: z.boolean().optional(),
   }),
 });
 

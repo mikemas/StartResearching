@@ -1,0 +1,15 @@
+---
+import { DONATE_URL } from '../config';
+---
+{DONATE_URL ? (
+  <p><a class="donate-button" href={DONATE_URL}>Donate Now</a></p>
+) : (
+  <!-- donate inactive: set DONATE_URL (Stripe payment link) in src/config.ts -->
+)}
+<style is:global>
+  .donate-button {
+    display: inline-block; background: #222; color: #fff !important;
+    padding: 12px 34px; text-decoration: none; font-size: 15px;
+  }
+  .donate-button:hover { background: #3bc8de; }
+</style>

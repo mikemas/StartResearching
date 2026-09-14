@@ -1,0 +1,41 @@
+---
+import { FORMSPREE_CONTACT_ID } from '../config';
+const action = FORMSPREE_CONTACT_ID
+  ? `https://formspree.io/f/${FORMSPREE_CONTACT_ID}`
+  : '#contact-form-inactive';
+---
+<form class="site-form" action={action} method="POST">
+  <p class="form-row">
+    <label for="cf-name">Name *</label>
+    <input id="cf-name" name="name" type="text" required autocomplete="name" />
+  </p>
+  <p class="form-row">
+    <label for="cf-email">Email *</label>
+    <input id="cf-email" name="email" type="email" required autocomplete="email" />
+    <small>(Only used to communicate with you - not saved by me)</small>
+  </p>
+  <p class="form-row">
+    <label for="cf-subject">Subject *</label>
+    <input id="cf-subject" name="subject" type="text" required />
+  </p>
+  <p class="form-row">
+    <label for="cf-message">Message *</label>
+    <textarea id="cf-message" name="message" rows="6" required></textarea>
+  </p>
+  <p><button type="submit">Submit</button></p>
+</form>
+<style is:global>
+  .site-form { max-width: 560px; }
+  .site-form .form-row { margin: 0 0 18px; }
+  .site-form label { display: block; font-size: 14px; margin-bottom: 6px; }
+  .site-form small { display: block; color: #888; font-size: 12px; margin-top: 4px; }
+  .site-form input, .site-form textarea {
+    width: 100%; border: 1px solid #c9c9c9; padding: 10px 12px;
+    font: inherit; font-size: 15px; border-radius: 0; background: #fff;
+  }
+  .site-form button {
+    font: inherit; font-size: 15px; padding: 10px 28px; cursor: pointer;
+    background: #222; color: #fff; border: 1px solid #222;
+  }
+  .site-form button:hover { background: #3bc8de; border-color: #3bc8de; }
+</style>

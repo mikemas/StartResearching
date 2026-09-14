@@ -1,5 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import ContactForm from '../components/ContactForm.astro';
+import DonateButton from '../components/DonateButton.astro';
 import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -18,5 +20,7 @@ const { Content } = await render(guide);
   <article class="post">
     <h1 class="post-title">{guide.data.title}</h1>
     <Content />
+    {guide.data.contactForm && <ContactForm />}
+    {guide.data.donateButton && <DonateButton />}
   </article>
 </BaseLayout>
