@@ -8,7 +8,9 @@ Flow: test locally → test on a free staging URL → point the domain over only
 
 ## 1. Goal
 
-Replace Squarespace with a fast, free-hosted static site, keeping:
+**Full replacement of startresearching.com — every page and every functional block working before DNS cutover.** Not just content and look: comments, contact/job forms, ads, analytics, search, and social widgets must all work on the new site. Nothing launch-blocking may be skipped; any cut feature needs explicit sign-off. Section 6 is the launch gate.
+
+Keeping:
 - Same URL: `https://www.startresearching.com/` (no change for visitors — see FAQ)
 - Same sections: 10 Steps, Blog, Databases, DNA Testing, Records, Templates, GPS, etc.
 - Same content: ~204 pages (from `sitemap.xml`) + blog RSS already staged in `tmp/`
@@ -78,7 +80,32 @@ What to verify on staging: same checks as local (Section 2), plus phone/mobile l
 
 Recommendation: **Cloudflare Pages** for production, **GitHub Pages** as zero-config alternative. Both keep `https://www.startresearching.com/`.
 
-## 5. Go-live checklist (only after staging is approved)
+## 5. Go-live checklist (only after staging is approved AND section 6 is all-Done)
+
+- [x] Content import done (50 posts + 266 guide pages), top posts + images spot-checked
+- [ ] Section 6 functionality gate all-Done (or explicit cuts signed off)
+- [ ] Add redirects for old Squarespace paths (`/10-steps`, `/databases/*`, etc.)
+- [ ] Lower DNS TTL to 5 min a day before cutover
+- [ ] Point `www` CNAME + apex records to new host, enforce HTTPS
+- [ ] Verify on the real domain: homepage, blog post, guide, Etsy link, contact, sitemap.xml, robots.txt
+- [ ] Keep Squarespace live 7–14 days, then downgrade. Rollback = flip DNS back.
+
+## 6. Functionality gate — all rows must be Done or explicitly cut before launch
+
+Audited from the live site (comments are Squarespace-native, forms post to Squarespace,
+ads are AdSense + Media.net). Visual/content parity alone is NOT sufficient.
+
+| # | Feature | Live implementation | Replacement | Status |
+|---|---|---|---|---|
+| 1 | Blog comments (50 posts) | Squarespace native (Disqus shortname empty) | Disqus free embed below each post | To build — needs Sherri's Disqus shortname |
+| 2 | Contact form (name/email/message + address + phone → her email) | Squarespace backend | Identical UI, POST to Formspree | To build — needs her email confirmation |
+| 3 | Job-submit form (jobs post) | Same backend | Same Formspree form, flagged subject | To build |
+| 4 | Ads | AdSense `ca-pub-8442952758105071` (Auto Ads + responsive units) + Media.net `8CUEF9XKU` | Same IDs, matching placements + Auto Ads script | To build — Sherri must approve new domain in both dashboards |
+| 5 | FB widget + follower count | FB Page plugin (live data) | Already live-data | Done |
+| 6 | Donate page body | Static text (importer saved empty stub) | Re-import real body | To build |
+| 7 | Analytics | GA4 `G-Z559SPN1JF` | Same ID (works immediately) | To build |
+| 8 | Social share buttons | Hidden by her own CSS | Stay hidden (faithful) | Done |
+| 9 | Search, Etsy links, sitemap/robots | — | Done | Done |
 
 - [x] Content import done (50 posts + 266 guide pages), top posts + images spot-checked
 - [ ] Add redirects for old Squarespace paths (`/10-steps`, `/databases/*`, etc.)
@@ -87,7 +114,7 @@ Recommendation: **Cloudflare Pages** for production, **GitHub Pages** as zero-co
 - [ ] Verify on the real domain: homepage, blog post, guide, Etsy link, contact, sitemap.xml, robots.txt
 - [ ] Keep Squarespace live 7–14 days, then downgrade. Rollback = flip DNS back.
 
-## 6. FAQ
+## 7. FAQ
 
 **Will the URL still say https://www.startresearching.com/? Yes.**
 All hosts above support custom domains with free HTTPS. Visitors see the same address — nothing changes in the address bar.
@@ -98,7 +125,7 @@ All hosts above support custom domains with free HTTPS. Visitors see the same ad
 3. The host auto-issues SSL. Propagation takes 5 min – 24 hr.
 
 **What does Sherri need to do?**
-Approve the staging preview, then at cutover time provide registrar/DNS access (Squarespace Domains login). Nothing before that.
+Approve the staging preview, then at cutover time provide registrar/DNS access (Squarespace Domains login). Before that, three sign-ups she owns: Disqus shortname (for comments), Formspree email confirmation (contact/job forms), and domain approval in AdSense + Media.net dashboards (or ads serve blank).
 
 **Do we keep paying Squarespace?**
 Keep it until the new site is verified on the real domain, then downgrade/cancel hosting. Domain renewal itself stays as-is (Tucows, expires 2027-01-10).
@@ -109,7 +136,7 @@ All 346 images are self-hosted in `public/images/` — zero dependence on Square
 **Will Google rankings break?**
 Mitigated by preserving `/blog/<slug>` URLs plus redirects for changed paths. Staging review includes checking top posts.
 
-## 7. Decision needed from Sherri
+## 8. Decision needed from Sherri
 
 1. Approve this plan + staging preview?
 2. Preferred host: Cloudflare Pages (recommended) or GitHub Pages?
