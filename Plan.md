@@ -46,7 +46,7 @@ Notes:
 - Don't just double-click files in `dist/` — links and assets assume a server, so use `npm run preview` instead.
 - Nothing you do locally affects the live Squarespace site.
 
-What to check locally: homepage loads, nav links work, `/10-steps/` guide renders, `/blog/` lists posts, a blog post renders, Etsy/Contact links present.
+What to check locally: homepage stream loads with dates/images, nav folders expand, `/blog/` matches homepage, a blog post + a guide render, contact form + search work, no console errors.
 
 ## 3. Test on Hosted Site (staging — before touching the domain)
 
@@ -98,7 +98,7 @@ ads are AdSense + Media.net). Visual/content parity alone is NOT sufficient.
 | # | Feature | Live implementation | Replacement | Status |
 |---|---|---|---|---|
 | 1 | Blog comments (50 posts) | Squarespace native (Disqus shortname empty) | Disqus free embed below each post | Built — activates when Sherri's shortname goes in `src/config.ts` |
-| 2 | Contact form (name/email/message + address + phone → her email) | Squarespace backend | Identical UI, POST to Formspree | Built — activates on Formspree ID + her email confirmation |
+| 2 | Contact form (Name/Email/Subject/Message, all required → her email) | Squarespace backend | Identical UI, POST to Formspree | Built — activates on Formspree ID + her email confirmation |
 | 3 | Job-submit form (jobs post) | Same backend | Same Formspree form, flagged subject | Built — same activation |
 | 4 | Ads | AdSense `ca-pub-8442952758105071` (Auto Ads + responsive units) + Media.net `8CUEF9XKU` | Same IDs, matching placements + Auto Ads script | Built — Sherri must approve new domain in both dashboards |
 | 5 | FB widget + follower count | FB Page plugin (live data) | Already live-data | Done |
@@ -107,14 +107,19 @@ ads are AdSense + Media.net). Visual/content parity alone is NOT sufficient.
 | 8 | Social share buttons | Hidden by her own CSS | Stay hidden (faithful) | Done |
 | 9 | Search, Etsy links, sitemap/robots | — | Done | Done |
 
-- [x] Content import done (50 posts + 266 guide pages), top posts + images spot-checked
-- [ ] Add redirects for old Squarespace paths (`/10-steps`, `/databases/*`, etc.)
-- [ ] Lower DNS TTL to 5 min a day before cutover
-- [ ] Point `www` CNAME + apex records to new host, enforce HTTPS
-- [ ] Verify on the real domain: homepage, blog post, guide, Etsy link, contact, sitemap.xml, robots.txt
-- [ ] Keep Squarespace live 7–14 days, then downgrade. Rollback = flip DNS back.
+## 7. Sherri's action items (only she can do these)
 
-## 7. FAQ
+Ordered by when each is needed. Everything else is on Mike.
+
+- [ ] **Disqus account** — sign up free at disqus.com, add the site, send Mike the shortname → goes in `src/config.ts`, comments go live on all 50 posts. (Blocks gate #1)
+- [ ] **Formspree forms** — Mike will send two confirmation emails to her address; she clicks confirm in each → contact + job forms start delivering. (Blocks gate #2–3)
+- [ ] **Stripe payment link** — create a payment link in her Stripe dashboard, send Mike the URL → Donate Now button appears. (Blocks gate #6 button; page text is already live)
+- [ ] **AdSense + Media.net domain approval** — in both dashboards, add/approve the new domain (staging first, then `www.startresearching.com` at cutover) or ads serve blank. (Blocks gate #4 revenue)
+- [ ] **Staging approval** — review `https://mikemas.github.io/StartResearching/` and approve the look/content.
+- [ ] **Host choice** — Cloudflare Pages (recommended) or GitHub Pages for the custom domain.
+- [ ] **Cutover day** — provide Squarespace Domains login for the DNS change; keep Squarespace paid until the new domain is verified, then downgrade.
+
+## 8. FAQ
 
 **Will the URL still say https://www.startresearching.com/? Yes.**
 All hosts above support custom domains with free HTTPS. Visitors see the same address — nothing changes in the address bar.
@@ -136,26 +141,23 @@ All 346 images are self-hosted in `public/images/` — zero dependence on Square
 **Will Google rankings break?**
 Mitigated by preserving `/blog/<slug>` URLs plus redirects for changed paths. Staging review includes checking top posts.
 
-## 8. Decision needed from Sherri
+## 9. Open decisions (all tracked in section 7)
 
-1. Approve this plan + staging preview?
-2. Preferred host: Cloudflare Pages (recommended) or GitHub Pages?
-3. OK to proceed with full blog import before any DNS change?
+1. Staging approved?
+2. Host: Cloudflare Pages or GitHub Pages?
+3. Any gate row to explicitly cut instead of build?
 
 ## Appendix A — Build status
 
-Moved here from the old "What exists now" section; will be removed when done.
-
-- [x] Astro 5 scaffold builds clean (`npm run build` → `dist/`): `/`, `/10-steps/`, `/blog/`, `/blog/welcome/`
-- [x] Nav mirrors live Squarespace menu (`src/components/Nav.astro`)
-- [x] Content collections wired (`src/content/blog/*.md`, `src/content/guides/*.md`)
-- [x] `content-inventory.txt` — 204 live URLs from `sitemap.xml`
-- [x] Blog RSS staged in `tmp/*.xml` (~295KB) via `npm run import:squarespace`
-- [x] Local preview verified (`npm run preview`, 200 on `/` and `/blog/`)
-- [x] GitHub repo created: https://github.com/mikemas/StartResearching
-- [x] Parse RSS → Markdown posts, preserve slugs (50 published posts imported)
-- [x] Add Pages deploy workflow + staging URL (Pages enabled, https://mikemas.github.io/StartResearching/ deploying)
-- [x] Images self-hosted (346 files in `public/images/`, render sweep: 0 escaped tags on all pages)
+- [x] Astro 5 scaffold, builds clean (`npm run build` → `dist/`, 321 pages)
+- [x] Content: 50 blog posts + 266 guide pages, slugs preserved, canonical links set
+- [x] Images self-hosted (346 files) + proxima-nova self-hosted (16 files); logo + favicon from live site
+- [x] Theme matches Wells template (sidebar geometry, Work Sans body, brand teal, gallery/summary CSS)
+- [x] Responsive: desktop 3-column, rail wraps ≤1100px, stacked + Menu toggle ≤800px, footer sitemap nav
+- [x] Nav folders expand (Helpful Guides / Improving Skills); `/` and `/blog` identical streams; search + search index
+- [x] Functionality built: Disqus slot, contact/job forms, AdSense + Media.net + GA4, donate body
+- [x] GitHub repo + Pages deploy workflow: https://github.com/mikemas/StartResearching
+- [ ] Sherri activations (section 7): Disqus, Formspree ×2, Stripe link, ad domain approvals
 - [ ] Redirects for old Squarespace paths
 - [ ] Staging review + Sherri approval
 - [ ] DNS cutover, verify, downgrade Squarespace
